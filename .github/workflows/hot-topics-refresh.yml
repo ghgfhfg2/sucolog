@@ -2,7 +2,7 @@ name: Refresh hot topics data
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # every 30 minutes (UTC)
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
