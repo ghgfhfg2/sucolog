@@ -3,13 +3,18 @@ layout: default
 title: 홈
 ---
 
-## 최신 글
+<section class="section-head">
+  <h2>최신 이슈 브리핑</h2>
+  <p>주 3회, 지금 가장 중요한 경제 이슈만 골라 쉽게 정리합니다.</p>
+</section>
 
-<ul>
+<section class="post-grid">
 {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <small>({{ post.date | date: "%Y-%m-%d" }})</small>
-  </li>
+  <article class="post-card">
+    <p class="card-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+    <a class="read-more" href="{{ post.url | relative_url }}">자세히 보기 →</a>
+  </article>
 {% endfor %}
-</ul>
+</section>
