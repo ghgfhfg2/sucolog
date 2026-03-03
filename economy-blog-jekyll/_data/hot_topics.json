@@ -1,93 +1,103 @@
 {
-  "generated_at": "2026-03-03T06:50:44.256393+00:00",
-  "source_count": 3,
-  "article_count": 298,
+  "generated_at": "2026-03-03T07:03:03.442944+00:00",
+  "source_count": 4,
+  "article_count": 380,
   "top_keywords": [
     {
-      "keyword": "nbsp",
-      "score": 1036.32
+      "keyword": "환율",
+      "score": 246.25
     },
     {
-      "keyword": "font",
-      "score": 1036.32
+      "keyword": "유가",
+      "score": 193.02
     },
     {
-      "keyword": "com",
-      "score": 536.57
+      "keyword": "수출",
+      "score": 158.5
     },
     {
-      "keyword": "href",
-      "score": 518.16
+      "keyword": "이란",
+      "score": 156.06
     },
     {
-      "keyword": "https",
-      "score": 518.16
+      "keyword": "달러",
+      "score": 132.82
     },
     {
-      "keyword": "news",
-      "score": 518.16
+      "keyword": "중동",
+      "score": 125.74
     },
     {
-      "keyword": "google",
-      "score": 518.16
+      "keyword": "급등",
+      "score": 121.11
     },
     {
-      "keyword": "rss",
-      "score": 518.16
+      "keyword": "daum",
+      "score": 114.28
     },
     {
-      "keyword": "articles",
-      "score": 518.16
+      "keyword": "net",
+      "score": 114.28
     },
     {
-      "keyword": "oc",
-      "score": 518.16
+      "keyword": "기준금리",
+      "score": 76.68
     },
     {
-      "keyword": "target",
-      "score": 518.16
+      "keyword": "코스피",
+      "score": 70.59
     },
     {
-      "keyword": "blank",
-      "score": 518.16
+      "keyword": "호르무즈",
+      "score": 64.82
     }
   ],
   "hot_topics": [
     {
-      "keyword": "nbsp",
-      "score": 1036.32,
+      "keyword": "환율",
+      "score": 246.25,
       "articles": [
+        {
+          "title": "[원자재 시황] 이란, 호르무즈 해협 사실상 봉쇄…'유가·금값·환율' 모두 급등 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wb09hSlY2eWNEd0pIM19kaGtjT0dWOThDalZOcEhHSm5uY2xUX0JTOWpnZzJBejBYWTd1Y2ZsWkhnLUNyUGE5ak44S0hLS2RkLU5EeGl4TXdIOTNkempTcDdiNnlfaGttQUxpdWoxd1g?oc=5",
+          "published_at": "2026-03-03T06:55:09+00:00"
+        },
         {
           "title": "[이란 사태] 전쟁 장기화 가능성 촉각…유가·환율 급등 '물가 초비상' - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1hETzAyS0p2Y1I2TVgySzVHVlF4ZmpJUGVicG1oNjlYdG9ud3ZWVDQwcVJhNFJCZmdGU2xlZGRzSjM2aGg3M19vR1hGUDNNVDROc0N3eFI1dVU2b0lEdUxSRThXOWQxQThXTnRZWHA1LXg4MU53S29uSzVwZXJQZW1DVUM?oc=5",
           "published_at": "2026-03-03T06:47:58+00:00"
         },
         {
-          "title": "미·이란 충돌 여파 유가 상승⋯생활 물가 상승 우려감 고조 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sNnhDb3piZVh3U1RmaE15bGxlQjJvTFVVUXdadjNfQzFNSGpDek1tSnZBYWdkUXBpcmJFZUxjQ2tIWktpSVQ0bC1ZaUs2MkU?oc=5",
-          "published_at": "2026-03-03T06:45:00+00:00"
+          "title": "원·달러 환율, 26.1원 오른 1466.1원 - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1scHNqd0RobzFMZW5qZkJXY252TDJWbnNzZ2Nra2ktc3Awb3dXZXQ1MERYelNYWFNRNXk1TFhGTHZhQVRfNGRQY09QdjNvUEFFY1dsMmJrQ2dnYTk1UmlXMjNuVWZobGFyWkZUVDdJWUo?oc=5",
+          "published_at": "2026-03-03T06:41:59+00:00"
         },
         {
-          "title": "[그래픽] 원/달러 환율 추이 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wbXY3N29MQ2dBTU10dGdpRVlKTTFkUkdDdmhWM3FETlBNUURUV3EtTldrbWNhWGRoZmpmTEpJQUc0OUF4czQ1R3l4ZVJqSkk?oc=5",
-          "published_at": "2026-03-03T06:44:54+00:00"
+          "title": "[외환마감] 원·달러 환율 1466.1원···26.4원↑ - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWU1RpMU1PZ3BKUFNaSHp6RjlxdGJ3aXdkNWVYcmxXYUdLM2poXzhyME15UldKX0xrbzgtVkdDbEM1X2VnWXh5YWxYUFFuOU5hQU1USzQzeFk5RENfNVpqY0owQnFtZzlGOGc?oc=5",
+          "published_at": "2026-03-03T06:37:36+00:00"
         },
         {
-          "title": "채권 팔아 기름사는 기관투자자들...회사채 자금조달 부담 가중 - mt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTlFPY05tRzhDa0R2NlZTZFpsRFNPLU5GaWl1TlJkLVNRc2d6RjZPLVZ6ZlZvcnBhSjg2cDA0Nmdkdm96U3NqTXBzNEFYdjRvVW0ycnN3VnBDRjVPQWVoSXBuZWJHOGhH?oc=5",
-          "published_at": "2026-03-03T06:44:12+00:00"
-        },
-        {
-          "title": "중동 사태 글로벌 경제에 여파 '모 아니면 도', 군사 충돌 장기화 여부에 달려 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdUxQckwxb0FBUlgyaDc5YlN2S3ZTTE5Odm41dDlKU2RXME5EeW1VRDF1U2RqSHNsZkpHb3pmVWp1M0xtRS11SjRuQ2UxU3FDYTdscGp2UTBRWGg3ZnJ1NWdUUVNJdXptamxKeDNtb3NLYU0?oc=5",
-          "published_at": "2026-03-03T06:42:52+00:00"
+          "title": "[속보] 원·달러 환율, 26.4원 오른 1466.1원 마감 … 1470원 턱밑 추격 - 뉴데일리 경제",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42QTlEd3o5V2lzV2d3eW42N2xUNUFyNlhhRFNFVmE2Sm9kT2FsSEZCdHFuME9rNDlBa3VUTHNzZTVNNktDdTRXaWRLVjJGWDV5LU02SUI3M0t2T2YyMG54Y2ZHelNXM0cxUmdoNXRjZ0EwNVdsb0VGNnlWVQ?oc=5",
+          "published_at": "2026-03-03T06:36:05+00:00"
         }
       ]
     },
     {
-      "keyword": "font",
-      "score": 1036.32,
+      "keyword": "유가",
+      "score": 193.02,
       "articles": [
+        {
+          "title": "[원자재 시황] 이란, 호르무즈 해협 사실상 봉쇄…'유가·금값·환율' 모두 급등 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wb09hSlY2eWNEd0pIM19kaGtjT0dWOThDalZOcEhHSm5uY2xUX0JTOWpnZzJBejBYWTd1Y2ZsWkhnLUNyUGE5ak44S0hLS2RkLU5EeGl4TXdIOTNkempTcDdiNnlfaGttQUxpdWoxd1g?oc=5",
+          "published_at": "2026-03-03T06:55:09+00:00"
+        },
+        {
+          "title": "\"유가 배럴당 100달러 되면 올해 韓 경제 성장률 0.3%p 하락\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMDNibXFmU1d1TmJiSjBDdFAxdHhvVUp6T21oQ3kzVVlTSWZYT25TMHlrSUhudmJzcGR4SGxxYlRRUjlCa2xTQTN4N2lPTHM?oc=5",
+          "published_at": "2026-03-03T06:51:01+00:00"
+        },
         {
           "title": "[이란 사태] 전쟁 장기화 가능성 촉각…유가·환율 급등 '물가 초비상' - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1hETzAyS0p2Y1I2TVgySzVHVlF4ZmpJUGVicG1oNjlYdG9ud3ZWVDQwcVJhNFJCZmdGU2xlZGRzSjM2aGg3M19vR1hGUDNNVDROc0N3eFI1dVU2b0lEdUxSRThXOWQxQThXTnRZWHA1LXg4MU53S29uSzVwZXJQZW1DVUM?oc=5",
@@ -99,123 +109,180 @@
           "published_at": "2026-03-03T06:45:00+00:00"
         },
         {
-          "title": "[그래픽] 원/달러 환율 추이 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wbXY3N29MQ2dBTU10dGdpRVlKTTFkUkdDdmhWM3FETlBNUURUV3EtTldrbWNhWGRoZmpmTEpJQUc0OUF4czQ1R3l4ZVJqSkk?oc=5",
-          "published_at": "2026-03-03T06:44:54+00:00"
-        },
-        {
-          "title": "채권 팔아 기름사는 기관투자자들...회사채 자금조달 부담 가중 - mt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTlFPY05tRzhDa0R2NlZTZFpsRFNPLU5GaWl1TlJkLVNRc2d6RjZPLVZ6ZlZvcnBhSjg2cDA0Nmdkdm96U3NqTXBzNEFYdjRvVW0ycnN3VnBDRjVPQWVoSXBuZWJHOGhH?oc=5",
-          "published_at": "2026-03-03T06:44:12+00:00"
-        },
-        {
-          "title": "중동 사태 글로벌 경제에 여파 '모 아니면 도', 군사 충돌 장기화 여부에 달려 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdUxQckwxb0FBUlgyaDc5YlN2S3ZTTE5Odm41dDlKU2RXME5EeW1VRDF1U2RqSHNsZkpHb3pmVWp1M0xtRS11SjRuQ2UxU3FDYTdscGp2UTBRWGg3ZnJ1NWdUUVNJdXptamxKeDNtb3NLYU0?oc=5",
-          "published_at": "2026-03-03T06:42:52+00:00"
+          "title": "亞 오후 장중...아시아 증시 '출렁', 유럽 선물 '하락', 유가 '껑충' - 초이스경제",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54Vy1DSWlGRnpKOVdMc3F2MHB5TWctY044TzRvcjE1QUJoaVVjaERCVkR5MVdpX3lwS2RYSHk1RWpZaC13RXBfTHlNYXZsNGxzdURLQ0NkSWhranU1bE5LWG1EN3ZBX1NFaHd2cXpVMNIBc0FVX3lxTE03WjdJYzZaMWNqNTNaTU5EMjNqaGhUYktFT1UtT3B2OFlRbFFrQXlsRkpQVnFhWGVRNWljUzZ2T3BSRXkyR3BWVy1ONWF6M0lZUHJac0o1azU3LXRoZzR6WHYxSFEybUZOUmJvZGZReWdzU2c?oc=5",
+          "published_at": "2026-03-03T06:38:31+00:00"
         }
       ]
     },
     {
-      "keyword": "com",
-      "score": 536.57,
+      "keyword": "수출",
+      "score": 158.5,
       "articles": [
         {
-          "title": "[이란 사태] 전쟁 장기화 가능성 촉각…유가·환율 급등 '물가 초비상' - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1hETzAyS0p2Y1I2TVgySzVHVlF4ZmpJUGVicG1oNjlYdG9ud3ZWVDQwcVJhNFJCZmdGU2xlZGRzSjM2aGg3M19vR1hGUDNNVDROc0N3eFI1dVU2b0lEdUxSRThXOWQxQThXTnRZWHA1LXg4MU53S29uSzVwZXJQZW1DVUM?oc=5",
-          "published_at": "2026-03-03T06:47:58+00:00"
+          "title": "[위클리오늘] 강원도, 2030년까지 수출 40억 달러 시대 연다… 4대 전략 중점 추진 - 위클리오늘",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50MHE4UDNCRDJCQ0JXaGdMS0xDQ01PdGswZlhxUWVwWUlHdTZueF9Wd1U4b29JNGxleVBwNHpKY2lkQjFYZzR0RjdiSUdvNWp2cXNwQWF3NVhiR3BCRTkyeFpveHdaVjRVOUdDSkNR?oc=5",
+          "published_at": "2026-03-03T06:51:44+00:00"
         },
         {
-          "title": "미·이란 충돌 여파 유가 상승⋯생활 물가 상승 우려감 고조 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sNnhDb3piZVh3U1RmaE15bGxlQjJvTFVVUXdadjNfQzFNSGpDek1tSnZBYWdkUXBpcmJFZUxjQ2tIWktpSVQ0bC1ZaUs2MkU?oc=5",
-          "published_at": "2026-03-03T06:45:00+00:00"
+          "title": "기획처 “수출기업 해운물류·유류비 지원 위해 예산집행 점검” - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VVU1qbVFpc2RyWWZMNVdzWDh3b0dxOWNtWDF4ejlYWjFodDB2cDNVN2xYSjhRZ0I5WkJxRWx5Qk1LS01nMHJKUko1UVRVYjZT?oc=5",
+          "published_at": "2026-03-03T06:50:56+00:00"
         },
         {
-          "title": "[그래픽] 원/달러 환율 추이 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wbXY3N29MQ2dBTU10dGdpRVlKTTFkUkdDdmhWM3FETlBNUURUV3EtTldrbWNhWGRoZmpmTEpJQUc0OUF4czQ1R3l4ZVJqSkk?oc=5",
-          "published_at": "2026-03-03T06:44:54+00:00"
+          "title": "전북도, 중동발 '경제 위기' 정면 돌파…수출기업 보호 총력 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGLVJ5cVV0X0FBU28ybE5LV0xXdnJ0V0hncTYwRUxXZ0psMTNVYlNwV3o1MzVDUWZEYl9MOW5sQzFHTWxhS096ZVE4ZWpWM0dUclY4cg?oc=5",
+          "published_at": "2026-03-03T06:39:26+00:00"
         },
         {
-          "title": "채권 팔아 기름사는 기관투자자들...회사채 자금조달 부담 가중 - mt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTlFPY05tRzhDa0R2NlZTZFpsRFNPLU5GaWl1TlJkLVNRc2d6RjZPLVZ6ZlZvcnBhSjg2cDA0Nmdkdm96U3NqTXBzNEFYdjRvVW0ycnN3VnBDRjVPQWVoSXBuZWJHOGhH?oc=5",
-          "published_at": "2026-03-03T06:44:12+00:00"
+          "title": "한전KDN, 한국무역협회 등 5개 기관과 수출 물류·운송 업무협약 - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ldVNydF81RTZuWE4tNzRCY0d0T0x2ZC1EdWEzZXROWFpPd1VSNy1oNDFxaTM2Q3B6YkQ2X1NtR2RWenJBbzd4UDRJMVQ5MTlZQk9BT2RsM2cyNjhNX0JyRGpB?oc=5",
+          "published_at": "2026-03-03T06:36:21+00:00"
         },
         {
-          "title": "중동 사태 글로벌 경제에 여파 '모 아니면 도', 군사 충돌 장기화 여부에 달려 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdUxQckwxb0FBUlgyaDc5YlN2S3ZTTE5Odm41dDlKU2RXME5EeW1VRDF1U2RqSHNsZkpHb3pmVWp1M0xtRS11SjRuQ2UxU3FDYTdscGp2UTBRWGg3ZnJ1NWdUUVNJdXptamxKeDNtb3NLYU0?oc=5",
-          "published_at": "2026-03-03T06:42:52+00:00"
+          "title": "전북자치도, 중동발 '경제 위기' 정면 돌파.. 수출기업 보호에 '총력' - 전북제일신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sZHRZdmQ0STFEOFc2aThLQWlIeHp1MDJYMG51LTBBVFI4ay14TWNIUURnVlBJR2lsUFNpNkNOVXJrNER3bWVsQ2hVRzFHWWVqMHE2VFJqU1hEOGhxZ2x4ZXljcFU0VFVFcXc?oc=5",
+          "published_at": "2026-03-03T06:35:21+00:00"
         }
       ]
     },
     {
-      "keyword": "href",
-      "score": 518.16,
+      "keyword": "이란",
+      "score": 156.06,
       "articles": [
+        {
+          "title": "“달러 뛰고 금리 변수까지”...이란 쇼크에 정부·금융권 100兆 방어선 - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnZzZDUnRFVmxnc0dKeGZUaWxLZHdISGtBWUVRRzJGRGN0MzZZQjFUM1d2YXI4RjRwQzdZbXdHaHd3M0lGc3NWMmNyYzZWeTFHMk1lTWlZczRJLXVFOFEwNGk2TQ?oc=5",
+          "published_at": "2026-03-03T06:56:31+00:00"
+        },
+        {
+          "title": "이란 사태에 외평채 가산금리 3~4bp 상승…“중국·일본보다 상승폭 낮아” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50d0YzRU15d0JyVTJhWEJCSENDaU9jdnJvdngtY0YwR1kyQnhob1JCOEE3ckkyWUNLc24wMmYxVHZGTnh0dWp1YWJKeV9mM3VCSkpYa05aSG9zck5pQVYtMlhLV3FjUQ?oc=5",
+          "published_at": "2026-03-03T06:56:00+00:00"
+        },
+        {
+          "title": "[원자재 시황] 이란, 호르무즈 해협 사실상 봉쇄…'유가·금값·환율' 모두 급등 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wb09hSlY2eWNEd0pIM19kaGtjT0dWOThDalZOcEhHSm5uY2xUX0JTOWpnZzJBejBYWTd1Y2ZsWkhnLUNyUGE5ak44S0hLS2RkLU5EeGl4TXdIOTNkempTcDdiNnlfaGttQUxpdWoxd1g?oc=5",
+          "published_at": "2026-03-03T06:55:09+00:00"
+        },
+        {
+          "title": "모건스탠리 \"이란 전쟁에 한국 등 아시아국 경제 위험 노출\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YWGI5VlJxTU5XOVcxNnY2SG5FMjJTMUlBWnVfdlFBMXZnZVl0Nk5jeGFEYTFPTXFhVFVRekl3RXNvcElLd044Wk9EMWJvcEE?oc=5",
+          "published_at": "2026-03-03T06:52:45+00:00"
+        },
         {
           "title": "[이란 사태] 전쟁 장기화 가능성 촉각…유가·환율 급등 '물가 초비상' - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1hETzAyS0p2Y1I2TVgySzVHVlF4ZmpJUGVicG1oNjlYdG9ud3ZWVDQwcVJhNFJCZmdGU2xlZGRzSjM2aGg3M19vR1hGUDNNVDROc0N3eFI1dVU2b0lEdUxSRThXOWQxQThXTnRZWHA1LXg4MU53S29uSzVwZXJQZW1DVUM?oc=5",
           "published_at": "2026-03-03T06:47:58+00:00"
-        },
-        {
-          "title": "미·이란 충돌 여파 유가 상승⋯생활 물가 상승 우려감 고조 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sNnhDb3piZVh3U1RmaE15bGxlQjJvTFVVUXdadjNfQzFNSGpDek1tSnZBYWdkUXBpcmJFZUxjQ2tIWktpSVQ0bC1ZaUs2MkU?oc=5",
-          "published_at": "2026-03-03T06:45:00+00:00"
-        },
-        {
-          "title": "[그래픽] 원/달러 환율 추이 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wbXY3N29MQ2dBTU10dGdpRVlKTTFkUkdDdmhWM3FETlBNUURUV3EtTldrbWNhWGRoZmpmTEpJQUc0OUF4czQ1R3l4ZVJqSkk?oc=5",
-          "published_at": "2026-03-03T06:44:54+00:00"
-        },
-        {
-          "title": "채권 팔아 기름사는 기관투자자들...회사채 자금조달 부담 가중 - mt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTlFPY05tRzhDa0R2NlZTZFpsRFNPLU5GaWl1TlJkLVNRc2d6RjZPLVZ6ZlZvcnBhSjg2cDA0Nmdkdm96U3NqTXBzNEFYdjRvVW0ycnN3VnBDRjVPQWVoSXBuZWJHOGhH?oc=5",
-          "published_at": "2026-03-03T06:44:12+00:00"
-        },
-        {
-          "title": "중동 사태 글로벌 경제에 여파 '모 아니면 도', 군사 충돌 장기화 여부에 달려 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdUxQckwxb0FBUlgyaDc5YlN2S3ZTTE5Odm41dDlKU2RXME5EeW1VRDF1U2RqSHNsZkpHb3pmVWp1M0xtRS11SjRuQ2UxU3FDYTdscGp2UTBRWGg3ZnJ1NWdUUVNJdXptamxKeDNtb3NLYU0?oc=5",
-          "published_at": "2026-03-03T06:42:52+00:00"
         }
       ]
     },
     {
-      "keyword": "https",
-      "score": 518.16,
+      "keyword": "달러",
+      "score": 132.82,
       "articles": [
         {
-          "title": "[이란 사태] 전쟁 장기화 가능성 촉각…유가·환율 급등 '물가 초비상' - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1hETzAyS0p2Y1I2TVgySzVHVlF4ZmpJUGVicG1oNjlYdG9ud3ZWVDQwcVJhNFJCZmdGU2xlZGRzSjM2aGg3M19vR1hGUDNNVDROc0N3eFI1dVU2b0lEdUxSRThXOWQxQThXTnRZWHA1LXg4MU53S29uSzVwZXJQZW1DVUM?oc=5",
-          "published_at": "2026-03-03T06:47:58+00:00"
+          "title": "“달러 뛰고 금리 변수까지”...이란 쇼크에 정부·금융권 100兆 방어선 - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnZzZDUnRFVmxnc0dKeGZUaWxLZHdISGtBWUVRRzJGRGN0MzZZQjFUM1d2YXI4RjRwQzdZbXdHaHd3M0lGc3NWMmNyYzZWeTFHMk1lTWlZczRJLXVFOFEwNGk2TQ?oc=5",
+          "published_at": "2026-03-03T06:56:31+00:00"
         },
         {
-          "title": "미·이란 충돌 여파 유가 상승⋯생활 물가 상승 우려감 고조 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sNnhDb3piZVh3U1RmaE15bGxlQjJvTFVVUXdadjNfQzFNSGpDek1tSnZBYWdkUXBpcmJFZUxjQ2tIWktpSVQ0bC1ZaUs2MkU?oc=5",
-          "published_at": "2026-03-03T06:45:00+00:00"
+          "title": "[위클리오늘] 강원도, 2030년까지 수출 40억 달러 시대 연다… 4대 전략 중점 추진 - 위클리오늘",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50MHE4UDNCRDJCQ0JXaGdMS0xDQ01PdGswZlhxUWVwWUlHdTZueF9Wd1U4b29JNGxleVBwNHpKY2lkQjFYZzR0RjdiSUdvNWp2cXNwQWF3NVhiR3BCRTkyeFpveHdaVjRVOUdDSkNR?oc=5",
+          "published_at": "2026-03-03T06:51:44+00:00"
         },
         {
-          "title": "[그래픽] 원/달러 환율 추이 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wbXY3N29MQ2dBTU10dGdpRVlKTTFkUkdDdmhWM3FETlBNUURUV3EtTldrbWNhWGRoZmpmTEpJQUc0OUF4czQ1R3l4ZVJqSkk?oc=5",
-          "published_at": "2026-03-03T06:44:54+00:00"
+          "title": "\"유가 배럴당 100달러 되면 올해 韓 경제 성장률 0.3%p 하락\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMDNibXFmU1d1TmJiSjBDdFAxdHhvVUp6T21oQ3kzVVlTSWZYT25TMHlrSUhudmJzcGR4SGxxYlRRUjlCa2xTQTN4N2lPTHM?oc=5",
+          "published_at": "2026-03-03T06:51:01+00:00"
         },
         {
-          "title": "채권 팔아 기름사는 기관투자자들...회사채 자금조달 부담 가중 - mt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTlFPY05tRzhDa0R2NlZTZFpsRFNPLU5GaWl1TlJkLVNRc2d6RjZPLVZ6ZlZvcnBhSjg2cDA0Nmdkdm96U3NqTXBzNEFYdjRvVW0ycnN3VnBDRjVPQWVoSXBuZWJHOGhH?oc=5",
-          "published_at": "2026-03-03T06:44:12+00:00"
+          "title": "원·달러 환율, 26.1원 오른 1466.1원 - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1scHNqd0RobzFMZW5qZkJXY252TDJWbnNzZ2Nra2ktc3Awb3dXZXQ1MERYelNYWFNRNXk1TFhGTHZhQVRfNGRQY09QdjNvUEFFY1dsMmJrQ2dnYTk1UmlXMjNuVWZobGFyWkZUVDdJWUo?oc=5",
+          "published_at": "2026-03-03T06:41:59+00:00"
         },
         {
-          "title": "중동 사태 글로벌 경제에 여파 '모 아니면 도', 군사 충돌 장기화 여부에 달려 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdUxQckwxb0FBUlgyaDc5YlN2S3ZTTE5Odm41dDlKU2RXME5EeW1VRDF1U2RqSHNsZkpHb3pmVWp1M0xtRS11SjRuQ2UxU3FDYTdscGp2UTBRWGg3ZnJ1NWdUUVNJdXptamxKeDNtb3NLYU0?oc=5",
-          "published_at": "2026-03-03T06:42:52+00:00"
+          "title": "[외환마감] 원·달러 환율 1466.1원···26.4원↑ - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWU1RpMU1PZ3BKUFNaSHp6RjlxdGJ3aXdkNWVYcmxXYUdLM2poXzhyME15UldKX0xrbzgtVkdDbEM1X2VnWXh5YWxYUFFuOU5hQU1USzQzeFk5RENfNVpqY0owQnFtZzlGOGc?oc=5",
+          "published_at": "2026-03-03T06:37:36+00:00"
         }
       ]
     },
     {
-      "keyword": "news",
-      "score": 518.16,
+      "keyword": "중동",
+      "score": 125.74,
       "articles": [
+        {
+          "title": "중동 충돌 여파에…일본은행, 3월 금리 인상 보류 가능성 - 블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VdHpDUFJReVJsSk5iZFZMNVZUUGZYMExUUmFwbEhYMjVzcFZHaEdfNnRfeHk5NWZtV2N3dUhiZTcyWnYxZHVaVWRkTU9rUDJ6?oc=5",
+          "published_at": "2026-03-03T06:57:46+00:00"
+        },
+        {
+          "title": "중동 사태 글로벌 경제에 여파 '모 아니면 도', 군사 충돌 장기화 여부에 달려 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdUxQckwxb0FBUlgyaDc5YlN2S3ZTTE5Odm41dDlKU2RXME5EeW1VRDF1U2RqSHNsZkpHb3pmVWp1M0xtRS11SjRuQ2UxU3FDYTdscGp2UTBRWGg3ZnJ1NWdUUVNJdXptamxKeDNtb3NLYU0?oc=5",
+          "published_at": "2026-03-03T06:42:52+00:00"
+        },
+        {
+          "title": "전북도, 중동발 '경제 위기' 정면 돌파…수출기업 보호 총력 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGLVJ5cVV0X0FBU28ybE5LV0xXdnJ0V0hncTYwRUxXZ0psMTNVYlNwV3o1MzVDUWZEYl9MOW5sQzFHTWxhS096ZVE4ZWpWM0dUclY4cg?oc=5",
+          "published_at": "2026-03-03T06:39:26+00:00"
+        },
+        {
+          "title": "전북자치도, 중동발 '경제 위기' 정면 돌파.. 수출기업 보호에 '총력' - 전북제일신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sZHRZdmQ0STFEOFc2aThLQWlIeHp1MDJYMG51LTBBVFI4ay14TWNIUURnVlBJR2lsUFNpNkNOVXJrNER3bWVsQ2hVRzFHWWVqMHE2VFJqU1hEOGhxZ2x4ZXljcFU0VFVFcXc?oc=5",
+          "published_at": "2026-03-03T06:35:21+00:00"
+        },
+        {
+          "title": "중동발 경제 위기 정면 돌파… 수출기업 보호 총력 - 투데이안",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMmdmRVVPTkZqMlh4MHY1LTdOcVk3TzdDTG5CTldMYUN0SDFpZHRjelYwZ1hGT1pqSEw0SnVUeGlrU0xHZEp3OXZ0UzN1MGRPdkdoMXRGR2VsZ2NwVkh6bDdQUDREa0pl?oc=5",
+          "published_at": "2026-03-03T06:27:51+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "급등",
+      "score": 121.11,
+      "articles": [
+        {
+          "title": "[원자재 시황] 이란, 호르무즈 해협 사실상 봉쇄…'유가·금값·환율' 모두 급등 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wb09hSlY2eWNEd0pIM19kaGtjT0dWOThDalZOcEhHSm5uY2xUX0JTOWpnZzJBejBYWTd1Y2ZsWkhnLUNyUGE5ak44S0hLS2RkLU5EeGl4TXdIOTNkempTcDdiNnlfaGttQUxpdWoxd1g?oc=5",
+          "published_at": "2026-03-03T06:55:09+00:00"
+        },
         {
           "title": "[이란 사태] 전쟁 장기화 가능성 촉각…유가·환율 급등 '물가 초비상' - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1hETzAyS0p2Y1I2TVgySzVHVlF4ZmpJUGVicG1oNjlYdG9ud3ZWVDQwcVJhNFJCZmdGU2xlZGRzSjM2aGg3M19vR1hGUDNNVDROc0N3eFI1dVU2b0lEdUxSRThXOWQxQThXTnRZWHA1LXg4MU53S29uSzVwZXJQZW1DVUM?oc=5",
           "published_at": "2026-03-03T06:47:58+00:00"
+        },
+        {
+          "title": "이란 전쟁에 최대 27.8원 급등한 환율…1466.1원에 마감(종합) - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMd3d4eWNEN3MxaE1yaDQ4V00zYkFZRUtXdWlhOFdQbDJheE5qd1gxRzJuc2hXMFNJYzRFeWJ2a0xHcGRxUnJnREdBNUNaN3BNZ2NGX09abloxb1Y5WFF3MA?oc=5",
+          "published_at": "2026-03-03T06:35:18+00:00"
+        },
+        {
+          "title": "뉴욕 유가 급등·증시 혼조...미국 \"충격 완화 조치\" - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00TGRDSGpoblQ0UFMwbEhlVHBHbDZpYUZLOU9TYXI2SHhNRnVRcHdBa1VTRkJ4aEF2S2c1c1pPMGlMSjdBZTA3Qmh2V2xKYm14NG1OUHlvVnZ1eWZSQVE?oc=5",
+          "published_at": "2026-03-03T06:02:00+00:00"
+        },
+        {
+          "title": "[美 이란 공습] 유가 상승에 공사비 급등… 해외 수주 타격에 K건설 ‘사면초가’ - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalB1SDk4QlhuUm9TS3pjZXppYktJWndnbkdndGNfaUpVU18xWVRtRjJ5WXY4cEVKMnZkMUUyaFRxR2JzV0tpWGJXMEl0aTdQWXFOTDEwVWVwbnhSWlJJWjJFeDdoMFVvbUxJNWk0aWx5RTFJdHUwX3JkV1dlbFkwSkgzYnUzZ3NHcU9OcHF5cC1ENFNUa1dIU9IBrAFBVV95cUxOd3NjTUs3b05Da3V6VGpPR0wySTZpVkcwWnR3M2UtQTFiREVBNmM1UnpxcDNCWU5idWcxb3FkOEphUFZCWElsTDEwYVJjbmxScENwYnRzRXhRaWNZUy1TckZvOVRHZ2lfZVk1LUt5LTJDbHQ5c0V2cElwUnozM19GVExUZEVkWkZaWFI1S2dPdDZlaHBGNHpTdG5RSTg2Y1dqdllRTy00R0ttRXIx?oc=5",
+          "published_at": "2026-03-03T05:32:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "daum",
+      "score": 114.28,
+      "articles": [
+        {
+          "title": "모건스탠리 \"이란 전쟁에 한국 등 아시아국 경제 위험 노출\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YWGI5VlJxTU5XOVcxNnY2SG5FMjJTMUlBWnVfdlFBMXZnZVl0Nk5jeGFEYTFPTXFhVFVRekl3RXNvcElLd044Wk9EMWJvcEE?oc=5",
+          "published_at": "2026-03-03T06:52:45+00:00"
+        },
+        {
+          "title": "\"유가 배럴당 100달러 되면 올해 韓 경제 성장률 0.3%p 하락\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMDNibXFmU1d1TmJiSjBDdFAxdHhvVUp6T21oQ3kzVVlTSWZYT25TMHlrSUhudmJzcGR4SGxxYlRRUjlCa2xTQTN4N2lPTHM?oc=5",
+          "published_at": "2026-03-03T06:51:01+00:00"
         },
         {
           "title": "미·이란 충돌 여파 유가 상승⋯생활 물가 상승 우려감 고조 - v.daum.net",
@@ -223,19 +290,14 @@
           "published_at": "2026-03-03T06:45:00+00:00"
         },
         {
-          "title": "[그래픽] 원/달러 환율 추이 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wbXY3N29MQ2dBTU10dGdpRVlKTTFkUkdDdmhWM3FETlBNUURUV3EtTldrbWNhWGRoZmpmTEpJQUc0OUF4czQ1R3l4ZVJqSkk?oc=5",
-          "published_at": "2026-03-03T06:44:54+00:00"
+          "title": "[출마합니다]우성진, 대구 동구청장 출마 선언… “경제로 동구 50년 설계” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TSXBVdVBqZnNsdUliR19xOFdsTktkQzktZi14bW1uckd0cVVFLS1FMno4S1poR1ZhbDJDQTQ5MGh4RlpwLS0wMXFMRW1pVXM?oc=5",
+          "published_at": "2026-03-03T06:25:05+00:00"
         },
         {
-          "title": "채권 팔아 기름사는 기관투자자들...회사채 자금조달 부담 가중 - mt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTlFPY05tRzhDa0R2NlZTZFpsRFNPLU5GaWl1TlJkLVNRc2d6RjZPLVZ6ZlZvcnBhSjg2cDA0Nmdkdm96U3NqTXBzNEFYdjRvVW0ycnN3VnBDRjVPQWVoSXBuZWJHOGhH?oc=5",
-          "published_at": "2026-03-03T06:44:12+00:00"
-        },
-        {
-          "title": "중동 사태 글로벌 경제에 여파 '모 아니면 도', 군사 충돌 장기화 여부에 달려 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdUxQckwxb0FBUlgyaDc5YlN2S3ZTTE5Odm41dDlKU2RXME5EeW1VRDF1U2RqSHNsZkpHb3pmVWp1M0xtRS11SjRuQ2UxU3FDYTdscGp2UTBRWGg3ZnJ1NWdUUVNJdXptamxKeDNtb3NLYU0?oc=5",
-          "published_at": "2026-03-03T06:42:52+00:00"
+          "title": "\"美中 정상회담 예정대로 할 듯…경제수장 사전 만남\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YeHpaX0g3SEZDV19JS2puQ3o4cTVNLUZBRjUybVhEQU02YmZqWWZUQlZuODBTWHBCZXVZOGdxeHBkTEliZHdfVGZxbFNjUVU?oc=5",
+          "published_at": "2026-03-03T06:24:09+00:00"
         }
       ]
     }
