@@ -22,4 +22,5 @@ defaults:
       layout: post
       categories: ["오늘의 핫이슈"]
 
+site_image: "/assets/img/og-default.png"
 plugins: []
