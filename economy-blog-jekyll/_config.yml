@@ -1,0 +1,25 @@
+title: 조카도 이해하는 오늘의 경제
+description: 핫한 경제 이슈를 쉽게, 정확하게
+url: ""
+baseurl: ""
+lang: ko-KR
+timezone: Asia/Seoul
+markdown: kramdown
+permalink: /:title/
+
+author:
+  name: "운영자"
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      categories: ["오늘의 핫이슈"]
+
+plugins: []

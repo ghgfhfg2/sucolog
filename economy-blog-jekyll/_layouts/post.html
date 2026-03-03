@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+  <p class="meta">{{ page.date | date: "%Y-%m-%d" }} · 카테고리: {{ page.categories | join: ", " }}</p>
+  {{ content }}
+  <hr />
+  <p><strong>면책:</strong> 본 글은 정보 제공 목적이며 투자 권유가 아닙니다. 최종 투자 판단은 본인 책임입니다.</p>
+</article>
