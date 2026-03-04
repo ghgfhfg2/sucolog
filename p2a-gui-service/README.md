@@ -8,6 +8,7 @@
 - 입력 검증: Zod
 - 포맷 출력: JSON/CSV/XLSX/PDF
 - 잡 상태: queued/running/success/failed
+- AI 호출 대신 **Agent Bridge**(mock/webhook) 구조
 
 ## 빠른 실행
 
@@ -36,9 +37,20 @@ npm run dev:api
 - `GET /jobs`
 - `GET /jobs/:id`
 
+## Agent Bridge
+
+`apps/api/src/services/agentBridge.ts`
+
+- `AGENT_BRIDGE_MODE=mock`
+  - 서버 내부 mock 데이터 생성
+- `AGENT_BRIDGE_MODE=webhook`
+  - 외부 브리지 엔드포인트로 위임
+  - 요청 바디: `{ prompt, outputCount }`
+  - 응답 바디: `{ items: Record<string, unknown>[] }`
+
 ## 다음 작업
 
-1. OpenAI 실제 연동 (`aiService.ts`)
+1. OpenClaw 세션 기반 브리지 구현 (`sessions_send`/콜백)
 2. PostgreSQL 영속 저장 (현재 in-memory)
 3. 스케줄러(Cron/Bull repeat) 및 종료 조건 구현
 4. `apps/web` UI 연결 (Next.js)

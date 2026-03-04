@@ -1,9 +1,9 @@
+import { requestAgentGeneration } from "./agentBridge.js";
+
 export async function generateStructuredItems(prompt: string, count: number) {
-  // TODO: OpenAI/LangChain 연동 지점
-  return Array.from({ length: count }).map((_, i) => ({
-    id: i + 1,
-    title: `Generated item ${i + 1}`,
-    summary: `Prompt: ${prompt}`,
-    createdAt: new Date().toISOString()
-  }));
+  // 외부 OpenAI API 호출 대신 에이전트 브리지로 처리
+  return requestAgentGeneration({
+    prompt,
+    outputCount: count
+  });
 }
