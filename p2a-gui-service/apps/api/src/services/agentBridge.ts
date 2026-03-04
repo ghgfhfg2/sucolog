@@ -103,6 +103,35 @@ function fallbackItemsFromText(text: string, count: number): AgentBridgeResponse
   }));
 }
 
+function buildGenerationMessage(req: AgentBridgeRequest) {
+  const prompt = req.prompt;
+  const isSong = /노래|가사|lyrics?|song/i.test(prompt);
+
+  if (isSong) {
+    return [
+      "You generate Korean song assets for a backend service.",
+      `Generate exactly ${req.outputCount} songs from this request: ${prompt}`,
+      "Return ONLY valid JSON.",
+      "Required shape:",
+      '{"items":[{"id":1,"title":"...","lyrics":"...","concept":"..."}]}',
+      "lyrics must be a full lyric, not a short summary:",
+      "- at least 12 lines",
+      "- include sections with labels: [Verse 1], [Chorus], [Verse 2], [Bridge], [Chorus]",
+      "- each line should feel singable in Korean",
+      "No markdown fences, no extra explanation."
+    ].join("\n");
+  }
+
+  return [
+    "You are generating structured data items for a backend service.",
+    `Generate exactly ${req.outputCount} items based on this request: ${prompt}`,
+    "Return ONLY valid JSON with this exact shape:",
+    '{"items":[{"id":1,"title":"...","content":"..."}]}',
+    "content must be substantial and useful (not one line).",
+    "No markdown, no extra commentary."
+  ].join("\n");
+}
+
 async function callOpenClawCli(
   req: AgentBridgeRequest
 ): Promise<AgentBridgeResponseItem[]> {
@@ -110,13 +139,7 @@ async function callOpenClawCli(
   const timeoutSeconds = Number(process.env.OPENCLAW_AGENT_TIMEOUT_SECONDS ?? "120");
   const sessionId = process.env.OPENCLAW_AGENT_SESSION_ID ?? "p2a-worker";
 
-  const message = [
-    "You are generating structured data items for a backend service.",
-    `Generate exactly ${req.outputCount} items based on this request: ${req.prompt}`,
-    "Return ONLY valid JSON with this exact shape:",
-    '{"items":[{"id":1,"title":"...","summary":"..."}]}',
-    "No markdown, no extra commentary."
-  ].join("\n");
+  const message = buildGenerationMessage(req);
 
   const args = [
     "agent",
