@@ -38,6 +38,24 @@ npm run dev:api
 
 - `GET /jobs`
 - `GET /jobs/:id`
+- `POST /schedules`
+- `GET /schedules`
+- `GET /schedules/:id`
+- `POST /schedules/:id/pause`
+- `POST /schedules/:id/resume`
+
+스케줄 예시:
+
+```json
+{
+  "prompt": "매주 트렌드 요약",
+  "outputCount": 3,
+  "format": "json",
+  "cron": "*/5 * * * *",
+  "maxRuns": 10,
+  "timezone": "Asia/Seoul"
+}
+```
 
 ## Agent Bridge
 
