@@ -17,6 +17,12 @@ export const jobStore = {
   get(id: string) {
     return jobs.get(id);
   },
+  remove(id: string) {
+    const existing = jobs.get(id);
+    if (!existing) return undefined;
+    jobs.delete(id);
+    return existing;
+  },
   list() {
     return [...jobs.values()].sort((a, b) =>
       a.createdAt < b.createdAt ? 1 : -1

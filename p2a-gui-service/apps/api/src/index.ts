@@ -70,6 +70,12 @@ app.get("/jobs/:id", (req, res) => {
   res.json(item);
 });
 
+app.delete("/jobs/:id", (req, res) => {
+  const deleted = jobStore.remove(req.params.id);
+  if (!deleted) return res.status(404).json({ error: "Not found" });
+  return res.status(204).send();
+});
+
 app.post("/schedules", (req, res) => {
   const parsed = createScheduleSchema.safeParse(req.body);
   if (!parsed.success) {

@@ -87,6 +87,7 @@
             <th>Updated</th>
             <th>File</th>
             <th>Error</th>
+            <th>Action</th>
           </tr>
         </thead>
         <tbody id="jobsBody"></tbody>
@@ -133,6 +134,7 @@
             <td>${new Date(j.updatedAt).toLocaleString()}</td>
             <td>${j.filePath ? `<a href="/files/${encodeURIComponent(j.filePath.split('/').pop())}" target="_blank">다운로드</a>` : '-'}</td>
             <td>${j.error || '-'}</td>
+            <td><button class="secondary" onclick="deleteJob('${j.id}')">삭제</button></td>
           </tr>
         `).join('');
       }
@@ -220,6 +222,13 @@
         await loadSchedules();
       }
 
+      async function deleteJob(id) {
+        const ok = confirm('이 작업을 목록에서 삭제할까요?');
+        if (!ok) return;
+        await fetch(`/jobs/${id}`, { method: 'DELETE' });
+        await loadJobs();
+      }
+
       async function pauseSchedule(id) {
         await fetch(`/schedules/${id}/pause`, { method: 'POST' });
         await loadSchedules();
@@ -230,6 +239,7 @@
         await loadSchedules();
       }
 
+      window.deleteJob = deleteJob;
       window.pauseSchedule = pauseSchedule;
       window.resumeSchedule = resumeSchedule;
 

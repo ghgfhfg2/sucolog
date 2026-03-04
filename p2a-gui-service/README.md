@@ -38,6 +38,7 @@ npm run dev:api
 
 - `GET /jobs`
 - `GET /jobs/:id`
+- `DELETE /jobs/:id`
 - `POST /schedules`
 - `GET /schedules`
 - `GET /schedules/:id`
