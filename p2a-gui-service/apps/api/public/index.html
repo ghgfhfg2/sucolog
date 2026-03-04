@@ -8,23 +8,28 @@
       body { font-family: Arial, sans-serif; margin: 24px; background: #0b1020; color: #e5e7eb; }
       h1 { margin: 0 0 12px; }
       .card { background: #121a32; border: 1px solid #27304d; border-radius: 12px; padding: 16px; margin-bottom: 16px; }
-      .row { display: flex; gap: 8px; flex-wrap: wrap; }
+      .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
       input, select, button { padding: 8px 10px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #e5e7eb; }
       button { cursor: pointer; background: #2563eb; border: none; }
+      button.secondary { background: #334155; }
       table { width: 100%; border-collapse: collapse; }
-      th, td { border-bottom: 1px solid #263146; padding: 8px; text-align: left; font-size: 14px; }
+      th, td { border-bottom: 1px solid #263146; padding: 8px; text-align: left; font-size: 14px; vertical-align: top; }
       .queued { color: #fbbf24; }
       .running { color: #60a5fa; }
       .success { color: #4ade80; }
       .failed { color: #f87171; }
-      .small { color: #9ca3af; font-size: 12px; }
+      .active { color: #4ade80; }
+      .paused { color: #fbbf24; }
+      .completed { color: #94a3b8; }
+      .small { color: #9ca3af; font-size: 12px; margin-top: 6px; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
     </style>
   </head>
   <body>
     <h1>🚀 P2A Job Dashboard</h1>
 
     <div class="card">
-      <h3>새 작업 생성</h3>
+      <h3>즉시 작업 생성</h3>
       <div class="row">
         <input id="prompt" placeholder="프롬프트 입력" style="min-width: 360px; flex:1" />
         <input id="count" type="number" min="1" max="1000" value="5" style="width:90px" />
@@ -40,8 +45,27 @@
     </div>
 
     <div class="card">
-      <div class="row" style="justify-content: space-between; align-items: center;">
-        <h3 style="margin:0">진행상황</h3>
+      <h3>스케줄 생성 (Cron)</h3>
+      <div class="row">
+        <input id="sprompt" placeholder="스케줄 프롬프트" style="min-width: 280px; flex:1" />
+        <input id="scount" type="number" min="1" max="1000" value="3" style="width:80px" />
+        <select id="sformat">
+          <option value="json">json</option>
+          <option value="csv">csv</option>
+          <option value="xlsx">xlsx</option>
+          <option value="pdf">pdf</option>
+        </select>
+        <input id="scron" class="mono" value="*/5 * * * *" style="width:140px" title="cron 표현식" />
+        <input id="smax" type="number" min="1" placeholder="maxRuns" style="width:90px" />
+        <input id="stimezone" value="Asia/Seoul" style="width:130px" />
+        <button id="createScheduleBtn">스케줄 생성</button>
+      </div>
+      <div class="small" id="scheduleMsg"></div>
+    </div>
+
+    <div class="card">
+      <div class="row" style="justify-content: space-between;">
+        <h3 style="margin:0">작업 진행상황</h3>
         <button id="refreshBtn">새로고침</button>
       </div>
       <table>
@@ -60,9 +84,31 @@
       </table>
     </div>
 
+    <div class="card">
+      <div class="row" style="justify-content: space-between;">
+        <h3 style="margin:0">스케줄 목록</h3>
+        <button id="refreshSchedulesBtn" class="secondary">새로고침</button>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Status</th>
+            <th>Cron</th>
+            <th>Runs</th>
+            <th>Last Run</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody id="schedulesBody"></tbody>
+      </table>
+    </div>
+
     <script>
       const jobsBody = document.getElementById('jobsBody');
+      const schedulesBody = document.getElementById('schedulesBody');
       const createMsg = document.getElementById('createMsg');
+      const scheduleMsg = document.getElementById('scheduleMsg');
 
       async function loadJobs() {
         const res = await fetch('/jobs');
@@ -78,6 +124,27 @@
             <td>${new Date(j.updatedAt).toLocaleString()}</td>
             <td>${j.filePath ? `<a href="/files/${encodeURIComponent(j.filePath.split('/').pop())}" target="_blank">다운로드</a>` : '-'}</td>
             <td>${j.error || '-'}</td>
+          </tr>
+        `).join('');
+      }
+
+      async function loadSchedules() {
+        const res = await fetch('/schedules');
+        const data = await res.json();
+        const items = data.items || [];
+
+        schedulesBody.innerHTML = items.map((s) => `
+          <tr>
+            <td title="${s.id}">${s.id.slice(0, 8)}...</td>
+            <td class="${s.status}">${s.status}</td>
+            <td class="mono">${s.cron}</td>
+            <td>${s.runCount}${s.maxRuns ? ` / ${s.maxRuns}` : ''}</td>
+            <td>${s.lastRunAt ? new Date(s.lastRunAt).toLocaleString() : '-'}</td>
+            <td>
+              ${s.status === 'active' ? `<button class="secondary" onclick="pauseSchedule('${s.id}')">pause</button>` : ''}
+              ${s.status === 'paused' ? `<button onclick="resumeSchedule('${s.id}')">resume</button>` : ''}
+              ${s.status === 'completed' ? '-' : ''}
+            </td>
           </tr>
         `).join('');
       }
@@ -109,11 +176,63 @@
         await loadJobs();
       }
 
-      document.getElementById('createBtn').addEventListener('click', createJob);
-      document.getElementById('refreshBtn').addEventListener('click', loadJobs);
+      async function createSchedule() {
+        const prompt = document.getElementById('sprompt').value.trim();
+        const outputCount = Number(document.getElementById('scount').value);
+        const format = document.getElementById('sformat').value;
+        const cron = document.getElementById('scron').value.trim();
+        const timezone = document.getElementById('stimezone').value.trim();
+        const maxRunsRaw = document.getElementById('smax').value;
+        const maxRuns = maxRunsRaw ? Number(maxRunsRaw) : undefined;
 
-      loadJobs();
-      setInterval(loadJobs, 3000);
+        if (!prompt || !cron) {
+          scheduleMsg.textContent = '프롬프트와 cron을 입력하세요.';
+          return;
+        }
+
+        const body = { prompt, outputCount, format, cron, timezone, ...(maxRuns ? { maxRuns } : {}) };
+
+        const res = await fetch('/schedules', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify(body)
+        });
+
+        if (!res.ok) {
+          const err = await res.json();
+          scheduleMsg.textContent = '스케줄 생성 실패: ' + JSON.stringify(err);
+          return;
+        }
+
+        const schedule = await res.json();
+        scheduleMsg.textContent = `스케줄 생성됨: ${schedule.id}`;
+        await loadSchedules();
+      }
+
+      async function pauseSchedule(id) {
+        await fetch(`/schedules/${id}/pause`, { method: 'POST' });
+        await loadSchedules();
+      }
+
+      async function resumeSchedule(id) {
+        await fetch(`/schedules/${id}/resume`, { method: 'POST' });
+        await loadSchedules();
+      }
+
+      window.pauseSchedule = pauseSchedule;
+      window.resumeSchedule = resumeSchedule;
+
+      document.getElementById('createBtn').addEventListener('click', createJob);
+      document.getElementById('createScheduleBtn').addEventListener('click', createSchedule);
+      document.getElementById('refreshBtn').addEventListener('click', loadJobs);
+      document.getElementById('refreshSchedulesBtn').addEventListener('click', loadSchedules);
+
+      async function loadAll() {
+        await Promise.all([loadJobs(), loadSchedules()]);
+      }
+
+      loadAll();
+      setInterval(loadAll, 3000);
     </script>
   </body>
 </html>
