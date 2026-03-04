@@ -138,7 +138,7 @@
             <td>${j.format}</td>
             <td>${j.outputCount}</td>
             <td>${new Date(j.updatedAt).toLocaleString()}</td>
-            <td>${j.filePath ? `<a href="/files/${encodeURIComponent(j.filePath.split('/').pop())}" target="_blank">다운로드</a>` : '-'}</td>
+            <td>${j.filePath ? `<a href="/files/${encodeURIComponent(j.filePath.split('/').pop())}" target="_blank" style="display:inline-block; padding:6px 10px; border-radius:8px; background:#1d4ed8; color:#fff; text-decoration:none; font-size:12px;">다운로드</a>` : '-'}</td>
             <td>${j.error || '-'}</td>
             <td><button class="secondary" onclick="deleteJob('${j.id}')">삭제</button></td>
           </tr>
