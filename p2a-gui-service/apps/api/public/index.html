@@ -55,7 +55,16 @@
           <option value="xlsx">xlsx</option>
           <option value="pdf">pdf</option>
         </select>
-        <input id="scron" class="mono" value="*/5 * * * *" style="width:140px" title="cron 표현식" />
+        <select id="spreset" style="width:180px" title="실행 주기 선택">
+          <option value="*/5 * * * *">5분마다</option>
+          <option value="*/10 * * * *">10분마다</option>
+          <option value="0 * * * *">매시 정각</option>
+          <option value="0 9 * * *">매일 09:00</option>
+          <option value="0 9 * * 1-5">평일 09:00</option>
+          <option value="0 10 * * 1">매주 월요일 10:00</option>
+          <option value="custom">직접 입력</option>
+        </select>
+        <input id="scron" class="mono" value="*/5 * * * *" style="width:140px; display:none;" title="cron 표현식" placeholder="예: */5 * * * *" />
         <input id="smax" type="number" min="1" placeholder="maxRuns" style="width:90px" />
         <input id="stimezone" value="Asia/Seoul" style="width:130px" />
         <button id="createScheduleBtn">스케줄 생성</button>
@@ -180,13 +189,15 @@
         const prompt = document.getElementById('sprompt').value.trim();
         const outputCount = Number(document.getElementById('scount').value);
         const format = document.getElementById('sformat').value;
-        const cron = document.getElementById('scron').value.trim();
+        const preset = document.getElementById('spreset').value;
+        const customCron = document.getElementById('scron').value.trim();
+        const cron = preset === 'custom' ? customCron : preset;
         const timezone = document.getElementById('stimezone').value.trim();
         const maxRunsRaw = document.getElementById('smax').value;
         const maxRuns = maxRunsRaw ? Number(maxRunsRaw) : undefined;
 
         if (!prompt || !cron) {
-          scheduleMsg.textContent = '프롬프트와 cron을 입력하세요.';
+          scheduleMsg.textContent = '프롬프트와 주기를 입력하세요.';
           return;
         }
 
@@ -226,6 +237,18 @@
       document.getElementById('createScheduleBtn').addEventListener('click', createSchedule);
       document.getElementById('refreshBtn').addEventListener('click', loadJobs);
       document.getElementById('refreshSchedulesBtn').addEventListener('click', loadSchedules);
+
+      document.getElementById('spreset').addEventListener('change', (e) => {
+        const cronInput = document.getElementById('scron');
+        const selected = e.target.value;
+        if (selected === 'custom') {
+          cronInput.style.display = 'inline-block';
+          cronInput.focus();
+        } else {
+          cronInput.style.display = 'none';
+          cronInput.value = selected;
+        }
+      });
 
       async function loadAll() {
         await Promise.all([loadJobs(), loadSchedules()]);
