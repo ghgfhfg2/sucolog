@@ -43,16 +43,64 @@ function extractJsonPayload(text: string) {
 
   const codeBlockMatch = trimmed.match(/```(?:json)?\s*([\s\S]*?)\s*```/i);
   if (codeBlockMatch?.[1]) {
-    return JSON.parse(codeBlockMatch[1]);
+    try {
+      return JSON.parse(codeBlockMatch[1]);
+    } catch {
+      // continue
+    }
   }
 
   const firstBrace = trimmed.indexOf("{");
   const lastBrace = trimmed.lastIndexOf("}");
   if (firstBrace >= 0 && lastBrace > firstBrace) {
-    return JSON.parse(trimmed.slice(firstBrace, lastBrace + 1));
+    try {
+      return JSON.parse(trimmed.slice(firstBrace, lastBrace + 1));
+    } catch {
+      // continue
+    }
+  }
+
+  const firstBracket = trimmed.indexOf("[");
+  const lastBracket = trimmed.lastIndexOf("]");
+  if (firstBracket >= 0 && lastBracket > firstBracket) {
+    try {
+      const arr = JSON.parse(trimmed.slice(firstBracket, lastBracket + 1));
+      return { items: arr };
+    } catch {
+      // continue
+    }
   }
 
   throw new Error("Unable to parse JSON payload from agent response");
+}
+
+function fallbackItemsFromText(text: string, count: number): AgentBridgeResponseItem[] {
+  const cleaned = text
+    .replace(/```[\s\S]*?```/g, "")
+    .replace(/^\s*\[\[.*?\]\]\s*/gm, "")
+    .trim();
+
+  const blocks = cleaned
+    .split(/\n\s*\n/)
+    .map((x) => x.trim())
+    .filter(Boolean)
+    .slice(0, count);
+
+  if (!blocks.length) {
+    return Array.from({ length: count }).map((_, i) => ({
+      id: i + 1,
+      title: `Generated item ${i + 1}`,
+      content: "(Agent output parse fallback)",
+      createdAt: new Date().toISOString()
+    }));
+  }
+
+  return blocks.map((b, i) => ({
+    id: i + 1,
+    title: b.split("\n")[0]?.slice(0, 80) || `Generated item ${i + 1}`,
+    content: b,
+    createdAt: new Date().toISOString()
+  }));
 }
 
 async function callOpenClawCli(
@@ -89,13 +137,16 @@ async function callOpenClawCli(
 
   const outer = JSON.parse(stdout) as { reply?: string; output?: string };
   const raw = outer.reply ?? outer.output ?? "";
-  const parsed = extractJsonPayload(raw) as { items?: AgentBridgeResponseItem[] };
 
-  if (!Array.isArray(parsed.items)) {
+  try {
+    const parsed = extractJsonPayload(raw) as { items?: AgentBridgeResponseItem[] };
+    if (Array.isArray(parsed.items)) {
+      return parsed.items;
+    }
     throw new Error("OpenClaw agent response missing items[]");
+  } catch {
+    return fallbackItemsFromText(raw, req.outputCount);
   }
-
-  return parsed.items;
 }
 
 export async function requestAgentGeneration(
