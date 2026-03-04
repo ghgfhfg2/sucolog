@@ -135,8 +135,16 @@ async function callOpenClawCli(
     timeout: timeoutSeconds * 1000
   });
 
-  const outer = JSON.parse(stdout) as { reply?: string; output?: string };
-  const raw = outer.reply ?? outer.output ?? "";
+  const outer = JSON.parse(stdout) as {
+    reply?: string;
+    output?: string;
+    result?: { payloads?: Array<{ text?: string }> };
+  };
+  const raw =
+    outer.reply ??
+    outer.output ??
+    outer.result?.payloads?.[0]?.text ??
+    "";
 
   try {
     const parsed = extractJsonPayload(raw) as { items?: AgentBridgeResponseItem[] };
