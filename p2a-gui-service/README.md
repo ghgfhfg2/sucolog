@@ -20,6 +20,8 @@ cp apps/api/.env.example apps/api/.env
 npm run dev:api
 ```
 
+대시보드: `http://localhost:4000`
+
 ### API
 
 - `GET /health`

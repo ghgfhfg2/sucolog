@@ -2,6 +2,8 @@ import "dotenv/config";
 import express from "express";
 import cors from "cors";
 import { randomUUID } from "node:crypto";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { createJobSchema, type JobRecord } from "./types/job.js";
 import { jobStore } from "./services/jobStore.js";
 import { enqueueGeneration } from "./queue/queues.js";
@@ -10,8 +12,20 @@ const app = express();
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const publicDir = path.resolve(__dirname, "../public");
+const outputDir = path.resolve(process.env.OUTPUT_DIR ?? "./outputs");
+
+app.use("/files", express.static(outputDir));
+app.use(express.static(publicDir));
+
 app.get("/health", (_req, res) => {
   res.json({ ok: true, service: "p2a-api" });
+});
+
+app.get("/", (_req, res) => {
+  res.sendFile(path.join(publicDir, "index.html"));
 });
 
 app.post("/jobs", async (req, res) => {
