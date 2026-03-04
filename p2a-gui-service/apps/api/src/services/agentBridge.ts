@@ -1,3 +1,8 @@
+import { execFile } from "node:child_process";
+import { promisify } from "node:util";
+
+const execFileAsync = promisify(execFile);
+
 export type AgentBridgeRequest = {
   prompt: string;
   outputCount: number;
@@ -13,6 +18,72 @@ function makeMockItems(prompt: string, count: number): AgentBridgeResponseItem[]
     tags: ["agent", "p2a"],
     createdAt: new Date().toISOString()
   }));
+}
+
+function extractJsonPayload(text: string) {
+  const trimmed = text.trim();
+
+  try {
+    return JSON.parse(trimmed);
+  } catch {
+    // continue
+  }
+
+  const codeBlockMatch = trimmed.match(/```(?:json)?\s*([\s\S]*?)\s*```/i);
+  if (codeBlockMatch?.[1]) {
+    return JSON.parse(codeBlockMatch[1]);
+  }
+
+  const firstBrace = trimmed.indexOf("{");
+  const lastBrace = trimmed.lastIndexOf("}");
+  if (firstBrace >= 0 && lastBrace > firstBrace) {
+    return JSON.parse(trimmed.slice(firstBrace, lastBrace + 1));
+  }
+
+  throw new Error("Unable to parse JSON payload from agent response");
+}
+
+async function callOpenClawCli(
+  req: AgentBridgeRequest
+): Promise<AgentBridgeResponseItem[]> {
+  const command = process.env.OPENCLAW_BIN ?? "openclaw";
+  const timeoutSeconds = Number(process.env.OPENCLAW_AGENT_TIMEOUT_SECONDS ?? "120");
+  const sessionId = process.env.OPENCLAW_AGENT_SESSION_ID ?? "p2a-worker";
+
+  const message = [
+    "You are generating structured data items for a backend service.",
+    `Generate exactly ${req.outputCount} items based on this request: ${req.prompt}`,
+    "Return ONLY valid JSON with this exact shape:",
+    '{"items":[{"id":1,"title":"...","summary":"..."}]}',
+    "No markdown, no extra commentary."
+  ].join("\n");
+
+  const args = [
+    "agent",
+    "--session-id",
+    sessionId,
+    "--message",
+    message,
+    "--json",
+    "--thinking",
+    "low",
+    "--timeout",
+    String(timeoutSeconds)
+  ];
+
+  const { stdout } = await execFileAsync(command, args, {
+    timeout: timeoutSeconds * 1000
+  });
+
+  const outer = JSON.parse(stdout) as { reply?: string; output?: string };
+  const raw = outer.reply ?? outer.output ?? "";
+  const parsed = extractJsonPayload(raw) as { items?: AgentBridgeResponseItem[] };
+
+  if (!Array.isArray(parsed.items)) {
+    throw new Error("OpenClaw agent response missing items[]");
+  }
+
+  return parsed.items;
 }
 
 export async function requestAgentGeneration(
@@ -52,6 +123,10 @@ export async function requestAgentGeneration(
     }
 
     return json.items;
+  }
+
+  if (mode === "openclaw-cli") {
+    return callOpenClawCli(req);
   }
 
   throw new Error(`Unsupported AGENT_BRIDGE_MODE: ${mode}`);

@@ -8,7 +8,7 @@
 - 입력 검증: Zod
 - 포맷 출력: JSON/CSV/XLSX/PDF
 - 잡 상태: queued/running/success/failed
-- AI 호출 대신 **Agent Bridge**(mock/webhook) 구조
+- AI 호출 대신 **Agent Bridge** 구조
 
 ## 빠른 실행
 
@@ -41,16 +41,23 @@ npm run dev:api
 
 `apps/api/src/services/agentBridge.ts`
 
+지원 모드:
+
 - `AGENT_BRIDGE_MODE=mock`
   - 서버 내부 mock 데이터 생성
 - `AGENT_BRIDGE_MODE=webhook`
   - 외부 브리지 엔드포인트로 위임
   - 요청 바디: `{ prompt, outputCount }`
   - 응답 바디: `{ items: Record<string, unknown>[] }`
+- `AGENT_BRIDGE_MODE=openclaw-cli`
+  - 로컬 OpenClaw CLI(`openclaw agent --json`)를 호출해서 직접 생성
+  - `.env` 설정:
+    - `OPENCLAW_BIN` (기본: `openclaw`)
+    - `OPENCLAW_AGENT_SESSION_ID` (기본: `p2a-worker`)
+    - `OPENCLAW_AGENT_TIMEOUT_SECONDS` (기본: `120`)
 
 ## 다음 작업
 
-1. OpenClaw 세션 기반 브리지 구현 (`sessions_send`/콜백)
-2. PostgreSQL 영속 저장 (현재 in-memory)
-3. 스케줄러(Cron/Bull repeat) 및 종료 조건 구현
-4. `apps/web` UI 연결 (Next.js)
+1. PostgreSQL 영속 저장 (현재 in-memory)
+2. 스케줄러(Cron/Bull repeat) 및 종료 조건 구현
+3. `apps/web` UI 연결 (Next.js)
