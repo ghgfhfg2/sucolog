@@ -10,12 +10,24 @@ export type AgentBridgeRequest = {
 
 export type AgentBridgeResponseItem = Record<string, unknown>;
 
+function inferTopic(prompt: string) {
+  const cleaned = prompt
+    .replace(/\s+/g, " ")
+    .replace(/["'`]/g, "")
+    .trim();
+
+  if (cleaned.length <= 40) return cleaned;
+  return `${cleaned.slice(0, 40)}...`;
+}
+
 function makeMockItems(prompt: string, count: number): AgentBridgeResponseItem[] {
+  const topic = inferTopic(prompt);
+
   return Array.from({ length: count }).map((_, i) => ({
     id: i + 1,
-    title: `Agent generated item ${i + 1}`,
-    summary: `Prompt: ${prompt}`,
-    tags: ["agent", "p2a"],
+    title: `${topic} 결과 ${i + 1}`,
+    content: `${topic}에 대한 생성 결과 샘플 ${i + 1}입니다. 실사용에서는 openclaw-cli 모드에서 실제 응답으로 대체됩니다.`,
+    category: "generated",
     createdAt: new Date().toISOString()
   }));
 }

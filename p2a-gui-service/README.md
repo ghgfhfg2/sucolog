@@ -64,13 +64,14 @@ npm run dev:api
 지원 모드:
 
 - `AGENT_BRIDGE_MODE=mock`
-  - 서버 내부 mock 데이터 생성
+  - 서버 내부 샘플 데이터 생성(개발/테스트용)
+  - **실제 프롬프트 답변 품질이 필요하면 사용하지 않는 것을 권장**
 - `AGENT_BRIDGE_MODE=webhook`
   - 외부 브리지 엔드포인트로 위임
   - 요청 바디: `{ prompt, outputCount }`
   - 응답 바디: `{ items: Record<string, unknown>[] }`
-- `AGENT_BRIDGE_MODE=openclaw-cli`
-  - 로컬 OpenClaw CLI(`openclaw agent --json`)를 호출해서 직접 생성
+- `AGENT_BRIDGE_MODE=openclaw-cli` (권장)
+  - 로컬 OpenClaw CLI(`openclaw agent --json`)를 호출해서 실제 생성
   - `.env` 설정:
     - `OPENCLAW_BIN` (기본: `openclaw`)
     - `OPENCLAW_AGENT_SESSION_ID` (기본: `p2a-worker`)
