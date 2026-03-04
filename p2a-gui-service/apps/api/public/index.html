@@ -9,7 +9,8 @@
       h1 { margin: 0 0 12px; }
       .card { background: #121a32; border: 1px solid #27304d; border-radius: 12px; padding: 16px; margin-bottom: 16px; }
       .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-      input, select, button { padding: 8px 10px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #e5e7eb; }
+      input, select, button, textarea { padding: 8px 10px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #e5e7eb; }
+      textarea { min-height: 88px; resize: vertical; width: 100%; }
       button { cursor: pointer; background: #2563eb; border: none; }
       button.secondary { background: #334155; }
       table { width: 100%; border-collapse: collapse; }
@@ -31,7 +32,9 @@
     <div class="card">
       <h3>즉시 작업 생성</h3>
       <div class="row">
-        <input id="prompt" placeholder="프롬프트 입력" style="min-width: 360px; flex:1" />
+        <textarea id="prompt" placeholder="AI 프롬프트를 자세히 입력하세요"></textarea>
+      </div>
+      <div class="row">
         <input id="count" type="number" min="1" max="1000" value="5" style="width:90px" />
         <select id="format">
           <option value="json">json</option>
@@ -47,7 +50,9 @@
     <div class="card">
       <h3>스케줄 생성 (Cron)</h3>
       <div class="row">
-        <input id="sprompt" placeholder="스케줄 프롬프트" style="min-width: 280px; flex:1" />
+        <textarea id="sprompt" placeholder="스케줄에서 사용할 AI 프롬프트를 입력하세요"></textarea>
+      </div>
+      <div class="row">
         <input id="scount" type="number" min="1" max="1000" value="3" style="width:80px" />
         <select id="sformat">
           <option value="json">json</option>
