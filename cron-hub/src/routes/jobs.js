@@ -1,6 +1,7 @@
 import { Router } from 'express';
 import { db } from '../db.js';
 import { syncManagedCrontab } from '../cronSync.js';
+import { importSystemCrontab } from '../cronImport.js';
 
 const router = Router();
 
@@ -118,6 +119,20 @@ router.delete('/:id', (req, res) => {
   db.run('DELETE FROM jobs WHERE id=?', [req.params.id], function onDelete(err) {
     if (err) return res.status(500).json({ error: err.message });
     return respondWithOptionalSync(res, { deleted: this.changes > 0 });
+  });
+});
+
+router.post('/import', (_req, res) => {
+  importSystemCrontab(db, (err, result) => {
+    if (err) return res.status(500).json({ error: err.message });
+
+    syncManagedCrontab(db, (syncErr, syncResult) => {
+      if (syncErr) {
+        return res.json({ ...result, warning: `크론 반영 실패: ${syncErr.message}` });
+      }
+
+      return res.json({ ...result, sync: syncResult });
+    });
   });
 });
 

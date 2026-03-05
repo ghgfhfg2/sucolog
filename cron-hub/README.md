@@ -12,6 +12,7 @@
 - 잡 삭제
 - 필터(전체/실패/활성), 검색
 - **시스템 crontab 자동 반영** (cron-hub 관리 블록)
+- **기존 crontab 가져오기(import)**
 
 ## 실행
 ```bash
@@ -23,6 +24,7 @@ npm run dev
 브라우저: http://localhost:4000
 
 ## 참고
+- 상단 `기존 크론 가져오기` 버튼으로 현재 사용자 crontab을 DB로 가져올 수 있습니다.
 - 이 앱은 DB에 저장된 **활성 잡(enabled=1)** 을 모아서 현재 사용자 crontab에 반영합니다.
 - crontab에는 아래 블록이 생성/갱신됩니다.
   - `# >>> cron-hub managed start >>>`

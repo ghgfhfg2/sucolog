@@ -131,6 +131,14 @@ searchInputEl.oninput = () => {
   loadJobs();
 };
 
+document.getElementById('importBtn').onclick = async () => {
+  const result = await api('/jobs/import', { method: 'POST' });
+  notifyWarning(result);
+  alert(`가져오기 완료: 총 ${result.total}개 중 ${result.imported}개 추가, ${result.skipped}개 중복 건너뜀`);
+  await loadTopics();
+  await loadJobs();
+};
+
 document.getElementById('syncBtn').onclick = async () => {
   const result = await api('/jobs/sync', { method: 'POST' });
   alert(`크론 반영 완료: ${result.jobs}개 활성 잡 적용`);
