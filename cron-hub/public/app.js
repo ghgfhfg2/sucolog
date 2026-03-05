@@ -18,6 +18,10 @@ async function api(path, options) {
   return data;
 }
 
+function notifyWarning(data) {
+  if (data?.warning) alert(data.warning);
+}
+
 function formatDate(v) {
   if (!v) return '-';
   return new Date(v).toLocaleString('ko-KR');
@@ -75,16 +79,18 @@ async function loadJobs() {
     `;
 
     tr.querySelector('[data-action="run"]').onclick = async () => {
-      await api(`/jobs/${job.id}/run`, { method: 'POST' });
+      const result = await api(`/jobs/${job.id}/run`, { method: 'POST' });
+      notifyWarning(result);
       await loadJobs();
     };
 
     tr.querySelector('[data-action="toggle"]').onclick = async () => {
-      await api(`/jobs/${job.id}`, {
+      const result = await api(`/jobs/${job.id}`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ enabled: job.enabled ? 0 : 1 }),
       });
+      notifyWarning(result);
       await loadJobs();
       await loadTopics();
     };
@@ -94,17 +100,19 @@ async function loadJobs() {
       if (!name) return;
       const schedule = prompt('크론 스케줄', job.schedule);
       if (!schedule) return;
-      await api(`/jobs/${job.id}`, {
+      const result = await api(`/jobs/${job.id}`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name, schedule }),
       });
+      notifyWarning(result);
       await loadJobs();
     };
 
     tr.querySelector('[data-action="delete"]').onclick = async () => {
       if (!confirm('정말 삭제할까요?')) return;
-      await api(`/jobs/${job.id}`, { method: 'DELETE' });
+      const result = await api(`/jobs/${job.id}`, { method: 'DELETE' });
+      notifyWarning(result);
       await loadJobs();
       await loadTopics();
     };
@@ -121,6 +129,11 @@ statusFilterEl.onchange = () => {
 searchInputEl.oninput = () => {
   currentQuery = searchInputEl.value;
   loadJobs();
+};
+
+document.getElementById('syncBtn').onclick = async () => {
+  const result = await api('/jobs/sync', { method: 'POST' });
+  alert(`크론 반영 완료: ${result.jobs}개 활성 잡 적용`);
 };
 
 document.getElementById('addTopicBtn').onclick = async () => {
@@ -143,12 +156,13 @@ document.getElementById('addJobBtn').onclick = async () => {
   const command = prompt('실행 커맨드', 'echo hello');
   if (!command) return;
 
-  await api('/jobs', {
+  const result = await api('/jobs', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ topicId: currentTopicId, name, schedule, command }),
   });
 
+  notifyWarning(result);
   await loadJobs();
   await loadTopics();
 };

@@ -1,7 +1,21 @@
 import { Router } from 'express';
 import { db } from '../db.js';
+import { syncManagedCrontab } from '../cronSync.js';
 
 const router = Router();
+
+function respondWithOptionalSync(res, payload) {
+  syncManagedCrontab(db, (syncErr, syncResult) => {
+    if (syncErr) {
+      return res.json({
+        ...payload,
+        warning: `크론 반영 실패: ${syncErr.message}`,
+      });
+    }
+
+    return res.json({ ...payload, sync: syncResult });
+  });
+}
 
 router.get('/', (req, res) => {
   const { topicId, status = 'all', q = '' } = req.query;
@@ -50,7 +64,7 @@ router.post('/', (req, res) => {
     [topicId, name.trim(), schedule.trim(), command.trim()],
     function onInsert(err) {
       if (err) return res.status(400).json({ error: err.message });
-      return res.json({ id: this.lastID });
+      return respondWithOptionalSync(res, { id: this.lastID });
     }
   );
 });
@@ -72,7 +86,7 @@ router.patch('/:id', (req, res) => {
     [name ?? null, schedule ?? null, command ?? null, topicId ?? null, enabled ?? null, req.params.id],
     function onUpdate(err) {
       if (err) return res.status(500).json({ error: err.message });
-      return res.json({ updated: this.changes > 0 });
+      return respondWithOptionalSync(res, { updated: this.changes > 0 });
     }
   );
 });
@@ -103,7 +117,14 @@ router.post('/:id/run', (req, res) => {
 router.delete('/:id', (req, res) => {
   db.run('DELETE FROM jobs WHERE id=?', [req.params.id], function onDelete(err) {
     if (err) return res.status(500).json({ error: err.message });
-    return res.json({ deleted: this.changes > 0 });
+    return respondWithOptionalSync(res, { deleted: this.changes > 0 });
+  });
+});
+
+router.post('/sync', (_req, res) => {
+  syncManagedCrontab(db, (err, result) => {
+    if (err) return res.status(500).json({ error: err.message });
+    return res.json(result);
   });
 });
 
