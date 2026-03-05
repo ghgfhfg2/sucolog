@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cron Hub</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Cron Hub</h1>
+      <div class="header-actions">
+        <button id="addTopicBtn">+ 주제 추가</button>
+        <button id="addJobBtn" class="primary">+ 잡 추가</button>
+      </div>
+    </header>
+
+    <main>
+      <aside>
+        <h2>주제</h2>
+        <ul id="topicList"></ul>
+      </aside>
+
+      <section>
+        <div class="toolbar">
+          <div class="left">
+            <strong id="currentTopicName">주제 선택</strong>
+            <select id="statusFilter">
+              <option value="all">전체</option>
+              <option value="failed">실패만</option>
+              <option value="active">활성만</option>
+            </select>
+            <input id="searchInput" placeholder="잡 이름 검색" />
+          </div>
+        </div>
+
+        <table>
+          <thead>
+            <tr>
+              <th>이름</th>
+              <th>스케줄</th>
+              <th>상태</th>
+              <th>마지막 결과</th>
+              <th>마지막 실행</th>
+              <th>관리</th>
+            </tr>
+          </thead>
+          <tbody id="jobsBody"></tbody>
+        </table>
+      </section>
+    </main>
+
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>
