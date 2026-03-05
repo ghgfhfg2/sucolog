@@ -141,6 +141,16 @@ function collectSources() {
   return sources;
 }
 
+function inferDescription(command) {
+  if (command.includes('/etc/cron.hourly')) return '서버 기본 시간별 유지보수 작업을 실행합니다.';
+  if (command.includes('/etc/cron.daily')) return '서버 기본 일간 유지보수 작업을 실행합니다.';
+  if (command.includes('/etc/cron.weekly')) return '서버 기본 주간 유지보수 작업을 실행합니다.';
+  if (command.includes('/etc/cron.monthly')) return '서버 기본 월간 유지보수 작업을 실행합니다.';
+  if (command.includes('e2scrub_all_cron')) return '디스크 상태를 주기적으로 점검하는 작업입니다.';
+  if (command.includes('e2scrub_all')) return '디스크 점검(e2scrub) 실행 작업입니다.';
+  return '가져온 시스템 크론 작업입니다.';
+}
+
 function defaultName(command, source, osUser) {
   const first = command.split(/[\s/]+/).filter(Boolean).pop() || 'job';
   const prefix = source === 'user-crontab' ? 'imported' : `imported:${osUser || 'system'}`;
@@ -169,9 +179,14 @@ function insertJobs(db, rows, done) {
         }
 
         db.run(
-          `INSERT INTO jobs(topic_id, name, schedule, command, enabled)
-           VALUES (1, ?, ?, ?, 1)`,
-          [defaultName(row.command, row.source, row.osUser), row.schedule, row.command],
+          `INSERT INTO jobs(topic_id, name, schedule, command, description, enabled)
+           VALUES (1, ?, ?, ?, ?, 1)`,
+          [
+            defaultName(row.command, row.source, row.osUser),
+            row.schedule,
+            row.command,
+            inferDescription(row.command),
+          ],
           (insertErr) => {
             if (insertErr) return done(insertErr);
             imported += 1;

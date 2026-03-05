@@ -40,7 +40,7 @@ router.get('/', (req, res) => {
 
   db.all(
     `
-    SELECT j.id, j.topic_id AS topicId, j.name, j.schedule, j.command,
+    SELECT j.id, j.topic_id AS topicId, j.name, j.schedule, j.command, j.description,
            j.enabled, j.last_status AS lastStatus, j.last_run_at AS lastRunAt
     FROM jobs j
     ${whereSql}
@@ -55,14 +55,14 @@ router.get('/', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-  const { topicId, name, schedule, command } = req.body || {};
+  const { topicId, name, schedule, command, description } = req.body || {};
   if (!topicId || !name?.trim() || !schedule?.trim() || !command?.trim()) {
     return res.status(400).json({ error: 'topicId, name, schedule, command are required' });
   }
 
   db.run(
-    'INSERT INTO jobs(topic_id, name, schedule, command) VALUES (?, ?, ?, ?)',
-    [topicId, name.trim(), schedule.trim(), command.trim()],
+    'INSERT INTO jobs(topic_id, name, schedule, command, description) VALUES (?, ?, ?, ?, ?)',
+    [topicId, name.trim(), schedule.trim(), command.trim(), description?.trim() || null],
     function onInsert(err) {
       if (err) return res.status(400).json({ error: err.message });
       return respondWithOptionalSync(res, { id: this.lastID });
@@ -71,7 +71,7 @@ router.post('/', (req, res) => {
 });
 
 router.patch('/:id', (req, res) => {
-  const { name, schedule, command, topicId, enabled } = req.body || {};
+  const { name, schedule, command, description, topicId, enabled } = req.body || {};
 
   db.run(
     `
@@ -79,12 +79,21 @@ router.patch('/:id', (req, res) => {
     SET name = COALESCE(?, name),
         schedule = COALESCE(?, schedule),
         command = COALESCE(?, command),
+        description = COALESCE(?, description),
         topic_id = COALESCE(?, topic_id),
         enabled = COALESCE(?, enabled),
         updated_at = CURRENT_TIMESTAMP
     WHERE id = ?
   `,
-    [name ?? null, schedule ?? null, command ?? null, topicId ?? null, enabled ?? null, req.params.id],
+    [
+      name ?? null,
+      schedule ?? null,
+      command ?? null,
+      description ?? null,
+      topicId ?? null,
+      enabled ?? null,
+      req.params.id,
+    ],
     function onUpdate(err) {
       if (err) return res.status(500).json({ error: err.message });
       return respondWithOptionalSync(res, { updated: this.changes > 0 });

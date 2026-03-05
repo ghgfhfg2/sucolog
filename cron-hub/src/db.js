@@ -19,6 +19,7 @@ export function initDb() {
         name TEXT NOT NULL,
         schedule TEXT NOT NULL,
         command TEXT NOT NULL,
+        description TEXT,
         enabled INTEGER NOT NULL DEFAULT 1,
         last_status TEXT NOT NULL DEFAULT 'never',
         last_run_at DATETIME,
@@ -27,6 +28,13 @@ export function initDb() {
         FOREIGN KEY(topic_id) REFERENCES topics(id)
       )
     `);
+
+    db.all(`PRAGMA table_info(jobs)`, [], (_err, cols) => {
+      const hasDescription = (cols || []).some((c) => c.name === 'description');
+      if (!hasDescription) {
+        db.run(`ALTER TABLE jobs ADD COLUMN description TEXT`);
+      }
+    });
 
     db.run(`
       CREATE TABLE IF NOT EXISTS job_runs (

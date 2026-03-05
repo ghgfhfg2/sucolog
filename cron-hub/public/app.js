@@ -64,14 +64,14 @@ function humanizeSchedule(schedule) {
 
 function summarizeCommand(command) {
   if (!command) return '-';
-  if (command.includes('/etc/cron.hourly')) return '시스템 시간별 작업 실행';
-  if (command.includes('/etc/cron.daily')) return '시스템 일간 작업 실행';
-  if (command.includes('/etc/cron.weekly')) return '시스템 주간 작업 실행';
-  if (command.includes('/etc/cron.monthly')) return '시스템 월간 작업 실행';
-  if (command.includes('e2scrub_all_cron')) return '디스크 정기 점검(e2scrub)';
-  if (command.includes('e2scrub_all')) return '디스크 점검(e2scrub)';
+  if (command.includes('/etc/cron.hourly')) return '서버 기본 시간별 유지보수 작업';
+  if (command.includes('/etc/cron.daily')) return '서버 기본 일간 유지보수 작업';
+  if (command.includes('/etc/cron.weekly')) return '서버 기본 주간 유지보수 작업';
+  if (command.includes('/etc/cron.monthly')) return '서버 기본 월간 유지보수 작업';
+  if (command.includes('e2scrub_all_cron')) return '디스크 상태를 주기적으로 점검하는 작업';
+  if (command.includes('e2scrub_all')) return '디스크 점검(e2scrub) 실행 작업';
 
-  return command.length > 52 ? `${command.slice(0, 52)}...` : command;
+  return '사용자 지정 커맨드를 실행하는 작업';
 }
 
 function displayName(job) {
@@ -123,7 +123,7 @@ async function loadJobs() {
     tr.innerHTML = `
       <td><strong>${displayName(job)}</strong><br/><small class="muted">원본: ${job.name}</small></td>
       <td><strong>${humanizeSchedule(job.schedule)}</strong><br/><small class="muted"><code>${job.schedule}</code></small></td>
-      <td title="${job.command}">${summarizeCommand(job.command)}</td>
+      <td title="${job.command}">${job.description || summarizeCommand(job.command)}</td>
       <td><span class="pill ${job.enabled ? 'on' : 'off'}">${job.enabled ? '활성' : '중지'}</span></td>
       <td>${job.lastStatus}</td>
       <td>${formatDate(job.lastRunAt)}</td>
@@ -159,10 +159,12 @@ async function loadJobs() {
       if (!name) return;
       const schedule = prompt('크론 스케줄', job.schedule);
       if (!schedule) return;
+      const description = prompt('작업 설명(한 줄)', job.description || summarizeCommand(job.command));
+      if (!description) return;
       const result = await api(`/jobs/${job.id}`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name, schedule }),
+        body: JSON.stringify({ name, schedule, description }),
       });
       notifyWarning(result);
       await loadJobs();
@@ -222,11 +224,13 @@ document.getElementById('addJobBtn').onclick = async () => {
   if (!schedule) return;
   const command = prompt('실행 커맨드', 'echo hello');
   if (!command) return;
+  const description = prompt('작업 설명(한 줄)', '사용자 지정 커맨드를 실행합니다.');
+  if (!description) return;
 
   const result = await api('/jobs', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ topicId: currentTopicId, name, schedule, command }),
+    body: JSON.stringify({ topicId: currentTopicId, name, schedule, command, description }),
   });
 
   notifyWarning(result);
