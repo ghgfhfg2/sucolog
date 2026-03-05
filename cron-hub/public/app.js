@@ -200,6 +200,13 @@ document.getElementById('importBtn').onclick = async () => {
   await loadJobs();
 };
 
+document.getElementById('categorizeBtn').onclick = async () => {
+  const result = await api('/jobs/auto-categorize', { method: 'POST' });
+  alert(`주제 자동분류 완료: ${result.updated}개 작업 분류`);
+  await loadTopics();
+  await loadJobs();
+};
+
 document.getElementById('syncBtn').onclick = async () => {
   const result = await api('/jobs/sync', { method: 'POST' });
   alert(`크론 반영 완료: ${result.jobs}개 활성 잡 적용`);

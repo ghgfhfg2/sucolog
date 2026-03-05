@@ -141,6 +141,17 @@ function collectSources() {
   return sources;
 }
 
+export function suggestTopicByCommand(command = '') {
+  if (command.includes('/etc/cron.hourly') || command.includes('/etc/cron.daily') || command.includes('/etc/cron.weekly') || command.includes('/etc/cron.monthly')) {
+    return '시스템 유지보수';
+  }
+  if (command.includes('e2scrub_all')) return '디스크 점검';
+  if (/backup|dump|snapshot/i.test(command)) return '백업';
+  if (/report|stats|metric/i.test(command)) return '리포트';
+  if (/notify|telegram|slack|mail|sms/i.test(command)) return '알림';
+  return '기타';
+}
+
 function inferDescription(command) {
   if (command.includes('/etc/cron.hourly')) return '서버 기본 시간별 유지보수 작업을 실행합니다.';
   if (command.includes('/etc/cron.daily')) return '서버 기본 일간 유지보수 작업을 실행합니다.';
@@ -161,6 +172,22 @@ function insertJobs(db, rows, done) {
   let imported = 0;
   let skipped = 0;
   let i = 0;
+  const topicCache = new Map();
+
+  const getTopicId = (topicName, cb) => {
+    if (topicCache.has(topicName)) return cb(null, topicCache.get(topicName));
+
+    db.run(`INSERT OR IGNORE INTO topics(name) VALUES (?)`, [topicName], (insertErr) => {
+      if (insertErr) return cb(insertErr);
+
+      db.get(`SELECT id FROM topics WHERE name=? LIMIT 1`, [topicName], (getErr, row) => {
+        if (getErr) return cb(getErr);
+        if (!row?.id) return cb(new Error(`topic not found: ${topicName}`));
+        topicCache.set(topicName, row.id);
+        return cb(null, row.id);
+      });
+    });
+  };
 
   const step = () => {
     if (i >= rows.length) return done(null, { imported, skipped });
@@ -178,21 +205,27 @@ function insertJobs(db, rows, done) {
           return step();
         }
 
-        db.run(
-          `INSERT INTO jobs(topic_id, name, schedule, command, description, enabled)
-           VALUES (1, ?, ?, ?, ?, 1)`,
-          [
-            defaultName(row.command, row.source, row.osUser),
-            row.schedule,
-            row.command,
-            inferDescription(row.command),
-          ],
-          (insertErr) => {
-            if (insertErr) return done(insertErr);
-            imported += 1;
-            return step();
-          }
-        );
+        const topicName = suggestTopicByCommand(row.command);
+        getTopicId(topicName, (topicErr, topicId) => {
+          if (topicErr) return done(topicErr);
+
+          db.run(
+            `INSERT INTO jobs(topic_id, name, schedule, command, description, enabled)
+             VALUES (?, ?, ?, ?, ?, 1)`,
+            [
+              topicId,
+              defaultName(row.command, row.source, row.osUser),
+              row.schedule,
+              row.command,
+              inferDescription(row.command),
+            ],
+            (insertErr) => {
+              if (insertErr) return done(insertErr);
+              imported += 1;
+              return step();
+            }
+          );
+        });
       }
     );
   };

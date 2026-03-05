@@ -1,7 +1,7 @@
 import { Router } from 'express';
 import { db } from '../db.js';
 import { syncManagedCrontab } from '../cronSync.js';
-import { importSystemCrontab } from '../cronImport.js';
+import { importSystemCrontab, suggestTopicByCommand } from '../cronImport.js';
 
 const router = Router();
 
@@ -142,6 +142,49 @@ router.post('/import', (_req, res) => {
 
       return res.json({ ...result, sync: syncResult });
     });
+  });
+});
+
+router.post('/auto-categorize', (_req, res) => {
+  db.all(`SELECT id, command FROM jobs`, [], (err, rows) => {
+    if (err) return res.status(500).json({ error: err.message });
+
+    const topicIds = new Map();
+    let updated = 0;
+
+    const ensureTopic = (name, cb) => {
+      if (topicIds.has(name)) return cb(null, topicIds.get(name));
+
+      db.run(`INSERT OR IGNORE INTO topics(name) VALUES (?)`, [name], (insertErr) => {
+        if (insertErr) return cb(insertErr);
+        db.get(`SELECT id FROM topics WHERE name=? LIMIT 1`, [name], (getErr, row) => {
+          if (getErr) return cb(getErr);
+          if (!row?.id) return cb(new Error(`topic not found: ${name}`));
+          topicIds.set(name, row.id);
+          return cb(null, row.id);
+        });
+      });
+    };
+
+    let i = 0;
+    const step = () => {
+      if (i >= rows.length) return res.json({ total: rows.length, updated });
+
+      const row = rows[i++];
+      const topicName = suggestTopicByCommand(row.command || '');
+
+      ensureTopic(topicName, (topicErr, topicId) => {
+        if (topicErr) return res.status(500).json({ error: topicErr.message });
+
+        db.run(`UPDATE jobs SET topic_id=? WHERE id=?`, [topicId, row.id], (updateErr) => {
+          if (updateErr) return res.status(500).json({ error: updateErr.message });
+          updated += 1;
+          return step();
+        });
+      });
+    };
+
+    step();
   });
 });
 
