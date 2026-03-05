@@ -27,6 +27,64 @@ function formatDate(v) {
   return new Date(v).toLocaleString('ko-KR');
 }
 
+function humanizeSchedule(schedule) {
+  if (!schedule) return '-';
+
+  const p = schedule.trim().split(/\s+/);
+  if (p.length !== 5) return schedule;
+
+  const [m, h, dom, mon, dow] = p;
+  const pad2 = (v) => String(v).padStart(2, '0');
+
+  if (m.startsWith('*/') && h === '*' && dom === '*' && mon === '*' && dow === '*') {
+    return `${m.slice(2)}분마다`;
+  }
+
+  if (m === '*' && h === '*' && dom === '*' && mon === '*' && dow === '*') return '매분';
+
+  if (/^\d+$/.test(m) && h === '*' && dom === '*' && mon === '*' && dow === '*') {
+    return `매시 ${pad2(m)}분`;
+  }
+
+  if (/^\d+$/.test(m) && /^\d+$/.test(h) && dom === '*' && mon === '*' && dow === '*') {
+    return `매일 ${pad2(h)}:${pad2(m)}`;
+  }
+
+  if (/^\d+$/.test(m) && /^\d+$/.test(h) && dom === '*' && mon === '*' && /^\d+$/.test(dow)) {
+    const days = ['일', '월', '화', '수', '목', '금', '토', '일'];
+    return `매주 ${days[Number(dow)]}요일 ${pad2(h)}:${pad2(m)}`;
+  }
+
+  if (/^\d+$/.test(m) && /^\d+$/.test(h) && /^\d+$/.test(dom) && mon === '*' && dow === '*') {
+    return `매월 ${Number(dom)}일 ${pad2(h)}:${pad2(m)}`;
+  }
+
+  return schedule;
+}
+
+function summarizeCommand(command) {
+  if (!command) return '-';
+  if (command.includes('/etc/cron.hourly')) return '시스템 시간별 작업 실행';
+  if (command.includes('/etc/cron.daily')) return '시스템 일간 작업 실행';
+  if (command.includes('/etc/cron.weekly')) return '시스템 주간 작업 실행';
+  if (command.includes('/etc/cron.monthly')) return '시스템 월간 작업 실행';
+  if (command.includes('e2scrub_all_cron')) return '디스크 정기 점검(e2scrub)';
+  if (command.includes('e2scrub_all')) return '디스크 점검(e2scrub)';
+
+  return command.length > 52 ? `${command.slice(0, 52)}...` : command;
+}
+
+function displayName(job) {
+  const cmd = job.command || '';
+  if (cmd.includes('/etc/cron.hourly')) return '시스템 · 시간별 유지보수';
+  if (cmd.includes('/etc/cron.daily')) return '시스템 · 일간 유지보수';
+  if (cmd.includes('/etc/cron.weekly')) return '시스템 · 주간 유지보수';
+  if (cmd.includes('/etc/cron.monthly')) return '시스템 · 월간 유지보수';
+  if (cmd.includes('e2scrub_all_cron')) return '시스템 · e2scrub 주간 점검';
+  if (cmd.includes('e2scrub_all')) return '시스템 · e2scrub 일간 점검';
+  return job.name;
+}
+
 async function loadTopics() {
   topics = await api('/topics');
   if (!currentTopicId && topics.length) currentTopicId = topics[0].id;
@@ -63,8 +121,9 @@ async function loadJobs() {
   jobs.forEach((job) => {
     const tr = document.createElement('tr');
     tr.innerHTML = `
-      <td>${job.name}</td>
-      <td><code>${job.schedule}</code></td>
+      <td><strong>${displayName(job)}</strong><br/><small class="muted">원본: ${job.name}</small></td>
+      <td><strong>${humanizeSchedule(job.schedule)}</strong><br/><small class="muted"><code>${job.schedule}</code></small></td>
+      <td title="${job.command}">${summarizeCommand(job.command)}</td>
       <td><span class="pill ${job.enabled ? 'on' : 'off'}">${job.enabled ? '활성' : '중지'}</span></td>
       <td>${job.lastStatus}</td>
       <td>${formatDate(job.lastRunAt)}</td>
