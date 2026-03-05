@@ -1,9 +1,19 @@
 import { spawnSync } from 'child_process';
+import fs from 'fs';
+import path from 'path';
 
 const START = '# >>> cron-hub managed start >>>';
 const END = '# <<< cron-hub managed end <<<';
 
-function readCrontab() {
+function safeReadFile(filePath) {
+  try {
+    return fs.readFileSync(filePath, 'utf8');
+  } catch (_e) {
+    return '';
+  }
+}
+
+function readCurrentUserCrontab() {
   const result = spawnSync('crontab', ['-l'], { encoding: 'utf8' });
 
   if (result.error) throw new Error(`crontab read failed: ${result.error.message}`);
@@ -33,7 +43,7 @@ function cleanCommand(commandRaw) {
   return (idx >= 0 ? commandRaw.slice(0, idx) : commandRaw).trim();
 }
 
-function parseCrontabLines(text) {
+function parseCrontabLines(text, mode = 'user') {
   const lines = stripManagedBlock(text)
     .split('\n')
     .map((v) => v.trim())
@@ -50,74 +60,155 @@ function parseCrontabLines(text) {
     if (!parts.length) continue;
 
     if (parts[0].startsWith('@')) {
-      if (parts.length < 2) continue;
-      const schedule = parts[0];
-      const command = cleanCommand(parts.slice(1).join(' '));
-      if (!command) continue;
-      jobs.push({ schedule, command });
+      // user crontab: @hourly cmd
+      // system crontab: @hourly user cmd
+      if (mode === 'system') {
+        if (parts.length < 3) continue;
+        const schedule = parts[0];
+        const osUser = parts[1];
+        const command = cleanCommand(parts.slice(2).join(' '));
+        if (!command) continue;
+        jobs.push({ schedule, command, osUser });
+      } else {
+        if (parts.length < 2) continue;
+        const schedule = parts[0];
+        const command = cleanCommand(parts.slice(1).join(' '));
+        if (!command) continue;
+        jobs.push({ schedule, command });
+      }
       continue;
     }
 
-    if (parts.length < 6) continue;
-    const schedule = parts.slice(0, 5).join(' ');
-    const command = cleanCommand(parts.slice(5).join(' '));
-    if (!command) continue;
-    jobs.push({ schedule, command });
+    if (mode === 'system') {
+      // m h dom mon dow user command
+      if (parts.length < 7) continue;
+      const schedule = parts.slice(0, 5).join(' ');
+      const osUser = parts[5];
+      const command = cleanCommand(parts.slice(6).join(' '));
+      if (!command) continue;
+      jobs.push({ schedule, command, osUser });
+    } else {
+      // m h dom mon dow command
+      if (parts.length < 6) continue;
+      const schedule = parts.slice(0, 5).join(' ');
+      const command = cleanCommand(parts.slice(5).join(' '));
+      if (!command) continue;
+      jobs.push({ schedule, command });
+    }
   }
 
   return jobs;
 }
 
-function defaultName(command) {
+function collectSources() {
+  const sources = [];
+
+  sources.push({
+    source: 'user-crontab',
+    mode: 'user',
+    text: readCurrentUserCrontab(),
+  });
+
+  const etcCrontab = safeReadFile('/etc/crontab');
+  if (etcCrontab) {
+    sources.push({
+      source: '/etc/crontab',
+      mode: 'system',
+      text: etcCrontab,
+    });
+  }
+
+  const cronD = '/etc/cron.d';
+  try {
+    const files = fs.readdirSync(cronD, { withFileTypes: true });
+    files
+      .filter((f) => f.isFile() && !f.name.startsWith('.'))
+      .forEach((f) => {
+        const full = path.join(cronD, f.name);
+        const text = safeReadFile(full);
+        if (text) {
+          sources.push({
+            source: full,
+            mode: 'system',
+            text,
+          });
+        }
+      });
+  } catch (_e) {
+    // ignore unreadable /etc/cron.d
+  }
+
+  return sources;
+}
+
+function defaultName(command, source, osUser) {
   const first = command.split(/[\s/]+/).filter(Boolean).pop() || 'job';
-  return `imported:${first}`.slice(0, 120);
+  const prefix = source === 'user-crontab' ? 'imported' : `imported:${osUser || 'system'}`;
+  return `${prefix}:${first}`.slice(0, 120);
+}
+
+function insertJobs(db, rows, done) {
+  let imported = 0;
+  let skipped = 0;
+  let i = 0;
+
+  const step = () => {
+    if (i >= rows.length) return done(null, { imported, skipped });
+
+    const row = rows[i++];
+
+    db.get(
+      `SELECT id FROM jobs WHERE schedule = ? AND command = ? LIMIT 1`,
+      [row.schedule, row.command],
+      (checkErr, exists) => {
+        if (checkErr) return done(checkErr);
+
+        if (exists) {
+          skipped += 1;
+          return step();
+        }
+
+        db.run(
+          `INSERT INTO jobs(topic_id, name, schedule, command, enabled)
+           VALUES (1, ?, ?, ?, 1)`,
+          [defaultName(row.command, row.source, row.osUser), row.schedule, row.command],
+          (insertErr) => {
+            if (insertErr) return done(insertErr);
+            imported += 1;
+            return step();
+          }
+        );
+      }
+    );
+  };
+
+  step();
 }
 
 export function importSystemCrontab(db, done) {
   try {
-    const raw = readCrontab();
-    const parsed = parseCrontabLines(raw);
+    const sources = collectSources();
+    const parsed = [];
+
+    sources.forEach((s) => {
+      const jobs = parseCrontabLines(s.text, s.mode).map((j) => ({ ...j, source: s.source }));
+      parsed.push(...jobs);
+    });
 
     db.serialize(() => {
       db.run(`INSERT OR IGNORE INTO topics(id, name) VALUES (1, '기타')`);
 
-      let imported = 0;
-      let skipped = 0;
-      let i = 0;
+      insertJobs(db, parsed, (err, result) => {
+        if (err) return done(err);
 
-      const step = () => {
-        if (i >= parsed.length) {
-          return done(null, { total: parsed.length, imported, skipped });
-        }
-
-        const row = parsed[i++];
-
-        db.get(
-          `SELECT id FROM jobs WHERE schedule = ? AND command = ? LIMIT 1`,
-          [row.schedule, row.command],
-          (checkErr, exists) => {
-            if (checkErr) return done(checkErr);
-
-            if (exists) {
-              skipped += 1;
-              return step();
-            }
-
-            db.run(
-              `INSERT INTO jobs(topic_id, name, schedule, command, enabled)
-               VALUES (1, ?, ?, ?, 1)`,
-              [defaultName(row.command), row.schedule, row.command],
-              (insertErr) => {
-                if (insertErr) return done(insertErr);
-                imported += 1;
-                return step();
-              }
-            );
-          }
-        );
-      };
-
-      step();
+        const sourceStats = sources.map((s) => ({ source: s.source, mode: s.mode }));
+        return done(null, {
+          total: parsed.length,
+          imported: result.imported,
+          skipped: result.skipped,
+          sources: sourceStats,
+        });
+      });
     });
   } catch (e) {
     return done(e);
