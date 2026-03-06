@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>P2A Login</title>
+    <style>
+      body { margin: 0; font-family: Arial, sans-serif; background: #0b1020; color: #e5e7eb; display:flex; min-height:100vh; align-items:center; justify-content:center; }
+      .card { width: 360px; background:#121a32; border:1px solid #27304d; border-radius:12px; padding:20px; }
+      h1 { margin: 0 0 8px; font-size: 20px; }
+      p { margin: 0 0 14px; color:#94a3b8; font-size: 13px; }
+      input { width:100%; box-sizing:border-box; padding:10px 12px; border-radius:8px; border:1px solid #334155; background:#0f172a; color:#fff; margin-bottom:10px; }
+      button { width:100%; padding:10px 12px; border:0; border-radius:8px; background:#2563eb; color:#fff; cursor:pointer; }
+      .error { color:#f87171; font-size:12px; margin-bottom:10px; }
+    </style>
+  </head>
+  <body>
+    <form class="card" method="post" action="/login">
+      <h1>🔐 P2A 로그인</h1>
+      <p>비밀번호를 입력해야 대시보드에 진입할 수 있습니다.</p>
+      <div id="error" class="error" style="display:none;">비밀번호가 올바르지 않습니다.</div>
+      <input name="password" type="password" placeholder="비밀번호" required />
+      <button type="submit">로그인</button>
+    </form>
+
+    <script>
+      const hasError = new URLSearchParams(window.location.search).get('error');
+      if (hasError) document.getElementById('error').style.display = 'block';
+    </script>
+  </body>
+</html>

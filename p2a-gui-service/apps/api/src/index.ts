@@ -19,18 +19,85 @@ import {
 const app = express();
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
+app.use(express.urlencoded({ extended: false }));
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const publicDir = path.resolve(__dirname, "../public");
 const outputDir = path.resolve(process.env.OUTPUT_DIR ?? "./outputs");
 
-app.use("/files", express.static(outputDir));
-app.use(express.static(publicDir));
+const authPassword = process.env.DASHBOARD_PASSWORD ?? "1693";
+const authCookieName = "p2a_auth";
+
+function parseCookies(cookieHeader?: string) {
+  if (!cookieHeader) return {} as Record<string, string>;
+  return cookieHeader
+    .split(";")
+    .map((part) => part.trim())
+    .filter(Boolean)
+    .reduce<Record<string, string>>((acc, part) => {
+      const idx = part.indexOf("=");
+      if (idx === -1) return acc;
+      const key = decodeURIComponent(part.slice(0, idx));
+      const val = decodeURIComponent(part.slice(idx + 1));
+      acc[key] = val;
+      return acc;
+    }, {});
+}
+
+function isAuthenticated(req: express.Request) {
+  const cookies = parseCookies(req.headers.cookie);
+  return cookies[authCookieName] === "ok";
+}
 
 app.get("/health", (_req, res) => {
   res.json({ ok: true, service: "p2a-api" });
 });
+
+app.get("/login", (req, res) => {
+  if (isAuthenticated(req)) return res.redirect("/");
+  res.sendFile(path.join(publicDir, "login.html"));
+});
+
+app.post("/login", (req, res) => {
+  const password = String(req.body?.password ?? "");
+  if (password !== authPassword) {
+    return res.redirect("/login?error=1");
+  }
+
+  res.setHeader(
+    "Set-Cookie",
+    `${authCookieName}=ok; Path=/; HttpOnly; SameSite=Lax; Max-Age=86400`
+  );
+  return res.redirect("/");
+});
+
+app.post("/logout", (_req, res) => {
+  res.setHeader(
+    "Set-Cookie",
+    `${authCookieName}=; Path=/; HttpOnly; SameSite=Lax; Max-Age=0`
+  );
+  return res.redirect("/login");
+});
+
+app.use((req, res, next) => {
+  if (req.path === "/health" || req.path === "/login") return next();
+
+  if (isAuthenticated(req)) return next();
+
+  if (
+    req.path.startsWith("/jobs") ||
+    req.path.startsWith("/schedules") ||
+    req.path.startsWith("/files")
+  ) {
+    return res.status(401).json({ error: "Unauthorized" });
+  }
+
+  return res.redirect("/login");
+});
+
+app.use("/files", express.static(outputDir));
+app.use(express.static(publicDir));
 
 app.get("/", (_req, res) => {
   res.sendFile(path.join(publicDir, "index.html"));
