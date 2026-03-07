@@ -78,3 +78,9 @@
 - All eligible KO posts converted to EN/JA: ✅
 - SEO validation pass (title/meta/hreflang/internal links/canonical/sitemap): ✅
 - Final completion report sent: 2026-03-07 14:22 KST
+
+## Maintenance updates (2026-03-07 17:23 KST)
+- Recurring worker audit rerun completed for `sooyaBlg`.
+- Eligibility scan result: KO published posts **10**; EN/JA pairs complete **10/10** (remaining **0**).
+- SEO audit spot-check passed for multilingual essentials: localized `title`/`description`, `alternates` (`ko`/`en`/`ja`/`x_default`) + hreflang template compatibility, language `permalink` canonical pattern, localized internal link pattern, and sitemap consistency assumptions.
+- Totals unchanged: converted **10**, remaining **0**.
