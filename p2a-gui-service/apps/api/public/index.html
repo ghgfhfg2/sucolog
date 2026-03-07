@@ -74,6 +74,12 @@
         <input id="stimezone" value="Asia/Seoul" style="width:130px" />
         <button id="createScheduleBtn">스케줄 생성</button>
       </div>
+      <div class="row stack-gap">
+        <select id="recentScheduleSelect" style="min-width:280px; max-width:100%;">
+          <option value="">최근 스케줄 불러오기...</option>
+        </select>
+        <button id="applyRecentScheduleBtn" class="secondary">불러오기</button>
+      </div>
       <div class="small">스케줄 실행은 회당 1개 생성으로 고정됩니다.</div>
       <div class="small" id="scheduleMsg"></div>
     </div>
@@ -126,6 +132,68 @@
       const schedulesBody = document.getElementById('schedulesBody');
       const createMsg = document.getElementById('createMsg');
       const scheduleMsg = document.getElementById('scheduleMsg');
+      const recentScheduleSelect = document.getElementById('recentScheduleSelect');
+      const RECENT_SCHEDULES_KEY = 'p2a_recent_schedules_v1';
+
+      function getRecentSchedules() {
+        try {
+          const raw = localStorage.getItem(RECENT_SCHEDULES_KEY);
+          const parsed = raw ? JSON.parse(raw) : [];
+          return Array.isArray(parsed) ? parsed : [];
+        } catch {
+          return [];
+        }
+      }
+
+      function saveRecentSchedules(items) {
+        localStorage.setItem(RECENT_SCHEDULES_KEY, JSON.stringify(items.slice(0, 10)));
+      }
+
+      function addRecentSchedule(item) {
+        const list = getRecentSchedules();
+        const next = [item, ...list.filter((x) => !(x.prompt === item.prompt && x.cron === item.cron && x.timezone === item.timezone))];
+        saveRecentSchedules(next);
+        renderRecentSchedules();
+      }
+
+      function renderRecentSchedules() {
+        const list = getRecentSchedules();
+        recentScheduleSelect.innerHTML = ['<option value="">최근 스케줄 불러오기...</option>']
+          .concat(list.map((item, idx) => {
+            const promptShort = (item.prompt || '').replace(/\s+/g, ' ').slice(0, 36);
+            const label = `[${item.cron}] ${promptShort}${item.prompt?.length > 36 ? '...' : ''}`;
+            return `<option value="${idx}">${label}</option>`;
+          }))
+          .join('');
+      }
+
+      function applyRecentSchedule() {
+        const idx = Number(recentScheduleSelect.value);
+        if (!Number.isFinite(idx)) return;
+        const list = getRecentSchedules();
+        const item = list[idx];
+        if (!item) return;
+
+        document.getElementById('sprompt').value = item.prompt || '';
+        document.getElementById('sformat').value = item.format || 'json';
+        document.getElementById('stimezone').value = item.timezone || 'Asia/Seoul';
+        document.getElementById('smax').value = item.maxRuns ?? '';
+
+        const preset = document.getElementById('spreset');
+        const cronInput = document.getElementById('scron');
+        const known = Array.from(preset.options).some((opt) => opt.value === item.cron && opt.value !== 'custom');
+        if (known) {
+          preset.value = item.cron;
+          cronInput.style.display = 'none';
+          cronInput.value = item.cron;
+        } else {
+          preset.value = 'custom';
+          cronInput.style.display = 'inline-block';
+          cronInput.value = item.cron || '';
+        }
+
+        scheduleMsg.textContent = '최근 스케줄 설정을 불러왔습니다.';
+      }
 
       async function loadJobs() {
         const res = await fetch('/jobs');
@@ -226,6 +294,14 @@
         }
 
         const schedule = await res.json();
+        addRecentSchedule({
+          prompt,
+          format,
+          cron,
+          timezone,
+          maxRuns: maxRuns ?? null,
+          createdAt: new Date().toISOString()
+        });
         scheduleMsg.textContent = `스케줄 생성됨: ${schedule.id}`;
         await loadSchedules();
       }
@@ -261,6 +337,7 @@
 
       document.getElementById('createBtn').addEventListener('click', createJob);
       document.getElementById('createScheduleBtn').addEventListener('click', createSchedule);
+      document.getElementById('applyRecentScheduleBtn').addEventListener('click', applyRecentSchedule);
       document.getElementById('refreshBtn').addEventListener('click', loadJobs);
       document.getElementById('refreshSchedulesBtn').addEventListener('click', loadSchedules);
 
@@ -280,6 +357,7 @@
         await Promise.all([loadJobs(), loadSchedules()]);
       }
 
+      renderRecentSchedules();
       loadAll();
       setInterval(loadAll, 3000);
     </script>
