@@ -1,6 +1,6 @@
 # Global Blog EN/JA Rollout Progress
 
-- Last updated: 2026-03-07 15:23 KST run
+- Last updated: 2026-03-07 15:53 KST run
 - Target repo: `sooyaBlg`
 - Strategy: subdirectories `/en/` and `/ja/`
 
@@ -55,6 +55,11 @@
 ## Maintenance updates (2026-03-07 15:23 KST)
 - Re-ran rollout audit for eligible KO posts and EN/JA pair completeness.
 - Re-checked multilingual SEO front matter across all converted sets (`title`, `description`, `lang`, `translation_key`, `permalink`, `alternates`) with no mismatches.
+- Totals unchanged: converted **10**, remaining **0**.
+
+## Maintenance updates (2026-03-07 15:53 KST)
+- Re-ran conversion eligibility scan (`lang: ko`, `published != false`) and EN/JA pair completeness audit.
+- Re-checked multilingual SEO consistency (`title`, `description`, `alternates`/`hreflang`, internal localized links, canonical/permalink pattern, sitemap inclusion assumptions).
 - Totals unchanged: converted **10**, remaining **0**.
 
 ## Finalization status
