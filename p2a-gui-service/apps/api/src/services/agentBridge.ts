@@ -112,12 +112,14 @@ function buildGenerationMessage(req: AgentBridgeRequest) {
       "You generate Korean song assets for a backend service.",
       `Generate exactly ${req.outputCount} songs from this request: ${prompt}`,
       "Return ONLY valid JSON.",
-      "Required shape:",
-      '{"items":[{"id":1,"title":"...","lyrics":"...","concept":"..."}]}',
+      "Required shape (exact keys):",
+      '{"items":[{"title":"...","lyrics":"...","styles":"..."}]}',
+      "Do not include any other keys unless explicitly requested.",
       "lyrics must be a full lyric, not a short summary:",
       "- at least 12 lines",
       "- include sections with labels: [Verse 1], [Chorus], [Verse 2], [Bridge], [Chorus]",
       "- each line should feel singable in Korean",
+      "styles should include vocal tone/layer/BPM/dynamics in one concise line.",
       "No markdown fences, no extra explanation."
     ].join("\n");
   }
@@ -130,6 +132,15 @@ function buildGenerationMessage(req: AgentBridgeRequest) {
     "content must be substantial and useful (not one line).",
     "No markdown, no extra commentary."
   ].join("\n");
+}
+
+function normalizeSongItems(items: AgentBridgeResponseItem[]) {
+  return items.map((item) => {
+    const title = String(item.title ?? item.name ?? "Untitled");
+    const lyrics = String(item.lyrics ?? item.content ?? "");
+    const styles = String(item.styles ?? item.style ?? item.concept ?? "");
+    return { title, lyrics, styles };
+  });
 }
 
 async function callOpenClawCli(
@@ -169,14 +180,17 @@ async function callOpenClawCli(
     outer.result?.payloads?.[0]?.text ??
     "";
 
+  const isSong = /노래|가사|lyrics?|song/i.test(req.prompt);
+
   try {
     const parsed = extractJsonPayload(raw) as { items?: AgentBridgeResponseItem[] };
     if (Array.isArray(parsed.items)) {
-      return parsed.items;
+      return isSong ? normalizeSongItems(parsed.items) : parsed.items;
     }
     throw new Error("OpenClaw agent response missing items[]");
   } catch {
-    return fallbackItemsFromText(raw, req.outputCount);
+    const fallback = fallbackItemsFromText(raw, req.outputCount);
+    return isSong ? normalizeSongItems(fallback) : fallback;
   }
 }
 
