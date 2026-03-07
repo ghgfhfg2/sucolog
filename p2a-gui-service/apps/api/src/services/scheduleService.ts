@@ -12,8 +12,9 @@ const tasks = new Map<string, ScheduledTask>();
 function normalizeCronExpression(expr: string) {
   const parts = expr.trim().split(/\s+/);
   // node-cron v4 works best with 6-field expressions (sec min hour day month dow)
-  // Keep user input compatible: if 5 fields are given, prefix second=0.
-  if (parts.length === 5) return `0 ${parts.join(" ")}`;
+  // Keep user input compatible: if 5 fields are given, run at second 10 to avoid
+  // missing exact minute-boundary ticks when event loop is briefly busy.
+  if (parts.length === 5) return `10 ${parts.join(" ")}`;
   return expr;
 }
 

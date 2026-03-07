@@ -62,15 +62,15 @@
           <option value="pdf">pdf</option>
         </select>
         <select id="spreset" style="width:180px" title="실행 주기 선택">
-          <option value="*/5 * * * *">5분마다</option>
-          <option value="*/10 * * * *">10분마다</option>
-          <option value="0 * * * *">매시 정각</option>
-          <option value="0 9 * * *">매일 09:00</option>
-          <option value="0 9 * * 1-5">평일 09:00</option>
-          <option value="0 10 * * 1">매주 월요일 10:00</option>
+          <option value="10 */5 * * * *">5분마다</option>
+          <option value="10 */10 * * * *">10분마다</option>
+          <option value="10 0 * * * *">매시 00분 10초</option>
+          <option value="10 0 9 * * *">매일 09:00:10</option>
+          <option value="10 0 9 * * 1-5">평일 09:00:10</option>
+          <option value="10 0 10 * * 1">매주 월요일 10:00:10</option>
           <option value="custom">직접 입력</option>
         </select>
-        <input id="scron" class="mono" value="*/5 * * * *" style="width:140px; display:none;" title="cron 표현식" placeholder="예: */5 * * * *" />
+        <input id="scron" class="mono" value="10 */5 * * * *" style="width:160px; display:none;" title="cron 표현식" placeholder="예: 10 */5 * * * *" />
         <input id="smax" type="number" min="1" placeholder="maxRuns" style="width:90px" />
         <input id="stimezone" value="Asia/Seoul" style="width:130px" />
         <button id="createScheduleBtn">스케줄 생성</button>
