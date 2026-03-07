@@ -84,3 +84,9 @@
 - Eligibility scan result: KO published posts **10**; EN/JA pairs complete **10/10** (remaining **0**).
 - SEO audit spot-check passed for multilingual essentials: localized `title`/`description`, `alternates` (`ko`/`en`/`ja`/`x_default`) + hreflang template compatibility, language `permalink` canonical pattern, localized internal link pattern, and sitemap consistency assumptions.
 - Totals unchanged: converted **10**, remaining **0**.
+
+## Maintenance updates (2026-03-07 17:53 KST)
+- Recurring worker audit rerun completed for `sooyaBlg`.
+- Eligibility scan result: KO published posts **10**; EN/JA pairs complete **10/10** (remaining **0**).
+- SEO audit rerun passed for multilingual essentials (`title`, localized `description`, `alternates`/hreflang mapping, language permalink canonical pattern, localized internal links, sitemap consistency assumptions).
+- Totals unchanged: converted **10**, remaining **0**.
