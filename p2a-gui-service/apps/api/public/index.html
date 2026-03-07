@@ -54,7 +54,6 @@
         <textarea id="sprompt" placeholder="스케줄에서 사용할 AI 프롬프트를 입력하세요"></textarea>
       </div>
       <div class="row stack-gap">
-        <input id="scount" type="number" min="1" max="1000" value="3" style="width:80px" />
         <select id="sformat">
           <option value="json">json</option>
           <option value="csv">csv</option>
@@ -75,6 +74,7 @@
         <input id="stimezone" value="Asia/Seoul" style="width:130px" />
         <button id="createScheduleBtn">스케줄 생성</button>
       </div>
+      <div class="small">스케줄 실행은 회당 1개 생성으로 고정됩니다.</div>
       <div class="small" id="scheduleMsg"></div>
     </div>
 
@@ -197,7 +197,7 @@
 
       async function createSchedule() {
         const prompt = document.getElementById('sprompt').value.trim();
-        const outputCount = Number(document.getElementById('scount').value);
+        const outputCount = 1;
         const format = document.getElementById('sformat').value;
         const preset = document.getElementById('spreset').value;
         const customCron = document.getElementById('scron').value.trim();
