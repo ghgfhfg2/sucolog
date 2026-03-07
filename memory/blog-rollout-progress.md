@@ -1,37 +1,44 @@
 # Global Blog EN/JA Rollout Progress
 
-- Last updated: 2026-03-07 13:22 KST run
+- Last updated: 2026-03-07 13:52 KST run
 - Target repo: `sooyaBlg`
 - Strategy: subdirectories `/en/` and `/ja/`
 
 ## Current totals
 - Eligible Korean source posts (published=true): **10**
-- Fully converted (EN+JA published): **5**
-- Remaining Korean posts to convert: **5**
+- Fully converted (EN+JA published): **10**
+- Remaining Korean posts to convert: **0**
 
 ## Completed in this run
-- Source: `2026-03-03-shell-command-safety-context-for-dev-guides.md`
-  - Published: `2026-03-03-shell-command-safety-context-for-dev-guides-en.md`
-  - Published: `2026-03-03-shell-command-safety-context-for-dev-guides-ja.md`
-- Source: `2026-03-04-dependency-version-pinning-guide-for-seo-trust.md`
-  - Published: `2026-03-04-dependency-version-pinning-guide-for-seo-trust-en.md`
-  - Published: `2026-03-04-dependency-version-pinning-guide-for-seo-trust-ja.md`
+- Source: `2026-02-28-jekyll-drafts-vs-published-false.md`
+  - Published: `2026-02-28-jekyll-drafts-vs-published-false-en.md`
+  - Published: `2026-02-28-jekyll-drafts-vs-published-false-ja.md`
+- Source: `2026-03-01-reproducible-code-example-checklist.md`
+  - Published: `2026-03-01-reproducible-code-example-checklist-en.md`
+  - Published: `2026-03-01-reproducible-code-example-checklist-ja.md`
+- Source: `2026-03-02-api-error-troubleshooting-context.md`
+  - Published: `2026-03-02-api-error-troubleshooting-context-en.md`
+  - Published: `2026-03-02-api-error-troubleshooting-context-ja.md`
+- Source: `2026-03-02-cli-output-sanitizing-guide.md`
+  - Published: `2026-03-02-cli-output-sanitizing-guide-en.md`
+  - Published: `2026-03-02-cli-output-sanitizing-guide-ja.md`
+- Source: `2026-03-03-log-example-sanitization-for-trustworthy-dev-posts.md`
+  - Published: `2026-03-03-log-example-sanitization-for-trustworthy-dev-posts-en.md`
+  - Published: `2026-03-03-log-example-sanitization-for-trustworthy-dev-posts-ja.md`
 
 ## Previously completed
 - `2026-02-28-first-post.md` → EN/JA published
+- `2026-03-03-shell-command-safety-context-for-dev-guides.md` → EN/JA published
+- `2026-03-04-dependency-version-pinning-guide-for-seo-trust.md` → EN/JA published
 - `2026-03-05-http-request-timeout-and-fail-fast-guide.md` → EN/JA published
 - `2026-03-06-npm-ci-lockfile-reproducible-build-guide.md` → EN/JA published
 
 ## SEO checks applied this run
-- Added localized `title` and `description` metadata for EN/JA posts
-- Added/verified `lang`, `translation_key`, language-specific `permalink`, and `alternates` (`ko`/`en`/`ja`/`x_default`) across KO/EN/JA sets
-- Verified internal links in EN/JA point to localized `/en/` and `/ja/` paths where targets exist
-- Confirmed hreflang output compatibility with `_includes/head-custom.html`
-- Canonical/sitemap consistency kept via Jekyll SEO + sitemap defaults with per-language permalinks
+- Added localized EN/JA `title` + `description` (localized phrasing, not literal MT) for all five translated post sets
+- Added/verified `lang`, `translation_key`, language-specific `permalink`, and `alternates` (`ko`/`en`/`ja`/`x_default`) on KO/EN/JA files
+- Updated internal links in EN/JA posts to localized `/en/` and `/ja/` destinations where localized targets exist
+- Verified canonical behavior remains consistent through Jekyll SEO tags with language-specific permalinks
+- Confirmed sitemap consistency is maintained because translated posts are now published with stable localized permalinks
 
 ## Remaining queue
-- 2026-02-28-jekyll-drafts-vs-published-false.md
-- 2026-03-01-reproducible-code-example-checklist.md
-- 2026-03-02-api-error-troubleshooting-context.md
-- 2026-03-02-cli-output-sanitizing-guide.md
-- 2026-03-03-log-example-sanitization-for-trustworthy-dev-posts.md
+- None
