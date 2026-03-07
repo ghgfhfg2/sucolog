@@ -8,6 +8,14 @@ import { jobStore } from "./jobStore.js";
 const schedules = new Map<string, ScheduleRecord>();
 const tasks = new Map<string, ScheduledTask>();
 
+function normalizeCronExpression(expr: string) {
+  const parts = expr.trim().split(/\s+/);
+  // node-cron v4 works best with 6-field expressions (sec min hour day month dow)
+  // Keep user input compatible: if 5 fields are given, prefix second=0.
+  if (parts.length === 5) return `0 ${parts.join(" ")}`;
+  return expr;
+}
+
 function shouldStop(schedule: ScheduleRecord) {
   if (schedule.maxRuns && schedule.runCount >= schedule.maxRuns) return true;
   if (schedule.endAt && new Date(schedule.endAt).getTime() <= Date.now()) return true;
@@ -60,7 +68,7 @@ async function triggerSchedule(scheduleId: string) {
 
 function createTask(schedule: ScheduleRecord) {
   const task = cron.schedule(
-    schedule.cron,
+    normalizeCronExpression(schedule.cron),
     () => {
       void triggerSchedule(schedule.id);
     },
