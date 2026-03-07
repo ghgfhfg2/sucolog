@@ -1,6 +1,6 @@
 # Global Blog EN/JA Rollout Progress
 
-- Last updated: 2026-03-07 14:53 KST run
+- Last updated: 2026-03-07 15:23 KST run
 - Target repo: `sooyaBlg`
 - Strategy: subdirectories `/en/` and `/ja/`
 
@@ -50,6 +50,11 @@
   - `2026-03-06-npm-ci-lockfile-reproducible-build-guide-en.md`
   - `2026-03-05-http-request-timeout-and-fail-fast-guide-ja.md`
   - `2026-03-06-npm-ci-lockfile-reproducible-build-guide-ja.md`
+- Totals unchanged: converted **10**, remaining **0**.
+
+## Maintenance updates (2026-03-07 15:23 KST)
+- Re-ran rollout audit for eligible KO posts and EN/JA pair completeness.
+- Re-checked multilingual SEO front matter across all converted sets (`title`, `description`, `lang`, `translation_key`, `permalink`, `alternates`) with no mismatches.
 - Totals unchanged: converted **10**, remaining **0**.
 
 ## Finalization status
