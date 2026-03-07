@@ -153,6 +153,22 @@ export function resumeSchedule(id: string) {
   return next;
 }
 
+export function removeSchedule(id: string) {
+  const schedule = schedules.get(id);
+  if (!schedule) return undefined;
+
+  const task = tasks.get(id);
+  if (task) {
+    task.stop();
+    task.destroy();
+    tasks.delete(id);
+  }
+
+  schedules.delete(id);
+  persistSchedules();
+  return schedule;
+}
+
 for (const schedule of loadSchedules()) {
   schedules.set(schedule.id, schedule);
 }

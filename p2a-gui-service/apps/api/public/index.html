@@ -162,7 +162,7 @@
             <td>
               ${s.status === 'active' ? `<button class="secondary" onclick="pauseSchedule('${s.id}')">pause</button>` : ''}
               ${s.status === 'paused' ? `<button onclick="resumeSchedule('${s.id}')">resume</button>` : ''}
-              ${s.status === 'completed' ? '-' : ''}
+              <button class="secondary" onclick="deleteSchedule('${s.id}')">삭제</button>
             </td>
           </tr>
         `).join('');
@@ -247,9 +247,17 @@
         await loadSchedules();
       }
 
+      async function deleteSchedule(id) {
+        const ok = confirm('이 스케줄을 삭제할까요?');
+        if (!ok) return;
+        await fetch(`/schedules/${id}`, { method: 'DELETE' });
+        await loadSchedules();
+      }
+
       window.deleteJob = deleteJob;
       window.pauseSchedule = pauseSchedule;
       window.resumeSchedule = resumeSchedule;
+      window.deleteSchedule = deleteSchedule;
 
       document.getElementById('createBtn').addEventListener('click', createJob);
       document.getElementById('createScheduleBtn').addEventListener('click', createSchedule);

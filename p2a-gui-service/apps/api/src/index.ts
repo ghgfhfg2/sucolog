@@ -13,6 +13,7 @@ import {
   getSchedule,
   listSchedules,
   pauseSchedule,
+  removeSchedule,
   resumeSchedule
 } from "./services/scheduleService.js";
 
@@ -179,6 +180,12 @@ app.post("/schedules/:id/resume", (req, res) => {
   const item = resumeSchedule(req.params.id);
   if (!item) return res.status(404).json({ error: "Not found or not paused" });
   res.json(item);
+});
+
+app.delete("/schedules/:id", (req, res) => {
+  const deleted = removeSchedule(req.params.id);
+  if (!deleted) return res.status(404).json({ error: "Not found" });
+  return res.status(204).send();
 });
 
 const port = Number(process.env.PORT ?? 4000);
