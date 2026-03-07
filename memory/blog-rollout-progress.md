@@ -62,6 +62,12 @@
 - Re-checked multilingual SEO consistency (`title`, `description`, `alternates`/`hreflang`, internal localized links, canonical/permalink pattern, sitemap inclusion assumptions).
 - Totals unchanged: converted **10**, remaining **0**.
 
+## Maintenance updates (2026-03-07 16:23 KST)
+- Cron rerun audit completed for `sooyaBlg`.
+- Eligible KO source posts: **10**; EN/JA pairs complete for all: **10/10**.
+- SEO audit rerun passed for all converted sets (`title`, localized `description`, `alternates`/`hreflang`, language `permalink`/canonical pattern, and sitemap inclusion assumptions).
+- Totals unchanged: converted **10**, remaining **0**.
+
 ## Finalization status
 - All eligible KO posts converted to EN/JA: ✅
 - SEO validation pass (title/meta/hreflang/internal links/canonical/sitemap): ✅
