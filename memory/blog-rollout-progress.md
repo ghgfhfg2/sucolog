@@ -1,6 +1,6 @@
 # Global Blog EN/JA Rollout Progress
 
-- Last updated: 2026-03-07 15:53 KST run
+- Last updated: 2026-03-07 16:53 KST run
 - Target repo: `sooyaBlg`
 - Strategy: subdirectories `/en/` and `/ja/`
 
@@ -66,6 +66,12 @@
 - Cron rerun audit completed for `sooyaBlg`.
 - Eligible KO source posts: **10**; EN/JA pairs complete for all: **10/10**.
 - SEO audit rerun passed for all converted sets (`title`, localized `description`, `alternates`/`hreflang`, language `permalink`/canonical pattern, and sitemap inclusion assumptions).
+- Totals unchanged: converted **10**, remaining **0**.
+
+## Maintenance updates (2026-03-07 16:53 KST)
+- Recurring worker rerun completed for `sooyaBlg`.
+- Eligibility scan result: KO published posts **10**; EN/JA pairs complete **10/10** (remaining **0**).
+- SEO spot-check rerun passed (`title`, `description`, `alternates`/`hreflang`, language `permalink` canonical pattern, localized internal link pattern, sitemap inclusion assumptions).
 - Totals unchanged: converted **10**, remaining **0**.
 
 ## Finalization status
