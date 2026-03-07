@@ -80,7 +80,8 @@ function createTask(schedule: ScheduleRecord) {
       void triggerSchedule(schedule.id);
     },
     {
-      timezone: schedule.timezone
+      timezone: schedule.timezone,
+      noOverlap: true
     }
   );
   tasks.set(schedule.id, task);
@@ -106,6 +107,10 @@ export function createSchedule(input: CreateScheduleInput) {
 
   schedules.set(id, schedule);
   createTask(schedule);
+  // 첫 생성 직후 1회 즉시 실행 (사용자 체감 개선)
+  queueMicrotask(() => {
+    void triggerSchedule(id);
+  });
   persistSchedules();
   return schedule;
 }
