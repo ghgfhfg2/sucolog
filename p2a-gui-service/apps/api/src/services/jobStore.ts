@@ -1,10 +1,20 @@
 import type { JobRecord } from "../types/job.js";
+import { loadJobs, saveJobs } from "./stateStore.js";
 
 const jobs = new Map<string, JobRecord>();
+
+for (const item of loadJobs()) {
+  jobs.set(item.id, item);
+}
+
+function persistJobs() {
+  saveJobs([...jobs.values()]);
+}
 
 export const jobStore = {
   create(job: JobRecord) {
     jobs.set(job.id, job);
+    persistJobs();
     return job;
   },
   update(id: string, patch: Partial<JobRecord>) {
@@ -12,6 +22,7 @@ export const jobStore = {
     if (!current) return undefined;
     const next = { ...current, ...patch, updatedAt: new Date().toISOString() };
     jobs.set(id, next);
+    persistJobs();
     return next;
   },
   get(id: string) {
@@ -21,6 +32,7 @@ export const jobStore = {
     const existing = jobs.get(id);
     if (!existing) return undefined;
     jobs.delete(id);
+    persistJobs();
     return existing;
   },
   list() {

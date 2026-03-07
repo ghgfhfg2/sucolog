@@ -4,6 +4,7 @@ import { enqueueGeneration } from "../queue/queues.js";
 import type { CreateScheduleInput, ScheduleRecord } from "../types/schedule.js";
 import type { JobRecord } from "../types/job.js";
 import { jobStore } from "./jobStore.js";
+import { loadSchedules, saveSchedules } from "./stateStore.js";
 
 const schedules = new Map<string, ScheduleRecord>();
 const tasks = new Map<string, ScheduledTask>();
@@ -14,6 +15,10 @@ function normalizeCronExpression(expr: string) {
   // Keep user input compatible: if 5 fields are given, prefix second=0.
   if (parts.length === 5) return `0 ${parts.join(" ")}`;
   return expr;
+}
+
+function persistSchedules() {
+  saveSchedules([...schedules.values()]);
 }
 
 function shouldStop(schedule: ScheduleRecord) {
@@ -60,6 +65,7 @@ async function triggerSchedule(scheduleId: string) {
     lastRunAt: now,
     updatedAt: now
   });
+  persistSchedules();
 
   if (status === "completed") {
     pauseSchedule(scheduleId, true);
@@ -99,6 +105,7 @@ export function createSchedule(input: CreateScheduleInput) {
 
   schedules.set(id, schedule);
   createTask(schedule);
+  persistSchedules();
   return schedule;
 }
 
@@ -127,6 +134,7 @@ export function pauseSchedule(id: string, completed = false) {
     updatedAt: new Date().toISOString()
   };
   schedules.set(id, next);
+  persistSchedules();
   return next;
 }
 
@@ -141,5 +149,19 @@ export function resumeSchedule(id: string) {
   };
   schedules.set(id, next);
   createTask(next);
+  persistSchedules();
   return next;
+}
+
+for (const schedule of loadSchedules()) {
+  schedules.set(schedule.id, schedule);
+}
+
+for (const schedule of schedules.values()) {
+  if (schedule.status !== "active") continue;
+  if (shouldStop(schedule)) {
+    pauseSchedule(schedule.id, true);
+    continue;
+  }
+  createTask(schedule);
 }
