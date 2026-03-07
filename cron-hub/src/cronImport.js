@@ -141,6 +141,69 @@ function collectSources() {
   return sources;
 }
 
+function readOpenClawJobsFile() {
+  const candidates = [
+    process.env.OPENCLAW_STATE_DIR
+      ? path.join(process.env.OPENCLAW_STATE_DIR, 'cron', 'jobs.json')
+      : null,
+    path.join(process.env.HOME || '', '.openclaw', 'cron', 'jobs.json'),
+  ].filter(Boolean);
+
+  for (const file of candidates) {
+    try {
+      const raw = fs.readFileSync(file, 'utf8');
+      const parsed = JSON.parse(raw);
+      if (Array.isArray(parsed?.jobs)) {
+        return { source: file, jobs: parsed.jobs };
+      }
+    } catch (_e) {
+      // try next candidate
+    }
+  }
+
+  return { source: null, jobs: [] };
+}
+
+function normalizeOpenClawSchedule(schedule) {
+  if (!schedule || typeof schedule !== 'object') return null;
+
+  if (schedule.kind === 'cron' && schedule.expr) {
+    return schedule.expr.trim();
+  }
+
+  if (schedule.kind === 'every' && Number.isFinite(schedule.everyMs)) {
+    const sec = Math.max(1, Math.round(schedule.everyMs / 1000));
+    return `@every ${sec}s`;
+  }
+
+  return null;
+}
+
+function collectOpenClawRows() {
+  const { source, jobs } = readOpenClawJobsFile();
+  if (!jobs.length) return { rows: [], source: null };
+
+  const rows = jobs
+    .map((job) => {
+      const schedule = normalizeOpenClawSchedule(job.schedule);
+      const command = (job?.payload?.message || '').trim();
+      if (!schedule || !command) return null;
+
+      return {
+        schedule,
+        command,
+        source,
+        osUser: 'openclaw',
+        enabled: job.enabled === false ? 0 : 1,
+        importedName: job.name || null,
+        importedDescription: job.description || null,
+      };
+    })
+    .filter(Boolean);
+
+  return { rows, source };
+}
+
 export function suggestTopicByCommand(command = '') {
   if (command.includes('/etc/cron.hourly') || command.includes('/etc/cron.daily') || command.includes('/etc/cron.weekly') || command.includes('/etc/cron.monthly')) {
     return '시스템 유지보수';
@@ -211,13 +274,14 @@ function insertJobs(db, rows, done) {
 
           db.run(
             `INSERT INTO jobs(topic_id, name, schedule, command, description, enabled)
-             VALUES (?, ?, ?, ?, ?, 1)`,
+             VALUES (?, ?, ?, ?, ?, ?)`,
             [
               topicId,
-              defaultName(row.command, row.source, row.osUser),
+              (row.importedName || defaultName(row.command, row.source, row.osUser)).slice(0, 120),
               row.schedule,
               row.command,
-              inferDescription(row.command),
+              row.importedDescription || inferDescription(row.command),
+              row.enabled ?? 1,
             ],
             (insertErr) => {
               if (insertErr) return done(insertErr);
@@ -239,9 +303,12 @@ export function importSystemCrontab(db, done) {
     const parsed = [];
 
     sources.forEach((s) => {
-      const jobs = parseCrontabLines(s.text, s.mode).map((j) => ({ ...j, source: s.source }));
+      const jobs = parseCrontabLines(s.text, s.mode).map((j) => ({ ...j, source: s.source, enabled: 1 }));
       parsed.push(...jobs);
     });
+
+    const openClaw = collectOpenClawRows();
+    parsed.push(...openClaw.rows);
 
     db.serialize(() => {
       db.run(`INSERT OR IGNORE INTO topics(id, name) VALUES (1, '기타')`);
@@ -250,6 +317,10 @@ export function importSystemCrontab(db, done) {
         if (err) return done(err);
 
         const sourceStats = sources.map((s) => ({ source: s.source, mode: s.mode }));
+        if (openClaw.source) {
+          sourceStats.push({ source: openClaw.source, mode: 'openclaw-json' });
+        }
+
         return done(null, {
           total: parsed.length,
           imported: result.imported,
