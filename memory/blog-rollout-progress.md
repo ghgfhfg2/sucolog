@@ -1,19 +1,22 @@
 # Global Blog EN/JA Rollout Progress
 
-- Last updated: 2026-03-07 11:52 KST run
+- Last updated: 2026-03-07 12:22 KST run
 - Target repo: `sooyaBlg`
 - Strategy: subdirectories `/en/` and `/ja/`
 
 ## Current totals
 - Eligible Korean source posts: **11**
-- Fully converted (EN+JA both published): **1**
-- Remaining Korean posts to convert: **10**
+- Fully converted (EN+JA both published): **2**
+- Remaining Korean posts to convert: **9**
 
 ## Completed in this run
-- Source: `2026-03-06-npm-ci-lockfile-reproducible-build-guide.md`
+- Source: `2026-03-05-http-request-timeout-and-fail-fast-guide.md`
 - Published:
-  - `2026-03-06-npm-ci-lockfile-reproducible-build-guide-en.md` (`/en/...`)
-  - `2026-03-06-npm-ci-lockfile-reproducible-build-guide-ja.md` (`/ja/...`)
+  - `2026-03-05-http-request-timeout-and-fail-fast-guide-en.md` (`/en/...`)
+  - `2026-03-05-http-request-timeout-and-fail-fast-guide-ja.md` (`/ja/...`)
+
+## Previously completed
+- `2026-03-06-npm-ci-lockfile-reproducible-build-guide.md` → EN/JA published
 
 ## SEO checks applied
 - Added per-language localized `title` + `description` in front matter
@@ -22,6 +25,7 @@
 - Added `sooyaBlg/_includes/head-custom.html` for `hreflang` link output (`ko`, `en`, `ja`, `x-default`)
 - Internal links reviewed; related links kept consistent (KO canonical targets used where localized targets are not yet available)
 - Canonical/sitemap consistency: kept Jekyll SEO + sitemap plugin defaults, now with language-specific permalinks
+- This run validation: KO/EN/JA front matter all include `lang`, localized metadata, matching alternates, and stable per-language permalinks for the `http-request-timeout-and-fail-fast-guide` set
 
 ## Remaining queue
 - 2026-02-28-first-post.md
@@ -33,4 +37,3 @@
 - 2026-03-03-log-example-sanitization-for-trustworthy-dev-posts.md
 - 2026-03-03-shell-command-safety-context-for-dev-guides.md
 - 2026-03-04-dependency-version-pinning-guide-for-seo-trust.md
-- 2026-03-05-http-request-timeout-and-fail-fast-guide.md
