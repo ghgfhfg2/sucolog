@@ -1,6 +1,6 @@
 # Global Blog EN/JA Rollout Progress
 
-- Last updated: 2026-03-07 14:22 KST run
+- Last updated: 2026-03-07 14:53 KST run
 - Target repo: `sooyaBlg`
 - Strategy: subdirectories `/en/` and `/ja/`
 
@@ -42,6 +42,15 @@
 
 ## Remaining queue
 - None
+
+## Maintenance updates (2026-03-07 14:53 KST)
+- Re-checked EN/JA internal links for localized path consistency.
+- Fixed 8 links in the following posts to use language subdirectories (`/en/`, `/ja/`) instead of KO default paths:
+  - `2026-03-05-http-request-timeout-and-fail-fast-guide-en.md`
+  - `2026-03-06-npm-ci-lockfile-reproducible-build-guide-en.md`
+  - `2026-03-05-http-request-timeout-and-fail-fast-guide-ja.md`
+  - `2026-03-06-npm-ci-lockfile-reproducible-build-guide-ja.md`
+- Totals unchanged: converted **10**, remaining **0**.
 
 ## Finalization status
 - All eligible KO posts converted to EN/JA: ✅
