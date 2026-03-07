@@ -84,6 +84,12 @@ function createTask(schedule: ScheduleRecord) {
       noOverlap: true
     }
   );
+
+  task.on("execution:missed", () => {
+    // WSL/loaded event-loop 환경에서 스케줄 tick을 놓치는 경우가 있어 보완 실행
+    void triggerSchedule(schedule.id);
+  });
+
   tasks.set(schedule.id, task);
 }
 
