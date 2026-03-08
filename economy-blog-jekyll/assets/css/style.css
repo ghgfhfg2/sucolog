@@ -109,8 +109,10 @@ a:hover{text-decoration:underline}
   margin-right:6px;
 }
 
+.post-content{overflow-wrap:anywhere;word-break:break-word}
 .post-content h2,.post-content h3{margin-top:1.4em}
 .post-content ul{padding-left:20px}
+.post-content a{word-break:break-all}
 
 .disclaimer-box{
   margin-top:28px;
