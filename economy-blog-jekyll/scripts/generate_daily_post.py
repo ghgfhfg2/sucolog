@@ -19,12 +19,29 @@ def slugify(text: str) -> str:
     return t[:40]
 
 
-def pick_topic(payload):
+def pick_topic(payload, recent_slugs=None):
     topics = payload.get("hot_topics", [])
+    recent_slugs = set(recent_slugs or [])
+
+    # 1) 품질 조건 + 최근 중복 회피
+    for t in topics:
+        kw = t.get("keyword", "")
+        if not kw:
+            continue
+        if kw.lower() in {"경제", "시장", "뉴스"}:
+            continue
+        if len(t.get("articles", [])) < 2:
+            continue
+        if slugify(kw) in recent_slugs:
+            continue
+        return t
+
+    # 2) 최근 중복만 예외로 하고 품질 조건 우선
     for t in topics:
         kw = t.get("keyword", "")
         if kw and kw.lower() not in {"경제", "시장", "뉴스"} and len(t.get("articles", [])) >= 2:
             return t
+
     return topics[0] if topics else None
 
 
@@ -98,7 +115,15 @@ def main():
         raise SystemExit("hot_topics.json not found. Run hot_topics.py first.")
 
     payload = json.loads(DATA.read_text(encoding="utf-8"))
-    topic = pick_topic(payload)
+
+    # 최근 3개 글의 slug를 수집해서 같은 주제 반복 발행을 줄인다.
+    recent_slugs = []
+    for p in sorted(POSTS.glob("*.md"), reverse=True)[:3]:
+        m = re.match(r"^\d{4}-\d{2}-\d{2}-(.+)\.md$", p.name)
+        if m:
+            recent_slugs.append(m.group(1))
+
+    topic = pick_topic(payload, recent_slugs=recent_slugs)
     if not topic:
         raise SystemExit("No topic available.")
 
