@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-03-08T01:49:28.042741+00:00",
+  "generated_at": "2026-03-08T04:40:48.670265+00:00",
   "source_count": 4,
-  "article_count": 382,
+  "article_count": 380,
   "top_keywords": [
     {
       "keyword": "유가",
-      "score": 214.48
+      "score": 230.47
     },
     {
       "keyword": "daum",
-      "score": 133.05
+      "score": 172.64
     },
     {
       "keyword": "net",
-      "score": 133.05
-    },
-    {
-      "keyword": "중동",
-      "score": 111.56
+      "score": 172.64
     },
     {
       "keyword": "금리",
-      "score": 106.0
-    },
-    {
-      "keyword": "환율",
-      "score": 84.58
+      "score": 114.37
     },
     {
       "keyword": "인하",
-      "score": 79.94
+      "score": 102.95
+    },
+    {
+      "keyword": "환율",
+      "score": 100.21
+    },
+    {
+      "keyword": "수출",
+      "score": 89.33
+    },
+    {
+      "keyword": "중동",
+      "score": 88.01
     },
     {
       "keyword": "물가",
-      "score": 66.67
+      "score": 81.39
     },
     {
-      "keyword": "국제유가",
-      "score": 66.23
+      "keyword": "KB국민은행",
+      "score": 73.55
     },
     {
-      "keyword": "이란",
-      "score": 66.13
-    },
-    {
-      "keyword": "네이트",
-      "score": 61.36
+      "keyword": "새희망홀씨",
+      "score": 73.32
     },
     {
       "keyword": "1%p",
-      "score": 59.94
+      "score": 64.32
     }
   ],
   "hot_topics": [
     {
       "keyword": "유가",
-      "score": 214.48,
+      "score": 230.47,
       "articles": [
         {
-          "title": "국힘, 중동발 유가 폭등에 \"李, 시장 겁박보다 구조적 해법 주력해야\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNGE2OUt5NUU2T2w4MDNiZG5jMmhQNVc2YXNXc2p6dkNORXBrV3RRdUJkWGpidnlZbkp3UDdzRF93bkNCM0tYN3cxbjNnQlZob0RndnU2MWxsQQ?oc=5",
-          "published_at": "2026-03-08T01:39:51+00:00"
+          "title": "호르무즈 봉쇄에 국제유가 폭등, 중소형 정유·에너지주엔 ‘훈풍’ - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50ellUbExHMDN0YlZQNS15MjdtR1k1VGFaendvU2FIQ2pLR1JpNWxTcGR1RWdhZjBXQmwtNFpIeDJJTUlBbGtQdUVVaXFTcDBz?oc=5",
+          "published_at": "2026-03-08T04:35:25+00:00"
         },
         {
-          "title": "국제유가 출렁... 농협 300억원 투입 유가 인상 최소화 - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SY210YVZ1N3ZPalZCOVQxTVREWFQyNTZrZGh2d3FsOGthVmY2eDVXZFc2dzItbUlaMVdjQkZ3VDNZNHg0ZnZOa0xoSXhsS0E5MlZ2Q3FqX2VpNU5mLVJJdmtfM3lValdQdmg4?oc=5",
-          "published_at": "2026-03-08T01:28:28+00:00"
+          "title": "[서환-주간] 모든 걸 다 잡아먹는 '유가 변수' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByMzl5dVhwY2pDR1ZKYVlyeVdfSUpMcTI0U2FKN3RGMlQya0kwUWZiYllZRGpwaUZPN2xrSEdQQ29SSTFpOFRWVmpnZnJoMjhZR1NZaFV4ZUpjemlQeDBDS25ZdFF4MHpjRVFabHhvdnE?oc=5",
+          "published_at": "2026-03-08T04:00:09+00:00"
         },
         {
-          "title": "국민의힘, 중동발 유가 폭등에 “정부 대책 근시안적… 국가적 로드맵 공개해야” - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Qclp5TElMUE5QMEpBaERlLWJpd0FibENza3ltTDUtMS1POXJUNnJ3ODdRdVFrdlpwZ0luS1NOYW1FaUt1YldEM0dhcFl3bWtzaWRSVXc3dDUwYy1CY3QwQWxwRTJnT0hyWmc?oc=5",
-          "published_at": "2026-03-08T01:25:31+00:00"
+          "title": "[중동사태와 유가] '100달러' 임박…스태그플레이션 우려↑ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tN0M4MlE4NW94Ujd1cVdQMEN1THZfbzJwWTZERTBSY1MwXzRQWDQ4amoxVkxCcFhKcFFqQkFHTEJId3BIZ01TWVA2Q2s0Tm5mcXFDN05RV21xV1FSZVJTZy04cHdFUThKck04RVRrSW0?oc=5",
+          "published_at": "2026-03-08T04:00:07+00:00"
         },
         {
-          "title": "강호동 농협 회장, 농가 유가 부담 완화 총력 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIdDFmbkNRXzdtX3JxTWlmcmdyTDRtYUI3R0dzN0RQT1ZGLUFuR0JKTW9MMTZxVVFsV2dQM1NibF8zVHhESG8tSGpuMFdKSno0UF9Rd25UblpubFN6MU04OWh3SjQ0dVVBU3JsNG1Qd1Y?oc=5",
-          "published_at": "2026-03-08T01:25:08+00:00"
+          "title": "[중동사태와 유가] 美 증시 불안 언제까지 이어질까 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiT0xsTW02R3pVNDJsb2J4b3BYb3h0YmdIZHkta2lnUEw2WHc5YTdJcWo5RUI5VnUwS3FlcVNrbHc1QzNlOE9MZEFubTBOZ0gtNDBZZGxlMGJzTS1Jc21DQTktbGFXNURFVU5FYm1oSXrSAXRBVV95cUxQQkRHTUozM0JkRG9rYTU0X3I2YTF5bDZmYmhNZWE0bTFyMHBfYm51UENtQ0dXZlJyRjd2T09aZUR5UnJER0xyVDJ1blZ0dldrenFkbHZUWkhRUzhwZVZEaTVoZVBqclRqcUZpSnNTZFNGbjRSZA?oc=5",
+          "published_at": "2026-03-08T04:00:05+00:00"
         },
         {
-          "title": "‘물가 잡기’ 사활 걸었던 정부, 유가 급등에 초비상 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQi1TMzRINmtScWlROGRZNWVtRmRXWkdwMzNaSWltVC1xeTkyNExOREx1bklUMDd4S3RWQllobEx0NDRlRzN5SXQ3QXdIYTVIN2VlS1JGUkFHTVk5Zm5iUzZQRWo5N2JGN3B6Q3dmODd4SXZpSDM2eEZpNkN0cmJBeEt3NWxnaUVvV0FXNE930gGiAUFVX3lxTFA4VHZQeHh6UTBiZXV6bThrY3VGVVZvT2RucVhZZjNwWktXMTJLNktTS1NVeXpFNXZKSUNZZHNTZGlMYy1VaUo3YkppU2RwVFBnbHZ5eW1YSFRFMnRRaThHUkZ3MlI0bFZtT1hkV3dZSWlpWjYyTXg3cnNqcktIYllQM1pvWTEzNzdlY2UyeDBGYWVJTmpDa2wxalZyRVRLMzJIdw?oc=5",
-          "published_at": "2026-03-08T01:24:05+00:00"
+          "title": "농협, 300억원 투입해 국제 유가 부담 인상 최소화 - 디스커버리뉴스(DISCOVERYNEWS)",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vaXJZRWpVNldnTFhJekkxSVI4X0JSUzZUclpZSm91cXZUQUd6a2MwUDB5SDdURnJkeGZrWVZVWXJqbTFwaldzZXN4bmMwSDRzWXI4Zldtd2VKei1DTHVnWTJYcnhYZ01Vb1h1ZUw0RFhfdw?oc=5",
+          "published_at": "2026-03-08T03:53:49+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 133.05,
+      "score": 172.64,
       "articles": [
         {
-          "title": "국힘, 중동발 유가 폭등 대책에 \"겁박 대신 구조적 해법 촉구\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VTm9TaURkaGxwY3NEVkRJMi1CR043T0t5VkJjQ2ZTOUdOODU0TWx6Mk1fLXJ4VzhkOG1LekdNUXh1dkpjZktySU1Xa0NNVWM?oc=5",
-          "published_at": "2026-03-08T01:22:10+00:00"
+          "title": "“반도체로 수출양극화, 건설불황 8년, 내외리스크…내수회복력 취약” 진단 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBILVU4V21LSl9mLXdtam5xVmFzT3Yta0dPWUpsdTZ0ejBsUUVmVW5CU2lNQXZNY081WmVhYWhLNjBjTThZYkp5SWhlQTg3bHc?oc=5",
+          "published_at": "2026-03-08T04:20:35+00:00"
         },
         {
-          "title": "국세청, 연말정산 환급금 22일 앞당겨 지급…‘민생경제 살리기’ 총력 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OXy1iNVdfaE5sQS1LSUtMekp4SlRXM3NqdHI0SDNDVThTWXN3VTlFVWxZakgyZjRQclRIN1o0TlhURlNfeVpYR29pR2dPTWM?oc=5",
-          "published_at": "2026-03-08T01:05:02+00:00"
+          "title": "돼지고기 등 축산물 가격 급등... 대전 밥상머리 물가 끌어올리나 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UDNQazcwS3RGMkNEb3JoNUs5UnpWbmtGcnpaZ3NXSl8wZFZZYndKcHFreEZsQUFiMlBuM2x0NWNkMDFqMDF0XzZkUHc5MGs?oc=5",
+          "published_at": "2026-03-08T03:13:57+00:00"
         },
         {
-          "title": "[돈이 되는 화폐 이야기] 41. 지역화폐가 만드는 순환 경제의 혁신과 미래 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ydFktVkJKR3NaTlM5TFBXVlpxUXBReWNFUzhvY195ZklKRkRaRWw0LVhsTVl3Q0tCVmJmQlFHMzNkV2xKQ2N6bExPTzR6X1E?oc=5",
-          "published_at": "2026-03-08T01:03:26+00:00"
+          "title": "글로벌 지식재산 거래 ‘연계’…특허기술 수출·해외기술 등 ‘중개’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IRGJZT2VPS2FKYURnblFJUVFQakFQOXJuV0FZQnRQeHZ1S0UxeHBFaXVITTg1VXl3RkRfLTVxRGpPYUNsQV83OWVlbHpYMTA?oc=5",
+          "published_at": "2026-03-08T03:02:02+00:00"
         },
         {
-          "title": "여천NCC '공급 불가항력' 선언…중동 위기에 석화업계 도미노 우려 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWTVlMFdIWFkxSFFqTXhYMkFienpNNVBwSEctTHZxRVhudi1rUUUzVDRadmVYR2otT0FINXRkNEJ5cTZ5Zlc1MW1Mc0dUM2M?oc=5",
-          "published_at": "2026-03-08T00:31:25+00:00"
+          "title": "충남 경제 군불 지피고 현안 추진 ‘발판’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KNHN5Y2RQZGdldi0ydTFBQ3Nzbmo3UEVlM09JbnItc1VnaHRmZ1FzU0UxUENjbUozY0hYRHFUWG50aThtcjVYQm1wc3I1NE0?oc=5",
+          "published_at": "2026-03-08T02:54:08+00:00"
         },
         {
-          "title": "울주군, 사회적경제기업 온라인 판로 지원…참여자 모집 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jdjBnaGllckZqWnhDRlg2RkpNNGpMakdjVXM4a3NHcURjZl9PSzFWVzZWdXlDQ1BMZndnWGx4YWxDampEaXN6REZwZE81aFU?oc=5",
-          "published_at": "2026-03-08T00:11:28+00:00"
+          "title": "\"1500원 넘보나\"…코로나 이후 가장 흔들린 환율 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ubmJueE1FbkNqY1JaTlNLd2NxZFRJQUpwNm8wSWpoQXdoZmxVZzRqRVBjV2g5eEtvV1dVaDI5bWVmcjNLMGl3Y3BqUjlUSW8?oc=5",
+          "published_at": "2026-03-08T02:29:03+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 133.05,
+      "score": 172.64,
       "articles": [
         {
-          "title": "국힘, 중동발 유가 폭등 대책에 \"겁박 대신 구조적 해법 촉구\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VTm9TaURkaGxwY3NEVkRJMi1CR043T0t5VkJjQ2ZTOUdOODU0TWx6Mk1fLXJ4VzhkOG1LekdNUXh1dkpjZktySU1Xa0NNVWM?oc=5",
-          "published_at": "2026-03-08T01:22:10+00:00"
+          "title": "“반도체로 수출양극화, 건설불황 8년, 내외리스크…내수회복력 취약” 진단 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBILVU4V21LSl9mLXdtam5xVmFzT3Yta0dPWUpsdTZ0ejBsUUVmVW5CU2lNQXZNY081WmVhYWhLNjBjTThZYkp5SWhlQTg3bHc?oc=5",
+          "published_at": "2026-03-08T04:20:35+00:00"
         },
         {
-          "title": "국세청, 연말정산 환급금 22일 앞당겨 지급…‘민생경제 살리기’ 총력 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OXy1iNVdfaE5sQS1LSUtMekp4SlRXM3NqdHI0SDNDVThTWXN3VTlFVWxZakgyZjRQclRIN1o0TlhURlNfeVpYR29pR2dPTWM?oc=5",
-          "published_at": "2026-03-08T01:05:02+00:00"
+          "title": "돼지고기 등 축산물 가격 급등... 대전 밥상머리 물가 끌어올리나 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UDNQazcwS3RGMkNEb3JoNUs5UnpWbmtGcnpaZ3NXSl8wZFZZYndKcHFreEZsQUFiMlBuM2x0NWNkMDFqMDF0XzZkUHc5MGs?oc=5",
+          "published_at": "2026-03-08T03:13:57+00:00"
         },
         {
-          "title": "[돈이 되는 화폐 이야기] 41. 지역화폐가 만드는 순환 경제의 혁신과 미래 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ydFktVkJKR3NaTlM5TFBXVlpxUXBReWNFUzhvY195ZklKRkRaRWw0LVhsTVl3Q0tCVmJmQlFHMzNkV2xKQ2N6bExPTzR6X1E?oc=5",
-          "published_at": "2026-03-08T01:03:26+00:00"
+          "title": "글로벌 지식재산 거래 ‘연계’…특허기술 수출·해외기술 등 ‘중개’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IRGJZT2VPS2FKYURnblFJUVFQakFQOXJuV0FZQnRQeHZ1S0UxeHBFaXVITTg1VXl3RkRfLTVxRGpPYUNsQV83OWVlbHpYMTA?oc=5",
+          "published_at": "2026-03-08T03:02:02+00:00"
         },
         {
-          "title": "여천NCC '공급 불가항력' 선언…중동 위기에 석화업계 도미노 우려 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWTVlMFdIWFkxSFFqTXhYMkFienpNNVBwSEctTHZxRVhudi1rUUUzVDRadmVYR2otT0FINXRkNEJ5cTZ5Zlc1MW1Mc0dUM2M?oc=5",
-          "published_at": "2026-03-08T00:31:25+00:00"
+          "title": "충남 경제 군불 지피고 현안 추진 ‘발판’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KNHN5Y2RQZGdldi0ydTFBQ3Nzbmo3UEVlM09JbnItc1VnaHRmZ1FzU0UxUENjbUozY0hYRHFUWG50aThtcjVYQm1wc3I1NE0?oc=5",
+          "published_at": "2026-03-08T02:54:08+00:00"
         },
         {
-          "title": "울주군, 사회적경제기업 온라인 판로 지원…참여자 모집 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jdjBnaGllckZqWnhDRlg2RkpNNGpMakdjVXM4a3NHcURjZl9PSzFWVzZWdXlDQ1BMZndnWGx4YWxDampEaXN6REZwZE81aFU?oc=5",
-          "published_at": "2026-03-08T00:11:28+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "중동",
-      "score": 111.56,
-      "articles": [
-        {
-          "title": "국힘, 중동발 유가 폭등에 \"李, 시장 겁박보다 구조적 해법 주력해야\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNGE2OUt5NUU2T2w4MDNiZG5jMmhQNVc2YXNXc2p6dkNORXBrV3RRdUJkWGpidnlZbkp3UDdzRF93bkNCM0tYN3cxbjNnQlZob0RndnU2MWxsQQ?oc=5",
-          "published_at": "2026-03-08T01:39:51+00:00"
-        },
-        {
-          "title": "대전시, 중동사태 대응 비상경제대책본부 가동 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GZGdMY2VjRjFDYUhKZzhxdUV0ZUFfODZ6OGJwZDdsTFlXZVRTSFlmTHV3bjZUS3FLbUtOeVU0YjFqT3NZQmVmVlFiUEFiSkdUTHI2RE4xZ25ZTmJrU202SnpKZ0RDTnJBMHZIYWNvYw?oc=5",
-          "published_at": "2026-03-08T01:34:36+00:00"
-        },
-        {
-          "title": "국민의힘, 중동발 유가 폭등에 “정부 대책 근시안적… 국가적 로드맵 공개해야” - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Qclp5TElMUE5QMEpBaERlLWJpd0FibENza3ltTDUtMS1POXJUNnJ3ODdRdVFrdlpwZ0luS1NOYW1FaUt1YldEM0dhcFl3bWtzaWRSVXc3dDUwYy1CY3QwQWxwRTJnT0hyWmc?oc=5",
-          "published_at": "2026-03-08T01:25:31+00:00"
-        },
-        {
-          "title": "`중동 리스크` 韓경제, 2% 성장 빨간불…`버팀목` 반도체도 우려 - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEJxdnVfRkt5WER1Q2pTRHZXWmtXR2RLeWI4VGlnUHJiMnpRcVd2cVllemFpMVAtSHpnQjhwMzBPajN2WTlvNXlobzFKa0FvUHlRNDhkWnFlTmozZEpjaHpCSlBHbTFUdWJrQnljMG1OUmxzaU0wMXQ2Vkt5V3ZSYjJIRUJRaFlsaVFkbFNB?oc=5",
-          "published_at": "2026-03-08T01:25:00+00:00"
-        },
-        {
-          "title": "국힘, 중동발 유가 폭등 대책에 \"겁박 대신 구조적 해법 촉구\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VTm9TaURkaGxwY3NEVkRJMi1CR043T0t5VkJjQ2ZTOUdOODU0TWx6Mk1fLXJ4VzhkOG1LekdNUXh1dkpjZktySU1Xa0NNVWM?oc=5",
-          "published_at": "2026-03-08T01:22:10+00:00"
+          "title": "\"1500원 넘보나\"…코로나 이후 가장 흔들린 환율 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ubmJueE1FbkNqY1JaTlNLd2NxZFRJQUpwNm8wSWpoQXdoZmxVZzRqRVBjV2g5eEtvV1dVaDI5bWVmcjNLMGl3Y3BqUjlUSW8?oc=5",
+          "published_at": "2026-03-08T02:29:03+00:00"
         }
       ]
     },
     {
       "keyword": "금리",
-      "score": 106.0,
+      "score": 114.37,
       "articles": [
         {
-          "title": "KB국민은행, '새희망홀씨' 대출금리 1%p 인하 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11S3JJODd0MDNvUlJsWHNlbVdfSlRjMk9JWVJSbk81TkFZYlFiZmozR3lnVV9TSDc0TnpCcVpSbHhtSUNZT0htVjRpRXhORHFmb0pV?oc=5",
-          "published_at": "2026-03-08T01:33:00+00:00"
+          "title": "KB국민은행, 새희망홀씨 대출금리 1%p 인하 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LOVA2NVptY3lYTkYwRzVqYTRwV3lZY1EtcFh6VVVLdzYwMy1UYktfMmJHMldERzcxMXBDdXR1UVZIZnZyS2xiZC15WWhpTUI1bld5cGdjM0xGY1ljMHJtN3hLa2w?oc=5",
+          "published_at": "2026-03-08T04:24:06+00:00"
         },
         {
-          "title": "KB국민은행, '새희망홀씨' 대출금리 1%p 인하 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vTnZXcWQxeks2Z1pqcWc4OHlSMVBUWVFIS1VzdEtKWlpiMWgtd2IwTnNuSVRLSGFzcHVyYUt3TFJ4N1lmOVlzUFFGdEFZYW1UNWg0OVJ3LTBiMXNSLUFUTtIBeEFVX3lxTFBEblJ4dVItc3lfZlFldWttZFVLbnRtNUg2eU02ZDk2Z05VZE5EbHlCMDh0dEJJMzA5bVhzLTBfX2RFZGZQd09wUzhDWkhFSGttS0ZBQU1nYTd2VS1HSHZDeGN4Q0RDbU16bkNUXzlpRy1La2ttb01XMQ?oc=5",
-          "published_at": "2026-03-08T01:32:18+00:00"
+          "title": "KB국민은행, 새희망홀씨 대출 금리 1%p 인하 - 조세금융신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lS0kxbl9XS0ExU3BrSjhTbnU3dDJQUDhrMmVwNUpFeGZ5ajRiSnFXbmk5OFJTdXlscU04d0RsaFR0RlVWZDkwVTZTODl2ekpIQTRub2pyUnQ4cVNUU1g5TUVBOA?oc=5",
+          "published_at": "2026-03-08T04:16:17+00:00"
         },
         {
-          "title": "서민대출 연 4%대로…KB국민은행, 새희망홀씨II 금리 1%p 인하 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1RFBUdG9FMzR0OHhLUlVmY21XOWpCZl9uZHFiQVQtM1VfQ3JzUER6YlRTeDZNRDVNOTMxakZJVG0yM3F6Z0pYWGVrSVcwRE5lVUo4dWJkUWQwdlV6dDRFeEh0Rzg?oc=5",
-          "published_at": "2026-03-08T01:15:25+00:00"
+          "title": "중동 리스크에 널뛰는 채권금리, 크레딧 시장 '긴장' [fn마켓워치] - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTmVCLVllUzJuQ2hqNVIxTEpqZVN5ME5lREVaYkg0Qm1hbGFqSi1RdXd5cGU4bVZ4aVkzMHRHdS1YUFdJbHVvR3B5aTNSZ3Itb0c4UllZemZWd9IBXkFVX3lxTE9MbnR1T2I5dGlJVHB2UDM1Qm9nVU5tRThyYXdvcXhKTURjS2Vja29aazZzSm8ycFkyTm1SN0JOazl1NWFXWGxYTjNRajVON3FrTTV6OGNEcGZ0bWk1dEE?oc=5",
+          "published_at": "2026-03-08T04:04:31+00:00"
         },
         {
-          "title": "국민銀, 새희망홀씨대출 금리 최저 연 4%대로 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yUEhQZTl2dHQ1WHVHQVphREdqV3VEZTJzTzFFaWx6bUYwbXNZMEVfajM0dnNxNDdfckxaZjdsejlnREpoOTBad2R5WDJxZFloQzViNU5sT2pld9IBVEFVX3lxTE10N0pNc2JPZzYwVVdoREEyaUJXU3pYcWhnUV9sd3k4akhCTGRrYk9wUUI0WHVqMnZyUzd3Ym8wTFNSLXVyX1BDZUZQaFd0akpCdnRLSA?oc=5",
-          "published_at": "2026-03-08T00:54:07+00:00"
+          "title": "'포용금융' 실천 KB국민은행, 새희망홀씨 대출 금리 1%포인트 인하 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Nd0lPMEhXNEZVS0hmVEJBUVVfd0UtWWcwbjBFSnM0dDBkNDRkakxIakpja3dQMlY5YnVObmVqN1NxZHo2VmsyeXdGN2c0cTNaeHBn?oc=5",
+          "published_at": "2026-03-08T03:12:00+00:00"
         },
         {
-          "title": "KB국민은행 \"서민 이자 부담 낮추겠다\", 새희망홀씨 대출 금리 1%p 인하 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxVUlNUkZmS1VkcU16NDBOUEJBaUVPTlBmVHFaX2h2S1ljZE94TG02RHZxTFk0WnI4bjVaTmJRWkpQMHREUFVfTXJNSnVDZ1BCSW5BVUY5S1ZHX2F6?oc=5",
-          "published_at": "2026-03-08T00:46:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "환율",
-      "score": 84.58,
-      "articles": [
-        {
-          "title": "‘1500원 쇼크’…이란 사태에 널뛰는 원·달러 환율 - 국민일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLUZxRXRhdnZkUVpNTVV6dG92aDhiLXpncWdXc0lpaFlxV1JMUWxveDNPSUtFUlF3Sm9UNUtRYkdhcVRjWF8xQTB1SEx4VDJvbWUtNXlaUHBNQng3clRmNXIwUkpYRTFKU3B1V3pxRG5lYjc1QjlPOUNKLUxyZE9NU05ud3F6UdIBbEFVX3lxTE1HdnNHMVlSQlZlOUZQd0Zzc2o4TkpHMzJWUkZ3dmlHT3BnallhUjhIRVNUZ0hmaFRYTk1nanFwamNQbThxRXhfakttZ1M5bS1Fa2FuSWl1QkJyeTVpU2hsZGxwZEJDTEV6RFlZNA?oc=5",
-          "published_at": "2026-03-08T01:31:00+00:00"
-        },
-        {
-          "title": "달러-원이냐 원-달러냐…환율 표기에도 '시장 언어'가 있다 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zamJHZ1pBdmtjU1ViQUgyUnBRUzZ4cGxQMmlVZWYxSWtleHpvTW9kblYxZ3hJazAtd3BhbTJlOTN4RUJLSXVaMFVYaVlpN0ZETlRMTkJ5NU9TMUY1bUpyRjhweklmc0dEdHdvR1I3dk0?oc=5",
-          "published_at": "2026-03-08T01:18:09+00:00"
-        },
-        {
-          "title": "유가 천정부지에 원달러 환율 '1500원' 넘어 '1600원 공포' 눈 앞에 - 뉴데일리 경제",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42cG9MZjF2cEZHQlJLOWotSUhyT29sSUhieEp5dmUwcExtM3FfS09mYjNTbWtxdi1VdlpKWnR0T0RETmVvZ1FHbWhXSE9fWHg2WTdEd2NjWEhObTRpQmRKeWJNYjdwUGpSWXViN3BjUXo1UGg2WDJKY2dtSQ?oc=5",
-          "published_at": "2026-03-08T00:05:26+00:00"
-        },
-        {
-          "title": "“1500원 찍은 환율” 중동 변수에 어디까지 오를까 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IVDg2N2h1bTlYZ0hvREpVbTFvWVZQMXdUZGxCZUxuRWNYTkJnTWpYbXJ4SkxhRlZIYnA0WlNKMGRSaUs4OGNmVHcwMkZZa0k?oc=5",
-          "published_at": "2026-03-07T23:54:53+00:00"
-        },
-        {
-          "title": "중동 전쟁 장기화 조짐…대구·경북 제조업 ‘유가·환율 이중 압박’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82WGF1Yk43ZmZmSEJ1dWJrWWxLWVNYT2hfRzExamJqc1RJOUhmczZXSlZJOGgwTGRQXzJIUWZERGxCdVhtYVExY0FLZDdyVTQ?oc=5",
-          "published_at": "2026-03-07T23:20:04+00:00"
+          "title": "[D-BIZ 금융] KB국민은행, ‘새희망홀씨’ 대출 금리 1%p 전격 인하… 상생 금융 보폭 확대 - 데일리비즈온",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pSWFqUGowcS1CT1dXRnE2TExKVFhhR0FkWHJiYm9LcndjVFJFS3ltaVZZY0UxaUxMRmF4azZ3MmNuM2hZLWFBTzZ3ajhHLUJ2TktSS0w5N3RkSnRaLXRGWDFrbDY5LVZ5N2JqUw?oc=5",
+          "published_at": "2026-03-08T02:59:57+00:00"
         }
       ]
     },
     {
       "keyword": "인하",
-      "score": 79.94,
+      "score": 102.95,
       "articles": [
         {
-          "title": "KB국민은행, '새희망홀씨' 대출금리 1%p 인하 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11S3JJODd0MDNvUlJsWHNlbVdfSlRjMk9JWVJSbk81TkFZYlFiZmozR3lnVV9TSDc0TnpCcVpSbHhtSUNZT0htVjRpRXhORHFmb0pV?oc=5",
-          "published_at": "2026-03-08T01:33:00+00:00"
+          "title": "KB국민은행, 새희망홀씨 대출금리 1%p 인하 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LOVA2NVptY3lYTkYwRzVqYTRwV3lZY1EtcFh6VVVLdzYwMy1UYktfMmJHMldERzcxMXBDdXR1UVZIZnZyS2xiZC15WWhpTUI1bld5cGdjM0xGY1ljMHJtN3hLa2w?oc=5",
+          "published_at": "2026-03-08T04:24:06+00:00"
         },
         {
-          "title": "KB국민은행, '새희망홀씨' 대출금리 1%p 인하 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vTnZXcWQxeks2Z1pqcWc4OHlSMVBUWVFIS1VzdEtKWlpiMWgtd2IwTnNuSVRLSGFzcHVyYUt3TFJ4N1lmOVlzUFFGdEFZYW1UNWg0OVJ3LTBiMXNSLUFUTtIBeEFVX3lxTFBEblJ4dVItc3lfZlFldWttZFVLbnRtNUg2eU02ZDk2Z05VZE5EbHlCMDh0dEJJMzA5bVhzLTBfX2RFZGZQd09wUzhDWkhFSGttS0ZBQU1nYTd2VS1HSHZDeGN4Q0RDbU16bkNUXzlpRy1La2ttb01XMQ?oc=5",
-          "published_at": "2026-03-08T01:32:18+00:00"
+          "title": "KB국민은행, 새희망홀씨 대출 금리 1%p 인하 - 조세금융신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lS0kxbl9XS0ExU3BrSjhTbnU3dDJQUDhrMmVwNUpFeGZ5ajRiSnFXbmk5OFJTdXlscU04d0RsaFR0RlVWZDkwVTZTODl2ekpIQTRub2pyUnQ4cVNUU1g5TUVBOA?oc=5",
+          "published_at": "2026-03-08T04:16:17+00:00"
         },
         {
-          "title": "서민대출 연 4%대로…KB국민은행, 새희망홀씨II 금리 1%p 인하 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1RFBUdG9FMzR0OHhLUlVmY21XOWpCZl9uZHFiQVQtM1VfQ3JzUER6YlRTeDZNRDVNOTMxakZJVG0yM3F6Z0pYWGVrSVcwRE5lVUo4dWJkUWQwdlV6dDRFeEh0Rzg?oc=5",
-          "published_at": "2026-03-08T01:15:25+00:00"
+          "title": "[美 이란 공격 ⑪] 물가 압박만으로 인하 한계…인하 여건 만들어줘야 - 자투리경제",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15MkF6OUd0TWpFYkJvMVVGZFhoVFJ3Ymd1bG1CMWsyOTEwMVhIVkRsWUpJVGRuSnkzbUFoRnhodlFiZU9ELUVWekp2YU54WXZjSmZlbVM4eXRORUxtSWZhcHlsUzJMdw?oc=5",
+          "published_at": "2026-03-08T03:56:21+00:00"
         },
         {
-          "title": "KB국민은행 \"서민 이자 부담 낮추겠다\", 새희망홀씨 대출 금리 1%p 인하 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxVUlNUkZmS1VkcU16NDBOUEJBaUVPTlBmVHFaX2h2S1ljZE94TG02RHZxTFk0WnI4bjVaTmJRWkpQMHREUFVfTXJNSnVDZ1BCSW5BVUY5S1ZHX2F6?oc=5",
-          "published_at": "2026-03-08T00:46:00+00:00"
+          "title": "'포용금융' 실천 KB국민은행, 새희망홀씨 대출 금리 1%포인트 인하 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Nd0lPMEhXNEZVS0hmVEJBUVVfd0UtWWcwbjBFSnM0dDBkNDRkakxIakpja3dQMlY5YnVObmVqN1NxZHo2VmsyeXdGN2c0cTNaeHBn?oc=5",
+          "published_at": "2026-03-08T03:12:00+00:00"
         },
         {
-          "title": "KB국민은행, 새희망홀씨 대출 금리 1%p 인하 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pTVZqbGRoVnFxZ0I3dURPbFE2RlR6eEpZUl9VSkFZeDJSallPTzRKY0VDU2NCX2FOaS13YWFqTnh3RHE1UTNhUHZVN1lmSXVGOFdEZw?oc=5",
-          "published_at": "2026-03-08T00:44:00+00:00"
+          "title": "[D-BIZ 금융] KB국민은행, ‘새희망홀씨’ 대출 금리 1%p 전격 인하… 상생 금융 보폭 확대 - 데일리비즈온",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pSWFqUGowcS1CT1dXRnE2TExKVFhhR0FkWHJiYm9LcndjVFJFS3ltaVZZY0UxaUxMRmF4azZ3MmNuM2hZLWFBTzZ3ajhHLUJ2TktSS0w5N3RkSnRaLXRGWDFrbDY5LVZ5N2JqUw?oc=5",
+          "published_at": "2026-03-08T02:59:57+00:00"
         }
       ]
     },
     {
-      "keyword": "물가",
-      "score": 66.67,
+      "keyword": "환율",
+      "score": 100.21,
       "articles": [
         {
-          "title": "‘물가 잡기’ 사활 걸었던 정부, 유가 급등에 초비상 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQi1TMzRINmtScWlROGRZNWVtRmRXWkdwMzNaSWltVC1xeTkyNExOREx1bklUMDd4S3RWQllobEx0NDRlRzN5SXQ3QXdIYTVIN2VlS1JGUkFHTVk5Zm5iUzZQRWo5N2JGN3B6Q3dmODd4SXZpSDM2eEZpNkN0cmJBeEt3NWxnaUVvV0FXNE930gGiAUFVX3lxTFA4VHZQeHh6UTBiZXV6bThrY3VGVVZvT2RucVhZZjNwWktXMTJLNktTS1NVeXpFNXZKSUNZZHNTZGlMYy1VaUo3YkppU2RwVFBnbHZ5eW1YSFRFMnRRaThHUkZ3MlI0bFZtT1hkV3dZSWlpWjYyTXg3cnNqcktIYllQM1pvWTEzNzdlY2UyeDBGYWVJTmpDa2wxalZyRVRLMzJIdw?oc=5",
-          "published_at": "2026-03-08T01:24:05+00:00"
+          "title": "환율 1500원에 물류 리스크까지…반등 노리던 면세점 ‘긴장’ - edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBpbFk4ZGh0bUFLbUxPNUlYd0M5ZDItR2tobnlLQ2pRNDlxbC1OZ0FpLWNFRUZEdEktRFZmeGxUVXo5M0ZvcmZkc1FkS3hENGZPUWxCeThhaTNWVHdjV1ZfVGRNLXRBUzNuM3kxOUNZWWJMSUVxeFNyMzFNemFRaQ?oc=5",
+          "published_at": "2026-03-08T04:17:49+00:00"
         },
         {
-          "title": "‘담합과의 전쟁’에 물가 둔화… 장기적으론 한계 전망 - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Velc2aTBzbmhYWDN2OU1wLVFueWlpV3hYTzlFazRiaUdJalRiTGRwdzJIbDhQbGhMeEt1Mmt2aDhXSWpqem56MTFleXJ2WDBYRGRBV2JrWjN5VndZYjY1UHlhUzBPaXk0U2c?oc=5",
-          "published_at": "2026-03-08T01:11:16+00:00"
+          "title": "원화 환율, 주요국 중 최고 상승... “전쟁 장기화 땐 1600원 갈 수도” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXN2MkgtelZJSlQ3dGVNSkw5am4tOHNETlpCSnFPYm04SE81WEZqSXdJWGNES2djaFJqSHJVRHVTY1ZISEUxQTZlMG1DV3c1eG1qYk05Rkc4M0xMOXZPUFV4N0dzbDIzYS12cDBtRGltb1MtZ0FiTG5yX21Ba0NMRFlYLUhCUWRIN1ZUYndn0gGiAUFVX3lxTFA4eFVkUDB1YlNPd0hMNVFNT05uR3lnUE5TdmFpSENBb0VMN0dGSTRTVkdGVFE0ZldRQkxnVWN6NGlGbElrdi1PbDlPN25TMTd0VlI4WGhpeXlHQWt3cXJfcXFDN3REdEJ1Q1hCU3BuX2w1OXBHRDRRcUoyajNnNUlLT3ZjLTJvYm9lRGxUbmNwTWY3ME8tZ08wcC1xTmlCeDFZQQ?oc=5",
+          "published_at": "2026-03-08T04:15:00+00:00"
         },
         {
-          "title": "유가 90달러 넘자 물가 경고음…우크라전 때 '에너지 충격' 재현 우려 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CbEo5bXVLT0F5ZzR6OTYyZHkwbHB5M0dEN3ZTbUNoc2trUjFoaGlRejBEQ1hSNzkzYWh2TGdwVHh1ZWltTTgzaEREVndENVVtRGh3?oc=5",
-          "published_at": "2026-03-08T01:02:00+00:00"
+          "title": "[중동 전쟁 1주일] 전쟁이 흔든 한국 증시…외국인·유가·환율 '3중 충격' - ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkcFRUalU4WmZRMmVZRTRZSlhORmpQN2VaZVNoLWZWam5qWWRZd0REVUNlejdBTTNwUVFoQWRuNTlmeUo5LVdHVGpmQUpkTTBnZmp5Ulo5NHdvbk41b3IxZTV2VzdjV3p3?oc=5",
+          "published_at": "2026-03-08T03:32:46+00:00"
         },
         {
-          "title": "유가 90달러 넘자 물가 경고음…우크라전 때 ‘에너지 충격’ 재현 우려 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtSDZkUFZiOU9uR09WVEVrQmtLMmgxb0JjSU1UT3lhU3FQbWhKV1RFXy1IckRXaHVlNGVOZGFMR0ltblhBdkJDMHZEbU1zbVRZckZFdQ?oc=5",
-          "published_at": "2026-03-08T01:01:00+00:00"
+          "title": "\"1500원 넘보나\"…코로나 이후 가장 흔들린 환율 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ubmJueE1FbkNqY1JaTlNLd2NxZFRJQUpwNm8wSWpoQXdoZmxVZzRqRVBjV2g5eEtvV1dVaDI5bWVmcjNLMGl3Y3BqUjlUSW8?oc=5",
+          "published_at": "2026-03-08T02:29:03+00:00"
         },
         {
-          "title": "우크라 전쟁 '물가 충격' 재현하나…'중동 사태' 장기화 우려 커져 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZWkkxVXhheU94WnVvVVo4NVJyY0Zha2FJVTlnYTBianpkSE1SbGVDNDd5SjBaTzk2QlBWRlc5N1dRNEJoQVJXSWhKUzUxWHFrOVJZ?oc=5",
-          "published_at": "2026-03-08T00:43:00+00:00"
+          "title": "3월 들어 일 평균 환율 변동 폭 13.2원… 6년 만에 가장 커 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3hhNXE2V0paU2pGSDFyOUR5YWRfTDFINlFxUnVnNGVydUo0N2xaRU56MWdBeXMwZWpydC1VQlNSdERwcTBQaXA4U1YwV05ZMXBiVThOalgydWRFOV9NTEhqMXI2aXh2Ykt1MzZwVm1sb0V5bHE2UmVlNmRmMXhkdmdpWkUzZ9IBmgFBVV95cUxOUWtiQU9Pc0tjTXlCZjV0VDdIRjh1SmJLR3p5U1ZYeWNBdVItUVZ2a0VQdWcyRFN4MGc4U2E0SDhZMTZITWF2SDJsMTUxOVBIWDB0OGdoMlFsTXU0NnlOVVJSTXlWWHpwM1VNalphY204TjhsYkt2QV9TcTNWdDFScXQxbV9nQUxXdkt2WEhaRHE4eTBVVEM3WU5R?oc=5",
+          "published_at": "2026-03-08T02:20:22+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "수출",
+      "score": 89.33,
+      "articles": [
+        {
+          "title": "\"특허도 수출 시대\"... 지식재산처, 첨단산업 글로벌 IP 거래 본격 지원 - 특허뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03QmFwcmRkRFVDWGtxa0FtUHJfUUdTVWdKWl9XQ3VHUGtYcWhfN0NnMGVLY0xjRUZqSTgyLUwxWFRJNXRuVktWcA?oc=5",
+          "published_at": "2026-03-08T04:24:00+00:00"
+        },
+        {
+          "title": "“반도체로 수출양극화, 건설불황 8년, 내외리스크…내수회복력 취약” 진단 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBILVU4V21LSl9mLXdtam5xVmFzT3Yta0dPWUpsdTZ0ejBsUUVmVW5CU2lNQXZNY081WmVhYWhLNjBjTThZYkp5SWhlQTg3bHc?oc=5",
+          "published_at": "2026-03-08T04:20:35+00:00"
+        },
+        {
+          "title": "‘MWC 2026’서 K-혁신 기업, 2.3억달러 수출상담 - 재외동포신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IWDRpMHotZTRiUklLU2tYYVpnVnRPS3o0R2FqMmh3RkZabHRxNmp2azB5SkVnVFJnXy1MMC1TeUNPdHFWUmxSNFNWanZLT2tTNjJpSGduRzcyVmdXSWpWNzJuWnNSQlVKYThNWg?oc=5",
+          "published_at": "2026-03-08T03:41:00+00:00"
+        },
+        {
+          "title": "무보, 코트라와 中企 수출 지원 '정기 협의체' 출범 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMGNOSnFpVEhBUVdjcExjcFVoeUh0ejFIWVl4V2E1UmE5M2dWWk5OalA3MlZmY1pCSGtxU1dKeFlOYzFwbkJmWUpXTGVvdzhBRENZdGJWSUdkNGhralR5TWNjWHprSWhoRTg0eEd0UnY?oc=5",
+          "published_at": "2026-03-08T03:25:56+00:00"
+        },
+        {
+          "title": "반도페 홀로 독주하는 韓 수출…유가 급등에 한국 경제 '경고등' - 서울와이어",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53LW5NWks0XzdtX20wSmQ4UFBod19qanhuQ056dXlLbjFWamV0MTdlZnQ2Wjloa1hQX3Z6azFoMkFlTlRNYmRnOTRKWmFBRnhMbDIzNE9MbjBtS0FCSTJuMHBtd2h3Qy1sbWVpZA?oc=5",
+          "published_at": "2026-03-08T03:20:56+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "중동",
+      "score": 88.01,
+      "articles": [
+        {
+          "title": "중동 리스크에 널뛰는 채권금리, 크레딧 시장 '긴장' [fn마켓워치] - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTmVCLVllUzJuQ2hqNVIxTEpqZVN5ME5lREVaYkg0Qm1hbGFqSi1RdXd5cGU4bVZ4aVkzMHRHdS1YUFdJbHVvR3B5aTNSZ3Itb0c4UllZemZWd9IBXkFVX3lxTE9MbnR1T2I5dGlJVHB2UDM1Qm9nVU5tRThyYXdvcXhKTURjS2Vja29aazZzSm8ycFkyTm1SN0JOazl1NWFXWGxYTjNRajVON3FrTTV6OGNEcGZ0bWk1dEE?oc=5",
+          "published_at": "2026-03-08T04:04:31+00:00"
+        },
+        {
+          "title": "[중동사태와 유가] '100달러' 임박…스태그플레이션 우려↑ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tN0M4MlE4NW94Ujd1cVdQMEN1THZfbzJwWTZERTBSY1MwXzRQWDQ4amoxVkxCcFhKcFFqQkFHTEJId3BIZ01TWVA2Q2s0Tm5mcXFDN05RV21xV1FSZVJTZy04cHdFUThKck04RVRrSW0?oc=5",
+          "published_at": "2026-03-08T04:00:07+00:00"
+        },
+        {
+          "title": "[중동사태와 유가] 美 증시 불안 언제까지 이어질까 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiT0xsTW02R3pVNDJsb2J4b3BYb3h0YmdIZHkta2lnUEw2WHc5YTdJcWo5RUI5VnUwS3FlcVNrbHc1QzNlOE9MZEFubTBOZ0gtNDBZZGxlMGJzTS1Jc21DQTktbGFXNURFVU5FYm1oSXrSAXRBVV95cUxQQkRHTUozM0JkRG9rYTU0X3I2YTF5bDZmYmhNZWE0bTFyMHBfYm51UENtQ0dXZlJyRjd2T09aZUR5UnJER0xyVDJ1blZ0dldrenFkbHZUWkhRUzhwZVZEaTVoZVBqclRqcUZpSnNTZFNGbjRSZA?oc=5",
+          "published_at": "2026-03-08T04:00:05+00:00"
+        },
+        {
+          "title": "[중동 전쟁 1주일] 전쟁이 흔든 한국 증시…외국인·유가·환율 '3중 충격' - ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkcFRUalU4WmZRMmVZRTRZSlhORmpQN2VaZVNoLWZWam5qWWRZd0REVUNlejdBTTNwUVFoQWRuNTlmeUo5LVdHVGpmQUpkTTBnZmp5Ulo5NHdvbk41b3IxZTV2VzdjV3p3?oc=5",
+          "published_at": "2026-03-08T03:32:46+00:00"
+        },
+        {
+          "title": "중동 전쟁에 국제유가 '출렁'…한·일 에너지 대응 전략 ‘주목’ - 뉴스프리존",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUWd5UWNlbXluaHhuOHlNRnZxTlJCb2VHSS0yYzhvUUdpbWRXZHNteG1MN3d0dGQ0bWhpNmJsUENhU3p2cnJMbXBKLVl6Q1dEVUNidlhKbVRfWGdQVHJEM2ptRDFTWFBOTXFkb2NqQmdZS0HSAXdBVV95cUxOSW1uX3lEaUE1QXpudWpwUmY0cWt5bjFoV2ZqVlM2RXdQalpJRW1jREFKVlJUV0NNQm9QdDJuUEFvRl8wLXA3NjEyYV9YSVdUVEE1QTJ1VzhVZHZGOFJFcUwza2otSXZYTC04Q1dOWXBURFBGeW1JSQ?oc=5",
+          "published_at": "2026-03-08T02:36:47+00:00"
         }
       ]
     }
