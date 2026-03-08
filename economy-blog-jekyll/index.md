@@ -24,14 +24,15 @@ title: 홈
   <p>원하는 주제만 골라서 모아보기.</p>
 </section>
 
-{% assign category_names = site.categories | map: "first" | sort %}
-{% for cat in category_names %}
-  {% if cat != "" %}
+{% assign category_pairs = site.categories | sort %}
+{% for pair in category_pairs %}
+  {% assign cat = pair[0] %}
+  {% assign cat_posts = pair[1] %}
+  {% if cat != "" and cat_posts %}
   <section class="section-head" style="margin-top:24px">
     <h2 style="font-size:1.12rem"># {{ cat }}</h2>
   </section>
   <section class="post-grid">
-    {% assign cat_posts = site.categories[cat] | sort: 'date' | reverse %}
     {% for post in cat_posts limit: 6 %}
       <article class="post-card">
         <p class="card-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
