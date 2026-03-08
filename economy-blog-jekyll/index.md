@@ -39,7 +39,7 @@ title: 홈
     <div class="section-head-row">
       <h2 style="font-size:1.12rem"># {{ cat }}</h2>
       {% if cat_posts.size > 4 %}
-      <a class="more-link" href="{{ '/categories/#cat-' | append: cat_slug | relative_url }}">더보기</a>
+      <a class="more-link" href="{{ '/categories/?cat=' | append: cat_slug | relative_url }}">더보기</a>
       {% endif %}
     </div>
   </section>
