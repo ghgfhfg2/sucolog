@@ -5,7 +5,7 @@ title: 홈
 
 <section class="section-head">
   <h2>최신 이슈 브리핑</h2>
-  <p>주 3회, 지금 가장 중요한 경제 이슈만 골라 쉽게 정리합니다.</p>
+  <p>지금 가장 중요한 경제 이슈만 골라 쉽게 정리합니다.</p>
 </section>
 
 <section class="post-grid">
