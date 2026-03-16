@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-03-15T05:02:33.208530+00:00",
+  "generated_at": "2026-03-16T05:12:02.795733+00:00",
   "source_count": 4,
-  "article_count": 381,
+  "article_count": 374,
   "top_keywords": [
     {
-      "keyword": "유가",
-      "score": 210.3
+      "keyword": "환율",
+      "score": 269.78
     },
     {
-      "keyword": "net",
-      "score": 160.76
+      "keyword": "유가",
+      "score": 253.74
     },
     {
       "keyword": "daum",
-      "score": 159.96
+      "score": 140.67
     },
     {
-      "keyword": "환율",
-      "score": 147.12
+      "keyword": "net",
+      "score": 140.67
+    },
+    {
+      "keyword": "1500원",
+      "score": 119.35
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 108.36
+    },
+    {
+      "keyword": "FOMC",
+      "score": 103.05
+    },
+    {
+      "keyword": "수출",
+      "score": 102.66
     },
     {
       "keyword": "중동",
-      "score": 111.32
+      "score": 100.19
     },
     {
-      "keyword": "대응",
-      "score": 81.77
+      "keyword": "달러",
+      "score": 89.32
     },
     {
-      "keyword": "금리",
-      "score": 73.09
+      "keyword": "금융위기",
+      "score": 87.41
     },
     {
-      "keyword": "물가",
-      "score": 71.8
-    },
-    {
-      "keyword": "주담대",
-      "score": 62.87
-    },
-    {
-      "keyword": "전쟁",
-      "score": 58.65
-    },
-    {
-      "keyword": "이란",
-      "score": 57.82
-    },
-    {
-      "keyword": "추경",
-      "score": 54.26
+      "keyword": "출발",
+      "score": 78.39
     }
   ],
   "hot_topics": [
     {
-      "keyword": "유가",
-      "score": 210.3,
+      "keyword": "환율",
+      "score": 269.78,
       "articles": [
         {
-          "title": "유가 치솟자 유류할증료도 뛴다…\"美 왕복 항공권 부담 20만원↑\" 전망도 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04d1B6MFFCWEVpLVZjTzlCZ1BCYVd1N25iVXdsZm9oVUtSV1dZSTBHYUJBNmIzdmt5SDF2WnZJMzVPdU5ZS2ZqLWxXX3BEeGM2Mjk4ZWpxdWZGWWw0Tk4zcNIBeEFVX3lxTFA4akJ6UVhFenhWNlhnWHFzelY1SnpLOFdJbVROYm1vc1RManRfc0V5cnZfdy1ONkNtWkpEdy1la1hWcUF0cGctcGpPR3FoY0MycHI1dHRYZEhkeklJeXlnbDlndHRsZmFjVExVNHVKZmxLeWxleFhZcQ?oc=5",
-          "published_at": "2026-03-15T04:36:02+00:00"
+          "title": "토스뱅크, 엔화 환율 오류 피해 이용자 전원 1만원 보상 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2JZaDZSNVFRSV9pdzRScXRCZG9ZeTVaSXBZc2RLMVJsYUtHWHRkOWtNeUNkVDcxVHlDOTBOeXIzSDVBQ2tkVlpVbGFfQmNYX1BYWG1RQmg0Mkc4RmphRDZlaXZ3MGpuTmdyOWg4LTh6RGVvNWhYZmlsUzBiZ29GX9IBlAFBVV95cUxPMzR4X0NkbzN2dUx0b1pTcTJ2eHE0WDhYTkp1WUJvTnF1SWFoc1FfLV9NY0laWURaWTVsM2kwRjV4QnhsWGlOVzJJdWJLOTVmZldvTmNQV3pwcVU0dG9qTTlJT3U0X1dBWXZNWF9ON2dSUkFKZmotbUlzeEJSeGlVa3dqSjBHWkprVmlpVUdkelF5dVUw?oc=5",
+          "published_at": "2026-03-16T04:54:00+00:00"
         },
         {
-          "title": "\"국제유가 50% 오르면, 건설생산비용 1% 상승\"…토목공사 비상 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zeEpheExaNHJDVDVTX1dGWEo5NnhuN21aQld4VHJZcHpuNlNwWkxIWXZILWNiSDFYbEcweDlmbTJ6WE5TaXpTSDBKb084SlFPb3AxSjlZNk8wZ3c?oc=5",
-          "published_at": "2026-03-15T04:33:00+00:00"
+          "title": "1500원 뚫린 환율…4대 금융지주, 유동성·외환 리스크 관리 강화 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhWGFJc3duNkdQdzh4RVBSODZ4cjBuV1hGVTJRczRMY19md25SUHpwQ19Lc3NQdTZfU010dnhMb3lnaUtlUDlWS0NULU1DT2QzcmpWMA?oc=5",
+          "published_at": "2026-03-16T04:48:00+00:00"
         },
         {
-          "title": "4월 비행기표 최대 10만원 오른다…중동발 '유가 쇼크' 현실화 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kSUc2cFV2d3gwOW1XdGh0dDNPd0dVMTRBbHFqdGRyUVh5YlBMNDJfa28wYTNLQm1iOENMYW5QblFiNm1ldWs0OTFtelcyekFtbzMxMHVR?oc=5",
-          "published_at": "2026-03-15T04:30:43+00:00"
+          "title": "토스뱅크 ‘엔화 반값’ 환율 오류…환전 고객에 1만원 현금 보상 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zb2czTWNERjhhNDUxVnhoQjQ3SEo4SFZEUHVhOW0xeTI0N2RfYnJuXzhvcXotdDRnWEhTX1lCaU53cEFHRm02UDdJRlFRdU1CaFgxVzJFdWFaSGRDS2tkMWszNkU4THdzeHVpeVB1NUo?oc=5",
+          "published_at": "2026-03-16T04:41:44+00:00"
         },
         {
-          "title": "[미·이란 전쟁] 유가 급등에 美 석유업계 ‘630억달러 횡재’ 전망 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEpidXl1U1VFc3BzQW1LSmpHYXhORHBJY19GbHdmNkZpUDFwSV9WLUtFUEJxQ3RzRWh1dDgzcVc0OUZQUlZmTkdYb0NvNk43Rk4xRXlMTk5nNERXY1dSakg2TTRGLUJFeWVnNlVDNXFKTzFqX011T2FqaHJTdV9iTUFrTDZLYlZY?oc=5",
-          "published_at": "2026-03-15T04:27:08+00:00"
+          "title": "\"환율 1500원·유가 100달러\"···한은, 기준금리 '동결 vs 인상' 셈법 비상 - 뉴스웨이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ydGZBQldwbkNFX2U4cGdORzZROEYyV2FyWWJWQlhXcDNXcTZjMFhBZlpvMDR5Zm4teUszN0NObW96NjBYclZuQWlPblJVb3ZHRVd2V1kxYzVuRmlpRUxQYzQweTR1VDhtR2c?oc=5",
+          "published_at": "2026-03-16T04:38:14+00:00"
         },
         {
-          "title": "'유가 취약' 원화…환율 1500원대 고착화 우려 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSHNvN0RuMktUbTQ0R1dQaHR3b2RqN1FZYzVleVIxN3JXM2dRU1gxSGhpQ1EzSnl3NUZibEZjOThmSloxWmVlTWFnZUwtNDgzQXFDUHVaeTdlaC1EZnRETWVMcDB6LXRCdHR2a1FZcWZ4bGJ4ZXg3Sg?oc=5",
-          "published_at": "2026-03-15T04:27:00+00:00"
+          "title": "원·달러 환율, 금융위기 후 첫 1500원 돌파…유가 폭등에 비상 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2cC1aODliSFpoaHFwVXJBXzEtRGNJMnhoSlJvbVVYaU44RmpYYkR0MmZ4ZVA2eEN6NER0Q0I0U3JwR0x6MzRIZ2VKYVoxcGIzNHRZbVZUN1ZYbGFjeExkYU5ZbHZDY09sZDdjaklpWkJ4bzjSAXdBVV95cUxNbmtXRHNhd0ExYnYxTEY2NmpuYVRfR2YxM3JYMEU1ZHBQUHpUWjZQbEZpNG01aFYxM1JsU0hPQTZBSlNhQmpFNm1zWTRFZVpaQWtiWlJHb3FnQmltNEQ0VFc2dDNkQXZfbGphX1N0LVJKald5SFQ2OA?oc=5",
+          "published_at": "2026-03-16T04:21:41+00:00"
         }
       ]
     },
     {
-      "keyword": "net",
-      "score": 160.76,
+      "keyword": "유가",
+      "score": 253.74,
       "articles": [
         {
-          "title": "중동 불안에 대출금리 '들썩'…영끌·빚투족 시름 깊어진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbkdsSjB3bzR3aDlPN01GcDM4QXZaQllkcmE2VDU2dDhMWjZwcFJ1dUhLRHBIcUwtdWh6ckhjMlM5M2ozeTBKclJMOThxVkU?oc=5",
-          "published_at": "2026-03-15T04:40:54+00:00"
+          "title": "인천경제청, 국제유가 상승에 주유소 가격표시 점검 나서 - 일간경기",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPQzlScUc5QXF0QjdTVXQySW0xakwtQWZHZ0p2Um1GUzQwOUlzT29Qem11em01UVNFQjd1czhuMUs3Z1dFbGphcmFLSmVkQnNtUHYwMnVMWVAta01ZX0xjNzJMZ2tST2Fz?oc=5",
+          "published_at": "2026-03-16T05:03:44+00:00"
         },
         {
-          "title": "[영상] 미, 이란 '석유수출 기지' 하르그섬 전격 공습 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KN1RsRTctN3FGdkY2QXh3c19DV0pWWldrRWZ0MERPdW5FTUZRRUhEQVJkZjAxOTVXN09oeHVFYlR5OV9NZGN2SVZlZjBLUnM?oc=5",
-          "published_at": "2026-03-15T04:29:02+00:00"
+          "title": "유가 10% 오르면 제조업 생산비 0.71%↑…석유제품 타격 가장 커 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2b2lRNlQtMXVKVm9RVVlJRk96enhKb1RuRWI5Tm04MGFQZXRlN2JVNXdlREV2cHpmTHo2NjBpUGd5UndXUW82MFV3b1NzdWpWcFRVMmVhRERsc3lCejJnMzFUT1BqVC1kWE1oWGZZRkM?oc=5",
+          "published_at": "2026-03-16T05:03:11+00:00"
         },
         {
-          "title": "“전쟁보단 실물경제”…엔비디아 GTC, 마이크론 실적 ‘주목’ [주간 증시 전망] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NdEJlR3liUGFrVUd0TWM1REo1NG9zMjVaUHZMaEdaVTNOOW5NRDEyaWlncTZLNGFxLVFQZTFlMWNxNWpzam9temNJUmJuQkk?oc=5",
-          "published_at": "2026-03-15T03:43:02+00:00"
+          "title": "유가 오르면 제조업 생산비용↑…호르무즈 리스크에 韓 비상 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91bnhUd1VCcnhHeWV4Unk2VmU4UGhHaFpwcVNBVFF3ZFZ4eHk1bVVxajA0elhLaXpJeldtUzhsVUQwdXBXWDBsMjdQNDRvdWV1UEtkTWdB?oc=5",
+          "published_at": "2026-03-16T05:00:03+00:00"
         },
         {
-          "title": "\"빌라 너 마저\"…청년·저소득층 '어쩌나' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHb05rNkpSOGVkbDZucG5zbzR1eFpGR3d0WkVKNmRCR1FiN1VTeC1MdWtMRVNScHRBVmhYZjBmMldBNHdsaEpnUTluc2FXVWM?oc=5",
-          "published_at": "2026-03-15T03:05:25+00:00"
+          "title": "국제유가 10% 오르면…국내 제조업 생산비 얼마나 오를까 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1TjJwU2MyNHJJdTBySG83QVBaSVhUb1FQUWEySUtkNUFhTVMxVkhaZF9lc1duUnZEbjBMOGNtMFdpcGlhSFFTMTU0Y2YzTUUzNzV3d0RVbnpWb25CeUlXMtIBeEFVX3lxTE5oNmNUQ3BiR3Vmb1ZQX2loRFFtU0JXelNTNWZ0ME16UDFZWkhCb05rRXpieUNEcEV1amR3WXdRd1JLaEM1OHYyMjVWdmsyelUycnR1UkZxM3ZKQXlNWWp5b05fR0M3allITWw4eW5XUy1fdGVVd3ljMg?oc=5",
+          "published_at": "2026-03-16T05:00:00+00:00"
         },
         {
-          "title": "환율 상승에 유가 폭등까지…중동 리스크에 물가 어쩌나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Kdkw3bWlZSGFuR21taHpDN3djT3g3U2FqQnVMeEdCUm55RG9zVWRJYlFrdUZYV0tVNlZ4SVpQUmpZMzJuTlRnS0MwNVhjYkk?oc=5",
-          "published_at": "2026-03-15T03:01:26+00:00"
+          "title": "또 유가쇼크···증권가 “변동성 확대·사태 일단락 후 증시 안정” 예상 - 동양뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZFV5cWViMC0xTzNmc1FaX1F6Mi0xRmVXenBVRW5XX0REajFEYmtBUVkwV3VGZXczRF83MmlweTF2d3RnNTdCUjhBRjQ2d2cza05NQk9ac2NJSUZSX0JvOA?oc=5",
+          "published_at": "2026-03-16T04:57:37+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 159.96,
+      "score": 140.67,
       "articles": [
         {
-          "title": "중동 불안에 대출금리 '들썩'…영끌·빚투족 시름 깊어진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbkdsSjB3bzR3aDlPN01GcDM4QXZaQllkcmE2VDU2dDhMWjZwcFJ1dUhLRHBIcUwtdWh6ckhjMlM5M2ozeTBKclJMOThxVkU?oc=5",
-          "published_at": "2026-03-15T04:40:54+00:00"
+          "title": "중동발 中 유사 스태그플에이션 경고…\"실물경제 고통\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xUW91U24zUHJfWjRFMmRQdmVNMmVtMFpXQ1A2ekswcGUxRTNqLUZZbzJkOXVkYVI1c2lVTVZmbkJBR0FIcEdrU1djLWcxaGs?oc=5",
+          "published_at": "2026-03-16T05:00:11+00:00"
         },
         {
-          "title": "[영상] 미, 이란 '석유수출 기지' 하르그섬 전격 공습 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KN1RsRTctN3FGdkY2QXh3c19DV0pWWldrRWZ0MERPdW5FTUZRRUhEQVJkZjAxOTVXN09oeHVFYlR5OV9NZGN2SVZlZjBLUnM?oc=5",
-          "published_at": "2026-03-15T04:29:02+00:00"
+          "title": "중동발 유가급등, '저물가' 中에도 부담…\"실물경제 고통 가중\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TUm44U0VGYkZDbWlFNEFtMWxaQkhrNlRvNnFkTDRaSC0wSHczZEpNQmRTbUpMR01pcE1NeDFudkZXUm4zTmh4dmhndjBzazA?oc=5",
+          "published_at": "2026-03-16T04:51:45+00:00"
         },
         {
-          "title": "“전쟁보단 실물경제”…엔비디아 GTC, 마이크론 실적 ‘주목’ [주간 증시 전망] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NdEJlR3liUGFrVUd0TWM1REo1NG9zMjVaUHZMaEdaVTNOOW5NRDEyaWlncTZLNGFxLVFQZTFlMWNxNWpzam9temNJUmJuQkk?oc=5",
-          "published_at": "2026-03-15T03:43:02+00:00"
+          "title": "중기부, 중동 사태 수출 중기에 물류비 105억원 바우처 지원 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jMjcyc1JSWmZ0MnoyQ0ViMWMwWmQyS0E1aG82YmQwZWxTT1ljR0pwZ2xnU2RzVUpVc2N2NnROX1NIdVFIckVOWUxkX244Tkk?oc=5",
+          "published_at": "2026-03-16T04:45:14+00:00"
         },
         {
-          "title": "\"빌라 너 마저\"…청년·저소득층 '어쩌나' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHb05rNkpSOGVkbDZucG5zbzR1eFpGR3d0WkVKNmRCR1FiN1VTeC1MdWtMRVNScHRBVmhYZjBmMldBNHdsaEpnUTluc2FXVWM?oc=5",
-          "published_at": "2026-03-15T03:05:25+00:00"
+          "title": "\"유가 100달러면 美 석유기업, 95조원 추가이익\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44Rkk4U0VVbThMQkxmMVRHX3EzWVdxVzZfN1RvWmRrOTVabk9NdVpITjN6Zm00Mmk5U0pwWnlOQVlQc3hjQnBaTUtielNDU2c?oc=5",
+          "published_at": "2026-03-16T04:42:12+00:00"
         },
         {
-          "title": "환율 상승에 유가 폭등까지…중동 리스크에 물가 어쩌나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Kdkw3bWlZSGFuR21taHpDN3djT3g3U2FqQnVMeEdCUm55RG9zVWRJYlFrdUZYV0tVNlZ4SVpQUmpZMzJuTlRnS0MwNVhjYkk?oc=5",
-          "published_at": "2026-03-15T03:01:26+00:00"
+          "title": "\"유가 100달러 유지 시 미 석유기업들 95조 원 추가 이익\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0aW0zdzY0SjRWak9tdFU4RU5IZV9Wd1VfaDNoMmlOaUtEYjlKdF9jVGNxVzZYUDRGUHczZGdRbGdFWDN1OC1lYnd3Nmt6VWs?oc=5",
+          "published_at": "2026-03-16T04:42:07+00:00"
         }
       ]
     },
     {
-      "keyword": "환율",
-      "score": 147.12,
+      "keyword": "net",
+      "score": 140.67,
       "articles": [
         {
-          "title": "'유가 취약' 원화…환율 1500원대 고착화 우려 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSHNvN0RuMktUbTQ0R1dQaHR3b2RqN1FZYzVleVIxN3JXM2dRU1gxSGhpQ1EzSnl3NUZibEZjOThmSloxWmVlTWFnZUwtNDgzQXFDUHVaeTdlaC1EZnRETWVMcDB6LXRCdHR2a1FZcWZ4bGJ4ZXg3Sg?oc=5",
-          "published_at": "2026-03-15T04:27:00+00:00"
+          "title": "중동발 中 유사 스태그플에이션 경고…\"실물경제 고통\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xUW91U24zUHJfWjRFMmRQdmVNMmVtMFpXQ1A2ekswcGUxRTNqLUZZbzJkOXVkYVI1c2lVTVZmbkJBR0FIcEdrU1djLWcxaGs?oc=5",
+          "published_at": "2026-03-16T05:00:11+00:00"
         },
         {
-          "title": "중동 리스크에 환율 상승 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zLTBpZ0s5Ulh1a2huQzh1Z0ctd1NZNVVWdDU0SHJwRTkxYkdUSEg4Y0hPdjdnUkVyZS1PODJiSjBtMzFMMW50Zkg4Y2tPTTlBZlVJ?oc=5",
-          "published_at": "2026-03-15T04:07:00+00:00"
+          "title": "중동발 유가급등, '저물가' 中에도 부담…\"실물경제 고통 가중\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TUm44U0VGYkZDbWlFNEFtMWxaQkhrNlRvNnFkTDRaSC0wSHczZEpNQmRTbUpMR01pcE1NeDFudkZXUm4zTmh4dmhndjBzazA?oc=5",
+          "published_at": "2026-03-16T04:51:45+00:00"
         },
         {
-          "title": "[서환-주간] \"이란, 이란\"…1,500원대 다시 만난 환율 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KRDFrcUxtazU3ZklUVWVORUd6UVNWLUdwcnN4X3daQnBBZ0R5WVM3Q043S0tHZldrdWd3YnYyUVdNX3VMT21zWjhmS0dyQlhybzZVTFVjVy04Q0dsLVE5dFBpYWdtQzd0UzIyTm1ueEk?oc=5",
-          "published_at": "2026-03-15T04:00:06+00:00"
+          "title": "중기부, 중동 사태 수출 중기에 물류비 105억원 바우처 지원 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jMjcyc1JSWmZ0MnoyQ0ViMWMwWmQyS0E1aG82YmQwZWxTT1ljR0pwZ2xnU2RzVUpVc2N2NnROX1NIdVFIckVOWUxkX244Tkk?oc=5",
+          "published_at": "2026-03-16T04:45:14+00:00"
         },
         {
-          "title": "환율 1500원 시대 오나…평균 환율 환란 후 최고 찍었다 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LY3JzX1RUb0J3Vloya05FeGF4U2F0c0pQcWwxWldPUURDOHQtRkoxQTVrTkpQcGdsOFRYWGVlbF9ubVcwWDlDaVJ6bE5DSmpXczN3?oc=5",
-          "published_at": "2026-03-15T03:37:00+00:00"
+          "title": "\"유가 100달러면 美 석유기업, 95조원 추가이익\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44Rkk4U0VVbThMQkxmMVRHX3EzWVdxVzZfN1RvWmRrOTVabk9NdVpITjN6Zm00Mmk5U0pwWnlOQVlQc3hjQnBaTUtielNDU2c?oc=5",
+          "published_at": "2026-03-16T04:42:12+00:00"
         },
         {
-          "title": "환율 1500원 시대 오나…평균 환율 환란 후 최고 찍었다 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84MTlPUlozcEt1SmJmbmRQREYtQWlwU0ZraHJ5YlQwUmNJdDY5VDlUSkkxYy1MT1ktR2pFTXh6b2RJQlpMd284RjFJNjdGUkh4elBobHhkREFTZ9IBXkFVX3lxTE9oNzdiQ2dLVWc2eVZYTjhwUWQwd1p5eEhGWjZjZlZvT2dzLXdWMFFqbjlaQm5seW9RRU1GT0JoSkNrWmRMS1ZHOTdXV3BhVTFqTDc3ck55WkRlbEQ0YWc?oc=5",
-          "published_at": "2026-03-15T03:36:20+00:00"
+          "title": "\"유가 100달러 유지 시 미 석유기업들 95조 원 추가 이익\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0aW0zdzY0SjRWak9tdFU4RU5IZV9Wd1VfaDNoMmlOaUtEYjlKdF9jVGNxVzZYUDRGUHczZGdRbGdFWDN1OC1lYnd3Nmt6VWs?oc=5",
+          "published_at": "2026-03-16T04:42:07+00:00"
         }
       ]
     },
     {
-      "keyword": "중동",
-      "score": 111.32,
+      "keyword": "1500원",
+      "score": 119.35,
       "articles": [
         {
-          "title": "중동 불안에 대출금리 '들썩'…영끌·빚투족 시름 깊어진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbkdsSjB3bzR3aDlPN01GcDM4QXZaQllkcmE2VDU2dDhMWjZwcFJ1dUhLRHBIcUwtdWh6ckhjMlM5M2ozeTBKclJMOThxVkU?oc=5",
-          "published_at": "2026-03-15T04:40:54+00:00"
+          "title": "1500원 뚫린 환율…4대 금융지주, 유동성·외환 리스크 관리 강화 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhWGFJc3duNkdQdzh4RVBSODZ4cjBuV1hGVTJRczRMY19md25SUHpwQ19Lc3NQdTZfU010dnhMb3lnaUtlUDlWS0NULU1DT2QzcmpWMA?oc=5",
+          "published_at": "2026-03-16T04:48:00+00:00"
         },
         {
-          "title": "창원시, 중동지역 위기 대응 비상경제 대응 체제 가동 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9udzdORDk2Q0FWT1RmOFNvMU5pdVZUcjJfTTFaT3Zja3Awa3B3RnlhM25USktadGY5ZzZTb1RaSE56R0VwNklDUTR3ZHNXMHpJX2lVTkxxXzdzWUhkTlBETVc0Y3lYYVVESFh5emlTTzU?oc=5",
-          "published_at": "2026-03-15T04:38:08+00:00"
+          "title": "\"환율 1500원·유가 100달러\"···한은, 기준금리 '동결 vs 인상' 셈법 비상 - 뉴스웨이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ydGZBQldwbkNFX2U4cGdORzZROEYyV2FyWWJWQlhXcDNXcTZjMFhBZlpvMDR5Zm4teUszN0NObW96NjBYclZuQWlPblJVb3ZHRVd2V1kxYzVuRmlpRUxQYzQweTR1VDhtR2c?oc=5",
+          "published_at": "2026-03-16T04:38:14+00:00"
         },
         {
-          "title": "4월 비행기표 최대 10만원 오른다…중동발 '유가 쇼크' 현실화 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kSUc2cFV2d3gwOW1XdGh0dDNPd0dVMTRBbHFqdGRyUVh5YlBMNDJfa28wYTNLQm1iOENMYW5QblFiNm1ldWs0OTFtelcyekFtbzMxMHVR?oc=5",
-          "published_at": "2026-03-15T04:30:43+00:00"
+          "title": "원·달러 환율, 금융위기 후 첫 1500원 돌파…유가 폭등에 비상 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2cC1aODliSFpoaHFwVXJBXzEtRGNJMnhoSlJvbVVYaU44RmpYYkR0MmZ4ZVA2eEN6NER0Q0I0U3JwR0x6MzRIZ2VKYVoxcGIzNHRZbVZUN1ZYbGFjeExkYU5ZbHZDY09sZDdjaklpWkJ4bzjSAXdBVV95cUxNbmtXRHNhd0ExYnYxTEY2NmpuYVRfR2YxM3JYMEU1ZHBQUHpUWjZQbEZpNG01aFYxM1JsU0hPQTZBSlNhQmpFNm1zWTRFZVpaQWtiWlJHb3FnQmltNEQ0VFc2dDNkQXZfbGphX1N0LVJKald5SFQ2OA?oc=5",
+          "published_at": "2026-03-16T04:21:41+00:00"
         },
         {
-          "title": "중동 리스크에 환율 상승 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zLTBpZ0s5Ulh1a2huQzh1Z0ctd1NZNVVWdDU0SHJwRTkxYkdUSEg4Y0hPdjdnUkVyZS1PODJiSjBtMzFMMW50Zkg4Y2tPTTlBZlVJ?oc=5",
-          "published_at": "2026-03-15T04:07:00+00:00"
+          "title": "'고유가 충격' 1500원 뚫은 환율…한은, 복잡해진 금리 셈법 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uQk5INGw4ZjNjUjVnNkVxaFk2ZFl1UGk4aVpFcmFyZWtNVmpFTEw2dWNWX2dZTUZBR1RhTDBZMGpDbUVKYVN0Vzh6dUxtamx3Z1VUTndwTDNjd2U2UWxXWtIBeEFVX3lxTE9SLVRvU3JKcThmSXktS3lNTGh6bDV1RldpU21wUmppTVRoU1otTzUtT2Y4ZTQzT0VQUF9XdDQ2LVlyTjQ5SzJvRFlQUTd1VzItYURtRnE5OElDYTdrNWlQU2lOWFVqUjRrd0NLT3VQUTkyaUgyRWpveA?oc=5",
+          "published_at": "2026-03-16T04:21:00+00:00"
         },
         {
-          "title": "중동 리스크에 채권금리↑···주담대 7% 코앞인데 '마통투자' 늘어 - 시사저널e",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cmFQRm5MS0pQUFpxQm1FRkR0Q3RER3l4N2hZUUlVOTRKUUpxY1ZBN29vVzE1bzhqTEhBN21NZkk4WnN3ZHI4S0ltRlN4dGhOYUNPU1BKcjBwYkxBQkEzbktLMndkS0RkSXlPeWNjel96Z9IBdkFVX3lxTE5uSllSeE94RG9GUnRBRUVLYXpVZ3JfbGxCTEMtTGxieUFfeW9CaWFzSnNWYTdYdHhDbFlVN2pVc0VKRjg2ZXoyeWhuMmR0VE45aGVkNlN6N1JuQmxGc0VmTHhzNjdCVTJXRlNRLVdYNjd1dWZCcFE?oc=5",
-          "published_at": "2026-03-15T03:19:14+00:00"
+          "title": "원·달러환율 17년만에 1500원 찍었다 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DREhZTW9jb0dVbTg5dnlJamtNZHhwZ0g1ZURlejNRWE5EclBSaG9VRHFCUEZuM0FDTWYtZUNmdGJBemdYUmNPUlBSNGdOU1py?oc=5",
+          "published_at": "2026-03-16T03:07:54+00:00"
         }
       ]
     },
     {
-      "keyword": "대응",
-      "score": 81.77,
+      "keyword": "연합인포맥스",
+      "score": 108.36,
       "articles": [
         {
-          "title": "창원시, 중동지역 위기 대응 비상경제 대응 체제 가동 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9udzdORDk2Q0FWT1RmOFNvMU5pdVZUcjJfTTFaT3Zja3Awa3B3RnlhM25USktadGY5ZzZTb1RaSE56R0VwNklDUTR3ZHNXMHpJX2lVTkxxXzdzWUhkTlBETVc0Y3lYYVVESFh5emlTTzU?oc=5",
-          "published_at": "2026-03-15T04:38:08+00:00"
+          "title": "유가 10% 오르면 제조업 생산비 0.71%↑…석유제품 타격 가장 커 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2b2lRNlQtMXVKVm9RVVlJRk96enhKb1RuRWI5Tm04MGFQZXRlN2JVNXdlREV2cHpmTHo2NjBpUGd5UndXUW82MFV3b1NzdWpWcFRVMmVhRERsc3lCejJnMzFUT1BqVC1kWE1oWGZZRkM?oc=5",
+          "published_at": "2026-03-16T05:03:11+00:00"
         },
         {
-          "title": "경기도, 600개 중기에 ‘무역위기 대응 패키지’ 지원 - 기호일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4YjQxX1JJLUM5bDRLd0kwLXVBRXo1R1RYZGZoT1EtNGFKWUlDQ2Q5RzItN1dDUGVfZllwVnZka0UzTmhXdU11NFhhX0tEek54Q2dSeXNobUdEUFlvVFBlRi00RWdwbGdiV1pOUnhyOA?oc=5",
-          "published_at": "2026-03-15T03:30:00+00:00"
+          "title": "골드만, 유가전망 또 상향…연준 금리인하 예상시점도 미뤄 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqZWlYTXFhbXViTEJqMEFpQjBadTl3YzlxTFZvZjlxUGlxY2dsSElGTEtsQVFtaGhDd2FTYkdmZ3VGWWdZcHdNNmo1X0N6b2JiQU05aVo2TkgxLTdTZi1TNGlrSExteTFRYjROSWliVHbSAXRBVV95cUxNc2dYOUFkLWFwa0oxcy1QdEZnbTk5VXl2bDZNdkV4TGRZSnRmNFVMbDA0VkpFemsyNUxaa29mc05QU19BVkI5dXBhTjl1QkE5SDhqMC16Wk1uVS0yc1ZxZzZhTkFkOHNBaURxcUwxc2dZTWdMcg?oc=5",
+          "published_at": "2026-03-16T04:22:38+00:00"
         },
         {
-          "title": "경기도 ‘무역위기 대응 패키지’ 600개사 모집 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JX2NMV21NMnc4SlVhUXlVS0xIdFFjbW1QX2l4Z1l3MjR0VC1BYml2Ylp4UXAybXpfNGZ2eUtidDBWcF95VmJ4bHVGMjlDSEk3bklkVE1R?oc=5",
-          "published_at": "2026-03-15T03:11:31+00:00"
+          "title": "입찰 경계 속 국고10년 금리 상승 반전…당정, 시장 안정에 주력 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00VzRYZFJocjdPNFJ1MU55TFZPMWxUaFowbUNsbEhBR0FvSTVEb2xWUTY3ejVzVUlPZWJKZUVzUlFRSXpfbzRpWjd6dEYtdHZIYjJURmFlbTNTYnpsNFdSWm1MeXYzaDFNckRhWjNnamI?oc=5",
+          "published_at": "2026-03-16T04:19:17+00:00"
         },
         {
-          "title": "한은 \"중동 사태 대응 추경, 물가 자극 가능성 작아\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qQlBBa090bmE0dGhmNmc0QTVodlFPZFBKQVZ4ZElpM1hBYTZnQ1ZzYV9BdnBIV1IzUGNOWE1vVnp1VDVKUXVsaHdBTGhCWGs?oc=5",
-          "published_at": "2026-03-15T02:51:03+00:00"
+          "title": "RBA, 2회 연속 금리 인상 유력…상반기 중 추가 인상 전망도 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2WXR4TmR3Q0lUTy14UFFfOVNkSmdPRGlMWXRiTUZacDhCWTEyLURRX3ZwWkZpN3hJUVpTaHlMWXo3NGlVcDFoMHVrMEI0STVhYS01SlFCaWRqc0FrWU5tdjNrbFp2UkRPYTRDNUdzX2rSAXRBVV95cUxPWXFJNl9YdXZadnZ2VG5LSmdqMVpRUy10UThhRWZ0M1gwS1gwaGphU2NWeGlXUVA3UnV2cGhxNGFaSklSa1JyVUwzR29rVzdHaU5pdnJwREdDajRza0NMSzRiTDQxTWhTZDRDNm80d1Z3ZHBPcg?oc=5",
+          "published_at": "2026-03-16T03:44:11+00:00"
         },
         {
-          "title": "정부, 중동 전쟁·유가 급등 대응 추경 추진…민생 안정에 초점 - 더쎈뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RYzZVQThYckFrZlVDOXVpMjBCTnY1bmZhRDNVOXJaaDRuYTA1Q3VBS1BPY2QzVTM2b0FWRFAxQ0w0M1EtUkJkU1M4QUFraHpHS0NuRDRLUk9iZHJUSE1tOHg2cHdtU0Zj?oc=5",
-          "published_at": "2026-03-15T02:20:00+00:00"
+          "title": "부담스러운 1,500원 환율…국민연금 제친 서학개미도 '주춤' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05cFVSRkJwSUpHTWliVFd3aXZzUDlXVWNFOGxpZ1Y3Y2F1TEdNUU9ZVkNNYk92cnFKSmdFWmtkUXpXMWdsTHVka3oxTXFOdFpNbjAwNXAwY0tCcndHdHRweXJaUzRpblAzdEtyZ0ZxOTQ?oc=5",
+          "published_at": "2026-03-16T03:27:48+00:00"
         }
       ]
     },
     {
-      "keyword": "금리",
-      "score": 73.09,
+      "keyword": "FOMC",
+      "score": 103.05,
       "articles": [
         {
-          "title": "중동 불안에 대출금리 '들썩'…영끌·빚투족 시름 깊어진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbkdsSjB3bzR3aDlPN01GcDM4QXZaQllkcmE2VDU2dDhMWjZwcFJ1dUhLRHBIcUwtdWh6ckhjMlM5M2ozeTBKclJMOThxVkU?oc=5",
-          "published_at": "2026-03-15T04:40:54+00:00"
+          "title": "중동 전쟁에 커진 인플레 우려…3월 FOMC '금리동결' 전망 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VYkZmdGFMLXh4NTA5SjUyWVBWc0hwajdJRV9jWkYzNzVRZzBYNTUwVnFJaDdjb3JBS1ppZnNFTlIweVdROUU4RTJ5ZG9wc3NRUFZJ?oc=5",
+          "published_at": "2026-03-16T04:38:00+00:00"
         },
         {
-          "title": "가계금리 두달새 0.2%p↑... 주식시장 변동성 확대에 '빚투' 영향 - meconomynews.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaTkxJZ3owQVZVeDduZzBxYmY5c19rMVJkQ1g3ZU1xeHZ0RVNjcl9zb2ducDZSSjNwM2VGX2xTdUZ6TGE5N3ZjcTBIYXRIMkNZZmo5R2V1SVN5RTU0NkpoZTlPWEk3SVA1Vzh4bWZXVXE?oc=5",
-          "published_at": "2026-03-15T04:30:44+00:00"
+          "title": "중동 긴장에 코스피 주간 하락…FOMC·엔비디아 GTC 등 변수 주목 - 폴리뉴스 Polinews",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpdUpPSkNnZzFJRkdqWjNhWWRLMFh0MTVwX3pyQ240TDFZU2RFRmlpaHI3ajFzc3Ewb01qODlTaDZnM3Zsa2lFNVdpOG0zUi1vMzZEcEJ4SDRJSFJjSlhWRlNpd0dHSHpQOVNxTDNn0gFyQVVfeXFMTklobTkxbFgwMVRoUGV4c1M2SlRUclFEZHJfZEdjd0VobGE0c0NTdnN5NHFUTlFncUZXUDdtNURfY0pqVjE2cjBNYmlITHE0UnljY0t1dzdLSWNoeTUwLWlEYmwzTi1LbmNnc0pBR3lCSXh3?oc=5",
+          "published_at": "2026-03-16T04:07:46+00:00"
         },
         {
-          "title": "우리은행, 포용금융 우대금리 적용...최고 0.5%p 인하 효과 - 필드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yNmg4X214dm9XTks4NEZiblZlSkRBZ2RfMWZLT3FNQlBTM3dKWWZxejBHMUpic1N5UVp4MVRockNhcHJCMUJMVERYaXlNRm1xU3Zpd3JHRGtZNUQyRlA2R2FYLVhMdUF2NXfSAWxBVV95cUxORVNNbF9TZEVqaW5NNThocmhYYUxMRXh5TllRSkRyWWtSeXlHUlNIYndBb1JSaVZOQTNrM2oybnE0OWJjS2xNUlB4MEY1TFdSN2QwN3phS0x1WXVUSW52Z0ZIc09VeWRUaUJIcHg?oc=5",
-          "published_at": "2026-03-15T04:14:15+00:00"
+          "title": "美 FOMC ‘점도표’에 쏠린 눈…한은 ‘동결 기조’ 바뀔까 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pSUhRRzdodEp6bTdrd2lBcnBXUXpTdnFwVGZFaXQxakZfREFJd195a3RNZ1p5QjJpUF9ENUVFU1RpZEdJbDFnYm5wcFY0TEpqcEV5a2xB?oc=5",
+          "published_at": "2026-03-16T02:36:40+00:00"
         },
         {
-          "title": "주담대 금리 다시 꿈틀···증시 활황에 '대출 수요'까지 겹쳤다 - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSkx6enI0aHQyaE5MZ3J1dDNTMVUyOEp3dm4xY2ptc1djaGJpX0JlYzBOb1hwQkt5bUhINnR0UmxDaEpXbkZCd0tCMjItOHhyVHNjZzhoWEphODdKRDlOa3gwV3EyUjdPT0E?oc=5",
-          "published_at": "2026-03-15T03:43:42+00:00"
+          "title": "FOMC·GTC·마이크론 초점…주도권은 여전히 유가 - 네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KOEd4dE00UERzb2hBZXd6cFUwcjhWbWFFLVhNcGJpZDdRejBPWlpvM2k1Z2dTWWVZd2pwXzBFc1RrYUNQc2RXZzlDNl9IOTRZQmlnN1I3WlVvU0Q3THNnejdSd1g5YWNKcEdmc3Y0c1lKODRheGUwVVdXOA?oc=5",
+          "published_at": "2026-03-16T02:10:00+00:00"
         },
         {
-          "title": "중동 리스크에 채권금리↑···주담대 7% 코앞인데 '마통투자' 늘어 - 시사저널e",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cmFQRm5MS0pQUFpxQm1FRkR0Q3RER3l4N2hZUUlVOTRKUUpxY1ZBN29vVzE1bzhqTEhBN21NZkk4WnN3ZHI4S0ltRlN4dGhOYUNPU1BKcjBwYkxBQkEzbktLMndkS0RkSXlPeWNjel96Z9IBdkFVX3lxTE5uSllSeE94RG9GUnRBRUVLYXpVZ3JfbGxCTEMtTGxieUFfeW9CaWFzSnNWYTdYdHhDbFlVN2pVc0VKRjg2ZXoyeWhuMmR0VE45aGVkNlN6N1JuQmxGc0VmTHhzNjdCVTJXRlNRLVdYNjd1dWZCcFE?oc=5",
-          "published_at": "2026-03-15T03:19:14+00:00"
+          "title": "[주간환율전망] 유가 쇼크에 '1500원' 마지노선 뚫려···FOMC '주목' - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TV3UwQUZiVkpySHRSMmxNaDVwQjltRTBPU3B3aGFiWl8xbUR6MzNGSmxnM09RbHlkQjhpOWVJbGtDb1pwU0ZGNFdBVnVseDRNSkdqaFRraEpEaUl6LUxneGE4TVZFanBTTVE?oc=5",
+          "published_at": "2026-03-16T01:11:56+00:00"
         }
       ]
     },
     {
-      "keyword": "물가",
-      "score": 71.8,
+      "keyword": "수출",
+      "score": 102.66,
       "articles": [
         {
-          "title": "[동정] 박완수 경남지사, 전통시장 방문해 물가 점검 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mTTNqZ3paYXBfN2N0ek9GSmtSbFV0dlpEXzFGVjJwN0VGcm5YdVh4OGxZTXZQWF9aVVM4MUd6bU01d2xreTZpaU1FWUlQdnZMaVVLdENfb1BPaGfSAWBBVV95cUxPY25hR0JnbGpMcnN6VHZibWxNa1dINGFGaDRWOFhQby1ucDhUVC10U0xFRFdfSTZkUVNJd0wwWHVKcEdhbEJsUkJSQXBkeEx0UDBMWUZzRzFfelhSNXd2enM?oc=5",
-          "published_at": "2026-03-15T04:49:26+00:00"
+          "title": "중동사태 수출 중소기업에 물류비 105억 원 바우처 지원 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iZThYaS0xa1BoU2d4dEtheWUzQ0Q5SHU4LXVhOHNQalAtWmhrVS1RcEtEd3RpS1FCa0ZNb1JiWGlxaUJPaXhMVUs4OUpibTRSYzlhYmdjb0djZDg?oc=5",
+          "published_at": "2026-03-16T04:59:00+00:00"
         },
         {
-          "title": "박완수 경남지사, 전통시장 방문해 물가 점검 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94bE42ZDBnekdDVTJ1SGNQTnh4OTFBa0RlUTFBQzVRWUZ2akpma0VWV2lMdnFrQkZNZEI0V0FfMnA1dVBmWXRvbERGNHBxV21wZzg3OEg2anpRU3ItRGg0?oc=5",
-          "published_at": "2026-03-15T04:04:45+00:00"
+          "title": "2월 수출, 대구는 줄고 경북은 늘어 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91bi1HdzdVaVMyelp3Z21fTkRUTFpEbm1XWHZMOTRlYXVoeXFPYnFuWFVHWEF5b3hJODZQOXpqQ2lUMVFfY01aZHg5eUpOUTNpQzI5R3o1djUtYVnSAWBBVV95cUxPWjQwNG5JeHV6dTM0WmdOTWdpeE5QSnVhcWxfd1hKOFNpZ0szcjJYQnUwSmUzanhQN2x2bWFFeWtyYmFHM1BsMmZIUTJ1azA5UkJMZ0tVeHUweGFETGxsODM?oc=5",
+          "published_at": "2026-03-16T04:58:36+00:00"
         },
         {
-          "title": "남원시, 물가 안정 기여 '착한가격업소' 신규모집 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zeEVLWlZGczhTZjFZN1FrTHJDNkNzdHQ1OUo3a1BycDNwZExaMTNzYlZzcElmb3d5Vi1IYnlwOHpmV0lvRWotZnp0QmJ4SnNxOUJDeGRxcHk5MktlS0xMedIBeEFVX3lxTFA4c2kzVUE1WDBVaEZwczJIYzYtaGFGbC1wVm83LWVhaEVNOGdWTTlULWRJRW5YQW9KM09YT0dPLU9sYWRrUE5tVmFTNTFuT2ZUTEp5OHp1NUEwUWNZZ3pnQWpJb0c2RExISU56NUlITFE4YnRBRG42Mw?oc=5",
-          "published_at": "2026-03-15T03:17:06+00:00"
+          "title": "2026년 2월 경남 지역 수출 6.1% 증가한 35.6억 달러 - 日刊 NTN",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45a19wWTZESlBacmFGZVJsc0ZqMmtCQU5tSC1SM0NrVEE0bkdtQlI3U1lzSy04Tm1EV1Vpek5YcFp0ZXl6aW15NjdUcC1TX2taOWJKMzZZSmgyMlZJNGlDLUhWQ2ZHbmt5aVE?oc=5",
+          "published_at": "2026-03-16T04:56:42+00:00"
         },
         {
-          "title": "한은 \"추경, 물가 자극 가능성 낮아\"…성장률 제고 효과는 신중 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjNHF6ZFFHWEloY1FSTmRMZl9vQ3hERVlrZEJQd0ZUMzNvZ2c5Tk1DTlNoeTBBS0xpdVF2Rk5pTk91bG5sUU1FUi1rQTVvWGpPVndGZnFSb3R6Z2V3YmdEbGctRk05MFhJYzNfMVFGWk81S1U?oc=5",
-          "published_at": "2026-03-15T03:15:42+00:00"
+          "title": "중기부, 중동 수출기업 물류비 105억 지원 - 전라매일",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zb2lMM2RFSEtuN1ZoTFc4WjR6ekxkaUxqUVJXMWdWbWsxc19MMTZ3b3RieVF5ZXBhZUFCVURCUXZHX2g2a0xkc2tWeW03dkpXWHc?oc=5",
+          "published_at": "2026-03-16T04:51:00+00:00"
         },
         {
-          "title": "환율 상승에 유가 폭등까지…중동 리스크에 물가 어쩌나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Kdkw3bWlZSGFuR21taHpDN3djT3g3U2FqQnVMeEdCUm55RG9zVWRJYlFrdUZYV0tVNlZ4SVpQUmpZMzJuTlRnS0MwNVhjYkk?oc=5",
-          "published_at": "2026-03-15T03:01:26+00:00"
+          "title": "중기부, 중동 사태 수출 중기에 물류비 105억원 바우처 지원 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jMjcyc1JSWmZ0MnoyQ0ViMWMwWmQyS0E1aG82YmQwZWxTT1ljR0pwZ2xnU2RzVUpVc2N2NnROX1NIdVFIckVOWUxkX244Tkk?oc=5",
+          "published_at": "2026-03-16T04:45:14+00:00"
         }
       ]
     }
