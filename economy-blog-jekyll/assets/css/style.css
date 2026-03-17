@@ -103,6 +103,34 @@ a{color:var(--brand);text-decoration:none}
 a:hover{text-decoration:underline}
 .read-more{display:inline-block;margin-top:12px;font-weight:600}
 
+.category-pagination{
+  margin-top:14px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+}
+
+.pager-btn{
+  border:1px solid var(--line);
+  background:#fff;
+  color:#1e3a8a;
+  border-radius:999px;
+  padding:6px 12px;
+  font-size:.86rem;
+  cursor:pointer;
+}
+
+.pager-btn:disabled{
+  opacity:.45;
+  cursor:not-allowed;
+}
+
+.pager-info{
+  font-size:.9rem;
+  color:var(--muted);
+}
+
 .post-wrap{
   background:var(--surface);
   border:1px solid var(--line);
