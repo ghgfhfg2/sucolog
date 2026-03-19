@@ -1,0 +1,127 @@
+Migration check report
+Generated: Thu Mar 19 13:24:56 KST 2026
+Target: /Users/sooya/오픈클로 백업자료
+
+[Summary]
+Files: 54225
+Dirs : 7947
+Size : 2.3G
+
+[Top-level entries]
+total 16
+drwxr-xr-x   4 sooya  staff   128 Mar 18 00:44 .
+drwxr-x---+ 19 sooya  staff   608 Mar 19 13:12 ..
+-rw-r--r--@  1 sooya  staff  6148 Mar 18 01:00 .DS_Store
+drwxr-xr-x   6 sooya  staff   192 Mar 18 00:59 20160318
+
+[Potentially problematic filenames (newline chars)]
+
+[Zero-byte files count]
+     144
+
+[Archive quick integrity test]
+zip-like files: 0
+(no zip-like sample files found in first 30)
+
+[Random sample readability check (100 files)]
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/c576df947233b0b0_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/anchor.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@eslint/eslintrc/lib/shared/deprecation-warnings.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/19/0fd4a177748fbe51bfcbf60d259f053d8f0b55
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/has-bigints/.github/FUNDING.yml
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/ai/dist/compat/firestore/index.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/node_modules/@firebase/auth/dist/node-esm/src/api/authentication/idp.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/es-abstract/2021/CopyDataProperties.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/1f/e3e160112aa9b896df4b30a0184d76a69dfaef
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/file-minus.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Code Cache/js/744d45530aa81fb1_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/7e/830d21909db53ac2e92577446ada0c3afffa24
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/toolog/.git/objects/b4/a330c226af67a1871ca7296753c1556f69e8b8
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/arrow-up.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/06dbeb7a0705b769_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/caniuse-lite/data/regions/HK.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@opentelemetry/api/build/esnext/propagation/NoopTextMapPropagator.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@opentelemetry/api/build/esnext/diag/types.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/scale.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/node_modules/@firebase/auth/dist/web-extension-cjs/src/core/util/time.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/node_modules/@firebase/auth/dist/node/src/core/util/handler.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/p2a-gui-service/node_modules/bullmq/dist/esm/scripts/getCountsPerPriority-4.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/e970e7a7f7c52065_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@opentelemetry/api/build/esm/diag/types.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/toolog/.git/objects/aa/052120f20f01ccad3a4fbb99a7a9d337e2843e
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/compat/functions/dist/compat/index.cdn.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/d0/e860bbbd27d760ef6842eb14a49a5b8a7cd90b
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/c8d559aed5586116_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/03/a128b212d1a518332133829cc2db6f1163494c
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/toolog/.git/objects/be/96994ac6b7cee863a99774c4cfed1314d1cb08
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/framer-motion/dist/es/motion/features/gestures.mjs
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/node_modules/@firebase/auth/dist/web-extension-cjs/src/api/authentication/create_auth_uri.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sooyaBlg/.git/objects/d6/db203b5bae103d9c228fca6d3168f2f9b45a2a
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/d84d81f5da33b543_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/get-symbol-description/package.json
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/cron-hub/node_modules/fs-minipass/package.json
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@types/babel__core/README.md
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/52/db921fbf76abba5e771927f0facaa49e1528b4
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/cron-hub/node_modules/qs/test/stringify.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/jose/dist/node/esm/runtime/check_modulus_length.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/66/660e5dc90ce89524aede9a8b04e3643c4d9cde
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/caniuse-lite/data/regions/IE.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@firebase/auth-compat/node_modules/@firebase/auth/dist/esm/src/api/authentication/token.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/safe-regex-test/README.md
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@isaacs/cliui/node_modules/string-width/index.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/node_modules/@firebase/auth/dist/cordova/internal.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/a0/e6e634d028ee07c84a1d09862cc4f1c423b952
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@firebase/auth-compat/node_modules/@firebase/auth/dist/node-esm/src/platform_browser/strategies/redirect.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/align-right.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/weight-tilde.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/google-gax/node_modules/@grpc/grpc-js/src/generated/validate/Int32Rules.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/star-off.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/which-collection/.github/FUNDING.yml
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@firebase/auth-compat/node_modules/@firebase/auth/dist/browser-cjs/src/core/util/fetch_provider.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/59c3137e8be6b0b4_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@babel/types/lib/validators/isLet.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/cron-hub/node_modules/encoding/node_modules/iconv-lite/encodings/sbcs-data.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/jsx-ast-utils/src/values/expressions/BinaryExpression.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/fb/328d10be3976d4af99ffe4e2a6521ca7c512f3
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/p2a-gui-service/node_modules/zod/src/v4/locales/no.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/toolog/_posts/2026-03-07-weekly-holiday-pay-calculator-core-logic.md
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/es-abstract/2024/BigInt/divide.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/google-gax/node_modules/@grpc/grpc-js/src/retrying-call.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/luggage.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/toolog/.git/objects/8f/8021561486422ad1a5e6c2b0745c6e69b0b8d0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@firebase/firestore/dist/firestore/src/core/options_util.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/d1f390d7c03f6305_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/a5ed8a96e7a56d22_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/eslint/lib/rules/max-params.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/63c79dca839ec9fc_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/compat/auth/dist/compat/installations/index.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/3c/9acdaeb40423d57ba8d20c3142c4a7d939a7e1
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/syringe.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/is-date-object/package.json
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Code Cache/js/73d4bafc888db5fe_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/node_modules/@firebase/auth/dist/rn/src/core/persistence/index.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/e1/7df51e6ba226bfb2f56a118389e2ca0ea81635
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@firebase/firestore/dist/private.pipelines.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/file-type-corner.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/node_modules/@firebase/auth/dist/node/src/core/auth/middleware.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/square-sigma.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/google-gax/node_modules/@grpc/grpc-js/src/generated/grpc/channelz/v1/ChannelTrace.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/optionator/LICENSE
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/p2a-gui-service/node_modules/pako/lib/zlib/zstream.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/b6153e2f9ffadfed_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/eslint/lib/rules/no-promise-executor-return.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/motion-dom/dist/es/layout/LayoutAnimationBuilder.mjs.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/google-gax/node_modules/uuid/dist/esm-node/md5.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@firebase/app-compat/dist/esm/src/errors.d.ts
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/firebase/firestore/pipelines/dist/pipelines.cjs.js.map
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Code Cache/js/8b1a43c381f2e0fd_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/@babel/plugin-transform-react-jsx-self/LICENSE
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/.git/objects/9b/811fa447fbb1de7da08d719aa2753cc6bea806
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Code Cache/js/5e4991f011b6208c_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/ccc5e77e22048e94_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/lucide-react/dist/esm/icons/transgender.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/23ab718b5d6b04b2_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/suno-auto/user_data/Default/Cache/Cache_Data/09066dd6d0cf7d74_0
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/sy-story-deco/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js
+/Users/sooya/오픈클로 백업자료/20160318/.openclaw/workspace/screen-score/.git/objects/1c/51908a49715d90764533519fa2ae773cd5ad73
+Unreadable in sample: 0
