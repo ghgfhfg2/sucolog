@@ -144,6 +144,7 @@ async function callOpenClawCli(req) {
     const outer = JSON.parse(stdout);
     const raw = outer.reply ??
         outer.output ??
+        outer.payloads?.[0]?.text ??
         outer.result?.payloads?.[0]?.text ??
         "";
     const isSong = /노래|가사|lyrics?|song/i.test(req.prompt);

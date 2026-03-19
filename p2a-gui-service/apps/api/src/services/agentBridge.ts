@@ -172,11 +172,13 @@ async function callOpenClawCli(
   const outer = JSON.parse(stdout) as {
     reply?: string;
     output?: string;
+    payloads?: Array<{ text?: string }>;
     result?: { payloads?: Array<{ text?: string }> };
   };
   const raw =
     outer.reply ??
     outer.output ??
+    outer.payloads?.[0]?.text ??
     outer.result?.payloads?.[0]?.text ??
     "";
 
