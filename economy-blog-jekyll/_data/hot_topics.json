@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-03-19T04:51:16.173565+00:00",
+  "generated_at": "2026-03-20T04:44:06.129638+00:00",
   "source_count": 4,
-  "article_count": 356,
+  "article_count": 377,
   "top_keywords": [
     {
-      "keyword": "동결",
-      "score": 303.39
-    },
-    {
-      "keyword": "금리",
-      "score": 233.74
-    },
-    {
       "keyword": "유가",
-      "score": 224.32
-    },
-    {
-      "keyword": "기준금리",
-      "score": 214.57
-    },
-    {
-      "keyword": "연준",
-      "score": 194.17
+      "score": 206.57
     },
     {
       "keyword": "환율",
-      "score": 193.25
+      "score": 182.27
+    },
+    {
+      "keyword": "동결",
+      "score": 138.62
+    },
+    {
+      "keyword": "기준금리",
+      "score": 122.41
     },
     {
       "keyword": "daum",
-      "score": 172.3
+      "score": 119.82
     },
     {
       "keyword": "net",
-      "score": 172.3
+      "score": 119.82
     },
     {
-      "keyword": "중동",
-      "score": 157.95
+      "keyword": "금리",
+      "score": 117.2
     },
     {
       "keyword": "연합인포맥스",
-      "score": 133.99
-    },
-    {
-      "keyword": "FOMC",
-      "score": 132.29
+      "score": 115.49
     },
     {
       "keyword": "이란",
-      "score": 125.33
+      "score": 89.0
+    },
+    {
+      "keyword": "중동",
+      "score": 83.4
+    },
+    {
+      "keyword": "하락",
+      "score": 77.83
+    },
+    {
+      "keyword": "전쟁",
+      "score": 74.22
     }
   ],
   "hot_topics": [
     {
-      "keyword": "동결",
-      "score": 303.39,
-      "articles": [
-        {
-          "title": "연준, 두 차례 연속 기준금리 동결 - 미주중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YU3ZwcWQwMHlKMGFmWWtaN3RWSlpHRlFaX3k0NG8zeFFGYmg3VFVuc0l6eW54ZnpsTVdEMmhUQzlXSERwc3NrRjlJcGM0d1ZncnN2UkVSakl1R2hIeGJtaXJn?oc=5",
-          "published_at": "2026-03-19T04:29:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 2회 연속 0.75% 동결…“유가 주시 필요” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbW81c0hCMU1pVWFNNDFPa0JlS1RJampZaVFoTkVlNmZ6RjQ3TW5idFBTenVCZzlEV3ZZamlhTGhLazBOMnV5bXFnUnNIb3ZMOTdCbjVqWF9rTkk?oc=5",
-          "published_at": "2026-03-19T03:36:00+00:00"
-        },
-        {
-          "title": "중동 사태 불확실성에 미 연준 금리 동결…“올해 인하 1번 가능” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CcV9WWWVzU3NOX3RJSkpYRVdYTzhNVWVOdTRCVFBtXzFGYWZFUGpEX3huOXpCSnMxS1VGZXdMMHh4TlpxMlFFaTlUamVFcG93cE9OaUJTOHJMU2s?oc=5",
-          "published_at": "2026-03-19T03:35:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 2회 연속 0.75% 동결…\"유가 주시 필요\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FZi13M0xIS1dkTUVETWs4NEFublBFdml4S01YMzYwOHFnbXN5TFpSY1pIaEl1RFVmT1dyanhpTi1GWFRUcHpSVmRPQnJmM0FTbWJOUlBvMzhnbkHSAWBBVV95cUxNamctbXBZVE53c2N3WUVlZ3VFRm9udFV5MlJGUnhCVTRPeW1hMGoyWVJvOGJuTHRVZ3JQUk1BQ1F6MUJWN09vOU1Wb19mek5PWFBZdzJoWnVCMG0yV0xGNm8?oc=5",
-          "published_at": "2026-03-19T03:27:18+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 2회 연속 동결…0.75% 유지 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kZ0JDWm1KbE01TWF4dWlUUXhLdTV1dm9OUnlwd3ZYOEU5UG1JTWZ1NEY5elNwd2pJdVNscm4xeHY0bkttNHN0em8zTm4xSTA?oc=5",
-          "published_at": "2026-03-19T03:21:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 233.74,
-      "articles": [
-        {
-          "title": "연준, 두 차례 연속 기준금리 동결 - 미주중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YU3ZwcWQwMHlKMGFmWWtaN3RWSlpHRlFaX3k0NG8zeFFGYmg3VFVuc0l6eW54ZnpsTVdEMmhUQzlXSERwc3NrRjlJcGM0d1ZncnN2UkVSakl1R2hIeGJtaXJn?oc=5",
-          "published_at": "2026-03-19T04:29:00+00:00"
-        },
-        {
-          "title": "유가 급등·BOJ 경계감에 국고채 금리 상승…10년 7.5bp↑ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwNnhXSWdtS1BvS2t0YXZ3LXo2bHFXMTlPSjJnbVdaanpVT292b012cHc4TVVRaFcydnQ5MGROQjRXQ3JnRW5wYkh6OV9FdVJyX2xIbWJYVU1pUUlSY3B1emU5Y3owY1g2djhPUTRVWjc?oc=5",
-          "published_at": "2026-03-19T04:24:40+00:00"
-        },
-        {
-          "title": "ING \"3월 FOMC, 인플레 일시적이라 판단…9·12월 금리 인하\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55cjVqWWhzV3paX0xDY2ZCZ1hzM2VXV2lRZHRDVjROZVgwUGxScDhwQllRbGpSYURZblRaM2N0RzJ0WmVFVFVTMElFODBQLVpIQ2tTbG1FZkdJcXJUblQyc3l2R19kX1d5SnJZakpQcVPSAXRBVV95cUxQUWN5azBFYlJHUXlabTJxbFB5Z0ZsTW55NEQ0SkdxZWVVN21jUlJXSURmYUNsam5vVzFLZ2pKTUNpYmk2TUQzYkJwbVpjeERrb181VVhrY3FPSjNGSHFBNVZWRjJ3QzFLMnlpNTU5bW5acmlSOQ?oc=5",
-          "published_at": "2026-03-19T04:06:12+00:00"
-        },
-        {
-          "title": "'고용 없는 성장' 美 경제 구조...\"연준, 금리결정 중립적\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EdkppamdiTUd1bWhBN3hjMTc4WVJjb1JXZ0dTeTdNVnRHeDhlZFd4LUhKa0lrT0tpLTBkUXNDWmpoZXQ2M3FEeVV5Z3paUlk?oc=5",
-          "published_at": "2026-03-19T04:02:40+00:00"
-        },
-        {
-          "title": "익스플레이너: 중동 전쟁에 금리 인상까지…호주 물가 더 오를까? - SBS Australia",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV3FwYmRGUThiRjh1VExualJZa0NIckM0bnhTM3p5bXhCLWRrSFFFSE8tRmNXWS1vbTZXSHc1T3p1TFQwS0JSOXpGcnFic01JQXRyUmxLSFpBbWhOUndDQnFPMTk1NUs0ZDdZUk4yTnBlTHEzNTBMWU5IeU9uSjJxbnZjZHZmcVJGcWw3Y0tLNGNUWjN1TXlOT09WQ3RhbnF3RVNPZkhfOUR2cURNSk0zREZEUzIyTDFhVm9vUER3SFk0VHM1YU95NDZ4T01DR2hPMzRaU1JEcmVGc3NucXlpcVEzS196REdS?oc=5",
-          "published_at": "2026-03-19T04:01:09+00:00"
-        }
-      ]
-    },
-    {
       "keyword": "유가",
-      "score": 224.32,
+      "score": 206.57,
       "articles": [
         {
-          "title": "유가 100달러 돌파에 ‘경제 공황’ 경고…물류비 급등에 유통업계 직격탄 - 녹색경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmN0gwVWpNMnZLUkhPVFh2cDFsLW5iVFlIWERwVWNtcVVKRlJGM3pTVHRoR01UYTd5YktsTWFmc2RpeTloUHRSRW5SWWxSX2VYTWl3R0w3MllQR2puTVNGeDhQMmNwZ1hh?oc=5",
-          "published_at": "2026-03-19T04:41:17+00:00"
+          "title": "강진군, 유가 상승 틈탄 불법행위 차단…주유소 합동점검 실시 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MZnFab3FPcW01RlQtN2Q1bE4wc1V6RkxONTY2MHZzenJTcmI0bnNYWnp0M25wS2ZzSjg0Q29lc1ZYT1huTWs0NVUwdXdobG1vbXpVU0NOdGxpNm5WcHRQMDZESDk?oc=5",
+          "published_at": "2026-03-20T04:33:24+00:00"
         },
         {
-          "title": "유가 급등·BOJ 경계감에 국고채 금리 상승…10년 7.5bp↑ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwNnhXSWdtS1BvS2t0YXZ3LXo2bHFXMTlPSjJnbVdaanpVT292b012cHc4TVVRaFcydnQ5MGROQjRXQ3JnRW5wYkh6OV9FdVJyX2xIbWJYVU1pUUlSY3B1emU5Y3owY1g2djhPUTRVWjc?oc=5",
-          "published_at": "2026-03-19T04:24:40+00:00"
+          "title": "미 “이란 원유 제재 해제 검토”…치솟는 유가에 잇단 ‘비상카드’ - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Z3FuMnFFTmE2TmR4a2RQTVdiMVczTUl2dHZfWDQzVFdlYmVzNWVXTkprRGRweVpKOUVvOUZqLVhQVmxNNEpFeEFYcHVtVDNKUVd3SUZB?oc=5",
+          "published_at": "2026-03-20T04:31:58+00:00"
         },
         {
-          "title": "국제유가 변수 커진 요즘…마포구, 주유소 가격표시 점검 나서 - 한국방송뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSnpzY2JPOXBoWHdiLURnbjNqOHV1M0VITGNSM01vaVMzTDRIUDFKa2dEN2VwMG1PS3hoNjlSM1ZQY0lkY0JWTjY0NXVVTGpIZXduRWVBUTYwRnZGdkE?oc=5",
-          "published_at": "2026-03-19T04:03:36+00:00"
+          "title": "대외금리 연동·유가 진정에 커브 플래트닝…중장기물 금리 하락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1Tk9SaEJhcUJGak4zcXRjZ3BWeWlWV0hoU0Y5MDFOYWpSeXBpUmtNMks5SkxPT3dyeUZxTjQxS2g4SGxQLTFia2k0Y19Ta2hqWWxrVFJPTDZoN290MHl5OHlXcmRiU1hJSk14WHRDT3Q?oc=5",
+          "published_at": "2026-03-20T04:30:53+00:00"
         },
         {
-          "title": "유가 100달러 변수…정비사업 공사비·분양가 다시 흔들리나 - 한스경제",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpZV9Fb1V4OGwtNlRtdlQ4WGhJY21Tb0lDWGRBeEZsUmNpc2x1cGpqWGJmVlhJb1lsQXU5UlhCRkZJdmtXaU1FTnJnN212eG5yUnRpME5adnowR3IwanJFRWNqVUtxMjEwSVJZ0gFvQVVfeXFMUEZsdGRFelk2UzJ0TU5ESTZJcnozY2plUHI3ZEF4bWhfNVM1ekhrZGpKTkNhdTJ6QTY1RXNCdDY0SjMxOG9IeUVlNjNPOWl6M0lteG1MWkpUOG9NT3o3MktBTWcwX1VSa0NKcFpNdFc0?oc=5",
-          "published_at": "2026-03-19T03:55:14+00:00"
+          "title": "100달러 유가에 '공사비 쇼크'… '미분양 늪' 깊어지나 - 서울와이어",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEOHUxM2V4WGF0YkRubnRfSlpkOWVSYUlmUFh2TDdTRGFIVjZaYzFkWTZtRWtvdkk5T2Q0RW1HNTZqRmpFYUtKV245X1BtWmJIRUFJLU9QRzNMT2kwa0VnWHFBbGdxdUpxRkRFVQ?oc=5",
+          "published_at": "2026-03-20T04:22:21+00:00"
         },
         {
-          "title": "중동발 유가 급등에…해경·지자체 '석유 불법유통' 전방위 단속(종합) - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TU0N3UEkwYWYwNWE5RGFiOTNMVHlPd2JxblVUb2VqYi1wdUtWNkExY2JUXzJEU2pHZGhPazJaYnVsYmNlQUJ1bEhneTFvdmZhXzdBYg?oc=5",
-          "published_at": "2026-03-19T03:48:43+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "기준금리",
-      "score": 214.57,
-      "articles": [
-        {
-          "title": "연준, 두 차례 연속 기준금리 동결 - 미주중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YU3ZwcWQwMHlKMGFmWWtaN3RWSlpHRlFaX3k0NG8zeFFGYmg3VFVuc0l6eW54ZnpsTVdEMmhUQzlXSERwc3NrRjlJcGM0d1ZncnN2UkVSakl1R2hIeGJtaXJn?oc=5",
-          "published_at": "2026-03-19T04:29:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 2회 연속 0.75% 동결…“유가 주시 필요” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbW81c0hCMU1pVWFNNDFPa0JlS1RJampZaVFoTkVlNmZ6RjQ3TW5idFBTenVCZzlEV3ZZamlhTGhLazBOMnV5bXFnUnNIb3ZMOTdCbjVqWF9rTkk?oc=5",
-          "published_at": "2026-03-19T03:36:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 2회 연속 0.75% 동결…\"유가 주시 필요\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FZi13M0xIS1dkTUVETWs4NEFublBFdml4S01YMzYwOHFnbXN5TFpSY1pIaEl1RFVmT1dyanhpTi1GWFRUcHpSVmRPQnJmM0FTbWJOUlBvMzhnbkHSAWBBVV95cUxNamctbXBZVE53c2N3WUVlZ3VFRm9udFV5MlJGUnhCVTRPeW1hMGoyWVJvOGJuTHRVZ3JQUk1BQ1F6MUJWN09vOU1Wb19mek5PWFBZdzJoWnVCMG0yV0xGNm8?oc=5",
-          "published_at": "2026-03-19T03:27:18+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 2회 연속 동결…0.75% 유지 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kZ0JDWm1KbE01TWF4dWlUUXhLdTV1dm9OUnlwd3ZYOEU5UG1JTWZ1NEY5elNwd2pJdVNscm4xeHY0bkttNHN0em8zTm4xSTA?oc=5",
-          "published_at": "2026-03-19T03:21:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 0.75% 동결…중동발 유가 상승 영향 점검 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BcWtDMFNFZ0IxamVadlFEX0d0a21yX3NKeTlidkY2SF9mY0dVdDEwMnlHSnVDcU9iVkNIVHJzWmNQelNQRktVQ0RTTVl6NlhCVGN3dDRUd0NiRUFHOHd3YXRSNENZMlU?oc=5",
-          "published_at": "2026-03-19T03:17:37+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "연준",
-      "score": 194.17,
-      "articles": [
-        {
-          "title": "연준, 두 차례 연속 기준금리 동결 - 미주중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YU3ZwcWQwMHlKMGFmWWtaN3RWSlpHRlFaX3k0NG8zeFFGYmg3VFVuc0l6eW54ZnpsTVdEMmhUQzlXSERwc3NrRjlJcGM0d1ZncnN2UkVSakl1R2hIeGJtaXJn?oc=5",
-          "published_at": "2026-03-19T04:29:00+00:00"
-        },
-        {
-          "title": "'고용 없는 성장' 美 경제 구조...\"연준, 금리결정 중립적\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EdkppamdiTUd1bWhBN3hjMTc4WVJjb1JXZ0dTeTdNVnRHeDhlZFd4LUhKa0lrT0tpLTBkUXNDWmpoZXQ2M3FEeVV5Z3paUlk?oc=5",
-          "published_at": "2026-03-19T04:02:40+00:00"
-        },
-        {
-          "title": "중동 사태 불확실성에 미 연준 금리 동결…“올해 인하 1번 가능” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CcV9WWWVzU3NOX3RJSkpYRVdYTzhNVWVOdTRCVFBtXzFGYWZFUGpEX3huOXpCSnMxS1VGZXdMMHh4TlpxMlFFaTlUamVFcG93cE9OaUJTOHJMU2s?oc=5",
-          "published_at": "2026-03-19T03:35:00+00:00"
-        },
-        {
-          "title": "미 연준 금리 동결‥\"중동 상황 영향 불확실\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wWWdYdGdrcUFOQ2VOX0UwRnIzMGh6TDhzQnVUYVlLcFhZaU90OHZIZ0VwWEpWMVBCeHZJQXdJWjB0bXdLWk1CVmJ3YUhPYU5KMl9kVmZlczBIVUV3c1lqbjZYdzJaSm9lTFM4eDBsWGs0MlA2SVNDdNIBeEFVX3lxTE5URXgzbUxXcy1VUWdPTXZLSGw2dlY4SXFGaXhjdzdPb3hMNGtkT2Z3TDBUR19qMTYxZElOVC1VVWdtNVBodmdYQ0s5N2N6dktDZk1raUdKRGRYVnBkZkRfQmNPTkoyS2F6UVJDeEpCdXdJX0NDTk4ycg?oc=5",
-          "published_at": "2026-03-19T03:11:39+00:00"
-        },
-        {
-          "title": "유가 급등·매파 연준에 국채선물 급락…10년 75틱↓(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NGthUWIzdUNIbW9CMGQ5OUtNdWtiVzBiMXozdUV5NEd3aEliTGUwTTlfT2tnNHZnNUNlb3l4WFplSm9SWWpVbGJIc0NfWnJhV1ZfVHMxenEzRG1oQ085bUl4YkFUb2IzRF9hOThOS0E?oc=5",
-          "published_at": "2026-03-19T02:12:48+00:00"
+          "title": "사우디 \"전쟁 4월까지 지속되면 유가 180달러 간다\" 경고 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yOHVsNjA4azF0UHJZRWZZaDlxTHR2d2ZtU0RBVVA5UXVYQ1ZWZnZVMURNMkxsRmd0eEI0cm1xYS1mYkc5MGFEZ0E0a0xmWmJ1SEtwR3dFaWc?oc=5",
+          "published_at": "2026-03-20T03:54:19+00:00"
         }
       ]
     },
     {
       "keyword": "환율",
-      "score": 193.25,
+      "score": 182.27,
       "articles": [
         {
-          "title": "[환율 전망] 이제는 놀랍지 않은 1,500원 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9helNNTlZvNU5Cenh4b3l2OG1OVEJ1MzI5NzZHOEFaUE5UbGdIbmMxeFRveExjeXc2dHdOYTN5RG9wWEZNYlZIOHRkTWVBRmxQVERxVlFlcnRXZEg0Z2xVaw?oc=5",
-          "published_at": "2026-03-19T04:14:26+00:00"
+          "title": "원/달러 환율 : 1,498.0원(▲3.0 ) - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wUVcwdmZkQ1ZseFA4WmxkNkZBTDEyb05HYTdyN2RTVEVxQXFUd1hTTUtuMHZuYjMxdzdQQ0Q2NDJjcElWS3V6ang3T0lvZ1NCMXc?oc=5",
+          "published_at": "2026-03-20T04:25:52+00:00"
         },
         {
-          "title": "달러-원 환율, 1,500원선 재진입 배경과 전망은 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wUWF5Z3pBUm5ZTDhWNTgyQkZSbnJid2dzTTFPZkRCVEtBMzdPT056MFVMeGNJOUNGdDZjQjExeXVaSW9OZG9fRkhlMFNaOHVyZGNmT1Q2UzZJQ2g1bXdhRWtpNVhiWGc5MmdfT2NtbVg?oc=5",
-          "published_at": "2026-03-19T03:45:07+00:00"
+          "title": "원-엔화 환율, 상승폭 키우면서 945원 대까지 치솟아…달러-엔화 환율은 중동사태 진정 기대에 157엔 대로 상승 - 산업일보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBCTXpiSFJ0LVdMSWZqZllYRW95ekd2V0FoM2hnTzh2a05TUk9QdWF0MHN5OElCeEdnMTBINzN2RDJnQUFZ?oc=5",
+          "published_at": "2026-03-20T04:24:20+00:00"
         },
         {
-          "title": "환율 1,500원대 출발…구윤철 “예의 주시” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sMGJJYndYX3ZONk05YmREal9GdjFTQ1ZUOEFTUVdkR3M4cF82ckRmSXFFWW5rR1RyVXQxS2s3bW5ublFtOExKeDRJTWdwZEk?oc=5",
-          "published_at": "2026-03-19T03:43:49+00:00"
+          "title": "환율 변동성 최소화 급하다 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAza0d4YUkxWDlHc3UzTjZ5Zk9vLV9RZGJKNzlqVWZ3Ql9yQ0h3YzA2VW5LN2xSbFFlcWVCZDJSdHdWX3ozRy1jQzRsekZBbi1k?oc=5",
+          "published_at": "2026-03-20T03:01:13+00:00"
         },
         {
-          "title": "환율 장중 1,500원 돌파‥구윤철 \"외환시장 예의주시\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PeXB5ZW5aTmhQQXVEVXRJZHV1MG9TdnlzLTZsazRJR0lSQXRMVDdmTnY3QVBHOVRGVG1rWUMzSWRLYjFsZUd0ZUxKaXlCVTUyNXFGZ3pIbk5lUGVoVUM5NDFZNUVVb1c4TUplR1JYU2tEZ0o5MkZFRNIBeEFVX3lxTFBnNGNnM2o0blNzRVZDQkUwanZyQ29NYVVaSHRyQlB2NlVra2NZbGlYcHlyQW9fRjdqYUthbm5VcXhxUVMxdk53ZEhBMEZyQ2h5ZFQxYm1KX3Q0SWx5R0k5NjJteHMyakxoZDdXeEtXVlBrcmJObEJVag?oc=5",
-          "published_at": "2026-03-19T03:12:24+00:00"
+          "title": "“중동발 쇼크에 원·달러 환율 1,500원도 뚫렸다” - 미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CNWVWZ0ZtMTZsS0hCWXYxWWdKRXhhc05CV0NzZzBQdUxHOUl1RWpGWjU1XzlrakdLMWtnbGNSMm13S0k5bnpVdk1ZUGp4UjFkb3RwaTkxbFBja1FydEFB?oc=5",
+          "published_at": "2026-03-20T03:00:00+00:00"
         },
         {
-          "title": "유가·파월 ‘이중 쇼크’…코스피 장중 2%↓, 환율 1500원 돌파 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Nc3NjTkZNdnllVEtMdThJemd3UGN0d21LUTZZSmpaU0RYZU9yVWJrM3hMSEpKdnRaWXoyMEJJeWZmUjIzd090ajQ1RktXVXE0?oc=5",
-          "published_at": "2026-03-19T03:01:03+00:00"
+          "title": "또 1500원 넘보는 환율… 내달 배당시즌에 달러유출 우려 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Sb0kyWmNMVHk0dkVKZ1FxVE16THdWa1I2ZmJTc2Fob19FQ3FWVklHbFhEX1Y1T2E4bXRUVVlheUlzWGtiUy15aC1RVTJBQTlt?oc=5",
+          "published_at": "2026-03-20T02:50:53+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "동결",
+      "score": 138.62,
+      "articles": [
+        {
+          "title": "ECB, 정책금리 6회 연속 동결···중동 리스크에 인플레 전망 대폭 상향 By 투데이코리아 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44S0FJVVZVVVFwZnNILVBOd3RkQlgyUFowOUdOc1BZYUQtZ21KS1EyNEpaZ2pKNHJid0hFRnM5TWppZ0s3SUJ1YmxsY2FFWndNaXJueDByb1hDZXgtVGNTeTl4U1kzQmowaUE?oc=5",
+          "published_at": "2026-03-20T04:09:00+00:00"
+        },
+        {
+          "title": "中, '사실상 기준금리' LPR 1년물 3.0%·5년물 3.5%로 동결 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9naWNqZnQtVU5UVXlSc01EUHV6YVFGYzBERzNYSkY3YXQxU296X012QkEtY0NNQmMxcVFzNF9sSmotdnVIT1o0cEh1b19SQlJ6VV9yVEd1VVNmTHRRLWp4UjhBZlZSNnluWTVCWTVYRjTSAXRBVV95cUxNTVVPTnJja0F4OVEtRk5HYlR3ZmZpb0RXeVA1bk1TOGJTcUZncnlreEZFbGctNzdMMVBoeVFpRG9mcEhwZHJvMXh1N2tFdzVEZk93X19Wa3h6dXd4ODYwd045Sm13Ri1mck5HM3RNVGhLZ0RvZw?oc=5",
+          "published_at": "2026-03-20T03:02:38+00:00"
+        },
+        {
+          "title": "금리 못 내리는 한은…연준 동결·중동 리스크에 정책 여지 더 좁아졌다 - 더팩트",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYzlGb2ZjMG5xeVdSbkh2dmt5bDlxOVR6c3FZLURlMkNrMFlYZmtxRjFLbEpjYzh1dTBHTE9uZ19EbENvZXJGX19jcXNrWkI0el9YZGhyWjlQUdIBVEFVX3lxTE5IT0U4dXRvZ3FKRWZiY2pSNVFOZWhwN0IxSU1ERDBhcmplRGJaalRGMER6SHhRNkJ0ZERWU19wLVBHaXRnaVJkUEluWmxiUWpKSXRFbg?oc=5",
+          "published_at": "2026-03-20T02:31:59+00:00"
+        },
+        {
+          "title": "中, 기준금리 LPR 10개월째 동결…2년물 3.0% 5월물 3.5% - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EeXBTSEZUU0tSMElGZENkN1pYMGgxUFpqeUV2RThnRl84ZTNpZGFybl9ibVpqejBYd0NUVFI5UjRXaFhjNjhvUXY5X0N4SHc0UzA0V3lxeklfSWpKQ0o2MdIBeEFVX3lxTE9rQmtvTEFVeEhBZXpTdkdqTWNVZ3BneXVWWE40Y1Z3N3VMc3NnTU1pQjhYOHBjSlMwWURTUzlkSTBhSnNuVVl0em1SbVBFRjIxcmRiME9pWDl5bm95QzFVbnRic2tiei1NRktrSGtEdVBrd2paNmxZVg?oc=5",
+          "published_at": "2026-03-20T02:29:54+00:00"
+        },
+        {
+          "title": "美·EU·英·日 일제히 금리 동결… 치솟는 유가에 얼어붙은 글로벌 중앙은행 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb003TF84Zkd4UGxWY2JJZ2lSYVl2NnN4MGptSHlYT2laZWkzbG9McU95QjI1dUM5OVljSlNXM2djWkVuREJEd3dMMm14LWhvX2cwTUo3LWxhMV9LRGdDVHc3R2hGelMwUFdER0hlSWdOOHRiNG9iWVVqUkxrVDVteGZuQ2lTdDlNZ0RaWE9POUI4c0NlQ3o5a0dwNk1IZ9IBsgFBVV95cUxNamZuQnJsbVZuR2lpLUd0Zkt3UWdMMGpSRWYtRFVQWGg4NVVHdl92bWp5b1ZfYnpaUGhwaEtYU1Y3eUM0TVViQlIteTRlMUp3WWZQYzhyeWxIVUJlN1JnUmFwX1RBcjdCbm15Z1Zic0ViSVBpb0FCSEE1SHE3dXQ4RFc4R21kclRDVkJnVkxhOV93WEpFZnJSTnZNV3JXQ3c3WUNlUXIydVVsWnF3ZVpGWGhR?oc=5",
+          "published_at": "2026-03-20T02:17:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "기준금리",
+      "score": 122.41,
+      "articles": [
+        {
+          "title": "中, '사실상 기준금리' LPR 1년물 3.0%·5년물 3.5%로 동결 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9naWNqZnQtVU5UVXlSc01EUHV6YVFGYzBERzNYSkY3YXQxU296X012QkEtY0NNQmMxcVFzNF9sSmotdnVIT1o0cEh1b19SQlJ6VV9yVEd1VVNmTHRRLWp4UjhBZlZSNnluWTVCWTVYRjTSAXRBVV95cUxNTVVPTnJja0F4OVEtRk5HYlR3ZmZpb0RXeVA1bk1TOGJTcUZncnlreEZFbGctNzdMMVBoeVFpRG9mcEhwZHJvMXh1N2tFdzVEZk93X19Wa3h6dXd4ODYwd045Sm13Ri1mck5HM3RNVGhLZ0RvZw?oc=5",
+          "published_at": "2026-03-20T03:02:38+00:00"
+        },
+        {
+          "title": "RBA 기준금리 시점, “적절했나?” - 호주 톱뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWWTd0eF9jenBwU3JYWTV5RmViWkozTUlLWXUtNXBHUGVwLXJqYnV0aTY1WE1wTkVCMWtFaERKVW1QNWZWV3RVTjFRckxPcXEzYl9kdFU5TUJPd3JxRGQzMFA4VXJEdHZwZ1FacC1scVQ?oc=5",
+          "published_at": "2026-03-20T03:00:00+00:00"
+        },
+        {
+          "title": "中, 기준금리 LPR 10개월째 동결…2년물 3.0% 5월물 3.5% - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EeXBTSEZUU0tSMElGZENkN1pYMGgxUFpqeUV2RThnRl84ZTNpZGFybl9ibVpqejBYd0NUVFI5UjRXaFhjNjhvUXY5X0N4SHc0UzA0V3lxeklfSWpKQ0o2MdIBeEFVX3lxTE9rQmtvTEFVeEhBZXpTdkdqTWNVZ3BneXVWWE40Y1Z3N3VMc3NnTU1pQjhYOHBjSlMwWURTUzlkSTBhSnNuVVl0em1SbVBFRjIxcmRiME9pWDl5bm95QzFVbnRic2tiei1NRktrSGtEdVBrd2paNmxZVg?oc=5",
+          "published_at": "2026-03-20T02:29:54+00:00"
+        },
+        {
+          "title": "중국, '사실상의 기준금리' LPR 10개월 연속 동결 - mt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VV1FCU2UyMGlHWlVjODNFanplV0lZWWhYUWxBNjRoaHYzSzZXSld3ZUNPcGt2Y09PLS1WMVphS2pObENia2JoSjZWREg4ZEU5VXVncUI5enppckZPYnFoaVFNOF9oYmtY?oc=5",
+          "published_at": "2026-03-20T01:52:58+00:00"
+        },
+        {
+          "title": "영국도 기준금리 동결…“물가상승시 대응” 추후 인상 여지 남겼다 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YRlM1VlhaMXM4bkNhT3FzUzl3clZzTG1DZ1NVclVJVXpDZkFOOS1BUGJZRENpNFBWbjVQTEdKZ08zTFJjcGVLUm45ZnJiTUZx?oc=5",
+          "published_at": "2026-03-20T01:52:01+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 172.3,
+      "score": 119.82,
       "articles": [
         {
-          "title": "'고용 없는 성장' 美 경제 구조...\"연준, 금리결정 중립적\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EdkppamdiTUd1bWhBN3hjMTc4WVJjb1JXZ0dTeTdNVnRHeDhlZFd4LUhKa0lrT0tpLTBkUXNDWmpoZXQ2M3FEeVV5Z3paUlk?oc=5",
-          "published_at": "2026-03-19T04:02:40+00:00"
+          "title": "\"베트남 생산라인 증설\"...LG그룹, 하이퐁 경제 당국과 협력 논의 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QUU1tZEdVWGt6UDZRa0lCdmppUG11V1dxUm9PNkhnQi1rNDR3d2RBeXdsLUVMR3BWdXJ6dG1NeE80WjZ6WmhoajRyM3kyazQ?oc=5",
+          "published_at": "2026-03-20T03:54:35+00:00"
         },
         {
-          "title": "환율 1,500원대 출발…구윤철 “예의 주시” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sMGJJYndYX3ZONk05YmREal9GdjFTQ1ZUOEFTUVdkR3M4cF82ckRmSXFFWW5rR1RyVXQxS2s3bW5ublFtOExKeDRJTWdwZEk?oc=5",
-          "published_at": "2026-03-19T03:43:49+00:00"
+          "title": "“완전체 컴백 경제효과 3조”… BTS노믹스 다시 뛴다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ySExEZmNvVUVQTnNMa3R5MnA4N3JENGYtZG9GS0F5MlhCaHM4MTVQLXZ0cjRwajZGUGRLaEZKUHA0aDRnUU1QN1pqYk9HMk0?oc=5",
+          "published_at": "2026-03-20T03:24:01+00:00"
         },
         {
-          "title": "비축유로 버텨도…\"이대로면 4~5월 위기\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kN3lCbWVoQi1ZUG5YZWdSSUZSVXJYSmtZTW9TSUJvTV9aVVNZdGVBejJLX2FxM1o1MjlIODJUNTM0OUlJcWZWck45TVJDMzA?oc=5",
-          "published_at": "2026-03-19T03:22:40+00:00"
+          "title": "구윤철 “BTS 공연 수조원 경제가치” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Vm9teDRJSjZkcjg4bDJyclBBMW9GQ2FyRy1PNklYSnhBdzNiZTAxdVJCQkxvRlMyQ0ZxSzdrYnN5by1CYlJxb0NucDNOck0?oc=5",
+          "published_at": "2026-03-20T03:23:26+00:00"
         },
         {
-          "title": "일본은행, 기준금리 2회 연속 동결…0.75% 유지 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kZ0JDWm1KbE01TWF4dWlUUXhLdTV1dm9OUnlwd3ZYOEU5UG1JTWZ1NEY5elNwd2pJdVNscm4xeHY0bkttNHN0em8zTm4xSTA?oc=5",
-          "published_at": "2026-03-19T03:21:00+00:00"
+          "title": "[직설] 미-이란 에너지 시설 공격에 세계 경제 시름…출구 못찾는 이란 전쟁, 상황은? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRc0dLbHFJdENOY2lXMjRZcjNOaGRaS2dLMXFYNFlEaHc0M291djNKUXNwT2F3THZWVEF2TGNhZkhfRmxyRTRJdDdEOTQtcUE?oc=5",
+          "published_at": "2026-03-20T03:10:14+00:00"
         },
         {
-          "title": "[속보] 일본은행, 기준금리 2회 연속 동결…0.75% 유지 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MN0UtazhJVWlGRVFPVUtsZjRJYWNXT2hXVkljMDkxQXRVclg1aENFdjZYdmpmbzZCRE9QeVltcGtqVHJzYVhLMy0yVm1Jelk?oc=5",
-          "published_at": "2026-03-19T02:50:56+00:00"
+          "title": "[BTS 컴백] 구윤철 \"수조원 경제가치…보이지않은 효과는 몇십배\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fZUF1eEd5akxzZTdLemo3MEN1c1IycHAycklqUG5HZnphSVBnckZoV2NPd3IzOFpaeHU0alVjQ2ljdlRqcEdwcnpGX1QyM00?oc=5",
+          "published_at": "2026-03-20T02:48:01+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 172.3,
+      "score": 119.82,
       "articles": [
         {
-          "title": "'고용 없는 성장' 美 경제 구조...\"연준, 금리결정 중립적\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EdkppamdiTUd1bWhBN3hjMTc4WVJjb1JXZ0dTeTdNVnRHeDhlZFd4LUhKa0lrT0tpLTBkUXNDWmpoZXQ2M3FEeVV5Z3paUlk?oc=5",
-          "published_at": "2026-03-19T04:02:40+00:00"
+          "title": "\"베트남 생산라인 증설\"...LG그룹, 하이퐁 경제 당국과 협력 논의 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QUU1tZEdVWGt6UDZRa0lCdmppUG11V1dxUm9PNkhnQi1rNDR3d2RBeXdsLUVMR3BWdXJ6dG1NeE80WjZ6WmhoajRyM3kyazQ?oc=5",
+          "published_at": "2026-03-20T03:54:35+00:00"
         },
         {
-          "title": "환율 1,500원대 출발…구윤철 “예의 주시” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sMGJJYndYX3ZONk05YmREal9GdjFTQ1ZUOEFTUVdkR3M4cF82ckRmSXFFWW5rR1RyVXQxS2s3bW5ublFtOExKeDRJTWdwZEk?oc=5",
-          "published_at": "2026-03-19T03:43:49+00:00"
+          "title": "“완전체 컴백 경제효과 3조”… BTS노믹스 다시 뛴다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ySExEZmNvVUVQTnNMa3R5MnA4N3JENGYtZG9GS0F5MlhCaHM4MTVQLXZ0cjRwajZGUGRLaEZKUHA0aDRnUU1QN1pqYk9HMk0?oc=5",
+          "published_at": "2026-03-20T03:24:01+00:00"
         },
         {
-          "title": "비축유로 버텨도…\"이대로면 4~5월 위기\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kN3lCbWVoQi1ZUG5YZWdSSUZSVXJYSmtZTW9TSUJvTV9aVVNZdGVBejJLX2FxM1o1MjlIODJUNTM0OUlJcWZWck45TVJDMzA?oc=5",
-          "published_at": "2026-03-19T03:22:40+00:00"
+          "title": "구윤철 “BTS 공연 수조원 경제가치” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Vm9teDRJSjZkcjg4bDJyclBBMW9GQ2FyRy1PNklYSnhBdzNiZTAxdVJCQkxvRlMyQ0ZxSzdrYnN5by1CYlJxb0NucDNOck0?oc=5",
+          "published_at": "2026-03-20T03:23:26+00:00"
         },
         {
-          "title": "일본은행, 기준금리 2회 연속 동결…0.75% 유지 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kZ0JDWm1KbE01TWF4dWlUUXhLdTV1dm9OUnlwd3ZYOEU5UG1JTWZ1NEY5elNwd2pJdVNscm4xeHY0bkttNHN0em8zTm4xSTA?oc=5",
-          "published_at": "2026-03-19T03:21:00+00:00"
+          "title": "[직설] 미-이란 에너지 시설 공격에 세계 경제 시름…출구 못찾는 이란 전쟁, 상황은? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRc0dLbHFJdENOY2lXMjRZcjNOaGRaS2dLMXFYNFlEaHc0M291djNKUXNwT2F3THZWVEF2TGNhZkhfRmxyRTRJdDdEOTQtcUE?oc=5",
+          "published_at": "2026-03-20T03:10:14+00:00"
         },
         {
-          "title": "[속보] 일본은행, 기준금리 2회 연속 동결…0.75% 유지 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MN0UtazhJVWlGRVFPVUtsZjRJYWNXT2hXVkljMDkxQXRVclg1aENFdjZYdmpmbzZCRE9QeVltcGtqVHJzYVhLMy0yVm1Jelk?oc=5",
-          "published_at": "2026-03-19T02:50:56+00:00"
+          "title": "[BTS 컴백] 구윤철 \"수조원 경제가치…보이지않은 효과는 몇십배\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fZUF1eEd5akxzZTdLemo3MEN1c1IycHAycklqUG5HZnphSVBnckZoV2NPd3IzOFpaeHU0alVjQ2ljdlRqcEdwcnpGX1QyM00?oc=5",
+          "published_at": "2026-03-20T02:48:01+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 117.2,
+      "articles": [
+        {
+          "title": "예금 금리가 상승함에 따라 은행들은 자본을 생산 부문에 집중하고 있습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDBnS2pTdG1zX3QtS1I4NFBaMWdRRjNZNzJiTlYxRjdCUUctYnQ2dk9LZ1FfY1FFNmFHRWI2ekhGSHVCZW5waGRsVThTbmtYa2RwNUhuSElJWEZQbHZDRlN6QXNOZ2xwY0tZTHp1SkRNMFFmbmhDZEJDbTN5WnB2WmZMbzJ3R1dYeGFNSmNiRFc4eUE?oc=5",
+          "published_at": "2026-03-20T04:41:54+00:00"
+        },
+        {
+          "title": "대외금리 연동·유가 진정에 커브 플래트닝…중장기물 금리 하락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1Tk9SaEJhcUJGak4zcXRjZ3BWeWlWV0hoU0Y5MDFOYWpSeXBpUmtNMks5SkxPT3dyeUZxTjQxS2g4SGxQLTFia2k0Y19Ta2hqWWxrVFJPTDZoN290MHl5OHlXcmRiU1hJSk14WHRDT3Q?oc=5",
+          "published_at": "2026-03-20T04:30:53+00:00"
+        },
+        {
+          "title": "모건스탠리, 금리 인하 전망 늦춰…\"연준, 신중한 태도\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpTXlacnJxRnlHN0pWYklOcl9jM21FclBZcjNqTWQ1NWhMakQ4bk1mbHI0NTFJc21IMlJQbnl6cnZZbEpSWDd3QzRDRjRrbGk0d3NHc3luSW5qM0FDVE5FYUZHd3daaXlOS3pYR0w3bHrSAXRBVV95cUxPWFVqY3B5VlFyRTdpQXVHSnJWMDlmRmlPeW56M2g2alc5ZEtKSC13R3l3U3BBNlBkWWFmWHhEdzV2QXFEdGtPNUswU3lPd2xDX19mYVVUREw3UmJlOHVrUnlaZVUyLW5uZndtbGU1QUNtSU1KZg?oc=5",
+          "published_at": "2026-03-20T04:13:37+00:00"
+        },
+        {
+          "title": "ECB, 정책금리 6회 연속 동결···중동 리스크에 인플레 전망 대폭 상향 By 투데이코리아 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44S0FJVVZVVVFwZnNILVBOd3RkQlgyUFowOUdOc1BZYUQtZ21KS1EyNEpaZ2pKNHJid0hFRnM5TWppZ0s3SUJ1YmxsY2FFWndNaXJueDByb1hDZXgtVGNTeTl4U1kzQmowaUE?oc=5",
+          "published_at": "2026-03-20T04:09:00+00:00"
+        },
+        {
+          "title": "국금센터 \"중동사태, 3개월 이상 장기화시 금리경로 바꿀 것\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRFg5QWxxaVdVenpIYjFmd0xRbUR4RVpmbjhVNzhLbjBQNEJWekFubENDa012NVNNRV9FX25GOWdYamVCTVhWV01MMXhRR3BpRG5nU2hOZmxFNUZnTmQ3djZaS0djZGVRRVhGWjMyY2XSAXRBVV95cUxONXBvZ09FaFFkNzJIRXlGN0ZLQTA3eDFkeHdGckVCbGpUN0tmWUwzeHV2RkRwLTBHbDFFY3RYZ2E5ZXZMbGNZV2h1bWZNenJ6X2xpSVNCd1JPUnpmVmtrSmhjbGc0RlE0aUxIOEdkMmd5TDVlag?oc=5",
+          "published_at": "2026-03-20T03:48:09+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 115.49,
+      "articles": [
+        {
+          "title": "대외금리 연동·유가 진정에 커브 플래트닝…중장기물 금리 하락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1Tk9SaEJhcUJGak4zcXRjZ3BWeWlWV0hoU0Y5MDFOYWpSeXBpUmtNMks5SkxPT3dyeUZxTjQxS2g4SGxQLTFia2k0Y19Ta2hqWWxrVFJPTDZoN290MHl5OHlXcmRiU1hJSk14WHRDT3Q?oc=5",
+          "published_at": "2026-03-20T04:30:53+00:00"
+        },
+        {
+          "title": "모건스탠리, 금리 인하 전망 늦춰…\"연준, 신중한 태도\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpTXlacnJxRnlHN0pWYklOcl9jM21FclBZcjNqTWQ1NWhMakQ4bk1mbHI0NTFJc21IMlJQbnl6cnZZbEpSWDd3QzRDRjRrbGk0d3NHc3luSW5qM0FDVE5FYUZHd3daaXlOS3pYR0w3bHrSAXRBVV95cUxPWFVqY3B5VlFyRTdpQXVHSnJWMDlmRmlPeW56M2g2alc5ZEtKSC13R3l3U3BBNlBkWWFmWHhEdzV2QXFEdGtPNUswU3lPd2xDX19mYVVUREw3UmJlOHVrUnlaZVUyLW5uZndtbGU1QUNtSU1KZg?oc=5",
+          "published_at": "2026-03-20T04:13:37+00:00"
+        },
+        {
+          "title": "짐 비앙코 \"亞, 세계 유가 충격 흡수 역할하고 있어\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jSkoyMWlpQ1kxYlRTc25PTmM4SmRuUGZjVWJhTUdzdXBzdHdoY0pIbUxyTGxMNnlhelNkZC15N3JxdF9Vak9HUXI2ZEltSS1JT25IZlM5MS1hQnJ5NzgxY0pQS3FUcUxnNzMtWHAxdFjSAXRBVV95cUxPc1FGWFM3YWE0dWF0aktsbnV2NjZfWllaTGQxWlVSTnlYLVAtTWpkSDJucGR1anAybGwzMUYzVlV6aXVvZkNjNk5VTjNHcXRYX2NDcGlFODBCRTVRMTNHV2M1cjVzaVpCUkpuYXZKM3o4bkF6Mg?oc=5",
+          "published_at": "2026-03-20T03:54:05+00:00"
+        },
+        {
+          "title": "국금센터 \"중동사태, 3개월 이상 장기화시 금리경로 바꿀 것\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRFg5QWxxaVdVenpIYjFmd0xRbUR4RVpmbjhVNzhLbjBQNEJWekFubENDa012NVNNRV9FX25GOWdYamVCTVhWV01MMXhRR3BpRG5nU2hOZmxFNUZnTmQ3djZaS0djZGVRRVhGWjMyY2XSAXRBVV95cUxONXBvZ09FaFFkNzJIRXlGN0ZLQTA3eDFkeHdGckVCbGpUN0tmWUwzeHV2RkRwLTBHbDFFY3RYZ2E5ZXZMbGNZV2h1bWZNenJ6X2xpSVNCd1JPUnpmVmtrSmhjbGc0RlE0aUxIOEdkMmd5TDVlag?oc=5",
+          "published_at": "2026-03-20T03:48:09+00:00"
+        },
+        {
+          "title": "中, '사실상 기준금리' LPR 1년물 3.0%·5년물 3.5%로 동결 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9naWNqZnQtVU5UVXlSc01EUHV6YVFGYzBERzNYSkY3YXQxU296X012QkEtY0NNQmMxcVFzNF9sSmotdnVIT1o0cEh1b19SQlJ6VV9yVEd1VVNmTHRRLWp4UjhBZlZSNnluWTVCWTVYRjTSAXRBVV95cUxNTVVPTnJja0F4OVEtRk5HYlR3ZmZpb0RXeVA1bk1TOGJTcUZncnlreEZFbGctNzdMMVBoeVFpRG9mcEhwZHJvMXh1N2tFdzVEZk93X19Wa3h6dXd4ODYwd045Sm13Ri1mck5HM3RNVGhLZ0RvZw?oc=5",
+          "published_at": "2026-03-20T03:02:38+00:00"
         }
       ]
     }
