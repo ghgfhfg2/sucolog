@@ -20,11 +20,11 @@
 - `PROBLEM_AUTHORING.md` — 문제 작성 가이드
 - `problems/index.md` — 문제 목록 페이지
 - `assets/js/problem-runner.js` — 실행기
+- `assets/js/problem-filters.js` — 문제 목록 필터/검색
 - `assets/css/style.css` — 기본 스타일
 
 ## 다음 단계
 1. `bundle exec jekyll serve`
-2. 문제 필터/검색 추가
-3. 힌트/해설 UI 고도화
+2. 힌트/해설 UI 고도화
+3. 문제 상세 내 테스트케이스 확장 기능
 4. GitHub Pages 배포 준비
-리 강화

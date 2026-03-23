@@ -53,7 +53,9 @@ a:hover { text-decoration: underline; }
 
 a:focus-visible,
 button:focus-visible,
-textarea:focus-visible {
+textarea:focus-visible,
+input:focus-visible,
+select:focus-visible {
   outline: 2px solid #93c5fd;
   outline-offset: 2px;
 }
@@ -151,13 +153,46 @@ p, li {
 .playground,
 .results,
 .problem-content,
-.problem-card {
+.problem-card,
+.filter-panel {
   margin-top: var(--space-6);
   padding: 20px;
   background: var(--color-surface);
   border: 1px solid rgba(51, 65, 85, 0.85);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-soft);
+}
+
+.filter-panel {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: var(--space-4);
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.filter-label {
+  font-size: 14px;
+  color: var(--color-text-muted);
+}
+
+.filter-input,
+.filter-select {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--color-border);
+  background: #020617;
+  color: var(--color-text-primary);
+  font: inherit;
+}
+
+.problem-count {
+  margin: var(--space-4) 0 0;
 }
 
 .problem-grid {
@@ -232,11 +267,9 @@ p, li {
   resize: vertical;
 }
 
-.editor-fallback.is-hidden {
-  display: none;
-}
-
-.editor-container.is-hidden {
+.editor-fallback.is-hidden,
+.editor-container.is-hidden,
+.empty-state.is-hidden {
   display: none;
 }
 
@@ -338,6 +371,10 @@ code,
   }
 
   h1 { font-size: 28px; }
+
+  .filter-panel {
+    grid-template-columns: 1fr;
+  }
 
   .editor-container {
     min-height: 280px;
