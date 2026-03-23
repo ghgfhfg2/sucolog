@@ -9,12 +9,16 @@
   const resetBtn = document.getElementById('reset-btn');
   const summary = document.getElementById('results-summary');
   const resultsList = document.getElementById('results-list');
+  const customInput = document.getElementById('custom-input');
+  const customRunBtn = document.getElementById('custom-run-btn');
+  const customOutput = document.getElementById('custom-output');
 
   const problemId = page.dataset.problemId;
   const functionName = page.dataset.functionName;
   const starterCode = JSON.parse(page.dataset.starterCode || '""');
   const testCases = JSON.parse(page.dataset.testCases || '[]');
   const storageKey = `js-coding-blog:${problemId}`;
+  const customInputKey = `${storageKey}:custom-input`;
   const runTimeoutMs = 3000;
 
   let currentRunId = 0;
@@ -27,7 +31,14 @@
   const initialCode = savedCode || starterCode;
   fallbackEditor.value = initialCode;
 
+  const savedCustomInput = localStorage.getItem(customInputKey);
+  customInput.value = savedCustomInput || '[]';
+
   initEditor(initialCode);
+
+  customInput.addEventListener('input', () => {
+    localStorage.setItem(customInputKey, customInput.value);
+  });
 
   resetBtn.addEventListener('click', () => {
     setCode(starterCode);
@@ -57,7 +68,12 @@
     }, runTimeoutMs);
   });
 
+  customRunBtn.addEventListener('click', () => {
+    runCustomInput();
+  });
+
   renderIdle('아직 실행하지 않았습니다.');
+  renderCustomIdle();
 
   function initEditor(initialValue) {
     fallbackEditor.addEventListener('input', () => {
@@ -178,42 +194,50 @@
       clearPendingTimeout();
       teardownWorker();
 
-      const code = getCode();
-      const userFactory = new Function(`${code}\nreturn typeof ${functionName} !== 'undefined' ? ${functionName} : null;`);
-      const userFn = userFactory();
+      const result = executeFunction(getCode(), functionName, testCases);
 
-      if (typeof userFn !== 'function') {
-        renderError(`실패: ${functionName} 함수를 찾지 못했습니다.`);
+      if (!result.ok) {
+        renderError(result.message || '알 수 없는 실행 오류가 발생했습니다.');
         return;
-      }
-
-      const items = [];
-      let passed = 0;
-
-      for (let i = 0; i < testCases.length; i += 1) {
-        const testCase = testCases[i];
-        const actual = userFn.apply(null, testCase.input || []);
-        const expected = testCase.output;
-        const ok = safeStringify(actual) === safeStringify(expected);
-
-        if (ok) passed += 1;
-
-        items.push({
-          index: i + 1,
-          ok,
-          input: safeStringify(testCase.input),
-          expected: safeStringify(expected),
-          actual: safeStringify(actual),
-        });
       }
 
       if (fromFallback) {
         summary.innerHTML = '<span class="status-warning">격리 실행 환경을 사용할 수 없어 기본 실행 모드로 테스트했습니다.</span>';
       }
 
-      renderResults(items, passed, testCases.length, fromFallback);
+      renderResults(result.items, result.passed, result.total, fromFallback);
     } catch (error) {
       renderError(`실행 오류: ${error && error.message ? error.message : String(error)}`);
+    }
+  }
+
+  function runCustomInput() {
+    try {
+      const parsed = JSON.parse(customInput.value);
+
+      if (!Array.isArray(parsed)) {
+        renderCustomError('입력값은 반드시 JSON 배열이어야 합니다. 예: [3, 5], [[1, 2, 3]]');
+        return;
+      }
+
+      const code = getCode();
+      const userFactory = new Function(`${code}\nreturn typeof ${functionName} !== 'undefined' ? ${functionName} : null;`);
+      const userFn = userFactory();
+
+      if (typeof userFn !== 'function') {
+        renderCustomError(`실패: ${functionName} 함수를 찾지 못했습니다.`);
+        return;
+      }
+
+      const actual = userFn.apply(null, parsed);
+      customOutput.innerHTML = [
+        '<span class="status-success">실행 완료</span>',
+        '',
+        `input: ${safeStringify(parsed)}`,
+        `output: ${safeStringify(actual)}`,
+      ].join('\n');
+    } catch (error) {
+      renderCustomError(`실행 오류: ${error && error.message ? error.message : String(error)}`);
     }
   }
 
@@ -288,6 +312,42 @@
     return new Worker(url);
   }
 
+  function executeFunction(code, name, cases) {
+    const userFactory = new Function(`${code}\nreturn typeof ${name} !== 'undefined' ? ${name} : null;`);
+    const userFn = userFactory();
+
+    if (typeof userFn !== 'function') {
+      return { ok: false, message: `실패: ${name} 함수를 찾지 못했습니다.` };
+    }
+
+    const items = [];
+    let passed = 0;
+
+    for (let i = 0; i < cases.length; i += 1) {
+      const testCase = cases[i];
+      const actual = userFn.apply(null, testCase.input || []);
+      const expected = testCase.output;
+      const ok = safeStringify(actual) === safeStringify(expected);
+
+      if (ok) passed += 1;
+
+      items.push({
+        index: i + 1,
+        ok,
+        input: safeStringify(testCase.input),
+        expected: safeStringify(expected),
+        actual: safeStringify(actual),
+      });
+    }
+
+    return {
+      ok: true,
+      items,
+      passed,
+      total: cases.length,
+    };
+  }
+
   function teardownWorker() {
     if (activeWorker) {
       activeWorker.terminate();
@@ -312,6 +372,10 @@
     resultsList.innerHTML = '<div class="empty-state">예제 테스트를 실행하면 여기에서 결과를 확인할 수 있습니다.</div>';
   }
 
+  function renderCustomIdle() {
+    customOutput.textContent = '아직 실행하지 않았습니다.';
+  }
+
   function renderError(message) {
     summary.innerHTML = '<span class="status-fail">실행 오류</span>';
     resultsList.innerHTML = '';
@@ -321,6 +385,10 @@
     card.appendChild(buildStatus('ERROR', false));
     card.appendChild(buildLine('message', message));
     resultsList.appendChild(card);
+  }
+
+  function renderCustomError(message) {
+    customOutput.innerHTML = `<span class="status-fail">실행 오류</span>\n\n${message}`;
   }
 
   function renderResults(items, passed, total, fromFallback) {

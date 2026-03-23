@@ -135,8 +135,9 @@ p, li {
   margin: var(--space-3) 0 var(--space-5);
 }
 
-.meta-row.compact {
-  margin: 0 0 var(--space-3);
+.meta-row.compact,
+.compact-row {
+  margin: 0;
 }
 
 .pill,
@@ -151,6 +152,7 @@ p, li {
 
 .card,
 .playground,
+.custom-test,
 .results,
 .problem-content,
 .problem-card,
@@ -181,7 +183,8 @@ p, li {
 }
 
 .filter-input,
-.filter-select {
+.filter-select,
+.custom-input {
   width: 100%;
   padding: 12px 14px;
   border-radius: 10px;
@@ -189,6 +192,34 @@ p, li {
   background: #020617;
   color: var(--color-text-primary);
   font: inherit;
+}
+
+.custom-input {
+  min-height: 110px;
+  resize: vertical;
+  font-family: var(--font-mono);
+}
+
+.custom-test__panel {
+  display: grid;
+  gap: var(--space-3);
+}
+
+.custom-output {
+  min-height: 56px;
+  padding: var(--space-4);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: #020617;
+  color: var(--color-text-secondary);
+  font-family: var(--font-mono);
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+#custom-run-btn {
+  background: #0f766e;
+  color: white;
 }
 
 .problem-count {
