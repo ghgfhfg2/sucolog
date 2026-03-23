@@ -5,6 +5,7 @@ difficulty: easy
 category: array
 order: 3
 function_name: solution
+time_limit_ms: 200
 starter_code: |
   function solution(nums) {
     return 0;

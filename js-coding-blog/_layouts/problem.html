@@ -6,13 +6,15 @@ layout: default
   data-problem-id="{{ page.slug | default: page.url }}"
   data-function-name="{{ page.function_name }}"
   data-starter-code="{{ page.starter_code | jsonify | escape }}"
-  data-test-cases="{{ page.test_cases | jsonify | escape }}">
+  data-test-cases="{{ page.test_cases | jsonify | escape }}"
+  data-time-limit-ms="{{ page.time_limit_ms | default: 200 }}">
   <header class="problem-header">
     <h1>{{ page.title }}</h1>
     <div class="meta-row">
       {% if page.difficulty %}<span class="pill">{{ page.difficulty }}</span>{% endif %}
       {% if page.category %}<span class="pill">{{ page.category }}</span>{% endif %}
       {% if page.function_name %}<span class="pill">함수명: {{ page.function_name }}</span>{% endif %}
+      <span class="pill">제한 시간: {{ page.time_limit_ms | default: 200 }}ms</span>
     </div>
   </header>
 

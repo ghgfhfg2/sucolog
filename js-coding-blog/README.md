@@ -13,6 +13,7 @@
 - localStorage 기반 코드 임시 저장
 - 커스텀 테스트 입력 실행
 - 힌트/해설 토글 UI
+- 문제별 시간 제한 표시 및 TIMEOUT 판정
 - 문제 작성 가이드 및 템플릿
 - 샘플 문제 4개
 
@@ -26,6 +27,11 @@
 - `assets/js/problem-runner.js` — 실행기
 - `assets/js/problem-filters.js` — 문제 목록 필터/검색
 - `assets/css/style.css` — 기본 스타일
+
+## 참고
+- 시간 제한은 브라우저 환경 기준의 근사치입니다.
+- 기기 성능과 브라우저 차이에 따라 실제 체감 결과는 달라질 수 있습니다.
+- 정식 온라인 저지 수준의 공정한 시간 측정은 아닙니다.
 
 ## 다음 단계
 1. `bundle exec jekyll serve`

@@ -5,6 +5,7 @@ difficulty: easy
 category: string
 order: 4
 function_name: solution
+time_limit_ms: 200
 starter_code: |
   function solution(str) {
     return 0;

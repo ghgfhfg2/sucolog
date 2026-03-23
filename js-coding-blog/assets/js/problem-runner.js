@@ -17,9 +17,10 @@
   const functionName = page.dataset.functionName;
   const starterCode = JSON.parse(page.dataset.starterCode || '""');
   const testCases = JSON.parse(page.dataset.testCases || '[]');
+  const timeLimitMs = Number(page.dataset.timeLimitMs || 200);
   const storageKey = `js-coding-blog:${problemId}`;
   const customInputKey = `${storageKey}:custom-input`;
-  const runTimeoutMs = 3000;
+  const runTimeoutMs = Math.max(timeLimitMs * Math.max(testCases.length, 1) + 200, 1000);
 
   let currentRunId = 0;
   let activeTimeout = null;
@@ -182,7 +183,7 @@
         const data = event.data;
         if (!data || data.type !== 'RUN_RESULT') return;
 
-        const { runId: resultRunId, ok, items, passed, total, message } = data.payload || {};
+        const { runId: resultRunId, ok, items, passed, total, message, timeout } = data.payload || {};
         if (resultRunId !== currentRunId) return;
 
         clearPendingTimeout();
@@ -193,7 +194,7 @@
           return;
         }
 
-        renderResults(items || [], passed || 0, total || 0);
+        renderResults(items || [], passed || 0, total || 0, false, timeout || false);
       };
 
       worker.onerror = () => {
@@ -210,6 +211,7 @@
           code: getCode(),
           functionName,
           testCases,
+          timeLimitMs,
         },
       });
 
@@ -225,18 +227,18 @@
       clearPendingTimeout();
       teardownWorker();
 
-      const result = executeFunction(getCode(), functionName, testCases);
+      const result = executeFunction(getCode(), functionName, testCases, timeLimitMs);
 
       if (!result.ok) {
         renderError(result.message || '알 수 없는 실행 오류가 발생했습니다.');
         return;
       }
 
-      if (fromFallback) {
+      if (fromFallback && !result.timeout) {
         summary.innerHTML = '<span class="status-warning">격리 실행 환경을 사용할 수 없어 기본 실행 모드로 테스트했습니다.</span>';
       }
 
-      renderResults(result.items, result.passed, result.total, fromFallback);
+      renderResults(result.items, result.passed, result.total, fromFallback, result.timeout);
     } catch (error) {
       renderError(`실행 오류: ${error && error.message ? error.message : String(error)}`);
     }
@@ -260,12 +262,26 @@
         return;
       }
 
+      const startedAt = performance.now();
       const actual = userFn.apply(null, parsed);
+      const elapsedMs = performance.now() - startedAt;
+
+      if (elapsedMs > timeLimitMs) {
+        customOutput.innerHTML = [
+          '<span class="status-timeout">TIMEOUT</span>',
+          '',
+          `input: ${safeStringify(parsed)}`,
+          `elapsed: ${elapsedMs.toFixed(2)}ms / limit: ${timeLimitMs}ms`,
+        ].join('\n');
+        return;
+      }
+
       customOutput.innerHTML = [
         '<span class="status-success">실행 완료</span>',
         '',
         `input: ${safeStringify(parsed)}`,
         `output: ${safeStringify(actual)}`,
+        `elapsed: ${elapsedMs.toFixed(2)}ms / limit: ${timeLimitMs}ms`,
       ].join('\n');
     } catch (error) {
       renderCustomError(`실행 오류: ${error && error.message ? error.message : String(error)}`);
@@ -283,6 +299,7 @@
         var code = payload.code || '';
         var functionName = payload.functionName;
         var testCases = payload.testCases || [];
+        var timeLimitMs = Number(payload.timeLimitMs || 200);
 
         try {
           var userFactory = new Function(code + '\\nreturn typeof ' + functionName + ' !== "undefined" ? ' + functionName + ' : null;');
@@ -297,24 +314,48 @@
           }
 
           var passed = 0;
-          var items = testCases.map(function (testCase, index) {
+          var timeout = false;
+          var items = [];
+
+          for (var i = 0; i < testCases.length; i += 1) {
+            var testCase = testCases[i];
+            var startedAt = performance.now();
             var actual = userFn.apply(null, testCase.input || []);
+            var elapsedMs = performance.now() - startedAt;
             var expected = testCase.output;
+
+            if (elapsedMs > timeLimitMs) {
+              timeout = true;
+              items.push({
+                index: i + 1,
+                ok: false,
+                timeout: true,
+                input: safeStringify(testCase.input),
+                expected: safeStringify(expected),
+                actual: 'TIMEOUT',
+                elapsedMs: elapsedMs,
+                timeLimitMs: timeLimitMs
+              });
+              break;
+            }
+
             var ok = safeStringify(actual) === safeStringify(expected);
             if (ok) passed += 1;
 
-            return {
-              index: index + 1,
+            items.push({
+              index: i + 1,
               ok: ok,
               input: safeStringify(testCase.input),
               expected: safeStringify(expected),
-              actual: safeStringify(actual)
-            };
-          });
+              actual: safeStringify(actual),
+              elapsedMs: elapsedMs,
+              timeLimitMs: timeLimitMs
+            });
+          }
 
           self.postMessage({
             type: 'RUN_RESULT',
-            payload: { runId: runId, ok: true, items: items, passed: passed, total: testCases.length }
+            payload: { runId: runId, ok: true, items: items, passed: passed, total: testCases.length, timeout: timeout }
           });
         } catch (error) {
           self.postMessage({
@@ -343,7 +384,7 @@
     return new Worker(url);
   }
 
-  function executeFunction(code, name, cases) {
+  function executeFunction(code, name, cases, limitMs) {
     const userFactory = new Function(`${code}\nreturn typeof ${name} !== 'undefined' ? ${name} : null;`);
     const userFn = userFactory();
 
@@ -353,13 +394,31 @@
 
     const items = [];
     let passed = 0;
+    let timeout = false;
 
     for (let i = 0; i < cases.length; i += 1) {
       const testCase = cases[i];
+      const startedAt = performance.now();
       const actual = userFn.apply(null, testCase.input || []);
+      const elapsedMs = performance.now() - startedAt;
       const expected = testCase.output;
-      const ok = safeStringify(actual) === safeStringify(expected);
 
+      if (elapsedMs > limitMs) {
+        timeout = true;
+        items.push({
+          index: i + 1,
+          ok: false,
+          timeout: true,
+          input: safeStringify(testCase.input),
+          expected: safeStringify(expected),
+          actual: 'TIMEOUT',
+          elapsedMs,
+          timeLimitMs: limitMs,
+        });
+        break;
+      }
+
+      const ok = safeStringify(actual) === safeStringify(expected);
       if (ok) passed += 1;
 
       items.push({
@@ -368,6 +427,8 @@
         input: safeStringify(testCase.input),
         expected: safeStringify(expected),
         actual: safeStringify(actual),
+        elapsedMs,
+        timeLimitMs: limitMs,
       });
     }
 
@@ -376,6 +437,7 @@
       items,
       passed,
       total: cases.length,
+      timeout,
     };
   }
 
@@ -422,30 +484,37 @@
     customOutput.innerHTML = `<span class="status-fail">실행 오류</span>\n\n${message}`;
   }
 
-  function renderResults(items, passed, total, fromFallback) {
-    const allPassed = passed === total;
+  function renderResults(items, passed, total, fromFallback, timeout) {
     if (!fromFallback) {
-      summary.innerHTML = allPassed
-        ? `<span class="status-success">총 ${passed}/${total} 통과</span>`
-        : `<span class="status-warning">총 ${passed}/${total} 통과</span>`;
+      if (timeout) {
+        summary.innerHTML = `<span class="status-timeout">시간 초과</span> · ${passed}/${total} 통과`;
+      } else {
+        const allPassed = passed === total;
+        summary.innerHTML = allPassed
+          ? `<span class="status-success">총 ${passed}/${total} 통과</span>`
+          : `<span class="status-warning">총 ${passed}/${total} 통과</span>`;
+      }
     }
 
     resultsList.innerHTML = '';
 
     items.forEach((item) => {
       const card = document.createElement('article');
-      card.className = `result-card ${item.ok ? 'is-pass' : 'is-fail'}`;
-      card.appendChild(buildStatus(`#${item.index} ${item.ok ? 'PASS' : 'FAIL'}`, item.ok));
+      card.className = `result-card ${item.timeout ? 'is-timeout' : item.ok ? 'is-pass' : 'is-fail'}`;
+      card.appendChild(buildStatus(`#${item.index} ${item.timeout ? 'TIMEOUT' : item.ok ? 'PASS' : 'FAIL'}`, item.ok, item.timeout));
       card.appendChild(buildLine('input', item.input));
       card.appendChild(buildLine('expected', item.expected));
       card.appendChild(buildLine('actual', item.actual));
+      if (typeof item.elapsedMs === 'number') {
+        card.appendChild(buildLine('elapsed', `${item.elapsedMs.toFixed(2)}ms / ${item.timeLimitMs}ms`));
+      }
       resultsList.appendChild(card);
     });
   }
 
-  function buildStatus(text, ok) {
+  function buildStatus(text, ok, timeout) {
     const status = document.createElement('div');
-    status.className = `result-card__status ${ok ? 'status-success' : 'status-fail'}`;
+    status.className = `result-card__status ${timeout ? 'status-timeout' : ok ? 'status-success' : 'status-fail'}`;
     status.textContent = text;
     return status;
   }

@@ -13,6 +13,7 @@
   --color-success: #16a34a;
   --color-danger: #dc2626;
   --color-warning: #d97706;
+  --color-timeout: #f59e0b;
 
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
@@ -399,6 +400,10 @@ button:hover { transform: translateY(-1px); }
   border-color: rgba(220, 38, 38, 0.45);
 }
 
+.result-card.is-timeout {
+  border-color: rgba(245, 158, 11, 0.55);
+}
+
 .result-card__status {
   font-weight: 700;
   margin-bottom: var(--space-3);
@@ -432,6 +437,7 @@ code,
 .status-success { color: #86efac; }
 .status-fail { color: #fca5a5; }
 .status-warning { color: #fdba74; }
+.status-timeout { color: #fbbf24; }
 
 @media (max-width: 640px) {
   .container {

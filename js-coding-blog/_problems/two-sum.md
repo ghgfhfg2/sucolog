@@ -5,6 +5,7 @@ difficulty: easy
 category: warmup
 order: 1
 function_name: solution
+time_limit_ms: 200
 starter_code: |
   function solution(a, b) {
     return a + b;
