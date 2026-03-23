@@ -30,6 +30,7 @@
 - `_layouts/problem.html` — 문제 상세 페이지 레이아웃
 - `_problems/` — 문제 데이터/본문
 - `PROBLEM_AUTHORING.md` — 문제 작성 가이드
+- `CATEGORY_POSTING_GUIDE.md` — 트랙별 게시물 작성 가이드
 - `CURATION.md` — 큐레이션 구조 문서
 - `problems/index.md` — 문제 목록 페이지
 - `assets/js/problem-runner.js` — 실행기 + 본문 학습/토글 처리
