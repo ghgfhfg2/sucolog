@@ -6,11 +6,15 @@
 - Jekyll 기본 설정
 - 문제 컬렉션(`_problems`)
 - 문제 목록 페이지
+- 문제 검색/필터 UI
 - 문제 상세 페이지
 - 브라우저 내 실행기(JS 전용, Worker 기반 격리 실행 + fallback)
 - Monaco Editor 기반 코드 작성 UI (로드 실패 시 textarea fallback)
 - localStorage 기반 코드 임시 저장
-- 샘플 문제 1개
+- 커스텀 테스트 입력 실행
+- 힌트/해설 토글 UI
+- 문제 작성 가이드 및 템플릿
+- 샘플 문제 4개
 
 ## 구조
 - `_config.yml` — Jekyll 설정
@@ -25,6 +29,6 @@
 
 ## 다음 단계
 1. `bundle exec jekyll serve`
-2. 힌트/해설 UI 고도화
-3. 문제 상세 내 테스트케이스 확장 기능
+2. 문제 상세 내 테스트케이스 확장 기능
+3. 결과 패널 표현 개선
 4. GitHub Pages 배포 준비

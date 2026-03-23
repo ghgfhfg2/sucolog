@@ -55,7 +55,8 @@ a:focus-visible,
 button:focus-visible,
 textarea:focus-visible,
 input:focus-visible,
-select:focus-visible {
+select:focus-visible,
+summary:focus-visible {
   outline: 2px solid #93c5fd;
   outline-offset: 2px;
 }
@@ -163,6 +164,47 @@ p, li {
   border: 1px solid rgba(51, 65, 85, 0.85);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-soft);
+}
+
+.content-toggle {
+  margin-top: var(--space-5);
+  border: 1px solid rgba(51, 65, 85, 0.85);
+  border-radius: var(--radius-md);
+  background: #0f172a;
+  overflow: hidden;
+}
+
+.content-toggle__summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 14px 16px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.content-toggle__summary::-webkit-details-marker {
+  display: none;
+}
+
+.content-toggle__summary::before {
+  content: '▸';
+  display: inline-block;
+  margin-right: 8px;
+  color: var(--color-text-muted);
+  transition: transform 120ms ease;
+}
+
+.content-toggle[open] .content-toggle__summary::before {
+  transform: rotate(90deg);
+}
+
+.content-toggle > :not(summary) {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.content-toggle > :last-child {
+  padding-bottom: 16px;
 }
 
 .filter-panel {

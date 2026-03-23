@@ -27,6 +27,8 @@
   let activeWorkerUrl = null;
   let monacoEditor = null;
 
+  enhanceContentToggles();
+
   const savedCode = localStorage.getItem(storageKey);
   const initialCode = savedCode || starterCode;
   fallbackEditor.value = initialCode;
@@ -74,6 +76,35 @@
 
   renderIdle('아직 실행하지 않았습니다.');
   renderCustomIdle();
+
+  function enhanceContentToggles() {
+    const content = page.querySelector('.problem-content');
+    if (!content) return;
+
+    const headings = Array.from(content.querySelectorAll('h2'));
+    headings.forEach((heading) => {
+      const title = (heading.textContent || '').trim();
+      if (title !== '힌트' && title !== '해설') return;
+
+      const details = document.createElement('details');
+      details.className = 'content-toggle';
+      if (title === '힌트') details.open = false;
+
+      const summary = document.createElement('summary');
+      summary.className = 'content-toggle__summary';
+      summary.textContent = title;
+      details.appendChild(summary);
+
+      let next = heading.nextElementSibling;
+      while (next && next.tagName !== 'H2') {
+        const current = next;
+        next = next.nextElementSibling;
+        details.appendChild(current);
+      }
+
+      heading.replaceWith(details);
+    });
+  }
 
   function initEditor(initialValue) {
     fallbackEditor.addEventListener('input', () => {
