@@ -1,8 +1,13 @@
 ---
 title: 배열에서 최댓값 찾기
 slug: find-max
+track: algorithm
 difficulty: easy
-category: array
+topic: array
+tags:
+  - beginner
+  - max
+  - array
 order: 3
 function_name: solution
 time_limit_ms: 200

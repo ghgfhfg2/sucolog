@@ -6,12 +6,22 @@ permalink: /problems/
 
 # 문제 목록
 
-<p class="section-lead">가볍게 풀어볼 수 있는 JavaScript 문제들입니다. 난이도와 카테고리를 보고 원하는 문제부터 들어가면 됩니다.</p>
+<p class="section-lead">트랙, 난이도, 주제를 기준으로 문제를 찾아볼 수 있습니다. 오늘의 코테, 알고리즘 학습, JS 메서드 학습 흐름에 맞춰 큐레이션합니다.</p>
 
-<div class="filter-panel">
+<div class="filter-panel filter-panel--wide">
   <div class="filter-group">
     <label class="filter-label" for="problem-search">검색</label>
     <input id="problem-search" class="filter-input" type="search" placeholder="문제 제목이나 설명 검색" />
+  </div>
+
+  <div class="filter-group">
+    <label class="filter-label" for="track-filter">트랙</label>
+    <select id="track-filter" class="filter-select">
+      <option value="all">전체</option>
+      <option value="today">오늘의 코테</option>
+      <option value="algorithm">알고리즘별 코테</option>
+      <option value="js-basic">JS 메서드 학습</option>
+    </select>
   </div>
 
   <div class="filter-group">
@@ -25,12 +35,12 @@ permalink: /problems/
   </div>
 
   <div class="filter-group">
-    <label class="filter-label" for="category-filter">카테고리</label>
-    <select id="category-filter" class="filter-select">
+    <label class="filter-label" for="topic-filter">주제</label>
+    <select id="topic-filter" class="filter-select">
       <option value="all">전체</option>
-      {% assign categories = site.problems | map: 'category' | uniq | sort %}
-      {% for category in categories %}
-        {% if category %}<option value="{{ category }}">{{ category }}</option>{% endif %}
+      {% assign topics = site.problems | map: 'topic' | uniq | sort %}
+      {% for topic in topics %}
+        {% if topic %}<option value="{{ topic }}">{{ topic }}</option>{% endif %}
       {% endfor %}
     </select>
   </div>
@@ -45,12 +55,15 @@ permalink: /problems/
       class="problem-card"
       data-title="{{ problem.title | downcase | escape }}"
       data-description="{{ problem.excerpt | strip_html | strip_newlines | downcase | escape }}"
+      data-track="{{ problem.track | downcase }}"
       data-difficulty="{{ problem.difficulty | downcase }}"
-      data-category="{{ problem.category | downcase }}">
+      data-topic="{{ problem.topic | downcase }}"
+      data-tags="{{ problem.tags | join: ' ' | downcase | escape }}">
       <div class="problem-card__body">
         <div class="meta-row compact">
+          {% if problem.track %}<span class="pill">{{ problem.track }}</span>{% endif %}
           {% if problem.difficulty %}<span class="pill">{{ problem.difficulty }}</span>{% endif %}
-          {% if problem.category %}<span class="pill">{{ problem.category }}</span>{% endif %}
+          {% if problem.topic %}<span class="pill">{{ problem.topic }}</span>{% endif %}
         </div>
         <h2 class="problem-card__title"><a href="{{ problem.url }}">{{ problem.title }}</a></h2>
         <p class="problem-card__description">

@@ -1,8 +1,13 @@
 ---
 title: 문자열 뒤집기
 slug: reverse-string
+track: algorithm
 difficulty: easy
-category: string
+topic: string
+tags:
+  - beginner
+  - reverse
+  - string
 order: 2
 function_name: solution
 time_limit_ms: 200

@@ -1,8 +1,13 @@
 ---
 title: 두 수 더하기
 slug: two-sum
+track: today
 difficulty: easy
-category: warmup
+topic: warmup
+tags:
+  - daily
+  - beginner
+  - addition
 order: 1
 function_name: solution
 time_limit_ms: 200

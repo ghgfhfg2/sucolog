@@ -1,8 +1,14 @@
 ---
 title: 모음 개수 세기
 slug: count-vowels
+track: js-basic
 difficulty: easy
-category: string
+topic: string-methods
+tags:
+  - beginner
+  - vowel
+  - string
+  - js-method
 order: 4
 function_name: solution
 time_limit_ms: 200

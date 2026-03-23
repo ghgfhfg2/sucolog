@@ -1,10 +1,14 @@
 ---
 title: 문제 제목
 slug: problem-slug
+track: algorithm
 difficulty: easy
-category: warmup
+topic: warmup
+tags:
+  - beginner
 order: 999
 function_name: solution
+time_limit_ms: 200
 starter_code: |
   function solution(input) {
     return input;
@@ -30,3 +34,6 @@ test_cases:
 
 ## 힌트
 - 필요하면 여기에 힌트를 추가하세요.
+
+## 해설
+- 필요하면 여기에 해설을 추가하세요.

@@ -7,6 +7,27 @@ JS Coding Blog에서 문제를 추가할 때 사용하는 작성 가이드입니
 - stdin/stdout 스타일이 아니라 **함수 인자 → 반환값** 형태로 작성합니다.
 - 테스트케이스는 브라우저에서 실행 가능한 수준으로 유지합니다.
 - 문제 설명은 짧고 명확하게 씁니다.
+- 앞으로 문제는 **트랙 기반으로 큐레이션**합니다.
+
+---
+
+## 트랙 구조
+이 블로그의 문제는 아래 3개 트랙 중 하나에 속합니다.
+
+### 1. 오늘의 코테 (`today`)
+- 도전 욕구를 자극하는 큐레이션 문제
+- 난이도 구분: `easy`, `medium`, `hard`
+- 목적: 재미, 도전감, 재방문 유도
+
+### 2. 알고리즘별 코테 (`algorithm`)
+- 개념 학습과 유형별 연습 중심
+- 초중급 학습자 대상
+- 목적: 알고리즘 감각 형성
+
+### 3. JS 메서드 학습 (`js-basic`)
+- JavaScript 기본 메서드와 문법 감각 익히기
+- 초급자 대상
+- 목적: 언어 적응 + 코테 입문
 
 ---
 
@@ -29,10 +50,15 @@ JS Coding Blog에서 문제를 추가할 때 사용하는 작성 가이드입니
 ---
 title: 문제 제목
 slug: problem-slug
+track: algorithm
 difficulty: easy
-category: string
+topic: string
+tags:
+  - beginner
+  - reverse
 order: 10
 function_name: solution
+time_limit_ms: 200
 starter_code: |
   function solution(input) {
     return input;
@@ -48,10 +74,13 @@ test_cases:
 ### 필드 설명
 - `title`: 문제 제목
 - `slug`: URL 식별자
+- `track`: `today`, `algorithm`, `js-basic`
 - `difficulty`: `easy`, `medium`, `hard`
-- `category`: 예: `string`, `array`, `math`, `simulation`, `warmup`
+- `topic`: 핵심 주제 (예: `string`, `array`, `array-methods`, `implementation`)
+- `tags`: 세부 태그 배열
 - `order`: 목록 정렬 순서
 - `function_name`: 사용자가 구현해야 하는 함수명
+- `time_limit_ms`: 브라우저 기준 시간 제한(근사치)
 - `starter_code`: 기본 코드
 - `test_cases`: 예제 테스트 목록
 
@@ -90,7 +119,37 @@ test_cases:
 
 ## 힌트
 - 필요하면 간단한 힌트 추가
+
+## 해설
+- 필요하면 해설 추가
 ```
+
+---
+
+## topic / tags 작성 가이드
+### topic 예시
+- `warmup`
+- `string`
+- `array`
+- `array-methods`
+- `string-methods`
+- `simulation`
+- `greedy`
+- `hash`
+- `stack-queue`
+
+### tags 예시
+- `beginner`
+- `map`
+- `filter`
+- `reduce`
+- `reverse`
+- `max`
+- `vowel`
+- `daily`
+
+`topic`은 핵심 분류 1개,
+`tags`는 검색과 세부 큐레이션용 보조 키워드라고 생각하면 됩니다.
 
 ---
 
@@ -100,29 +159,13 @@ test_cases:
 - 테스트케이스는 최소 3개 이상 넣는다
 - 음수, 빈 문자열, 중복값 등 경계 케이스를 일부 포함한다
 - 본문과 테스트케이스가 서로 모순되지 않게 한다
-
----
-
-## 현재 권장 카테고리
-- `warmup`
-- `string`
-- `array`
-- `math`
-- `simulation`
-- `greedy`
-
-필요하면 이후 확장 가능:
-- `stack`
-- `queue`
-- `hash`
-- `dp`
-- `graph`
+- 트랙 목적에 맞는 문제인지 먼저 판단한다
 
 ---
 
 ## 문제 추가 절차
 1. `_problems/`에 새 파일 생성
-2. front matter 작성
+2. front matter 작성 (`track`, `topic`, `tags` 포함)
 3. 본문 작성
 4. 로컬에서 문제 목록/상세 확인
 5. 테스트 실행 확인

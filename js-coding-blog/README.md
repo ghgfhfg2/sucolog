@@ -6,7 +6,7 @@
 - Jekyll 기본 설정
 - 문제 컬렉션(`_problems`)
 - 문제 목록 페이지
-- 문제 검색/필터 UI
+- 트랙 / 난이도 / 주제 기준 검색·필터 UI
 - 문제 상세 페이지
 - 브라우저 내 실행기(JS 전용, Worker 기반 격리 실행 + fallback)
 - Monaco Editor 기반 코드 작성 UI (로드 실패 시 textarea fallback)
@@ -15,7 +15,13 @@
 - 힌트/해설 토글 UI
 - 문제별 시간 제한 표시 및 TIMEOUT 판정
 - 문제 작성 가이드 및 템플릿
+- 큐레이션 구조 문서
 - 샘플 문제 4개
+
+## 트랙 구조
+- `today` — 오늘의 코테
+- `algorithm` — 알고리즘별 코테
+- `js-basic` — JS 메서드 학습
 
 ## 구조
 - `_config.yml` — Jekyll 설정
@@ -23,6 +29,7 @@
 - `_layouts/problem.html` — 문제 상세 페이지 레이아웃
 - `_problems/` — 문제 데이터/본문
 - `PROBLEM_AUTHORING.md` — 문제 작성 가이드
+- `CURATION.md` — 큐레이션 구조 문서
 - `problems/index.md` — 문제 목록 페이지
 - `assets/js/problem-runner.js` — 실행기
 - `assets/js/problem-filters.js` — 문제 목록 필터/검색
@@ -34,7 +41,7 @@
 - 정식 온라인 저지 수준의 공정한 시간 측정은 아닙니다.
 
 ## 다음 단계
-1. `bundle exec jekyll serve`
+1. 트랙별 랜딩/큐레이션 페이지 추가
 2. 문제 상세 내 테스트케이스 확장 기능
 3. 결과 패널 표현 개선
 4. GitHub Pages 배포 준비
