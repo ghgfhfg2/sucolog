@@ -25,7 +25,14 @@ layout: default
       <h2>코드 작성</h2>
       <p class="muted">starter code를 바탕으로 함수를 완성한 뒤 예제 테스트를 실행해보세요.</p>
     </div>
-    <textarea id="editor" spellcheck="false"></textarea>
+    <div class="editor-shell">
+      <div class="editor-shell__top">
+        <span class="editor-badge">JavaScript</span>
+        <span id="editor-mode-label" class="muted">에디터 로딩 중...</span>
+      </div>
+      <div id="editor-container" class="editor-container"></div>
+      <textarea id="editor" class="editor-fallback" spellcheck="false"></textarea>
+    </div>
     <div class="action-row">
       <button id="run-btn" type="button">예제 테스트 실행</button>
       <button id="reset-btn" type="button">초기 코드로 되돌리기</button>
@@ -43,4 +50,5 @@ layout: default
   </section>
 </article>
 
-<script src="/assets/js/problem-runner.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.52.2/min/vs/loader.min.js" defer></script>
+<script src="/assets/js/problem-runner.js" defer></script>

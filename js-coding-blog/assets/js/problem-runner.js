@@ -2,7 +2,9 @@
   const page = document.querySelector('.problem-page');
   if (!page) return;
 
-  const editor = document.getElementById('editor');
+  const fallbackEditor = document.getElementById('editor');
+  const editorContainer = document.getElementById('editor-container');
+  const editorModeLabel = document.getElementById('editor-mode-label');
   const runBtn = document.getElementById('run-btn');
   const resetBtn = document.getElementById('reset-btn');
   const summary = document.getElementById('results-summary');
@@ -19,17 +21,17 @@
   let activeTimeout = null;
   let activeWorker = null;
   let activeWorkerUrl = null;
+  let monacoEditor = null;
 
   const savedCode = localStorage.getItem(storageKey);
-  editor.value = savedCode || starterCode;
+  const initialCode = savedCode || starterCode;
+  fallbackEditor.value = initialCode;
 
-  editor.addEventListener('input', () => {
-    localStorage.setItem(storageKey, editor.value);
-  });
+  initEditor(initialCode);
 
   resetBtn.addEventListener('click', () => {
-    editor.value = starterCode;
-    localStorage.setItem(storageKey, editor.value);
+    setCode(starterCode);
+    localStorage.setItem(storageKey, starterCode);
     renderIdle('초기 코드로 되돌렸습니다.');
   });
 
@@ -56,6 +58,69 @@
   });
 
   renderIdle('아직 실행하지 않았습니다.');
+
+  function initEditor(initialValue) {
+    fallbackEditor.addEventListener('input', () => {
+      localStorage.setItem(storageKey, fallbackEditor.value);
+    });
+
+    if (!window.require) {
+      useFallbackEditor('기본 에디터 모드');
+      return;
+    }
+
+    window.require.config({
+      paths: {
+        vs: 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.52.2/min/vs',
+      },
+    });
+
+    window.require(['vs/editor/editor.main'], () => {
+      monacoEditor = window.monaco.editor.create(editorContainer, {
+        value: initialValue,
+        language: 'javascript',
+        theme: 'vs-dark',
+        automaticLayout: true,
+        minimap: { enabled: false },
+        roundedSelection: false,
+        scrollBeyondLastLine: false,
+        fontSize: 14,
+        lineHeight: 22,
+        tabSize: 2,
+        insertSpaces: true,
+        wordWrap: 'on',
+        padding: { top: 16, bottom: 16 },
+      });
+
+      editorContainer.classList.remove('is-hidden');
+      fallbackEditor.classList.add('is-hidden');
+      editorModeLabel.textContent = 'Monaco Editor';
+
+      monacoEditor.onDidChangeModelContent(() => {
+        localStorage.setItem(storageKey, monacoEditor.getValue());
+      });
+    }, () => {
+      useFallbackEditor('기본 에디터 모드');
+    });
+  }
+
+  function useFallbackEditor(label) {
+    editorContainer.classList.add('is-hidden');
+    fallbackEditor.classList.remove('is-hidden');
+    editorModeLabel.textContent = label;
+  }
+
+  function getCode() {
+    if (monacoEditor) return monacoEditor.getValue();
+    return fallbackEditor.value;
+  }
+
+  function setCode(value) {
+    if (monacoEditor) {
+      monacoEditor.setValue(value);
+    }
+    fallbackEditor.value = value;
+  }
 
   function tryRunWithWorker(runId) {
     if (typeof Worker === 'undefined' || typeof Blob === 'undefined' || typeof URL === 'undefined') {
@@ -95,7 +160,7 @@
         type: 'RUN_CODE',
         payload: {
           runId,
-          code: editor.value,
+          code: getCode(),
           functionName,
           testCases,
         },
@@ -113,7 +178,8 @@
       clearPendingTimeout();
       teardownWorker();
 
-      const userFactory = new Function(`${editor.value}\nreturn typeof ${functionName} !== 'undefined' ? ${functionName} : null;`);
+      const code = getCode();
+      const userFactory = new Function(`${code}\nreturn typeof ${functionName} !== 'undefined' ? ${functionName} : null;`);
       const userFn = userFactory();
 
       if (typeof userFn !== 'function') {

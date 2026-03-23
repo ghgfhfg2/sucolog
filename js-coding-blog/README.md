@@ -8,6 +8,7 @@
 - 문제 목록 페이지
 - 문제 상세 페이지
 - 브라우저 내 실행기(JS 전용, Worker 기반 격리 실행 + fallback)
+- Monaco Editor 기반 코드 작성 UI (로드 실패 시 textarea fallback)
 - localStorage 기반 코드 임시 저장
 - 샘플 문제 1개
 
