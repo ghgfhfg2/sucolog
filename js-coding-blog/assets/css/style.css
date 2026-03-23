@@ -14,6 +14,7 @@
   --color-danger: #dc2626;
   --color-warning: #d97706;
   --color-timeout: #f59e0b;
+  --color-learning: #38bdf8;
 
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
@@ -167,6 +168,20 @@ p, li {
   box-shadow: var(--shadow-soft);
 }
 
+.learning-card {
+  margin-top: var(--space-5);
+  padding: 18px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  background: linear-gradient(180deg, rgba(14, 165, 233, 0.08), rgba(2, 6, 23, 0.45));
+}
+
+.learning-card__title {
+  margin: 0 0 var(--space-3);
+  color: #e0f2fe;
+  font-size: 18px;
+}
+
 .content-toggle {
   margin-top: var(--space-5);
   border: 1px solid rgba(51, 65, 85, 0.85);
@@ -212,6 +227,10 @@ p, li {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
   gap: var(--space-4);
+}
+
+.filter-panel--wide {
+  grid-template-columns: 2fr 1fr 1fr 1fr;
 }
 
 .filter-group {
@@ -451,7 +470,8 @@ code,
 
   h1 { font-size: 28px; }
 
-  .filter-panel {
+  .filter-panel,
+  .filter-panel--wide {
     grid-template-columns: 1fr;
   }
 

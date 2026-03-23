@@ -15,6 +15,7 @@
 
   const problemId = page.dataset.problemId;
   const functionName = page.dataset.functionName;
+  const track = page.dataset.track;
   const starterCode = JSON.parse(page.dataset.starterCode || '""');
   const testCases = JSON.parse(page.dataset.testCases || '[]');
   const timeLimitMs = Number(page.dataset.timeLimitMs || 200);
@@ -28,7 +29,7 @@
   let activeWorkerUrl = null;
   let monacoEditor = null;
 
-  enhanceContentToggles();
+  enhanceContentBlocks();
 
   const savedCode = localStorage.getItem(storageKey);
   const initialCode = savedCode || starterCode;
@@ -78,32 +79,55 @@
   renderIdle('아직 실행하지 않았습니다.');
   renderCustomIdle();
 
-  function enhanceContentToggles() {
+  function enhanceContentBlocks() {
     const content = page.querySelector('.problem-content');
     if (!content) return;
 
     const headings = Array.from(content.querySelectorAll('h2'));
+    const learningTitles = new Set(['오늘의 메서드', '메서드 설명', '기본 문법', '사용 예시', '주의할 점']);
+
     headings.forEach((heading) => {
       const title = (heading.textContent || '').trim();
-      if (title !== '힌트' && title !== '해설') return;
 
-      const details = document.createElement('details');
-      details.className = 'content-toggle';
-      if (title === '힌트') details.open = false;
+      if (title === '힌트' || title === '해설') {
+        const details = document.createElement('details');
+        details.className = 'content-toggle';
+        if (title === '힌트') details.open = false;
 
-      const summary = document.createElement('summary');
-      summary.className = 'content-toggle__summary';
-      summary.textContent = title;
-      details.appendChild(summary);
+        const summary = document.createElement('summary');
+        summary.className = 'content-toggle__summary';
+        summary.textContent = title;
+        details.appendChild(summary);
 
-      let next = heading.nextElementSibling;
-      while (next && next.tagName !== 'H2') {
-        const current = next;
-        next = next.nextElementSibling;
-        details.appendChild(current);
+        let next = heading.nextElementSibling;
+        while (next && next.tagName !== 'H2') {
+          const current = next;
+          next = next.nextElementSibling;
+          details.appendChild(current);
+        }
+
+        heading.replaceWith(details);
+        return;
       }
 
-      heading.replaceWith(details);
+      if (track === 'js-basic' && learningTitles.has(title)) {
+        const card = document.createElement('section');
+        card.className = 'learning-card';
+
+        const titleEl = document.createElement('h3');
+        titleEl.className = 'learning-card__title';
+        titleEl.textContent = title;
+        card.appendChild(titleEl);
+
+        let next = heading.nextElementSibling;
+        while (next && next.tagName !== 'H2') {
+          const current = next;
+          next = next.nextElementSibling;
+          card.appendChild(current);
+        }
+
+        heading.replaceWith(card);
+      }
     });
   }
 

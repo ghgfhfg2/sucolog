@@ -14,6 +14,7 @@
 - 커스텀 테스트 입력 실행
 - 힌트/해설 토글 UI
 - 문제별 시간 제한 표시 및 TIMEOUT 판정
+- `js-basic` 트랙용 학습형 레슨 카드 UI
 - 문제 작성 가이드 및 템플릿
 - 큐레이션 구조 문서
 - 샘플 문제 4개
@@ -31,7 +32,7 @@
 - `PROBLEM_AUTHORING.md` — 문제 작성 가이드
 - `CURATION.md` — 큐레이션 구조 문서
 - `problems/index.md` — 문제 목록 페이지
-- `assets/js/problem-runner.js` — 실행기
+- `assets/js/problem-runner.js` — 실행기 + 본문 학습/토글 처리
 - `assets/js/problem-filters.js` — 문제 목록 필터/검색
 - `assets/css/style.css` — 기본 스타일
 
@@ -39,9 +40,10 @@
 - 시간 제한은 브라우저 환경 기준의 근사치입니다.
 - 기기 성능과 브라우저 차이에 따라 실제 체감 결과는 달라질 수 있습니다.
 - 정식 온라인 저지 수준의 공정한 시간 측정은 아닙니다.
+- `js-basic` 트랙은 일반 코테보다 학습 설명의 품질을 더 중요하게 다룹니다.
 
 ## 다음 단계
 1. 트랙별 랜딩/큐레이션 페이지 추가
-2. 문제 상세 내 테스트케이스 확장 기능
+2. `js-basic` 전용 템플릿 문제 더 추가
 3. 결과 패널 표현 개선
 4. GitHub Pages 배포 준비
