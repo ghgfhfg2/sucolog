@@ -21,7 +21,10 @@ layout: default
   </section>
 
   <section class="playground">
-    <h2>코드 작성</h2>
+    <div class="section-heading">
+      <h2>코드 작성</h2>
+      <p class="muted">starter code를 바탕으로 함수를 완성한 뒤 예제 테스트를 실행해보세요.</p>
+    </div>
     <textarea id="editor" spellcheck="false"></textarea>
     <div class="action-row">
       <button id="run-btn" type="button">예제 테스트 실행</button>
@@ -30,8 +33,13 @@ layout: default
   </section>
 
   <section class="results">
-    <h2>실행 결과</h2>
-    <pre id="results-output">아직 실행하지 않았습니다.</pre>
+    <div class="section-heading">
+      <h2>실행 결과</h2>
+      <p id="results-summary" class="muted">아직 실행하지 않았습니다.</p>
+    </div>
+    <div id="results-list" class="results-list" aria-live="polite">
+      <div class="empty-state">예제 테스트를 실행하면 여기에서 결과를 확인할 수 있습니다.</div>
+    </div>
   </section>
 </article>
 

@@ -34,7 +34,6 @@
 }
 
 * { box-sizing: border-box; }
-
 html { scroll-behavior: smooth; }
 
 body {
@@ -93,14 +92,6 @@ textarea:focus-visible {
   gap: var(--space-4);
 }
 
-.problem-list {
-  padding-left: 20px;
-}
-
-.problem-list li {
-  margin-bottom: var(--space-3);
-}
-
 h1, h2, h3 {
   color: #fff;
   line-height: 1.25;
@@ -114,10 +105,24 @@ h1 {
 h2 {
   font-size: 22px;
   margin-top: 0;
+  margin-bottom: var(--space-2);
 }
 
 p, li {
   color: var(--color-text-secondary);
+}
+
+.section-lead {
+  margin: 0 0 var(--space-6);
+  color: var(--color-text-muted);
+}
+
+.section-heading {
+  margin-bottom: var(--space-4);
+}
+
+.section-heading p {
+  margin: 0;
 }
 
 .meta-row,
@@ -126,6 +131,10 @@ p, li {
   flex-wrap: wrap;
   gap: var(--space-2);
   margin: var(--space-3) 0 var(--space-5);
+}
+
+.meta-row.compact {
+  margin: 0 0 var(--space-3);
 }
 
 .pill {
@@ -140,13 +149,51 @@ p, li {
 .card,
 .playground,
 .results,
-.problem-content {
+.problem-content,
+.problem-card {
   margin-top: var(--space-6);
   padding: 20px;
   background: var(--color-surface);
   border: 1px solid rgba(51, 65, 85, 0.85);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-soft);
+}
+
+.problem-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: var(--space-4);
+}
+
+.problem-card {
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.problem-card__title {
+  margin: 0 0 var(--space-3);
+  font-size: 20px;
+}
+
+.problem-card__title a {
+  color: #fff;
+}
+
+.problem-card__description {
+  margin: 0;
+  color: var(--color-text-muted);
+}
+
+.problem-card__footer {
+  margin-top: var(--space-5);
+  padding-top: var(--space-4);
+  border-top: 1px solid rgba(51, 65, 85, 0.55);
+}
+
+.text-link {
+  font-weight: 600;
 }
 
 #editor {
@@ -173,45 +220,79 @@ button {
   transition: transform 120ms ease, background-color 120ms ease, opacity 120ms ease;
 }
 
-button:hover {
-  transform: translateY(-1px);
-}
+button:hover { transform: translateY(-1px); }
 
 #run-btn {
   background: var(--color-primary);
   color: white;
 }
 
-#run-btn:hover {
-  background: var(--color-primary-hover);
-}
+#run-btn:hover { background: var(--color-primary-hover); }
 
 #reset-btn {
   background: #374151;
   color: white;
 }
 
-#results-output {
-  white-space: pre-wrap;
-  background: #020617;
-  color: var(--color-text-secondary);
+.results-list {
+  display: grid;
+  gap: var(--space-3);
+}
+
+.empty-state {
+  padding: var(--space-4);
+  border-radius: var(--radius-md);
+  border: 1px dashed rgba(51, 65, 85, 0.85);
+  background: rgba(2, 6, 23, 0.5);
+  color: var(--color-text-muted);
+}
+
+.result-card {
   padding: var(--space-4);
   border-radius: var(--radius-md);
   border: 1px solid var(--color-border);
-  min-height: 140px;
+  background: #020617;
 }
 
-code {
+.result-card.is-pass {
+  border-color: rgba(22, 163, 74, 0.45);
+}
+
+.result-card.is-fail,
+.result-card.is-error {
+  border-color: rgba(220, 38, 38, 0.45);
+}
+
+.result-card__status {
+  font-weight: 700;
+  margin-bottom: var(--space-3);
+}
+
+.result-line {
+  display: grid;
+  grid-template-columns: 88px 1fr;
+  gap: var(--space-3);
+  align-items: start;
+  margin-top: var(--space-2);
+}
+
+.result-line__label {
+  color: var(--color-text-muted);
+  font-size: 14px;
+  text-transform: lowercase;
+}
+
+code,
+.result-line__value {
   padding: 2px 6px;
   border-radius: 6px;
   background: var(--color-surface-muted);
   color: var(--color-text-primary);
+  font-family: var(--font-mono);
+  word-break: break-word;
 }
 
-.muted {
-  color: var(--color-text-muted);
-}
-
+.muted { color: var(--color-text-muted); }
 .status-success { color: #86efac; }
 .status-fail { color: #fca5a5; }
 .status-warning { color: #fdba74; }
@@ -226,11 +307,12 @@ code {
     flex-direction: column;
   }
 
-  h1 {
-    font-size: 28px;
-  }
+  h1 { font-size: 28px; }
 
-  #editor {
-    min-height: 260px;
+  #editor { min-height: 260px; }
+
+  .result-line {
+    grid-template-columns: 1fr;
+    gap: var(--space-1);
   }
 }
