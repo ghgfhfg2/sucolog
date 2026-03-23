@@ -1,0 +1,25 @@
+title: "JS Coding Blog"
+description: "정적 블로그 기반 JavaScript 코딩 연습장"
+lang: ko-KR
+timezone: Asia/Seoul
+baseurl: ""
+url: ""
+markdown: kramdown
+permalink: pretty
+
+collections:
+  problems:
+    output: true
+    permalink: /problems/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "problems"
+    values:
+      layout: problem
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
