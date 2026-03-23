@@ -17,12 +17,14 @@
 - `_layouts/default.html` — 기본 레이아웃
 - `_layouts/problem.html` — 문제 상세 페이지 레이아웃
 - `_problems/` — 문제 데이터/본문
+- `PROBLEM_AUTHORING.md` — 문제 작성 가이드
 - `problems/index.md` — 문제 목록 페이지
 - `assets/js/problem-runner.js` — 실행기
 - `assets/css/style.css` — 기본 스타일
 
 ## 다음 단계
 1. `bundle exec jekyll serve`
-2. 문제 추가
-3. textarea → Monaco Editor 업그레이드
-4. sandbox iframe 기반 실행으로 격리 강화
+2. 문제 필터/검색 추가
+3. 힌트/해설 UI 고도화
+4. GitHub Pages 배포 준비
+리 강화
