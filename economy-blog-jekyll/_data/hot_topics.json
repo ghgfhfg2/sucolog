@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-03-27T05:04:14.161539+00:00",
+  "generated_at": "2026-03-28T04:50:16.146471+00:00",
   "source_count": 4,
-  "article_count": 395,
+  "article_count": 392,
   "top_keywords": [
     {
-      "keyword": "금리",
-      "score": 175.09
+      "keyword": "유가",
+      "score": 124.87
     },
     {
       "keyword": "환율",
-      "score": 164.76
-    },
-    {
-      "keyword": "수출",
-      "score": 156.75
-    },
-    {
-      "keyword": "유가",
-      "score": 125.48
-    },
-    {
-      "keyword": "나프타",
-      "score": 124.45
-    },
-    {
-      "keyword": "연합인포맥스",
-      "score": 110.23
-    },
-    {
-      "keyword": "상승",
-      "score": 99.47
-    },
-    {
-      "keyword": "daum",
-      "score": 90.44
+      "score": 111.26
     },
     {
       "keyword": "net",
-      "score": 90.44
+      "score": 110.1
+    },
+    {
+      "keyword": "daum",
+      "score": 106.02
+    },
+    {
+      "keyword": "헤럴드경제",
+      "score": 92.58
+    },
+    {
+      "keyword": "금리",
+      "score": 89.74
     },
     {
       "keyword": "중동",
-      "score": 77.69
+      "score": 84.79
     },
     {
-      "keyword": "정부",
-      "score": 72.82
+      "keyword": "돌파",
+      "score": 83.72
     },
     {
-      "keyword": "Vietnam",
-      "score": 67.88
+      "keyword": "이란",
+      "score": 80.76
+    },
+    {
+      "keyword": "달러",
+      "score": 77.39
+    },
+    {
+      "keyword": "전쟁",
+      "score": 61.37
+    },
+    {
+      "keyword": "물가",
+      "score": 57.31
     }
   ],
   "hot_topics": [
     {
-      "keyword": "금리",
-      "score": 175.09,
+      "keyword": "유가",
+      "score": 124.87,
       "articles": [
         {
-          "title": "2026년 3월 27일 현재, 은행 금리가 급격히 상승하여 연 9%에 달했습니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGdXV3VYMng3d0k2eUhRRnY3d0tFU2oyY0F3RTI0OTY0T054U0taRWcyOHg4RTgtSkdzcDg4bGxMTnRHLTBISjZzZm5tTHRGVXU2UzFlUjlNV0E4S0djUERyT0NNdTMwMlRUWlJpR2xZdlo2RU14eUhsTzY3Z0pjV3FPZ1pieEM4cUx6LTRuMA?oc=5",
-          "published_at": "2026-03-27T05:02:39+00:00"
+          "title": "\"미국·이란, 곧 파키스탄에서 회담\"...이스라엘의 이란 핵 시설 공습에 유가 급등·뉴욕 증시 하락 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NdVhtSVNucThvQkZJSVIyZC1GY1lGWWpSUWFUWmZJSDJrV2xSSTV6WWE2ZlQ1TDBpbl9JUGg4d2hMaTlXbkRfTjRZREhwTlcybmdEVEh3ZXBGdmV2dmc?oc=5",
+          "published_at": "2026-03-28T04:09:00+00:00"
         },
         {
-          "title": "2026년 3월 27일 유로 환율: 은행들이 금리를 대폭 인하하고 자유 시장이 회복된다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzRVYm40THl1aUNGdXNuVnRuNkpscGk2bE5jZkw5VlZwMHhqZTl1WUZIZ1VCeUg4cl9OYWlOdUVNY0JfQVNUUFl1R3B0SmI0N1FfVHRHVXhoUlpCb1dWZVJ1MFowV1dHN2JBZjYzeEZPVlZQZDBLWXVXSmxORDR3V1JLeTloVUtYeGhmaGVmN3dleGtSN2VVbnd3cmdObzQ?oc=5",
-          "published_at": "2026-03-27T04:44:05+00:00"
+          "title": "유가 급등: 각국은 치솟는 유가에 어떻게 대응하고 있을까? - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sclFDeHVQTF9Xa2pYaU54S3lHNzQtU0x1aWpPU1RSUm1GWjVnSHJKUjQ5UVhyY0JRZm9KOEVhSWpaNncyNUFsbUxZRExhSzUwMTFjVjBERXJZWnFf0gFiQVVfeXFMTkdOa1k3ZGY5YmVtd3llVVRScnRuMGx2eWpKM3k1Vm9aZmxQMUNDTUZQdzUzTmZ1azRQaS1DSEpYNHVJekg0N3c0SUFPRG8xbXdHc0hPUDJ6SEtsU29iYnNqZmc?oc=5",
+          "published_at": "2026-03-28T03:45:00+00:00"
         },
         {
-          "title": "은행 주담대 금리 5개월째 상승…2년 3개월 만에 '최고' - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByRjQxLTh3NUhMWldCOG1JRDNFV3RCMVprZkp6cUsteWdncmxfSDhrWWN6RE1zSFJZT0llaFR0SzZ4SmFxSkVZSnlDYXFfVGZRVWM4SHpCM1FxVUV0MWVYd2U5VjNoemgzUzdoRlpiSW0?oc=5",
-          "published_at": "2026-03-27T04:40:37+00:00"
+          "title": "[글로벌] 유가 상승에 전기차 수요 반등 기대...BYD, 해외 판매 호조로 주가 반등 조짐 - 테크M",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15dW53a05jbWdnaTg1dWhlZTcyRVZGSWRhZU96U2lZNWk5cFktSGVnS3VrSFFlcDRXRVRMQkppTF9oa2c2eTZwbDdqOGZkdFRISi1IY3NNa3Q2Y1ZGd051VzNWM3czQdIBakFVX3lxTE43blB4UkZ6MnozN3BFV1FBV0ZIZmU3MUdqY1Z6ZHRVT0xFRkxLdDByV1RyRGxaWE5wRm91LTN1ejJJVkFvOWZheEhTWVdoVnk3dm82RjJad3lnTEJ1MC1vVFQ2amFwZUYwLWc?oc=5",
+          "published_at": "2026-03-28T03:20:01+00:00"
         },
         {
-          "title": "2026년 3월 27일 유로 환율: 은행들이 금리를 대폭 인하하고 자유 시장이 회복된다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2p0OERjVkZfbGZ3M0ZwZUZ5aTJDcTc5T0hLMUI4S3NlcjdmYV9tZE5nejY4T3hpQm5UMmNObVlmbWVLRWZFaDVSWTRvOWhnb3FXd0REYXdEZ2JsU2x6VnREX3ZKWnFjX3VqZDZOUXI5a0lEeUtaeUU3MFVjakRFOW1UZ29VdXU4S0lrekhwU0pjWC05YkE1NWFzbW5QQ2s?oc=5",
-          "published_at": "2026-03-27T04:39:32+00:00"
+          "title": "\"미국과 이란 곧 대면\" 움직임에도…유가 뛰고 증시 급락 - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rMm5wYy1XWHBLTFdvM1VGVVVMTU9UUDlmZFVrUTRhNXk1MmVUM2FJZmVLanhLdFFPRU1pSnFZeVp2R3dCZXVPcXNMVjBDTUVTbUhQYg?oc=5",
+          "published_at": "2026-03-28T03:08:00+00:00"
         },
         {
-          "title": "은행 주담대 금리 5개월째 상승…2월 4.32% - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hVUtMOXFFNkJnTVgwb09Pek04V0NUWkNkWUtqN1ZGLXdOMmdaU290VmJOcUQ0Z3pNRzhSTjFWaWxhNmU3TFJneHJLVHlJR29CM3c?oc=5",
-          "published_at": "2026-03-27T04:22:00+00:00"
+          "title": "성과 없는 협상론에 다우 1.7%↓…유가 급등 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadENkbWtpcV9LYkFFRS1Ia1NORjNlQWg3Z0NHRmxZSzJXS05fbnBBN25UX3VrNGVnYVlXVUFZMF9veFNvTGJOSTlsQnJNTXRCWC1OWEFYYjJYU1E?oc=5",
+          "published_at": "2026-03-28T03:04:00+00:00"
         }
       ]
     },
     {
       "keyword": "환율",
-      "score": 164.76,
+      "score": 111.26,
       "articles": [
         {
-          "title": "한은, 작년 순이익 15.3조 역대최대…\"환율상승에 외환수익 확대\" - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XZWFiX0pxSENfSWpBaUdEcHVpMTFnUTkzaGYtMEhqaE9yUnNHNjdPNTlWVzZQR2FvS1p5TTdCc082OG1VanVDR0g5UnlzaF8wZzNCdi1hSmNBazVkZmVqWFJEUG0?oc=5",
-          "published_at": "2026-03-27T04:59:24+00:00"
+          "title": "오늘(3월 28일) 미국 달러 환율: 미국 달러는 4거래일 연속 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmZDLUtsMWtKd0RDWXluZEpldmNqb2w3aXVvSmlWem1PNHZiQlFoRVg0bG4yVy13NmNnNGI4UzdYUGVSQ2Vzd0lSQU9rcm96QldiREtnN295ZDVndkZadjVGZDQ5Z2hYSnBMWmpuR3JONHpSZlB6MnhLcEhZUUEzSl9KSy1SOGxud2lGR3lB?oc=5",
+          "published_at": "2026-03-28T03:17:12+00:00"
         },
         {
-          "title": "한국은행, 순이익 15조원 돌파…환율·증시 효과에 ‘사상 최대’ - 녹색경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ubkJhYnlLUXVQTC1VMWV3Z19xUkQySjlIZENsVWVzd2hQeUJiblBUdWJNaVhLbzBHNy1vcUlrcWpueXZ2OHloNWVaaVoxVWJqaGFrN2E0ZnFGakhaTWtUYmtzbHJ2bXBu?oc=5",
-          "published_at": "2026-03-27T04:48:01+00:00"
+          "title": "\"기름값·환율 무섭다\" LCC 잇단 감편 운항…비상 경영 돌입 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4waEVCdzlYMEc3Q1RSTVM4NUlJbTBaeXZlamZpTW5FY1BfekJpYWk2MmxTS0xIZHRYVzhQbEV0anNJbmd1R3M5cWhGSml5YzhNaEduX09rTWs2RXp2RU9JR212SDY?oc=5",
+          "published_at": "2026-03-28T02:52:10+00:00"
         },
         {
-          "title": "2026년 3월 27일 유로 환율: 은행들이 금리를 대폭 인하하고 자유 시장이 회복된다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzRVYm40THl1aUNGdXNuVnRuNkpscGk2bE5jZkw5VlZwMHhqZTl1WUZIZ1VCeUg4cl9OYWlOdUVNY0JfQVNUUFl1R3B0SmI0N1FfVHRHVXhoUlpCb1dWZVJ1MFowV1dHN2JBZjYzeEZPVlZQZDBLWXVXSmxORDR3V1JLeTloVUtYeGhmaGVmN3dleGtSN2VVbnd3cmdObzQ?oc=5",
-          "published_at": "2026-03-27T04:44:05+00:00"
+          "title": "엔·달러 환율, 160엔 돌파…중동 전쟁 장기화 우려 탓 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLVG1scE1RbkpHZFgwQWlIc193andoQXF2SE1ySFNFQmpNVjVOZjRYODdLb21DSnlQOGFBNkNnY1p6UGw0U1VmZWxBR1F5ZDg4?oc=5",
+          "published_at": "2026-03-28T02:21:29+00:00"
         },
         {
-          "title": "2026년 3월 27일 유로 환율: 은행 매입 가격이 3만 VND 아래로 크게 떨어졌습니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaWp6TWpkV294ZXBjQ0s3eE1xOVhaOFU1VjI4R2lLV1lWYmI2eUtPZHNDcXpTN3lPal80amVuUWx1R0ZLVmFYNmVfMzlIQWM1dnJKZ1pDbUhVNndxTXp2VnpPajhNa0QyWDlWZGp4VG1YM0s5X0VvaHpiVXM5bDVDUGlHNFdDSlhWTnNzektFbGdmRENWREZXV3pPbG9GVUtodDNGSA?oc=5",
-          "published_at": "2026-03-27T04:43:25+00:00"
+          "title": "에너지 가격에 휘청이는 글로벌 경제…물가·금리·환율 '3高 뉴 노멀화' 암운[양정대의 전쟁(錢爭)외교 시대] - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90S0F3cUdtNGk5dEVNdzFiOC1STFB4YkdlQUI1cnQ4YWtydl9Vd1hELW9NQ2VCcG9EVkE0Sll4eTV3SF9mY1lQOW5wSTFGZzVYeWRR?oc=5",
+          "published_at": "2026-03-28T02:01:00+00:00"
         },
         {
-          "title": "2026년 3월 27일 유로 환율: 은행들이 금리를 대폭 인하하고 자유 시장이 회복된다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2p0OERjVkZfbGZ3M0ZwZUZ5aTJDcTc5T0hLMUI4S3NlcjdmYV9tZE5nejY4T3hpQm5UMmNObVlmbWVLRWZFaDVSWTRvOWhnb3FXd0REYXdEZ2JsU2x6VnREX3ZKWnFjX3VqZDZOUXI5a0lEeUtaeUU3MFVjakRFOW1UZ29VdXU4S0lrekhwU0pjWC05YkE1NWFzbW5QQ2s?oc=5",
-          "published_at": "2026-03-27T04:39:32+00:00"
+          "title": "엔-달러 환율 160엔 돌파…일본, 외환시장 개입 시사 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zeFFaMTgzR1NKYzF6N3RxQ2FOYWdaYWVrNDh6MWJVMWtZcXNXVTQ1NHB2RHpFWHhTcEV2Nk0yTDY5ZVNIQWVoUVk1Q0t3S0x6OGpv?oc=5",
+          "published_at": "2026-03-28T01:48:00+00:00"
         }
       ]
     },
     {
-      "keyword": "수출",
-      "score": 156.75,
+      "keyword": "net",
+      "score": 110.1,
       "articles": [
         {
-          "title": "“나프타 수출 5개월간 조인다”… 관세청, 수출승인·수입신고 지연 규제 강화 - 해사신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16NUtRMjd6eHFidld1Qmkwb1dhYi00N3Y0MVczaThPLVVLTXRrZXI0TkVaZ3ZNZUIwcXFldUMtVE9Qbjk0dTR1OWkzWk9mSzlvMzF4enFySU9zdktjNWpjbnlSempuYUhkWnY4?oc=5",
-          "published_at": "2026-03-27T04:58:13+00:00"
+          "title": "물가 얼마나 올랐나?…내주 다주택자 규제도 발표 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQzI2X1Q3NWpFdDhXUUVkMTk3VDhkbHV6Ry1rRlR4WDRMUGlEOXVBNFZUTXVCX0V1eDY4TDNOMkxpaWlJZHdGdmQ2a3pYQ1E?oc=5",
+          "published_at": "2026-03-28T04:12:01+00:00"
         },
         {
-          "title": "'나프타' 이어 '석유화학 제품'까지…정부, '수출 금지 카드' 만지작 - 프라임경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nRnljcXhsYkxMdlcwa2thZGt3c2lseEgwRzYwamMyakg4SUFPSXJEM1ZEZERjb1VVVFFlVlJMMEJUZjMwa3FBNVQ4b2lDdXB3RXNyMHFTUWxFVEFBZW94Tg?oc=5",
-          "published_at": "2026-03-27T04:55:03+00:00"
+          "title": "‘전쟁인데 17% 뚝’ 金값 …“이번엔 오른다” 기대 왜? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81bTl6VkZpU2dDbllEbEpWdDZxQllMaWM1OE11Z2pEZlViQjB3cmtVaUQ0ODZUVDFsMjdhbHhkQmVBVGIzNDlTTGxYbWRXdkU?oc=5",
+          "published_at": "2026-03-28T03:57:02+00:00"
         },
         {
-          "title": "안양시, 수출기업 현장 점검…중동 정세 대응 나서 - 팍스경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vcUFaQWNGN2Exa0FCazlta29jYVhiMWlUdGtrWGd4WHJ4bHktbUtNRkpDYWtsZ1hJMlR5enlNb2E3NWpQZkFkVnEzZXI0a3pHYzR5ZUIwaGszXzNndGJ0cVRJM2pRTGs?oc=5",
-          "published_at": "2026-03-27T04:42:16+00:00"
+          "title": "마크롱, 한국 온다…안보·경제 협력 전방위 논의 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFcTdSS2ZKbGpUbnM1d01vdTdDZ0hjZXBrSUZmTGJvdU9PRzU3T1lxdHJNcW80amM0d0pXV2RYdzI5TGxLRVNVZ2dEMXJnYnc?oc=5",
+          "published_at": "2026-03-28T03:28:03+00:00"
         },
         {
-          "title": "당정 “추경에 나프타 지원 포함…석유화학 제품 수출 금지 검토” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTmp0X3hUQzJNYVVkTDNoRDJ4SWNrbzhSQkZScnZUVHZKT0RwRUxHRTRkcVRQbDE4elg1VnB3aTNoY1M1TlUzN2ZEYVA5LThlVk5iVnlBTDZDUTdtYTBvWVl2eHF3cEhjNnd5NnVSRW84YmpRN0Zz0gFmQVVfeXFMUG9uU2Z3cHJiR19aRTBZdTVtVnp0ZG9TbXpkYlpyakd1QlRMNkVXWDZMdExRcDZxMEdRS3J1VHY3U2s0N2RMeGhJby1ldEhxcEVlQllUeFRmaHJ2eVFlRWx5S1lYUzln?oc=5",
-          "published_at": "2026-03-27T04:40:38+00:00"
+          "title": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xX2JkZENia2pHRnhKQm5Yck1hUHFZdWdfS3BKNzMwbWJNVHNHZWd4anpPSHR4TjE3Yzh1SmZPZExnMmNlUWRSTUtqQjJjd0E?oc=5",
+          "published_at": "2026-03-28T03:17:08+00:00"
         },
         {
-          "title": "안양시, 중동 사태 관련 관내 수출기업 방문…애로사항 청취 - 안전신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSUdTUlUtY3RFNWxoR1ZKM2pNYU9SMjM5YkFuMXk0UHRSTF9iV3NXRFRKeWs5algzbWRNRm52Mkw4djhKcDYxSjByc0FXMktSWGllSndPTGJZSnBpRmZsbDdLbUM5UkRBMUc0UkFnbw?oc=5",
-          "published_at": "2026-03-27T04:12:25+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "유가",
-      "score": 125.48,
-      "articles": [
-        {
-          "title": "보령시, 국제유가·물가상승 대비 비상대책회의 가동 - 호남매일뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CUndPRHdfOHFCVVcycVJ3Z28xVVlabUE0TGhBR2trejB0cUE5OHZxN0kyVzljdjVOV3g5OXkyUDJ0S29GNHZsaGZCbWJQenZLYXJfeTNPY05Sa2JyRGxXSzZpVEo?oc=5",
-          "published_at": "2026-03-27T04:56:13+00:00"
-        },
-        {
-          "title": "[서환-오전] 달러·유가 되돌림에 하락 전환…1,500원 중반대로 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80QjlrQ1IxOVJxQkdYUXJKTnJHT0FOMVpsdmJXZGRyOE5ESjg0d0xGdmhrcmpKZ2l4NGN2V0MxM3VlRkpFaFhwZGtpR1FQN2RHM0hLZk5jZFlqUlJKNlpZMjdGdG5rdnMxVFB0ZlhVdVQ?oc=5",
-          "published_at": "2026-03-27T04:11:50+00:00"
-        },
-        {
-          "title": "[유가폭등 리포트(1)] 옥천 덮친 유가 상승 여파, 지역경제·취약계층 ‘휘청’ - 옥천신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Rc21NRlA4TlYwdWp4Wks4MXFsQUp0MHpjRUF2X2FsV1pXNG1WXy1EYmtiNzFQc0JUT18tUUd6WUtWVnFHMWduRk5qdlZLUTdPR1pCTmtZNkExcFZJY1ZDZWVCaXBkWm5paWc?oc=5",
-          "published_at": "2026-03-27T04:04:59+00:00"
-        },
-        {
-          "title": "유가 상승에 어민 불안...\"면세유 공급 제한 문제\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sNzB4NERPd0o4cHV1SFptb2JzWDUzS1d3MFU3Q3dsOTU3dEViR0RIRGpxdnpZWDFiNnFYQXFJWVNuU0FINHc1S283elVxMHZrTHMyTHhjZkEtSTJSUkE?oc=5",
-          "published_at": "2026-03-27T03:34:00+00:00"
-        },
-        {
-          "title": "[속보] 유가 급등으로 美금리 인상 우려 급부상, 암호화폐 일제↓ - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIbE9jYWNoZElXZkUxS2pFaDlnTHJYcklhcHJWdnBMNzZjeHBJaG5xd1E1RHNmb0Fvb19wWVU3ZjU5QUV3R25rX3k2NGFtOHlYb21WRlRiOGs?oc=5",
-          "published_at": "2026-03-27T03:24:40+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "나프타",
-      "score": 124.45,
-      "articles": [
-        {
-          "title": "“나프타 수출 5개월간 조인다”… 관세청, 수출승인·수입신고 지연 규제 강화 - 해사신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16NUtRMjd6eHFidld1Qmkwb1dhYi00N3Y0MVczaThPLVVLTXRrZXI0TkVaZ3ZNZUIwcXFldUMtVE9Qbjk0dTR1OWkzWk9mSzlvMzF4enFySU9zdktjNWpjbnlSempuYUhkWnY4?oc=5",
-          "published_at": "2026-03-27T04:58:13+00:00"
-        },
-        {
-          "title": "'나프타' 이어 '석유화학 제품'까지…정부, '수출 금지 카드' 만지작 - 프라임경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nRnljcXhsYkxMdlcwa2thZGt3c2lseEgwRzYwamMyakg4SUFPSXJEM1ZEZERjb1VVVFFlVlJMMEJUZjMwa3FBNVQ4b2lDdXB3RXNyMHFTUWxFVEFBZW94Tg?oc=5",
-          "published_at": "2026-03-27T04:55:03+00:00"
-        },
-        {
-          "title": "당정 “추경에 나프타 지원 포함…석유화학 제품 수출 금지 검토” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTmp0X3hUQzJNYVVkTDNoRDJ4SWNrbzhSQkZScnZUVHZKT0RwRUxHRTRkcVRQbDE4elg1VnB3aTNoY1M1TlUzN2ZEYVA5LThlVk5iVnlBTDZDUTdtYTBvWVl2eHF3cEhjNnd5NnVSRW84YmpRN0Zz0gFmQVVfeXFMUG9uU2Z3cHJiR19aRTBZdTVtVnp0ZG9TbXpkYlpyakd1QlRMNkVXWDZMdExRcDZxMEdRS3J1VHY3U2s0N2RMeGhJby1ldEhxcEVlQllUeFRmaHJ2eVFlRWx5S1lYUzln?oc=5",
-          "published_at": "2026-03-27T04:40:38+00:00"
-        },
-        {
-          "title": "“‘나프타’ 수출제한·수입신고 지연 가산세 부과” - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wX2pQUzlCd3NFdi1BRkRfbUs2MmxRYW9Xc1ZfckhneEJxamNkc09ORWc1LVFISjNpM2I2X29kSzBMT1pHYTgwYVpBWlJ2N0pU?oc=5",
-          "published_at": "2026-03-27T04:04:37+00:00"
-        },
-        {
-          "title": "나프타 수출 오늘부터 금지‥\"내수로 전환\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WWHljSlVPbDEyMnFrc1k4dXk5ODhndWQ5akVPTkZMQUJrX19pU0dnbGxXZkpMV0Vfb3pUVVItTElkcGJUVEZVUmZWdjlrOWdMd0xpVVIzVVhCa2FnQjNTanFEU19CSmlmZnA4N09TN1E0bVNMMUR2c9IBeEFVX3lxTE1UY013V19nWmlwbnJ4R2tvdWVSNkFiek5mTnRwSzJLQnFvQXgxNjFEZTl4cnRLNGNORHZEVkQzMVF5WmkyTVduaXJTTXFDSFRxS1FERG5HZ0tuTFZyTDhMN0RHcHI3RTFFYjMyenZsMTNhaDFxaklZRg?oc=5",
-          "published_at": "2026-03-27T03:11:12+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "연합인포맥스",
-      "score": 110.23,
-      "articles": [
-        {
-          "title": "국고채 금리 일제히 상승…중동 정세 불안·外人 매도세 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43bEU5UW8zQ05MRXJaeTMyQ2pwWVhtZU14S0RwY1VBRkdHNWFKRHdGUnA2N2ZjLTMyZXVSdmU5cmc2MGhwWXZ1dExBR3NiUVYtVmJVTUx6X0tTLTF2aUZ2c09HQzVYeWU5REtBNTFPZkI?oc=5",
-          "published_at": "2026-03-27T04:18:36+00:00"
-        },
-        {
-          "title": "[서환-오전] 달러·유가 되돌림에 하락 전환…1,500원 중반대로 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80QjlrQ1IxOVJxQkdYUXJKTnJHT0FOMVpsdmJXZGRyOE5ESjg0d0xGdmhrcmpKZ2l4NGN2V0MxM3VlRkpFaFhwZGtpR1FQN2RHM0hLZk5jZFlqUlJKNlpZMjdGdG5rdnMxVFB0ZlhVdVQ?oc=5",
-          "published_at": "2026-03-27T04:11:50+00:00"
-        },
-        {
-          "title": "OECD \"주요국들, 인플레 확대 시 금리 인상해야 할수도\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Jb0hIN1FwZk1faUplcHNHOURCZEZlb2dsWmF4alNxUXk0Xzk0V0k0MTRSME1xUzVHOWI0SkRLTWtYWmN4NGFFemsxYnJIZzdreHFNYVBTUm1CMmx1MzY3bkdzRXZzZThBTks1QUlUWFrSAXRBVV95cUxNWS1YUTQzZlNwdG96aWVPUl9uWUl4ZmFvbkZlYkZyWVNDOTBxTXlsTV9IRktMTE9JZEI1Vm5MMmJDdEJIMkJDNEM3VU9aTVBfakdEeDdVNlMwSFdmYnJUenNjWG1nWENVZjB0cUkwblhhRzhFTQ?oc=5",
-          "published_at": "2026-03-27T04:06:52+00:00"
-        },
-        {
-          "title": "제프리스 \"휴머노이드 로봇, 곧 경제 장악할 것\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWkpVZVk0ZlJnUGc5Z1pIeFVEdmtueGxWYVlsVzVnaHByMDJva2Y4a2plbjdzQlh1SXpxdVMtTEVQdEp4QjNQZFg3aFNIQjV0MmcyQk9PTkZSWWR1VHNXek5ZRmVuTVdnckU3eHRsai3SAXRBVV95cUxPMTBlV0Fsa3RucmJUWl9rZUZ6eUNJWmY0VVY1R2VxZE1hRmpWX3FXWXJEQUh6VEVTM1NUZ3BTdHoweUppXzFOLVpXbDVISkZaRktUc0IxdDlBOW1OelRkWnlMY3FRX3Q2aHlOaHg2dW9nVE9lQw?oc=5",
-          "published_at": "2026-03-27T03:53:50+00:00"
-        },
-        {
-          "title": "S&P500 선물, 이란 협상 시한연장에 상승…美 국채금리 ↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqbHd0Ym05LTRkQk9oSy1aY04xX1UzWHpGYUh4eGVlTWMxSFVyRE43Z2JiVW9rM1hhbXZNamU5cUQ2TjEyNTFHUUpUVHI2SXNESmlySmdSTEh4VTZub3hoUDdhZlVYaWpjVlZpenl6aGrSAXRBVV95cUxPeWRyQUtYSWdUQ2c0NGJ1bm1oQWxVQjVlbUtvakp4ZWpTRFRjWWlHb1lneGJhdVg5eVAzY0xWcU41T3ZTcmNGbGJ5ZzdUUWRTOENpVGlwa25MR18zdDR5dzgta25nTUl1TlFjYjdHeG5NalB4cg?oc=5",
-          "published_at": "2026-03-27T03:13:08+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "상승",
-      "score": 99.47,
-      "articles": [
-        {
-          "title": "2026년 3월 27일 현재, 은행 금리가 급격히 상승하여 연 9%에 달했습니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGdXV3VYMng3d0k2eUhRRnY3d0tFU2oyY0F3RTI0OTY0T054U0taRWcyOHg4RTgtSkdzcDg4bGxMTnRHLTBISjZzZm5tTHRGVXU2UzFlUjlNV0E4S0djUERyT0NNdTMwMlRUWlJpR2xZdlo2RU14eUhsTzY3Z0pjV3FPZ1pieEM4cUx6LTRuMA?oc=5",
-          "published_at": "2026-03-27T05:02:39+00:00"
-        },
-        {
-          "title": "한은, 작년 순이익 15.3조 역대최대…\"환율상승에 외환수익 확대\" - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XZWFiX0pxSENfSWpBaUdEcHVpMTFnUTkzaGYtMEhqaE9yUnNHNjdPNTlWVzZQR2FvS1p5TTdCc082OG1VanVDR0g5UnlzaF8wZzNCdi1hSmNBazVkZmVqWFJEUG0?oc=5",
-          "published_at": "2026-03-27T04:59:24+00:00"
-        },
-        {
-          "title": "보령시, 국제유가·물가상승 대비 비상대책회의 가동 - 호남매일뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CUndPRHdfOHFCVVcycVJ3Z28xVVlabUE0TGhBR2trejB0cUE5OHZxN0kyVzljdjVOV3g5OXkyUDJ0S29GNHZsaGZCbWJQenZLYXJfeTNPY05Sa2JyRGxXSzZpVEo?oc=5",
-          "published_at": "2026-03-27T04:56:13+00:00"
-        },
-        {
-          "title": "은행 주담대 금리 5개월째 상승…2년 3개월 만에 '최고' - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByRjQxLTh3NUhMWldCOG1JRDNFV3RCMVprZkp6cUsteWdncmxfSDhrWWN6RE1zSFJZT0llaFR0SzZ4SmFxSkVZSnlDYXFfVGZRVWM4SHpCM1FxVUV0MWVYd2U5VjNoemgzUzdoRlpiSW0?oc=5",
-          "published_at": "2026-03-27T04:40:37+00:00"
-        },
-        {
-          "title": "은행 주담대 금리 5개월째 상승…2월 4.32% - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hVUtMOXFFNkJnTVgwb09Pek04V0NUWkNkWUtqN1ZGLXdOMmdaU290VmJOcUQ0Z3pNRzhSTjFWaWxhNmU3TFJneHJLVHlJR29CM3c?oc=5",
-          "published_at": "2026-03-27T04:22:00+00:00"
+          "title": "정부 “석유화학 제품 수출 금지도 검토” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZSUM2WGlnRlgzZFh6eG1TOFk3OGNiMHJ2M0RUVFZoQ3hPQXRFdXcxWWtESHZIVEpoU3FXVmxfVmZ5blVPVVIwUXJ2NXFQMmc?oc=5",
+          "published_at": "2026-03-28T03:12:56+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 90.44,
+      "score": 106.02,
       "articles": [
         {
-          "title": "도봉구, 중동사태에 '비상경제대책' 가동…특별신용보증 시행 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqX21HX3NTd3NoY0EwRFZQYTYzN0ROWVU0Zkp1Wk5oLUdIa056OEFDYnBVZXd1QXpQc0FsOUdLcTI5Z1laRmhBZWtnX0xTV00?oc=5",
-          "published_at": "2026-03-27T04:37:53+00:00"
+          "title": "물가 얼마나 올랐나?…내주 다주택자 규제도 발표 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQzI2X1Q3NWpFdDhXUUVkMTk3VDhkbHV6Ry1rRlR4WDRMUGlEOXVBNFZUTXVCX0V1eDY4TDNOMkxpaWlJZHdGdmQ2a3pYQ1E?oc=5",
+          "published_at": "2026-03-28T04:12:01+00:00"
         },
         {
-          "title": "산업부, 경제 6단체 소집 긴급간담회…“담합·매점매석 엄정대응” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OUWlCSE00bWY0THlYM1d3el9iVUxWS25MUHhsVEVrUWVhT0NfemdOS2tZZDFzaGRDZExuMXZPcHBlMVY2VHo1dTRVaWVocjQ?oc=5",
-          "published_at": "2026-03-27T04:27:01+00:00"
+          "title": "‘전쟁인데 17% 뚝’ 金값 …“이번엔 오른다” 기대 왜? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81bTl6VkZpU2dDbllEbEpWdDZxQllMaWM1OE11Z2pEZlViQjB3cmtVaUQ0ODZUVDFsMjdhbHhkQmVBVGIzNDlTTGxYbWRXdkU?oc=5",
+          "published_at": "2026-03-28T03:57:02+00:00"
         },
         {
-          "title": "주담대 금리 5개월 연속 오름세…2년 3개월 만에 최고치 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mRHRlRWI3UG4xZXB2RFlpcTY1M2phWFZheWd6SWhleDZuUnlEcHNsZDc3TWZtTUY5WThsVThzejNlRjFoSUJZWjd5Vk1jUkU?oc=5",
-          "published_at": "2026-03-27T04:19:02+00:00"
+          "title": "마크롱, 한국 온다…안보·경제 협력 전방위 논의 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFcTdSS2ZKbGpUbnM1d01vdTdDZ0hjZXBrSUZmTGJvdU9PRzU3T1lxdHJNcW80amM0d0pXV2RYdzI5TGxLRVNVZ2dEMXJnYnc?oc=5",
+          "published_at": "2026-03-28T03:28:03+00:00"
         },
         {
-          "title": "트럼프 방중 앞두고 미중 경제 고위급 회동…中 \"美 301조 우려\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjRzdYdEFaUlNrc0JjenNkVmpjVVhVdGhocmoyX3d5eFpiT1dHRVd4aXBReWp3UzdBc3JlZXRqRGZaRVluNVRtSUtWVks5bHc?oc=5",
-          "published_at": "2026-03-27T04:12:38+00:00"
+          "title": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xX2JkZENia2pHRnhKQm5Yck1hUHFZdWdfS3BKNzMwbWJNVHNHZWd4anpPSHR4TjE3Yzh1SmZPZExnMmNlUWRSTUtqQjJjd0E?oc=5",
+          "published_at": "2026-03-28T03:17:08+00:00"
         },
         {
-          "title": "\"바이오시밀러 가이드라인, 수출 생태계 촉진제 될 것\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aZi02SUZRT19naGdQNG1hLUpybURIWm5VM0tSNVpqejhxeExjSFEybmNuLTB3YldfWGswOWk5QUh2RFV0U1FFdC1EckZ0LXc?oc=5",
-          "published_at": "2026-03-27T04:01:44+00:00"
+          "title": "정부 “석유화학 제품 수출 금지도 검토” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZSUM2WGlnRlgzZFh6eG1TOFk3OGNiMHJ2M0RUVFZoQ3hPQXRFdXcxWWtESHZIVEpoU3FXVmxfVmZ5blVPVVIwUXJ2NXFQMmc?oc=5",
+          "published_at": "2026-03-28T03:12:56+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "헤럴드경제",
+      "score": 92.58,
+      "articles": [
+        {
+          "title": "정부 “담뱃값 인상·주류 부담금, 현재 검토 안해” - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzSnJjcHExc3FRdWg0bjhGQXNzN0VrX1d4Yzc1aXpmZlVjZDAzUDlhTFNzdXBxVHNIVkl6aWR2djVYR1pGWnJtVklxVWdQZ20wZ3R0dURB?oc=5",
+          "published_at": "2026-03-28T04:28:36+00:00"
+        },
+        {
+          "title": "루비오 “지상군 없이 모든 목표 달성” 외교 해법 강조 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54ZVdJREFYVk1uMS1kTkRvejlpR0JQWlJFRWdKUHd3NWVSR0dQT3Bsc3ZFVndtMW9lSW1OczBFRmVSdUJfblFRbkZiV3hYT2Z1Ti1iNUJB?oc=5",
+          "published_at": "2026-03-28T04:24:06+00:00"
+        },
+        {
+          "title": "스칸디나비아항공, 무료 와이파이 회원 제공 개시 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBud3hJM0hjbTk1dV9xQ3pXZTdzOGVMLTNjLUlVekZTOG9TX0ZIRFBoTktmRWEyeHgtNHlvRVR6OHlQbWdJTGVxZ1hEOXhVZnR6WUtHUjZn?oc=5",
+          "published_at": "2026-03-28T04:16:35+00:00"
+        },
+        {
+          "title": "강원랜드, 에너지 위기 대응 고강도 절감 대책 시행 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4eVR4bmFCdkxTc3ZRbThpRExCTlFmYWI3cXdvc0t3N3lFR3NUVlFjeEhhR2UyY2Y3bldmMTlfbWlFb0dTeE01SU1RS3dxQ09RVmhSSWV3?oc=5",
+          "published_at": "2026-03-28T04:10:41+00:00"
+        },
+        {
+          "title": "오승록 노원구청장 ‘쓰레기 없는 노원느린달리기 대회’ 참석 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JcktDWllmdk02MTgtazQzeC0xZDg2Yk1UN2xSNWRDUlpSOG03eVV4d0E2ZVFtY1A5RUY0VlVnclcyZTlQMFRJdUU4eGhibUFMR1pwdmdB?oc=5",
+          "published_at": "2026-03-28T03:57:35+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 89.74,
+      "articles": [
+        {
+          "title": "탱크로 뭐하려는 건지, 물가·금리만 ‘4%’ 공포 [트럼프 스톡커] - 서울경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BUEZWZ0xCUnF4YTNNT2llTU9WQ3gxWEtCRXh2Y0E3UDRicWYtaHNNOVdJeWRFemxaS0gwR3p0ZWU4RlcyOWRrOW5FMVJweWh3aHfSAVNBVV95cUxNQTlWTXJ1U2VuckZSNW04b1VabHZObkROQjIzN2s3NVJQVHFnX1J5cnZPWG16SnNPYWNhLTMzUzVXbUZ5eGZ4V041VmV6VjVpTHNoYw?oc=5",
+          "published_at": "2026-03-28T03:26:46+00:00"
+        },
+        {
+          "title": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 - 기호일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zUEt5bC13V1JnekQ0ZVdabHFvbkkycV9XaTMxd0RNVWUxTDZSdXFIWGY3ZUhoaTl4alJkODRtVU1LaDRXNy1WcE5tazQza3hPemREWXF4ZndFYkFDQjlMQ1U0TDIzNlc2a2JKc0RmTQ?oc=5",
+          "published_at": "2026-03-28T03:17:08+00:00"
+        },
+        {
+          "title": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xX2JkZENia2pHRnhKQm5Yck1hUHFZdWdfS3BKNzMwbWJNVHNHZWd4anpPSHR4TjE3Yzh1SmZPZExnMmNlUWRSTUtqQjJjd0E?oc=5",
+          "published_at": "2026-03-28T03:17:08+00:00"
+        },
+        {
+          "title": "중동 전쟁 여파 유가 급등에 美연준 금리인상 가능성↑ …美채권금리 8개월 만에 최고 수준 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xUHVQaG5NS2Q1cE5CaW5VMlhvUEVld0pOSG5RVTE1ZldnVTNEbjFnUGh6M0lSSzRPWVY1d2p2S1AyTk9Ca05zTmJPN090RDg?oc=5",
+          "published_at": "2026-03-28T02:55:01+00:00"
+        },
+        {
+          "title": "스태그플레이션 우려에 '금리 인상' 기대…美 국채 금리 급등 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByN1VpVzB1T0hVLUtkQXpaZFB1ZzhtNzE4OE5fUVM0RE0wTnpxY3B2T1h1ZlZYLU9XS0I3aUlrZHAwVjJsMllVdnNjSjBqVVdwejJJSzRjX08ycF9QeWZrdTZWVGE?oc=5",
+          "published_at": "2026-03-28T02:38:22+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "중동",
+      "score": 84.79,
+      "articles": [
+        {
+          "title": "중동 분쟁의 영향에도 불구하고 섬유, 의류 및 신발 분야의 수출 모멘텀을 유지하고 있습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1EwTEV0Z2FtcUY0NXI4cnVHUW54Zjk0ejBKUk9kYmZtZmVlT3hOa2dTWTBOWHVkLTctTm41MkxhWjc3MTZtRW45UHB1WmxyWVkzRXBNTzlZbjV2MG10NHhXTlpwdGNXWUZDd3ZkUEt3SU9JSXBEeXFGbWw0UWFpVXBaN19nVUR3X2kzQXdxYWJtX0hqaEdobw?oc=5",
+          "published_at": "2026-03-28T03:46:09+00:00"
+        },
+        {
+          "title": "김진태 지사, 중동 정세 대응 확대 지시…물가잡고 자금 푸는 긴급 ‘민생대책’ 가동 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVGY1NkR4dTMwQXduUmw0SWJ5X2ZIdkZOay05Q0pSV1dPU21lSDB3RHZicFMwTVpVMVZHNnhXNnUxSk8ya0JHMmplVUg0cDdfcVEtZjdUOE56aUpjOTA1a3Q1SjQ?oc=5",
+          "published_at": "2026-03-28T03:04:01+00:00"
+        },
+        {
+          "title": "중동 전쟁 여파 유가 급등에 美연준 금리인상 가능성↑ …美채권금리 8개월 만에 최고 수준 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xUHVQaG5NS2Q1cE5CaW5VMlhvUEVld0pOSG5RVTE1ZldnVTNEbjFnUGh6M0lSSzRPWVY1d2p2S1AyTk9Ca05zTmJPN090RDg?oc=5",
+          "published_at": "2026-03-28T02:55:01+00:00"
+        },
+        {
+          "title": "김진태 지사, 중동 정세 대응 확대 지시… 물가잡고 자금푸는 긴급‘민생대책’가동 - news.bbsi.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6ZjFfaUNKWENFRjZVTVh5NGpUMzB2ODFHNmhzZV9ma002MGJFNW9oYms4UVFpNVlVT0pJR3E0cTEzNThBMHZBd254MUwweE1ET0Y1dFBSQmMweE9HUWhjbmo2RFB6OGNLNlpN?oc=5",
+          "published_at": "2026-03-28T02:45:00+00:00"
+        },
+        {
+          "title": "강원도 비상경제 TF 확대…\"중동 변수 총력 대응\" - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uUmo4cGJIbm9hdmt2aXdIM1ZGWTdnaFVYWHJkSDY2QVoyQmh4NGh5YjB3X2pXMFVyY0lJSERLRERDclZzTjVlNFBabEhJRGQtTGZGSg?oc=5",
+          "published_at": "2026-03-28T02:36:32+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "돌파",
+      "score": 83.72,
+      "articles": [
+        {
+          "title": "유가 상한 인상 이틀째…전국 휘발윳 2000원 돌파 우려 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfTzNGYmtFYUNmcWFzR1ByZkZYUURFZ3Y0ZEtiYmJrN0x3VHFDNEUyOENXTENSV2k2My12QVVVY1RQOG9yaDIxVUhYY3QtdnpEY0UyMUxadjNaZ3BzdmNMQV9nNmc?oc=5",
+          "published_at": "2026-03-28T02:27:15+00:00"
+        },
+        {
+          "title": "엔·달러 환율, 160엔 돌파…중동 전쟁 장기화 우려 탓 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLVG1scE1RbkpHZFgwQWlIc193andoQXF2SE1ySFNFQmpNVjVOZjRYODdLb21DSnlQOGFBNkNnY1p6UGw0U1VmZWxBR1F5ZDg4?oc=5",
+          "published_at": "2026-03-28T02:21:29+00:00"
+        },
+        {
+          "title": "엔-달러 환율 160엔 돌파…일본, 외환시장 개입 시사 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zeFFaMTgzR1NKYzF6N3RxQ2FOYWdaYWVrNDh6MWJVMWtZcXNXVTQ1NHB2RHpFWHhTcEV2Nk0yTDY5ZVNIQWVoUVk1Q0t3S0x6OGpv?oc=5",
+          "published_at": "2026-03-28T01:48:00+00:00"
+        },
+        {
+          "title": "중동전쟁 장기화 조짐… 엔/달러 환율, 1년8개월 만에 160엔 돌파 - 서울와이어",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMdjVyOTNqNldyLXpzR1BrSjYtUnNvWUY0aXdZcDExc2Nkbk5TaUtuMzdHaGZIaXJkSmlMNVN5YWJVbXEwMmFaSmJacXFiWFN5M3JKUENvdUVIamFXQnkxZmpxN1hmVTZHcGFLZw?oc=5",
+          "published_at": "2026-03-28T01:37:23+00:00"
+        },
+        {
+          "title": "유가가 배럴당 100달러를 돌파하면서 월가가 폭락했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBab1FIYjBwc1dWVVN4M2hialhIdVF2TU1fVWNmOGtQYU9uRkZNc2V5SUZTQXVDNmZkdExMX1JPZjhUcUJFRUJJaEhsTTVZOExScEZEX3hWc0JJcUNXWTJFZjlkSXJNZGZlS0Q5dmtGLW9UN0s3S3JaMk9XRDc?oc=5",
+          "published_at": "2026-03-28T01:22:49+00:00"
         }
       ]
     }
