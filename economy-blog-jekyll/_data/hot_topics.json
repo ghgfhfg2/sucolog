@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-03-28T04:50:16.146471+00:00",
+  "generated_at": "2026-03-29T05:07:50.114078+00:00",
   "source_count": 4,
-  "article_count": 392,
+  "article_count": 389,
   "top_keywords": [
     {
       "keyword": "유가",
-      "score": 124.87
+      "score": 224.82
     },
     {
-      "keyword": "환율",
-      "score": 111.26
+      "keyword": "구윤철",
+      "score": 179.54
     },
     {
       "keyword": "net",
-      "score": 110.1
+      "score": 163.43
     },
     {
       "keyword": "daum",
-      "score": 106.02
+      "score": 140.5
     },
     {
-      "keyword": "헤럴드경제",
-      "score": 92.58
+      "keyword": "5부제",
+      "score": 130.89
+    },
+    {
+      "keyword": "차량",
+      "score": 130.29
+    },
+    {
+      "keyword": "환율",
+      "score": 126.49
     },
     {
       "keyword": "금리",
-      "score": 89.74
+      "score": 125.51
     },
     {
-      "keyword": "중동",
-      "score": 84.79
+      "keyword": "주담대",
+      "score": 108.74
     },
     {
-      "keyword": "돌파",
-      "score": 83.72
+      "keyword": "확대",
+      "score": 102.14
     },
     {
-      "keyword": "이란",
-      "score": 80.76
+      "keyword": "검토",
+      "score": 95.5
     },
     {
-      "keyword": "달러",
-      "score": 77.39
-    },
-    {
-      "keyword": "전쟁",
-      "score": 61.37
-    },
-    {
-      "keyword": "물가",
-      "score": 57.31
+      "keyword": "130달러",
+      "score": 85.85
     }
   ],
   "hot_topics": [
     {
       "keyword": "유가",
-      "score": 124.87,
+      "score": 224.82,
       "articles": [
         {
-          "title": "\"미국·이란, 곧 파키스탄에서 회담\"...이스라엘의 이란 핵 시설 공습에 유가 급등·뉴욕 증시 하락 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NdVhtSVNucThvQkZJSVIyZC1GY1lGWWpSUWFUWmZJSDJrV2xSSTV6WWE2ZlQ1TDBpbl9JUGg4d2hMaTlXbkRfTjRZREhwTlcybmdEVEh3ZXBGdmV2dmc?oc=5",
-          "published_at": "2026-03-28T04:09:00+00:00"
+          "title": "구윤철 부총리 “국제유가 120달러 이상이면 승용차 5부제 민간으로 확대” - 경북매일",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbXBPU1duTGdJcUlyN29KcThackV6MGVUbFc3bEUtZ1JBVW9ORW1TNTRINVE1QXI0QWN0c1hhVlRISXVYbFVEUWdBUVFYZy1ldXFZcUZSVWczUQ?oc=5",
+          "published_at": "2026-03-29T04:55:00+00:00"
         },
         {
-          "title": "유가 급등: 각국은 치솟는 유가에 어떻게 대응하고 있을까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sclFDeHVQTF9Xa2pYaU54S3lHNzQtU0x1aWpPU1RSUm1GWjVnSHJKUjQ5UVhyY0JRZm9KOEVhSWpaNncyNUFsbUxZRExhSzUwMTFjVjBERXJZWnFf0gFiQVVfeXFMTkdOa1k3ZGY5YmVtd3llVVRScnRuMGx2eWpKM3k1Vm9aZmxQMUNDTUZQdzUzTmZ1azRQaS1DSEpYNHVJekg0N3c0SUFPRG8xbXdHc0hPUDJ6SEtsU29iYnNqZmc?oc=5",
-          "published_at": "2026-03-28T03:45:00+00:00"
+          "title": "구윤철 “유가 120~130달러 되면 민간도 차량 5부제 검토” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VVEdpQ3pET2FEeHFQdGw5X0Q0Nnhqb2luOXI4X281a0oteWUwYm9TUk1HREFvdUZYdENFRXdJdWlUUks5WW9MZHNDcjIydUpBMDB5Z0UtLVBNWWNmMDRjSkdlbw?oc=5",
+          "published_at": "2026-03-29T04:52:49+00:00"
         },
         {
-          "title": "[글로벌] 유가 상승에 전기차 수요 반등 기대...BYD, 해외 판매 호조로 주가 반등 조짐 - 테크M",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15dW53a05jbWdnaTg1dWhlZTcyRVZGSWRhZU96U2lZNWk5cFktSGVnS3VrSFFlcDRXRVRMQkppTF9oa2c2eTZwbDdqOGZkdFRISi1IY3NNa3Q2Y1ZGd051VzNWM3czQdIBakFVX3lxTE43blB4UkZ6MnozN3BFV1FBV0ZIZmU3MUdqY1Z6ZHRVT0xFRkxLdDByV1RyRGxaWE5wRm91LTN1ejJJVkFvOWZheEhTWVdoVnk3dm82RjJad3lnTEJ1MC1vVFQ2amFwZUYwLWc?oc=5",
-          "published_at": "2026-03-28T03:20:01+00:00"
+          "title": "구윤철 \"유가 120~130달러 되면 민간도 차량 5부제 검토\" - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVkpQNXRqNVJIblhLNDNYRGRNTUZqQWpwQzAxRnBlNjB3ZEhiSWdtRFJQSlRxamNzbUpYX1pLZG4xOThTbGZEN0h6V2FYWEJCWGc?oc=5",
+          "published_at": "2026-03-29T04:48:00+00:00"
         },
         {
-          "title": "\"미국과 이란 곧 대면\" 움직임에도…유가 뛰고 증시 급락 - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rMm5wYy1XWHBLTFdvM1VGVVVMTU9UUDlmZFVrUTRhNXk1MmVUM2FJZmVLanhLdFFPRU1pSnFZeVp2R3dCZXVPcXNMVjBDTUVTbUhQYg?oc=5",
-          "published_at": "2026-03-28T03:08:00+00:00"
+          "title": "구윤철 \"유가 120∼130달러되면 위기3단계…차량부제 민간에도\" - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KOENnYWpYTkl2MHVFLWE3UXkxUG9OTmw0Um1US0podXFLa0VQQzY5YTdTcDhsUElvdHhiajNHdHdnbWRNWEpyR04yMVgtcEp0bVhnR19FcFVQVnNiUnp1ZUdLbzY?oc=5",
+          "published_at": "2026-03-29T04:46:22+00:00"
         },
         {
-          "title": "성과 없는 협상론에 다우 1.7%↓…유가 급등 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadENkbWtpcV9LYkFFRS1Ia1NORjNlQWg3Z0NHRmxZSzJXS05fbnBBN25UX3VrNGVnYVlXVUFZMF9veFNvTGJOSTlsQnJNTXRCWC1OWEFYYjJYU1E?oc=5",
-          "published_at": "2026-03-28T03:04:00+00:00"
+          "title": "구윤철 “유가 120∼130달러되면 위기3단계…민간도 차량 5부제” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VU0tdjh3WkNfVTMxT1Z0Q0k3N2p2bjVibmVZbXNyOW0wOFVmY0tWUDJuai1VUlowT1ZhWE90bk9qWnFVd04tS0hSd0E1NGc?oc=5",
+          "published_at": "2026-03-29T04:43:55+00:00"
         }
       ]
     },
     {
-      "keyword": "환율",
-      "score": 111.26,
+      "keyword": "구윤철",
+      "score": 179.54,
       "articles": [
         {
-          "title": "오늘(3월 28일) 미국 달러 환율: 미국 달러는 4거래일 연속 상승했습니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmZDLUtsMWtKd0RDWXluZEpldmNqb2w3aXVvSmlWem1PNHZiQlFoRVg0bG4yVy13NmNnNGI4UzdYUGVSQ2Vzd0lSQU9rcm96QldiREtnN295ZDVndkZadjVGZDQ5Z2hYSnBMWmpuR3JONHpSZlB6MnhLcEhZUUEzSl9KSy1SOGxud2lGR3lB?oc=5",
-          "published_at": "2026-03-28T03:17:12+00:00"
+          "title": "구윤철 부총리 “국제유가 120달러 이상이면 승용차 5부제 민간으로 확대” - 경북매일",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbXBPU1duTGdJcUlyN29KcThackV6MGVUbFc3bEUtZ1JBVW9ORW1TNTRINVE1QXI0QWN0c1hhVlRISXVYbFVEUWdBUVFYZy1ldXFZcUZSVWczUQ?oc=5",
+          "published_at": "2026-03-29T04:55:00+00:00"
         },
         {
-          "title": "\"기름값·환율 무섭다\" LCC 잇단 감편 운항…비상 경영 돌입 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4waEVCdzlYMEc3Q1RSTVM4NUlJbTBaeXZlamZpTW5FY1BfekJpYWk2MmxTS0xIZHRYVzhQbEV0anNJbmd1R3M5cWhGSml5YzhNaEduX09rTWs2RXp2RU9JR212SDY?oc=5",
-          "published_at": "2026-03-28T02:52:10+00:00"
+          "title": "구윤철 “유가 120~130달러 되면 민간도 차량 5부제 검토” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VVEdpQ3pET2FEeHFQdGw5X0Q0Nnhqb2luOXI4X281a0oteWUwYm9TUk1HREFvdUZYdENFRXdJdWlUUks5WW9MZHNDcjIydUpBMDB5Z0UtLVBNWWNmMDRjSkdlbw?oc=5",
+          "published_at": "2026-03-29T04:52:49+00:00"
         },
         {
-          "title": "엔·달러 환율, 160엔 돌파…중동 전쟁 장기화 우려 탓 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLVG1scE1RbkpHZFgwQWlIc193andoQXF2SE1ySFNFQmpNVjVOZjRYODdLb21DSnlQOGFBNkNnY1p6UGw0U1VmZWxBR1F5ZDg4?oc=5",
-          "published_at": "2026-03-28T02:21:29+00:00"
+          "title": "구윤철 \"유가 120~130달러 되면 민간도 차량 5부제 검토\" - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVkpQNXRqNVJIblhLNDNYRGRNTUZqQWpwQzAxRnBlNjB3ZEhiSWdtRFJQSlRxamNzbUpYX1pLZG4xOThTbGZEN0h6V2FYWEJCWGc?oc=5",
+          "published_at": "2026-03-29T04:48:00+00:00"
         },
         {
-          "title": "에너지 가격에 휘청이는 글로벌 경제…물가·금리·환율 '3高 뉴 노멀화' 암운[양정대의 전쟁(錢爭)외교 시대] - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90S0F3cUdtNGk5dEVNdzFiOC1STFB4YkdlQUI1cnQ4YWtydl9Vd1hELW9NQ2VCcG9EVkE0Sll4eTV3SF9mY1lQOW5wSTFGZzVYeWRR?oc=5",
-          "published_at": "2026-03-28T02:01:00+00:00"
+          "title": "구윤철 \"유가 120∼130달러되면 위기3단계…차량부제 민간에도\" - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KOENnYWpYTkl2MHVFLWE3UXkxUG9OTmw0Um1US0podXFLa0VQQzY5YTdTcDhsUElvdHhiajNHdHdnbWRNWEpyR04yMVgtcEp0bVhnR19FcFVQVnNiUnp1ZUdLbzY?oc=5",
+          "published_at": "2026-03-29T04:46:22+00:00"
         },
         {
-          "title": "엔-달러 환율 160엔 돌파…일본, 외환시장 개입 시사 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zeFFaMTgzR1NKYzF6N3RxQ2FOYWdaYWVrNDh6MWJVMWtZcXNXVTQ1NHB2RHpFWHhTcEV2Nk0yTDY5ZVNIQWVoUVk1Q0t3S0x6OGpv?oc=5",
-          "published_at": "2026-03-28T01:48:00+00:00"
+          "title": "구윤철 “유가 120∼130달러되면 위기3단계…민간도 차량 5부제” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VU0tdjh3WkNfVTMxT1Z0Q0k3N2p2bjVibmVZbXNyOW0wOFVmY0tWUDJuai1VUlowT1ZhWE90bk9qWnFVd04tS0hSd0E1NGc?oc=5",
+          "published_at": "2026-03-29T04:43:55+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 110.1,
+      "score": 163.43,
       "articles": [
         {
-          "title": "물가 얼마나 올랐나?…내주 다주택자 규제도 발표 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQzI2X1Q3NWpFdDhXUUVkMTk3VDhkbHV6Ry1rRlR4WDRMUGlEOXVBNFZUTXVCX0V1eDY4TDNOMkxpaWlJZHdGdmQ2a3pYQ1E?oc=5",
-          "published_at": "2026-03-28T04:12:01+00:00"
+          "title": "원·달러 환율 주간 평균 1500원 돌파…외인 ‘50조 탈출’에 원화 흔들 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZEVOVUtpZ21VczMydUtoam40TmlGNV9KU2JIRDFuSlMyekpJTzNJekM3czhmRUhxWnNORFBQRWVqckRxWTRMVjVVTno2d0k?oc=5",
+          "published_at": "2026-03-29T04:59:00+00:00"
         },
         {
-          "title": "‘전쟁인데 17% 뚝’ 金값 …“이번엔 오른다” 기대 왜? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81bTl6VkZpU2dDbllEbEpWdDZxQllMaWM1OE11Z2pEZlViQjB3cmtVaUQ0ODZUVDFsMjdhbHhkQmVBVGIzNDlTTGxYbWRXdkU?oc=5",
-          "published_at": "2026-03-28T03:57:02+00:00"
+          "title": "강원창조경제혁신센터-철원군, 관광 혁신 ‘맞손’ 지역경제 활력 - kado.net",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wbFNSVnhvcmhkQmhmQTZuMjAzVW11TWJtOXE2YVlJM1UzT3pqY0tTNE1VTnp0dWFrVzZianExemFiM05BamUwMC0ycmQ4MUJHeVFqQWRJQ0lZT3dZbHNKSV9XSGMweFE?oc=5",
+          "published_at": "2026-03-29T04:57:42+00:00"
         },
         {
-          "title": "마크롱, 한국 온다…안보·경제 협력 전방위 논의 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFcTdSS2ZKbGpUbnM1d01vdTdDZ0hjZXBrSUZmTGJvdU9PRzU3T1lxdHJNcW80amM0d0pXV2RYdzI5TGxLRVNVZ2dEMXJnYnc?oc=5",
-          "published_at": "2026-03-28T03:28:03+00:00"
+          "title": "강원창조경제혁신센터, 지역 일자리 창출·소상공인 판로 확대 주력 - kado.net",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55ak5MSklFQ1RqaXR1aWU3azUxbHhYTEpnQWFlaFR1ZjVmUV9MQ3FpMERVQmVOSGtkelc5RUpWTnBrNExZYnE2Rkd6MHlFOWFsbVpDd3dPR3Z4aUIwbE5kekN1YnBFek0?oc=5",
+          "published_at": "2026-03-29T04:51:01+00:00"
         },
         {
-          "title": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xX2JkZENia2pHRnhKQm5Yck1hUHFZdWdfS3BKNzMwbWJNVHNHZWd4anpPSHR4TjE3Yzh1SmZPZExnMmNlUWRSTUtqQjJjd0E?oc=5",
-          "published_at": "2026-03-28T03:17:08+00:00"
+          "title": "구윤철 “유가 120∼130달러되면 위기3단계…민간도 차량 5부제” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VU0tdjh3WkNfVTMxT1Z0Q0k3N2p2bjVibmVZbXNyOW0wOFVmY0tWUDJuai1VUlowT1ZhWE90bk9qWnFVd04tS0hSd0E1NGc?oc=5",
+          "published_at": "2026-03-29T04:43:55+00:00"
         },
         {
-          "title": "정부 “석유화학 제품 수출 금지도 검토” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZSUM2WGlnRlgzZFh6eG1TOFk3OGNiMHJ2M0RUVFZoQ3hPQXRFdXcxWWtESHZIVEpoU3FXVmxfVmZ5blVPVVIwUXJ2NXFQMmc?oc=5",
-          "published_at": "2026-03-28T03:12:56+00:00"
+          "title": "구윤철 “유가 130달러 치솟을 땐 민간 차량 5부제 확대 검토” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTSnc1a1FTa0hwTDdVT1hFdm95Q291eW5GXzdFRkZNZkZ5VHZueUtIclhtckZ0VVcwUU9ucmNWcUUxRXdqYTAwWTllZ2x0R1U?oc=5",
+          "published_at": "2026-03-29T04:00:53+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 106.02,
+      "score": 140.5,
       "articles": [
         {
-          "title": "물가 얼마나 올랐나?…내주 다주택자 규제도 발표 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQzI2X1Q3NWpFdDhXUUVkMTk3VDhkbHV6Ry1rRlR4WDRMUGlEOXVBNFZUTXVCX0V1eDY4TDNOMkxpaWlJZHdGdmQ2a3pYQ1E?oc=5",
-          "published_at": "2026-03-28T04:12:01+00:00"
+          "title": "원·달러 환율 주간 평균 1500원 돌파…외인 ‘50조 탈출’에 원화 흔들 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZEVOVUtpZ21VczMydUtoam40TmlGNV9KU2JIRDFuSlMyekpJTzNJekM3czhmRUhxWnNORFBQRWVqckRxWTRMVjVVTno2d0k?oc=5",
+          "published_at": "2026-03-29T04:59:00+00:00"
         },
         {
-          "title": "‘전쟁인데 17% 뚝’ 金값 …“이번엔 오른다” 기대 왜? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81bTl6VkZpU2dDbllEbEpWdDZxQllMaWM1OE11Z2pEZlViQjB3cmtVaUQ0ODZUVDFsMjdhbHhkQmVBVGIzNDlTTGxYbWRXdkU?oc=5",
-          "published_at": "2026-03-28T03:57:02+00:00"
+          "title": "구윤철 “유가 120∼130달러되면 위기3단계…민간도 차량 5부제” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VU0tdjh3WkNfVTMxT1Z0Q0k3N2p2bjVibmVZbXNyOW0wOFVmY0tWUDJuai1VUlowT1ZhWE90bk9qWnFVd04tS0hSd0E1NGc?oc=5",
+          "published_at": "2026-03-29T04:43:55+00:00"
         },
         {
-          "title": "마크롱, 한국 온다…안보·경제 협력 전방위 논의 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFcTdSS2ZKbGpUbnM1d01vdTdDZ0hjZXBrSUZmTGJvdU9PRzU3T1lxdHJNcW80amM0d0pXV2RYdzI5TGxLRVNVZ2dEMXJnYnc?oc=5",
-          "published_at": "2026-03-28T03:28:03+00:00"
+          "title": "구윤철 “유가 130달러 치솟을 땐 민간 차량 5부제 확대 검토” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTSnc1a1FTa0hwTDdVT1hFdm95Q291eW5GXzdFRkZNZkZ5VHZueUtIclhtckZ0VVcwUU9ucmNWcUUxRXdqYTAwWTllZ2x0R1U?oc=5",
+          "published_at": "2026-03-29T04:00:53+00:00"
         },
         {
-          "title": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xX2JkZENia2pHRnhKQm5Yck1hUHFZdWdfS3BKNzMwbWJNVHNHZWd4anpPSHR4TjE3Yzh1SmZPZExnMmNlUWRSTUtqQjJjd0E?oc=5",
-          "published_at": "2026-03-28T03:17:08+00:00"
+          "title": "한은 총재 낙점 신현송, 금리인상 카드 꺼낼까…BIS 시절 발언 봤더니 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zVjhRT0tWLWFqbHpGQkJpaW5sN0NONDQ5ZUkwa1ZPaHRJQ0htWm94MTVENFQ0MlJhb0YtZER2SzFjdW50bmNXVW5lT2EycXM?oc=5",
+          "published_at": "2026-03-29T03:02:02+00:00"
         },
         {
-          "title": "정부 “석유화학 제품 수출 금지도 검토” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZSUM2WGlnRlgzZFh6eG1TOFk3OGNiMHJ2M0RUVFZoQ3hPQXRFdXcxWWtESHZIVEpoU3FXVmxfVmZ5blVPVVIwUXJ2NXFQMmc?oc=5",
-          "published_at": "2026-03-28T03:12:56+00:00"
+          "title": "구윤철 “유가 120~130달러시 민간 차량 5부제 검토” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13VG4zeWNfV1l2dzFpZkhYVnQtb2xaNEVoaUZHUE11b0dlRFQtUktWdVJIYWFCc3NrdGxPSFJ2R2lsX3U5TkIxLUlBam0tdjA?oc=5",
+          "published_at": "2026-03-29T02:57:00+00:00"
         }
       ]
     },
     {
-      "keyword": "헤럴드경제",
-      "score": 92.58,
+      "keyword": "5부제",
+      "score": 130.89,
       "articles": [
         {
-          "title": "정부 “담뱃값 인상·주류 부담금, 현재 검토 안해” - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzSnJjcHExc3FRdWg0bjhGQXNzN0VrX1d4Yzc1aXpmZlVjZDAzUDlhTFNzdXBxVHNIVkl6aWR2djVYR1pGWnJtVklxVWdQZ20wZ3R0dURB?oc=5",
-          "published_at": "2026-03-28T04:28:36+00:00"
+          "title": "구윤철 부총리 “국제유가 120달러 이상이면 승용차 5부제 민간으로 확대” - 경북매일",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbXBPU1duTGdJcUlyN29KcThackV6MGVUbFc3bEUtZ1JBVW9ORW1TNTRINVE1QXI0QWN0c1hhVlRISXVYbFVEUWdBUVFYZy1ldXFZcUZSVWczUQ?oc=5",
+          "published_at": "2026-03-29T04:55:00+00:00"
         },
         {
-          "title": "루비오 “지상군 없이 모든 목표 달성” 외교 해법 강조 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54ZVdJREFYVk1uMS1kTkRvejlpR0JQWlJFRWdKUHd3NWVSR0dQT3Bsc3ZFVndtMW9lSW1OczBFRmVSdUJfblFRbkZiV3hYT2Z1Ti1iNUJB?oc=5",
-          "published_at": "2026-03-28T04:24:06+00:00"
+          "title": "구윤철 “유가 120~130달러 되면 민간도 차량 5부제 검토” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VVEdpQ3pET2FEeHFQdGw5X0Q0Nnhqb2luOXI4X281a0oteWUwYm9TUk1HREFvdUZYdENFRXdJdWlUUks5WW9MZHNDcjIydUpBMDB5Z0UtLVBNWWNmMDRjSkdlbw?oc=5",
+          "published_at": "2026-03-29T04:52:49+00:00"
         },
         {
-          "title": "스칸디나비아항공, 무료 와이파이 회원 제공 개시 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBud3hJM0hjbTk1dV9xQ3pXZTdzOGVMLTNjLUlVekZTOG9TX0ZIRFBoTktmRWEyeHgtNHlvRVR6OHlQbWdJTGVxZ1hEOXhVZnR6WUtHUjZn?oc=5",
-          "published_at": "2026-03-28T04:16:35+00:00"
+          "title": "구윤철 \"유가 120~130달러 되면 민간도 차량 5부제 검토\" - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVkpQNXRqNVJIblhLNDNYRGRNTUZqQWpwQzAxRnBlNjB3ZEhiSWdtRFJQSlRxamNzbUpYX1pLZG4xOThTbGZEN0h6V2FYWEJCWGc?oc=5",
+          "published_at": "2026-03-29T04:48:00+00:00"
         },
         {
-          "title": "강원랜드, 에너지 위기 대응 고강도 절감 대책 시행 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4eVR4bmFCdkxTc3ZRbThpRExCTlFmYWI3cXdvc0t3N3lFR3NUVlFjeEhhR2UyY2Y3bldmMTlfbWlFb0dTeE01SU1RS3dxQ09RVmhSSWV3?oc=5",
-          "published_at": "2026-03-28T04:10:41+00:00"
+          "title": "구윤철 “유가 120∼130달러되면 위기3단계…민간도 차량 5부제” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VU0tdjh3WkNfVTMxT1Z0Q0k3N2p2bjVibmVZbXNyOW0wOFVmY0tWUDJuai1VUlowT1ZhWE90bk9qWnFVd04tS0hSd0E1NGc?oc=5",
+          "published_at": "2026-03-29T04:43:55+00:00"
         },
         {
-          "title": "오승록 노원구청장 ‘쓰레기 없는 노원느린달리기 대회’ 참석 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JcktDWllmdk02MTgtazQzeC0xZDg2Yk1UN2xSNWRDUlpSOG03eVV4d0E2ZVFtY1A5RUY0VlVnclcyZTlQMFRJdUU4eGhibUFMR1pwdmdB?oc=5",
-          "published_at": "2026-03-28T03:57:35+00:00"
+          "title": "구윤철 \"유가 120~130달러 되면 위기 격상, 차량5부제 민간에도 확대\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11ZDd3MzN0N0RqeE1EbmE3OGw0dnJNSUxpX0Y1OTRQcVBOWkRYUkZReFdMdkZlRnBoWWE3a0FpbEZCM0h1bTkyVGVLby1GdUJRRVdpazF6eU1LU01XclU4Zk02dXBpZUZpWXRvVUcxZ0J2Ulk?oc=5",
+          "published_at": "2026-03-29T04:40:52+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "차량",
+      "score": 130.29,
+      "articles": [
+        {
+          "title": "구윤철 “유가 120~130달러 되면 민간도 차량 5부제 검토” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VVEdpQ3pET2FEeHFQdGw5X0Q0Nnhqb2luOXI4X281a0oteWUwYm9TUk1HREFvdUZYdENFRXdJdWlUUks5WW9MZHNDcjIydUpBMDB5Z0UtLVBNWWNmMDRjSkdlbw?oc=5",
+          "published_at": "2026-03-29T04:52:49+00:00"
+        },
+        {
+          "title": "구윤철 \"유가 120~130달러 되면 민간도 차량 5부제 검토\" - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVkpQNXRqNVJIblhLNDNYRGRNTUZqQWpwQzAxRnBlNjB3ZEhiSWdtRFJQSlRxamNzbUpYX1pLZG4xOThTbGZEN0h6V2FYWEJCWGc?oc=5",
+          "published_at": "2026-03-29T04:48:00+00:00"
+        },
+        {
+          "title": "구윤철 \"유가 120∼130달러되면 위기3단계…차량부제 민간에도\" - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KOENnYWpYTkl2MHVFLWE3UXkxUG9OTmw0Um1US0podXFLa0VQQzY5YTdTcDhsUElvdHhiajNHdHdnbWRNWEpyR04yMVgtcEp0bVhnR19FcFVQVnNiUnp1ZUdLbzY?oc=5",
+          "published_at": "2026-03-29T04:46:22+00:00"
+        },
+        {
+          "title": "구윤철 “유가 120∼130달러되면 위기3단계…민간도 차량 5부제” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VU0tdjh3WkNfVTMxT1Z0Q0k3N2p2bjVibmVZbXNyOW0wOFVmY0tWUDJuai1VUlowT1ZhWE90bk9qWnFVd04tS0hSd0E1NGc?oc=5",
+          "published_at": "2026-03-29T04:43:55+00:00"
+        },
+        {
+          "title": "구윤철 \"유가 120~130달러 되면 위기 격상, 차량5부제 민간에도 확대\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11ZDd3MzN0N0RqeE1EbmE3OGw0dnJNSUxpX0Y1OTRQcVBOWkRYUkZReFdMdkZlRnBoWWE3a0FpbEZCM0h1bTkyVGVLby1GdUJRRVdpazF6eU1LU01XclU4Zk02dXBpZUZpWXRvVUcxZ0J2Ulk?oc=5",
+          "published_at": "2026-03-29T04:40:52+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "환율",
+      "score": 126.49,
+      "articles": [
+        {
+          "title": "원·달러 환율 주간 평균 1500원 돌파…외인 ‘50조 탈출’에 원화 흔들 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZEVOVUtpZ21VczMydUtoam40TmlGNV9KU2JIRDFuSlMyekpJTzNJekM3czhmRUhxWnNORFBQRWVqckRxWTRMVjVVTno2d0k?oc=5",
+          "published_at": "2026-03-29T04:59:00+00:00"
+        },
+        {
+          "title": "고공행진 환율…원화 하락폭 주요국 최상위 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BbHBGMnBJUlRnRnhiaXhLaVZnemdTSFplZnZTNnBRZmdJUDRxczIzRlRQZDQ5Q0huUGRIM0hQQWFKeDltNFdBX3hBNmozR01TaWc?oc=5",
+          "published_at": "2026-03-29T04:29:00+00:00"
+        },
+        {
+          "title": "환율 고공행진, 일상화 된 1500원대 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jSExrbTBITERNckJUaEg5VmNRcG55alZHRnkweUczT2NtdmR0Qm53c2pYNjRET1k1TlhPd21HTHJLX3JMNzdBRGJCckg1OTFyZVE?oc=5",
+          "published_at": "2026-03-29T04:26:00+00:00"
+        },
+        {
+          "title": "환율 고공행진 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUX0F1ejdDZnFKTTBVeW9iNXVGcFhtTzJZOFRkRG4xS1V2aXZybnNPT3hCSzRnRUpVS1ZvVGdNcWYxbHNCUm5CR0lhUQ?oc=5",
+          "published_at": "2026-03-29T04:04:19+00:00"
+        },
+        {
+          "title": "중동발 ‘유가 쇼크’ 덮친 한국…환율 1,500원·기름값 2000원 압박 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLXzNoVl9aWmlIMlFidzBGY01fMnJ6SnAyT2U1NUpKOUUxeFltM084eTJLYnFxMURCbDl1SUxpaWRNWklqcklPbXBYUjJ6WjNKeXRrdnZJX3g2eVRUdFE?oc=5",
+          "published_at": "2026-03-29T03:23:00+00:00"
         }
       ]
     },
     {
       "keyword": "금리",
-      "score": 89.74,
+      "score": 125.51,
       "articles": [
         {
-          "title": "탱크로 뭐하려는 건지, 물가·금리만 ‘4%’ 공포 [트럼프 스톡커] - 서울경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BUEZWZ0xCUnF4YTNNT2llTU9WQ3gxWEtCRXh2Y0E3UDRicWYtaHNNOVdJeWRFemxaS0gwR3p0ZWU4RlcyOWRrOW5FMVJweWh3aHfSAVNBVV95cUxNQTlWTXJ1U2VuckZSNW04b1VabHZObkROQjIzN2s3NVJQVHFnX1J5cnZPWG16SnNPYWNhLTMzUzVXbUZ5eGZ4V041VmV6VjVpTHNoYw?oc=5",
-          "published_at": "2026-03-28T03:26:46+00:00"
+          "title": "커지는 금리 딜레마…고심 깊어가는 한은[고개 든 금리인상③] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUTZYNm1iSkVLT0JCRWxtNzNaMjBuZzNjVjdzdEJVaWlMVERlc0dWc25JaUtnbkxHXzZmWmpma3U4TWVrM2tjTVhBOHhFNDNFdmFjRFFNTk1YcS1fV0JQbNIBeEFVX3lxTE92Nm93akNEQ1c2UTRzR2xFQlczOTBLckN2VVJzT2lzZHUtb1JySUhUazlrWXFIUTZLellQZnlwZXlTTGdjUW1yMG14RlVSUXBWUDBJZXVNTS1NdnhRcG9CYjgzUGlGS2dDbGhaeC1YVGFLd2ZlOS1tSQ?oc=5",
+          "published_at": "2026-03-29T05:00:00+00:00"
         },
         {
-          "title": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 - 기호일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zUEt5bC13V1JnekQ0ZVdabHFvbkkycV9XaTMxd0RNVWUxTDZSdXFIWGY3ZUhoaTl4alJkODRtVU1LaDRXNy1WcE5tazQza3hPemREWXF4ZndFYkFDQjlMQ1U0TDIzNlc2a2JKc0RmTQ?oc=5",
-          "published_at": "2026-03-28T03:17:08+00:00"
+          "title": "시중은행 주담대 고정금리 7% 돌파… 이자 폭탄 '현실화' - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MUDE3VmxNMFQwSUtVNFBlUGdGZkd4VjU1T0wwZ0lCeE5XMWNsX1pVNVR0UGRpSTM0QUtpTmxqZGhfRWRMQnRjb09zV0VQZldfT0RUdDNwYzdwcm8?oc=5",
+          "published_at": "2026-03-29T04:58:00+00:00"
         },
         {
-          "title": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xX2JkZENia2pHRnhKQm5Yck1hUHFZdWdfS3BKNzMwbWJNVHNHZWd4anpPSHR4TjE3Yzh1SmZPZExnMmNlUWRSTUtqQjJjd0E?oc=5",
-          "published_at": "2026-03-28T03:17:08+00:00"
+          "title": "은행 주담대 고정금리 7% 돌파, 전쟁 불확실성에 3년5개월 만에 최고치 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rSGF6ZFd3NkdSTXNaZV96Rzh1LU83XzBhaTNyczYwZUFOYThheTBjNjBFNlNRczh4LVFHVUx5ZmZ5cFFPa2ppdWhza3VYMWhCWXNPYWpUZWR1UUxJRkhrMkxMYlRiN3pQaFprM3A0NTc4dHc?oc=5",
+          "published_at": "2026-03-29T04:30:47+00:00"
         },
         {
-          "title": "중동 전쟁 여파 유가 급등에 美연준 금리인상 가능성↑ …美채권금리 8개월 만에 최고 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xUHVQaG5NS2Q1cE5CaW5VMlhvUEVld0pOSG5RVTE1ZldnVTNEbjFnUGh6M0lSSzRPWVY1d2p2S1AyTk9Ca05zTmJPN090RDg?oc=5",
-          "published_at": "2026-03-28T02:55:01+00:00"
+          "title": "KB국민은행 “10조원 규모 금리 우대... 생산적 금융 강화” - 뉴스톱",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85clRabElabExyRV9UQkNPOFltU0Q4VmVyMnNvY1ZYZjRxYVpLeXNZMElzN0tVQWJCVzRlWjRDUG83emxEQ1JZUHZITi1KbFRMc2VSX09SLTJxYlZBanM4ZTJuVy1iOFdxdk9sRlNMOA?oc=5",
+          "published_at": "2026-03-29T04:23:46+00:00"
         },
         {
-          "title": "스태그플레이션 우려에 '금리 인상' 기대…美 국채 금리 급등 - 서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByN1VpVzB1T0hVLUtkQXpaZFB1ZzhtNzE4OE5fUVM0RE0wTnpxY3B2T1h1ZlZYLU9XS0I3aUlrZHAwVjJsMllVdnNjSjBqVVdwejJJSzRjX08ycF9QeWZrdTZWVGE?oc=5",
-          "published_at": "2026-03-28T02:38:22+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "중동",
-      "score": 84.79,
-      "articles": [
-        {
-          "title": "중동 분쟁의 영향에도 불구하고 섬유, 의류 및 신발 분야의 수출 모멘텀을 유지하고 있습니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1EwTEV0Z2FtcUY0NXI4cnVHUW54Zjk0ejBKUk9kYmZtZmVlT3hOa2dTWTBOWHVkLTctTm41MkxhWjc3MTZtRW45UHB1WmxyWVkzRXBNTzlZbjV2MG10NHhXTlpwdGNXWUZDd3ZkUEt3SU9JSXBEeXFGbWw0UWFpVXBaN19nVUR3X2kzQXdxYWJtX0hqaEdobw?oc=5",
-          "published_at": "2026-03-28T03:46:09+00:00"
-        },
-        {
-          "title": "김진태 지사, 중동 정세 대응 확대 지시…물가잡고 자금 푸는 긴급 ‘민생대책’ 가동 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVGY1NkR4dTMwQXduUmw0SWJ5X2ZIdkZOay05Q0pSV1dPU21lSDB3RHZicFMwTVpVMVZHNnhXNnUxSk8ya0JHMmplVUg0cDdfcVEtZjdUOE56aUpjOTA1a3Q1SjQ?oc=5",
-          "published_at": "2026-03-28T03:04:01+00:00"
-        },
-        {
-          "title": "중동 전쟁 여파 유가 급등에 美연준 금리인상 가능성↑ …美채권금리 8개월 만에 최고 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xUHVQaG5NS2Q1cE5CaW5VMlhvUEVld0pOSG5RVTE1ZldnVTNEbjFnUGh6M0lSSzRPWVY1d2p2S1AyTk9Ca05zTmJPN090RDg?oc=5",
-          "published_at": "2026-03-28T02:55:01+00:00"
-        },
-        {
-          "title": "김진태 지사, 중동 정세 대응 확대 지시… 물가잡고 자금푸는 긴급‘민생대책’가동 - news.bbsi.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6ZjFfaUNKWENFRjZVTVh5NGpUMzB2ODFHNmhzZV9ma002MGJFNW9oYms4UVFpNVlVT0pJR3E0cTEzNThBMHZBd254MUwweE1ET0Y1dFBSQmMweE9HUWhjbmo2RFB6OGNLNlpN?oc=5",
-          "published_at": "2026-03-28T02:45:00+00:00"
-        },
-        {
-          "title": "강원도 비상경제 TF 확대…\"중동 변수 총력 대응\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uUmo4cGJIbm9hdmt2aXdIM1ZGWTdnaFVYWHJkSDY2QVoyQmh4NGh5YjB3X2pXMFVyY0lJSERLRERDclZzTjVlNFBabEhJRGQtTGZGSg?oc=5",
-          "published_at": "2026-03-28T02:36:32+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "돌파",
-      "score": 83.72,
-      "articles": [
-        {
-          "title": "유가 상한 인상 이틀째…전국 휘발윳 2000원 돌파 우려 - 서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfTzNGYmtFYUNmcWFzR1ByZkZYUURFZ3Y0ZEtiYmJrN0x3VHFDNEUyOENXTENSV2k2My12QVVVY1RQOG9yaDIxVUhYY3QtdnpEY0UyMUxadjNaZ3BzdmNMQV9nNmc?oc=5",
-          "published_at": "2026-03-28T02:27:15+00:00"
-        },
-        {
-          "title": "엔·달러 환율, 160엔 돌파…중동 전쟁 장기화 우려 탓 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLVG1scE1RbkpHZFgwQWlIc193andoQXF2SE1ySFNFQmpNVjVOZjRYODdLb21DSnlQOGFBNkNnY1p6UGw0U1VmZWxBR1F5ZDg4?oc=5",
-          "published_at": "2026-03-28T02:21:29+00:00"
-        },
-        {
-          "title": "엔-달러 환율 160엔 돌파…일본, 외환시장 개입 시사 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zeFFaMTgzR1NKYzF6N3RxQ2FOYWdaYWVrNDh6MWJVMWtZcXNXVTQ1NHB2RHpFWHhTcEV2Nk0yTDY5ZVNIQWVoUVk1Q0t3S0x6OGpv?oc=5",
-          "published_at": "2026-03-28T01:48:00+00:00"
-        },
-        {
-          "title": "중동전쟁 장기화 조짐… 엔/달러 환율, 1년8개월 만에 160엔 돌파 - 서울와이어",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMdjVyOTNqNldyLXpzR1BrSjYtUnNvWUY0aXdZcDExc2Nkbk5TaUtuMzdHaGZIaXJkSmlMNVN5YWJVbXEwMmFaSmJacXFiWFN5M3JKUENvdUVIamFXQnkxZmpxN1hmVTZHcGFLZw?oc=5",
-          "published_at": "2026-03-28T01:37:23+00:00"
-        },
-        {
-          "title": "유가가 배럴당 100달러를 돌파하면서 월가가 폭락했습니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBab1FIYjBwc1dWVVN4M2hialhIdVF2TU1fVWNmOGtQYU9uRkZNc2V5SUZTQXVDNmZkdExMX1JPZjhUcUJFRUJJaEhsTTVZOExScEZEX3hWc0JJcUNXWTJFZjlkSXJNZGZlS0Q5dmtGLW9UN0s3S3JaMk9XRDc?oc=5",
-          "published_at": "2026-03-28T01:22:49+00:00"
+          "title": "KB국민은행, 10조 규모 중기·소상공인 금리우대 프로그램 실시 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EeFpzY2t3WFZUemtmOEdpaDlZNHRzTFZMNmJyZnNGa2J5UU1sUVpfWUdhSlVYOFMwT0RJV21CMFVzWGpma0dydEFNb0ZoSmxPd0c0LTJHWVVIWThpeG1Gb01vOUZKcjYxcXNqU2lCWFlrX2M?oc=5",
+          "published_at": "2026-03-29T04:09:46+00:00"
         }
       ]
     }
