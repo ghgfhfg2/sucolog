@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-03-31T05:06:21.518304+00:00",
+  "generated_at": "2026-04-01T05:21:14.751228+00:00",
   "source_count": 4,
-  "article_count": 386,
+  "article_count": 393,
   "top_keywords": [
     {
+      "keyword": "수출",
+      "score": 312.13
+    },
+    {
       "keyword": "환율",
-      "score": 402.13
+      "score": 227.2
+    },
+    {
+      "keyword": "3월",
+      "score": 195.51
     },
     {
       "keyword": "달러",
-      "score": 208.57
+      "score": 169.64
     },
     {
-      "keyword": "net",
-      "score": 150.12
+      "keyword": "사상",
+      "score": 168.12
     },
     {
       "keyword": "daum",
-      "score": 141.28
+      "score": 140.91
+    },
+    {
+      "keyword": "net",
+      "score": 140.91
+    },
+    {
+      "keyword": "반도체",
+      "score": 129.01
     },
     {
       "keyword": "중동",
-      "score": 140.99
+      "score": 128.18
     },
     {
-      "keyword": "신현송",
-      "score": 137.34
+      "keyword": "연합인포맥스",
+      "score": 124.15
     },
     {
-      "keyword": "수출",
-      "score": 136.13
+      "keyword": "최대",
+      "score": 113.49
     },
     {
-      "keyword": "유동성",
-      "score": 112.72
-    },
-    {
-      "keyword": "돌파",
-      "score": 112.19
-    },
-    {
-      "keyword": "우려",
-      "score": 109.39
-    },
-    {
-      "keyword": "유가",
-      "score": 108.7
-    },
-    {
-      "keyword": "1530원",
-      "score": 101.2
+      "keyword": "800억",
+      "score": 97.53
     }
   ],
   "hot_topics": [
     {
-      "keyword": "환율",
-      "score": 402.13,
+      "keyword": "수출",
+      "score": 312.13,
       "articles": [
         {
-          "title": "환율 장중 1530원 돌파…한은 총재 후보자 “현 수준 큰 우려 없어” - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwbWQwVUVOMG1uTVBLYmpHV1VnczZEdk1mdlZZYXVNN2lZY3NyS0I2bVZMbUkydDZweDd1SV9VaXhqVUpOZXVUa25vU1JhOF9BaFFOcEZ4cFJhX3NXUEszT3gySmp4TGJMMlFqQkFJQlhTc3dG?oc=5",
-          "published_at": "2026-03-31T05:02:55+00:00"
+          "title": "반도체 견인 3월 수출 151% 급증, 향후 관건은 'AI 사이클' 지속 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93UXU2U1JicC1uYTlibWdyeGtTRW9pX19BWmR1bXowQjRwdXd3b2xRQXBQakpiNXdvMnBsVzJZZWR3WDAwT1A2T1NpU0NYSXM1cTN6REt5Z0d1WEh3cTBHVEZwQWVyeVQtNkNEVmc3RUg?oc=5",
+          "published_at": "2026-04-01T05:06:32+00:00"
         },
         {
-          "title": "환율 상승에도 냉정한 톤…신현송 한은 총재 후보 “달러 유동성 양호” - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWEdjeEhaSGFFRXBsNnd4cFRuME1qM3JKb2dRRkk3UG10LVZlbWJCbHV0YWpXSmloaURUTGVaUm0wLXJBWVJaZVBIMy1OdjhjWDJldUl4Q1EyME0?oc=5",
-          "published_at": "2026-03-31T04:59:06+00:00"
+          "title": "3월 수출 861억달러 '역대 최대'… 반도체 견인 속 중동 리스크 부상 - 서울와이어",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JcGVGcXYyYkhaM1piMVJuNWhaNGJGYVQ0MDNSR0hmUW9mQmdpWHdEVWpLTHRtRWpZMkg0Mzd5OTJqRXYyMEsxMmUzNUJaMW83aTZZQjJ3MFFHVTB6TUxOaVNyRy0wYk5Jb1I5TQ?oc=5",
+          "published_at": "2026-04-01T05:01:48+00:00"
         },
         {
-          "title": "원·달러 환율 17년 만에 1530원 돌파…코스피도 전쟁 이후 최저 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RMUlDU3B3VmRuWGx6aExzMGtTRGp0Uy1VMWdZMXBVQ3R2Q1MwUlhXM0RCVlhvTWtJblB2Sm81VGxTWHRTR2ZDbEtIc0VHNjA?oc=5",
-          "published_at": "2026-03-31T04:54:25+00:00"
+          "title": "한국 수출 사상 첫 '800억 달러' 돌파…반도체 초호황에 역대 최대 실적 - 데일리굿뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nSmk0N01UWDR4dmNLZ2lfMmxFb051aE9sU09ta1VrdE9jSHh2WUNTUDY4UVJrQjhsU1N3Q0JwdmhnU1FKWmt6eDFibVVRYVJSbjVHZlQzRkwwMzRGVDVFWDhWRGZfZkk4NGJuONIBcEFVX3lxTE1WV28xMTBsM1I3SVdaVmFkaWFPcTM4RnM5amV4bFVJZjVaX0RKbkFqcDEtVEVPb1pZdHpudHU0WUQ0VmFCU0ZlNUx4STJMYlZyVHl1NEFiZmdoRkM4QnBRSVNvWnNkUllFbVE2MXJfdnI?oc=5",
+          "published_at": "2026-04-01T04:48:13+00:00"
         },
         {
-          "title": "환율 장중 1530원 넘어…2009년 금융위기 이후 17년만 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjNjhoV2ROVUNxQ1hNSzZKZ1NZY3d1YWhVYTdwbWxfRkdvRzJNLXpnSDlycFFXcFp1d3dNMFo1cTMwb2RIYnVzd05KRjBrYUxnOEVMVlFB?oc=5",
-          "published_at": "2026-03-31T04:52:24+00:00"
+          "title": "韓 수출, 사상 첫 ‘800억 달러 시대’ 열었다…반도체 신화에 ‘역대급 실적’ - 이지경제",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ma0w4bEtFdEI5azBINUZaVWxoS05QYlY0d2xiMXUxdGtneG5tQnNnSkJQRnp3NWhoZ2FSY2gwQy13aG0xeHlxLXRncEVCWnczSWd3RVF3UXZBbHRRYjdhamVCMHNRTVpvbE9xVXp3?oc=5",
+          "published_at": "2026-04-01T04:48:08+00:00"
         },
         {
-          "title": "환율 고공행진 계속…1600원 돌파 가능성도? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZl9WdFRTUmFCWmN3X2JsOFpQVjNDLTZkZkJ4bkNpWUVxWTFPQWl4aWpvZDlLOWtKWG8tVVprVnVsdUVqWWRnN2VjY3hxb2c?oc=5",
-          "published_at": "2026-03-31T04:45:15+00:00"
+          "title": "K-소비재 수출 ‘사상 최대’…농수산·화장품·패션 동반 성장 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Zbk5pWWR6dEUwejBVczVnMFJIUE11RlhabjZ5Um5MZEZaTEl2RGpoQ0RReTJUNFhWTEhtbUFTdVBUYURlUzlOX0ZiZWlWTXNDTEJ5WVJJM1JSNk9oM1ZRNFNtb3c?oc=5",
+          "published_at": "2026-04-01T04:38:25+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "환율",
+      "score": 227.2,
+      "articles": [
+        {
+          "title": "신현송의 \"환율 레벨 큰 의미 없다\"…채권시장은 어떻게 해석할까 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oaVMxVGR3bURaTFJmOFVyaE0xb0VBMTVYa0pLVE91TF94VEhUSjZWdE1aSmY3eklTOW1aeVhzb1BYaVVkNC13QkZlb2t2Wkk1NzVOSnRXdXQ4RVdINkoyc3RsRDJ2UW9DRWNoRjlpczE?oc=5",
+          "published_at": "2026-04-01T04:34:33+00:00"
+        },
+        {
+          "title": "원-엔화 환율, 소폭 하락했지만 여전히 951원 초반대 유지…달러-엔화 환율은 중동 전쟁 종식 기대에 158엔 대로 상승 - 산업일보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NQmVVUVNNenNIX0pjY3l4MFVFU1d3U3laNW1XSFVNeWtld1hPVTJxMjlvN21zYnMwZm4wX0ZpZzVqMUNP?oc=5",
+          "published_at": "2026-04-01T04:16:42+00:00"
+        },
+        {
+          "title": "원·달러 환율, 21.6원 내린 1508.5원 개장 - 조선비즈 - biz.chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ1pvUnV6MnhpaE5fV1hyWFRBNjRDZmZPUmVzdTE3eE5SN1hkNGRmVkMzTExSZV9VY2pzSll5alVjZDE3Yl9ZQ0ZsZDBPTUgtcFBKTTNaU0NpTlNtNlJXN3gtZFNiUU1wd2hLcHZHOXItUnpLbEh5QUdaUUY4dnhlN2JMejJxUdIBmgFBVV95cUxNbHQ3d050eElXSGNhZUNTLW5yc1FyUExlb21XSVVkLTUtVVhIbWg4QTIyN2JnemI1RlhNY0tuZVFPWTFTQl9ZX1d4Y3I3ckg4RHJKQWFVZng3c0REbXY3R1lmOTZGYlVDUFdKWDczdFBFRTNDSVFUemV1MktUZXVLTHU5V0pFXzBQTVpQZmp1cU1DWHAzZGYtbzBB?oc=5",
+          "published_at": "2026-04-01T04:04:17+00:00"
+        },
+        {
+          "title": "트럼프보다 이란 대통령 \"종전\" 발언에 주가급등, 환율 급락 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tN1luTTUyLU5mU3JsLURWUW9ONUphWHVhT0g0YmpmQ3pOWUxvS0RpMmltdDNJRXdoV1d4a3JLQjhRLVNFMUVrSkctSFpvdnF3TVJJdQ?oc=5",
+          "published_at": "2026-04-01T03:47:46+00:00"
+        },
+        {
+          "title": "이란 “종전 준비”… 환율·물가·공급망 불안 가라앉혀야[사설] - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuMFFSX1hrOEUxbWU0RjJld3ctUWY5bVdobU1ZRUV3NWdxZm1DRVo5ZXJnT2lXQ3dRYXoyVUc2MzhtT0tmVTV6WnhLbUp2Rjhp?oc=5",
+          "published_at": "2026-04-01T03:03:29+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "3월",
+      "score": 195.51,
+      "articles": [
+        {
+          "title": "반도체 견인 3월 수출 151% 급증, 향후 관건은 'AI 사이클' 지속 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93UXU2U1JicC1uYTlibWdyeGtTRW9pX19BWmR1bXowQjRwdXd3b2xRQXBQakpiNXdvMnBsVzJZZWR3WDAwT1A2T1NpU0NYSXM1cTN6REt5Z0d1WEh3cTBHVEZwQWVyeVQtNkNEVmc3RUg?oc=5",
+          "published_at": "2026-04-01T05:06:32+00:00"
+        },
+        {
+          "title": "3월 수출 861억달러 '역대 최대'… 반도체 견인 속 중동 리스크 부상 - 서울와이어",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JcGVGcXYyYkhaM1piMVJuNWhaNGJGYVQ0MDNSR0hmUW9mQmdpWHdEVWpLTHRtRWpZMkg0Mzd5OTJqRXYyMEsxMmUzNUJaMW83aTZZQjJ3MFFHVTB6TUxOaVNyRy0wYk5Jb1I5TQ?oc=5",
+          "published_at": "2026-04-01T05:01:48+00:00"
+        },
+        {
+          "title": "3월 수출 사상 첫 800억 달러 상회…반도체·석유제품·컴퓨터·이차전지 등 견인 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43eHhvOE1rcm9OaDlva280VEYxSzBvMm9uY3FfdVFhRF9aM2YwZ0FISXZPREZObFhQcUUzUnlSdGFzR0ctZzBMZU9fR1A3UXJlQ3pMbzFn?oc=5",
+          "published_at": "2026-04-01T04:36:33+00:00"
+        },
+        {
+          "title": "중동 악재 막아낸 반도체…3월 수출 사상 첫 800억 달러 돌파 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XaFl6bExDNklQZ0ZpcElIWjI5VmNvdEZSOVlhRkRtRE1wenl4QS00TVlKSHdxc1J6eTNvSEhXTGh1OHVwQmszZk5CR3dWSnM?oc=5",
+          "published_at": "2026-04-01T04:27:01+00:00"
+        },
+        {
+          "title": "3월 수출 첫 800억 달러 넘어…무역흑자 257억 달러 '최대' - 아시아타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERGZGX2xDMzhBbVZibjV0RW5LVE15UWxJRTlmb3FaNlBjZmNxMU00c3pOUVJGd3JzVW9uaHNZd0RWdl81X2QzTm1Hd1A1MFhQeldMNnNzMWNvQUJVUFE?oc=5",
+          "published_at": "2026-04-01T04:15:00+00:00"
         }
       ]
     },
     {
       "keyword": "달러",
-      "score": 208.57,
+      "score": 169.64,
       "articles": [
         {
-          "title": "경북도 이탈리아 ‘코스모프로프 2026’서 285만 달러 수출 계약 성사 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wN1B6WUY1V1RabW1UclE0VXFPX0ZweWZhMTdSUHV4cE9PcEE0Q1lVWVBjT25wMl9FZlppYmJsUWx2ZklzNHVwU3hDazJLLXc?oc=5",
-          "published_at": "2026-03-31T05:00:21+00:00"
+          "title": "3월 수출 861억달러 '역대 최대'… 반도체 견인 속 중동 리스크 부상 - 서울와이어",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JcGVGcXYyYkhaM1piMVJuNWhaNGJGYVQ0MDNSR0hmUW9mQmdpWHdEVWpLTHRtRWpZMkg0Mzd5OTJqRXYyMEsxMmUzNUJaMW83aTZZQjJ3MFFHVTB6TUxOaVNyRy0wYk5Jb1I5TQ?oc=5",
+          "published_at": "2026-04-01T05:01:48+00:00"
         },
         {
-          "title": "환율 상승에도 냉정한 톤…신현송 한은 총재 후보 “달러 유동성 양호” - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWEdjeEhaSGFFRXBsNnd4cFRuME1qM3JKb2dRRkk3UG10LVZlbWJCbHV0YWpXSmloaURUTGVaUm0wLXJBWVJaZVBIMy1OdjhjWDJldUl4Q1EyME0?oc=5",
-          "published_at": "2026-03-31T04:59:06+00:00"
+          "title": "한국 수출 사상 첫 '800억 달러' 돌파…반도체 초호황에 역대 최대 실적 - 데일리굿뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nSmk0N01UWDR4dmNLZ2lfMmxFb051aE9sU09ta1VrdE9jSHh2WUNTUDY4UVJrQjhsU1N3Q0JwdmhnU1FKWmt6eDFibVVRYVJSbjVHZlQzRkwwMzRGVDVFWDhWRGZfZkk4NGJuONIBcEFVX3lxTE1WV28xMTBsM1I3SVdaVmFkaWFPcTM4RnM5amV4bFVJZjVaX0RKbkFqcDEtVEVPb1pZdHpudHU0WUQ0VmFCU0ZlNUx4STJMYlZyVHl1NEFiZmdoRkM4QnBRSVNvWnNkUllFbVE2MXJfdnI?oc=5",
+          "published_at": "2026-04-01T04:48:13+00:00"
         },
         {
-          "title": "원·달러 환율 17년 만에 1530원 돌파…코스피도 전쟁 이후 최저 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RMUlDU3B3VmRuWGx6aExzMGtTRGp0Uy1VMWdZMXBVQ3R2Q1MwUlhXM0RCVlhvTWtJblB2Sm81VGxTWHRTR2ZDbEtIc0VHNjA?oc=5",
-          "published_at": "2026-03-31T04:54:25+00:00"
+          "title": "韓 수출, 사상 첫 ‘800억 달러 시대’ 열었다…반도체 신화에 ‘역대급 실적’ - 이지경제",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ma0w4bEtFdEI5azBINUZaVWxoS05QYlY0d2xiMXUxdGtneG5tQnNnSkJQRnp3NWhoZ2FSY2gwQy13aG0xeHlxLXRncEVCWnczSWd3RVF3UXZBbHRRYjdhamVCMHNRTVpvbE9xVXp3?oc=5",
+          "published_at": "2026-04-01T04:48:08+00:00"
         },
         {
-          "title": "신현송 \"환율 높지만 큰 우려 없어…달러 유동성 양호\" - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzAwSWM4bXF3WG53OTdYRE9lY0ZBRzZRM3IzZXI3bTVOR3ZXN2hFQ1hUeWtaeDRvdDVzNnh0cE9YaWtIdkZhdnkyOUJBTlVCR2NTRWNPeFE3aEhlLXFmdFNDUFFXamFKb3N4R3EzaHJQQ2FRMXhMb1NaZ0llRk5WSDJR?oc=5",
-          "published_at": "2026-03-31T04:31:21+00:00"
+          "title": "[도쿄환시] 달러-엔, 종전 기대감에 하락 후 반등 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HdEl1bFBkMGdQT3hKR2kzQl9IelFQc0JxMmdPZFpEcHo5ajJTX0J3d0U3SXladzVRY0RfajdWQ1ZLaDVBZm4tRDR0TTNzdVRmck9FQTVpY3RnamhlanBoY3hTWk8ySmI4U2VQSHJpWmtIdw?oc=5",
+          "published_at": "2026-04-01T04:41:49+00:00"
         },
         {
-          "title": "\"원화 가치, 바닥 모르고 추락\"...1530원 뚫은 원/달러 환율 [Y녹취록] - YTN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93QXhibHhUanhpaENoeW1VNjN4bE1CbnFhZDctS2gxeUJoQnp5RHljZlV4Q25UZVdtaFplM01xSnVyLU9hZU1XdlM0bDAtVG9faW50eTl0WU44LUF0MFdNZ2UtYUJpRExCSUVHWUdsaw?oc=5",
-          "published_at": "2026-03-31T04:27:00+00:00"
+          "title": "‘반도체 초호황’에 수출 첫 800억달러… 전쟁 충격·편중 리스크 여전 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kTXhYUjhFSUpWYS1pWF9PX2ZYYlo4RndhV1ZlZVlSUWpEWTB6OXZsZGRfRlIzYTZlWVozb19PRGVwV1R3YW5MdXlYOVI2MExtMEJ0WkNoZmN1ZDFuMWZ0eUFIdkJ4aEZDMGc?oc=5",
+          "published_at": "2026-04-01T04:37:46+00:00"
         }
       ]
     },
     {
-      "keyword": "net",
-      "score": 150.12,
+      "keyword": "사상",
+      "score": 168.12,
       "articles": [
         {
-          "title": "경북도 이탈리아 ‘코스모프로프 2026’서 285만 달러 수출 계약 성사 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wN1B6WUY1V1RabW1UclE0VXFPX0ZweWZhMTdSUHV4cE9PcEE0Q1lVWVBjT25wMl9FZlppYmJsUWx2ZklzNHVwU3hDazJLLXc?oc=5",
-          "published_at": "2026-03-31T05:00:21+00:00"
+          "title": "한국 수출 사상 첫 '800억 달러' 돌파…반도체 초호황에 역대 최대 실적 - 데일리굿뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nSmk0N01UWDR4dmNLZ2lfMmxFb051aE9sU09ta1VrdE9jSHh2WUNTUDY4UVJrQjhsU1N3Q0JwdmhnU1FKWmt6eDFibVVRYVJSbjVHZlQzRkwwMzRGVDVFWDhWRGZfZkk4NGJuONIBcEFVX3lxTE1WV28xMTBsM1I3SVdaVmFkaWFPcTM4RnM5amV4bFVJZjVaX0RKbkFqcDEtVEVPb1pZdHpudHU0WUQ0VmFCU0ZlNUx4STJMYlZyVHl1NEFiZmdoRkM4QnBRSVNvWnNkUllFbVE2MXJfdnI?oc=5",
+          "published_at": "2026-04-01T04:48:13+00:00"
         },
         {
-          "title": "원·달러 환율 17년 만에 1530원 돌파…코스피도 전쟁 이후 최저 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RMUlDU3B3VmRuWGx6aExzMGtTRGp0Uy1VMWdZMXBVQ3R2Q1MwUlhXM0RCVlhvTWtJblB2Sm81VGxTWHRTR2ZDbEtIc0VHNjA?oc=5",
-          "published_at": "2026-03-31T04:54:25+00:00"
+          "title": "韓 수출, 사상 첫 ‘800억 달러 시대’ 열었다…반도체 신화에 ‘역대급 실적’ - 이지경제",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ma0w4bEtFdEI5azBINUZaVWxoS05QYlY0d2xiMXUxdGtneG5tQnNnSkJQRnp3NWhoZ2FSY2gwQy13aG0xeHlxLXRncEVCWnczSWd3RVF3UXZBbHRRYjdhamVCMHNRTVpvbE9xVXp3?oc=5",
+          "published_at": "2026-04-01T04:48:08+00:00"
         },
         {
-          "title": "전쟁 리스크' 덮친 韓 경제…국제유가 고공행진 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xc19jNDdhLTlpNHMwSk1IV1VNcUJxUFp2TWNFSGFBTTB4d3Q4ME1hNDRCTmpTamNLVVg3amlmdjRrUThoVjhNMHlzcFFydm8?oc=5",
-          "published_at": "2026-03-31T04:46:15+00:00"
+          "title": "K-소비재 수출 ‘사상 최대’…농수산·화장품·패션 동반 성장 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Zbk5pWWR6dEUwejBVczVnMFJIUE11RlhabjZ5Um5MZEZaTEl2RGpoQ0RReTJUNFhWTEhtbUFTdVBUYURlUzlOX0ZiZWlWTXNDTEJ5WVJJM1JSNk9oM1ZRNFNtb3c?oc=5",
+          "published_at": "2026-04-01T04:38:25+00:00"
         },
         {
-          "title": "환율 고공행진 계속…1600원 돌파 가능성도? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZl9WdFRTUmFCWmN3X2JsOFpQVjNDLTZkZkJ4bkNpWUVxWTFPQWl4aWpvZDlLOWtKWG8tVVprVnVsdUVqWWRnN2VjY3hxb2c?oc=5",
-          "published_at": "2026-03-31T04:45:15+00:00"
+          "title": "3월 수출 사상 첫 800억 달러 상회…반도체·석유제품·컴퓨터·이차전지 등 견인 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43eHhvOE1rcm9OaDlva280VEYxSzBvMm9uY3FfdVFhRF9aM2YwZ0FISXZPREZObFhQcUUzUnlSdGFzR0ctZzBMZU9fR1A3UXJlQ3pMbzFn?oc=5",
+          "published_at": "2026-04-01T04:36:33+00:00"
         },
         {
-          "title": "구자열 원주시장 예비후보, “강원도청 경제기능 원주 분산 배치”...춘천(행정)-원주(경제)-강릉(관광) 균형발전 완성 제안 - eroun.net",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BbDJjMmhzT29kdE9YX2tndEVISXY2cVQzUlVoakduUVh3aEViUzlwYUdWbjlrTmVGd2pSNU5uM1I1cUUtdUlyN2d0dEVrM1hOY2F1NnJUSUlNaVczVnREbGFrbDlFUQ?oc=5",
-          "published_at": "2026-03-31T04:15:14+00:00"
+          "title": "중동 악재 막아낸 반도체…3월 수출 사상 첫 800억 달러 돌파 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XaFl6bExDNklQZ0ZpcElIWjI5VmNvdEZSOVlhRkRtRE1wenl4QS00TVlKSHdxc1J6eTNvSEhXTGh1OHVwQmszZk5CR3dWSnM?oc=5",
+          "published_at": "2026-04-01T04:27:01+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 141.28,
+      "score": 140.91,
       "articles": [
         {
-          "title": "경북도 이탈리아 ‘코스모프로프 2026’서 285만 달러 수출 계약 성사 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wN1B6WUY1V1RabW1UclE0VXFPX0ZweWZhMTdSUHV4cE9PcEE0Q1lVWVBjT25wMl9FZlppYmJsUWx2ZklzNHVwU3hDazJLLXc?oc=5",
-          "published_at": "2026-03-31T05:00:21+00:00"
+          "title": "韓-인니, 경제소통 플랫폼·핵심광물·AI기반 의료 협력 MOU - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QOWRrbUcxQnoxUTZOaUVDOG1sbV9WaFc2M1g5ak5iVmdVMVhhVnVQWHdhVDNFRzg4bEtXODVDSkYzVkpZaXVINmp4eVM3cEU?oc=5",
+          "published_at": "2026-04-01T05:02:02+00:00"
         },
         {
-          "title": "원·달러 환율 17년 만에 1530원 돌파…코스피도 전쟁 이후 최저 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RMUlDU3B3VmRuWGx6aExzMGtTRGp0Uy1VMWdZMXBVQ3R2Q1MwUlhXM0RCVlhvTWtJblB2Sm81VGxTWHRTR2ZDbEtIc0VHNjA?oc=5",
-          "published_at": "2026-03-31T04:54:25+00:00"
+          "title": "중동 악재 막아낸 반도체…3월 수출 사상 첫 800억 달러 돌파 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XaFl6bExDNklQZ0ZpcElIWjI5VmNvdEZSOVlhRkRtRE1wenl4QS00TVlKSHdxc1J6eTNvSEhXTGh1OHVwQmszZk5CR3dWSnM?oc=5",
+          "published_at": "2026-04-01T04:27:01+00:00"
         },
         {
-          "title": "전쟁 리스크' 덮친 韓 경제…국제유가 고공행진 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xc19jNDdhLTlpNHMwSk1IV1VNcUJxUFp2TWNFSGFBTTB4d3Q4ME1hNDRCTmpTamNLVVg3amlmdjRrUThoVjhNMHlzcFFydm8?oc=5",
-          "published_at": "2026-03-31T04:46:15+00:00"
+          "title": "중동 악재 막아낸 반도체의 힘…수출 비중 38% '역대 최고'(종합2보) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oT0pxc21nU3p0RmFkcmQ3ckhETnJnTTBBV1kyS2VnTzhPcEtZOW1xTDhNdHpJNGp2eEdkcjBBVjI4ZmlnazBuU055UzlNbjA?oc=5",
+          "published_at": "2026-04-01T04:19:04+00:00"
         },
         {
-          "title": "환율 고공행진 계속…1600원 돌파 가능성도? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZl9WdFRTUmFCWmN3X2JsOFpQVjNDLTZkZkJ4bkNpWUVxWTFPQWl4aWpvZDlLOWtKWG8tVVprVnVsdUVqWWRnN2VjY3hxb2c?oc=5",
-          "published_at": "2026-03-31T04:45:15+00:00"
+          "title": "중동發 에너지 쇼크, 영주 실물경제 강타, 엔진오일·페인트 품귀에 민생 비상 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSkx5UVRCamhlcGNkR0N0UElpVTJHODJBQkF0cjk1VFg0MDRMblkzTFp0eW1xaXJWVG1wVU9DVUhOV1A4YkxGeV9DcHVLNUE?oc=5",
+          "published_at": "2026-04-01T03:57:38+00:00"
         },
         {
-          "title": "[속보] 원·달러 환율, 장중 1530원 넘어…금융위기 이후 처음 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VbjVxR1BfT21iU185UEZJQ0pkbGVWaU5qcVlIZ0UyVGRLaGVyRHJuSUVfTjNPUXZacmNTamJoaHlfRkQxR1Y0bjVjUkhEUXc?oc=5",
-          "published_at": "2026-03-31T03:57:24+00:00"
+          "title": "트럼프보다 이란 대통령 \"종전\" 발언에 주가급등, 환율 급락 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tN1luTTUyLU5mU3JsLURWUW9ONUphWHVhT0g0YmpmQ3pOWUxvS0RpMmltdDNJRXdoV1d4a3JLQjhRLVNFMUVrSkctSFpvdnF3TVJJdQ?oc=5",
+          "published_at": "2026-04-01T03:47:46+00:00"
         }
       ]
     },
     {
-      "keyword": "중동",
-      "score": 140.99,
+      "keyword": "net",
+      "score": 140.91,
       "articles": [
         {
-          "title": "신상진 성남시장 “410억 긴급지원 준비”…중동발 경제위기 대응 촉구 - 팍스경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95ZUcyRWc1UUdSTGI2OVROZ0dKaVZmaXc1NE5BczhnV1dfTE9mNkU4WVFyYmF5Mkt3bkYyNm1HS1VSaTdCT1dyMkZyNkJSeUZkLTFTZ3ZFNWpTWE1iX1FJMkg3NTlYTG8?oc=5",
-          "published_at": "2026-03-31T05:03:11+00:00"
+          "title": "韓-인니, 경제소통 플랫폼·핵심광물·AI기반 의료 협력 MOU - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QOWRrbUcxQnoxUTZOaUVDOG1sbV9WaFc2M1g5ak5iVmdVMVhhVnVQWHdhVDNFRzg4bEtXODVDSkYzVkpZaXVINmp4eVM3cEU?oc=5",
+          "published_at": "2026-04-01T05:02:02+00:00"
         },
         {
-          "title": "[거시경제] '중동 전쟁 반영' 美 비농업고용지수, 4월 3일 발표 - 디지털애셋",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92X3VHT0FZR2pJZXlPTkZ4d0pHRVZnalNZV1J2aTJqeTVkUHFERzBaNkcycWlwT2xCSXlJSEs2VGsxdkt2RmxtRkhCVUVDQkpmVXdJdjlZd3hpODZJUUd5a1B0VWZ4dWIwMkJkdlFsSld0UQ?oc=5",
-          "published_at": "2026-03-31T05:00:00+00:00"
+          "title": "중동 악재 막아낸 반도체…3월 수출 사상 첫 800억 달러 돌파 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XaFl6bExDNklQZ0ZpcElIWjI5VmNvdEZSOVlhRkRtRE1wenl4QS00TVlKSHdxc1J6eTNvSEhXTGh1OHVwQmszZk5CR3dWSnM?oc=5",
+          "published_at": "2026-04-01T04:27:01+00:00"
         },
         {
-          "title": "성남시, 중동발 경제위기 대응 비상경제대책 전면 가동 - 전국매일신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZdWpkWDg2c215ZjByRFhlZ3ZQaEhjSnBFVWVNZXFELS1TNFhFT3lxTDVLclVOUlNha2JpYkl5RlNJdHgtY19LWVFtYkJVS1pGWHlIUmZSandOOTUydXJvZG1KLTJzQndQMEtndTdn?oc=5",
-          "published_at": "2026-03-31T04:57:20+00:00"
+          "title": "중동 악재 막아낸 반도체의 힘…수출 비중 38% '역대 최고'(종합2보) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oT0pxc21nU3p0RmFkcmQ3ckhETnJnTTBBV1kyS2VnTzhPcEtZOW1xTDhNdHpJNGp2eEdkcjBBVjI4ZmlnazBuU055UzlNbjA?oc=5",
+          "published_at": "2026-04-01T04:19:04+00:00"
         },
         {
-          "title": "성남시, 중동발 경제 불안 대응 비상대책 추진 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xWkdNdzc5QzRxU1RNcGhIU0tQbnE3MC1WbGI4R2hfcmVaU2VGZ1ZRcnNuaGhhTV96NVJQUmNNZlo2NXdIaUwtVGkwOXc0bVlIRUdzeHg3MVJfX0Nncko0U09HdjIwOGVGVm4zbFRhcWQ?oc=5",
-          "published_at": "2026-03-31T04:53:21+00:00"
+          "title": "중동發 에너지 쇼크, 영주 실물경제 강타, 엔진오일·페인트 품귀에 민생 비상 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSkx5UVRCamhlcGNkR0N0UElpVTJHODJBQkF0cjk1VFg0MDRMblkzTFp0eW1xaXJWVG1wVU9DVUhOV1A4YkxGeV9DcHVLNUE?oc=5",
+          "published_at": "2026-04-01T03:57:38+00:00"
         },
         {
-          "title": "유가 폭등보다 무서운 중동국 ‘신용 쇼크’… 피치, 카타르에 강등 경고 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbW1pMERzVU13bERac1hwRkRsUXRtNVotaTlEaXlVLTZMeTNZai1WeWRickctcnRHR3I1aENrY2ZWWUVuSExGc0lWZlkwdjdKLXZpQURwOGdJd3ZObWF4emxFeDdoTExWRWU4Umloc3VqcXZZTVRsaGQ1T0NyUkZCcmdTdEVPR05zSDVERHhqaGlWM0RQVzJyWHl0VFY4UdIBsgFBVV95cUxPeU1RWDRKS3k5VV96cW5qTnd5dzRFZUYyZHhvQU9oQWlOTENwbEpMSWVTcGEzckk1R0M4LVdrOUNwcGlFbnVLN0cyUkJUODNaLUVtS3NwTTlyOVlKdUlfazhvMDNPdUV0ZE5zZGtSWDlfcDhOcFJOS3lJTklqNThkN19LeVVOUlBIWE8zdWU5LTRWbU54em1SN2xoTGl2Mkx5RmF5QURqRlFZcWs0QzBObS13?oc=5",
-          "published_at": "2026-03-31T04:53:00+00:00"
+          "title": "트럼프보다 이란 대통령 \"종전\" 발언에 주가급등, 환율 급락 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tN1luTTUyLU5mU3JsLURWUW9ONUphWHVhT0g0YmpmQ3pOWUxvS0RpMmltdDNJRXdoV1d4a3JLQjhRLVNFMUVrSkctSFpvdnF3TVJJdQ?oc=5",
+          "published_at": "2026-04-01T03:47:46+00:00"
         }
       ]
     },
     {
-      "keyword": "신현송",
-      "score": 137.34,
+      "keyword": "반도체",
+      "score": 129.01,
       "articles": [
         {
-          "title": "환율 상승에도 냉정한 톤…신현송 한은 총재 후보 “달러 유동성 양호” - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWEdjeEhaSGFFRXBsNnd4cFRuME1qM3JKb2dRRkk3UG10LVZlbWJCbHV0YWpXSmloaURUTGVaUm0wLXJBWVJaZVBIMy1OdjhjWDJldUl4Q1EyME0?oc=5",
-          "published_at": "2026-03-31T04:59:06+00:00"
+          "title": "반도체 견인 3월 수출 151% 급증, 향후 관건은 'AI 사이클' 지속 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93UXU2U1JicC1uYTlibWdyeGtTRW9pX19BWmR1bXowQjRwdXd3b2xRQXBQakpiNXdvMnBsVzJZZWR3WDAwT1A2T1NpU0NYSXM1cTN6REt5Z0d1WEh3cTBHVEZwQWVyeVQtNkNEVmc3RUg?oc=5",
+          "published_at": "2026-04-01T05:06:32+00:00"
         },
         {
-          "title": "신현송 한은총재 후보자 \"1천500대 환율 우러없다\" - 파이낸셜신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13Zm5UVkY5NHJlRkQzbjN2Mm9MdEhod2s0M19kcVFFeE56dXVWNnl0aEU4dXBTcXdOaHN5RU5BbEkzTmRNeVRTVVpaMkZEMVFPaTF6T3dZRXBja0NpaDllN1dFX0ZELTQxbTJV?oc=5",
-          "published_at": "2026-03-31T04:33:40+00:00"
+          "title": "3월 수출 861억달러 '역대 최대'… 반도체 견인 속 중동 리스크 부상 - 서울와이어",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JcGVGcXYyYkhaM1piMVJuNWhaNGJGYVQ0MDNSR0hmUW9mQmdpWHdEVWpLTHRtRWpZMkg0Mzd5OTJqRXYyMEsxMmUzNUJaMW83aTZZQjJ3MFFHVTB6TUxOaVNyRy0wYk5Jb1I5TQ?oc=5",
+          "published_at": "2026-04-01T05:01:48+00:00"
         },
         {
-          "title": "신현송 \"환율 높지만 큰 우려 없어…달러 유동성 양호\" - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzAwSWM4bXF3WG53OTdYRE9lY0ZBRzZRM3IzZXI3bTVOR3ZXN2hFQ1hUeWtaeDRvdDVzNnh0cE9YaWtIdkZhdnkyOUJBTlVCR2NTRWNPeFE3aEhlLXFmdFNDUFFXamFKb3N4R3EzaHJQQ2FRMXhMb1NaZ0llRk5WSDJR?oc=5",
-          "published_at": "2026-03-31T04:31:21+00:00"
+          "title": "한국 수출 사상 첫 '800억 달러' 돌파…반도체 초호황에 역대 최대 실적 - 데일리굿뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nSmk0N01UWDR4dmNLZ2lfMmxFb051aE9sU09ta1VrdE9jSHh2WUNTUDY4UVJrQjhsU1N3Q0JwdmhnU1FKWmt6eDFibVVRYVJSbjVHZlQzRkwwMzRGVDVFWDhWRGZfZkk4NGJuONIBcEFVX3lxTE1WV28xMTBsM1I3SVdaVmFkaWFPcTM4RnM5amV4bFVJZjVaX0RKbkFqcDEtVEVPb1pZdHpudHU0WUQ0VmFCU0ZlNUx4STJMYlZyVHl1NEFiZmdoRkM4QnBRSVNvWnNkUllFbVE2MXJfdnI?oc=5",
+          "published_at": "2026-04-01T04:48:13+00:00"
         },
         {
-          "title": "신현송 “중동發 물가 압력…환율 상승에도 달러 유동성 양호” - dnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kVTJVNHVjRERGRnpuU1F3NDd5c2gydEU4UTB2LUtPblZpaE16UXh1N09TYUZHbVhETGdUVGRsS0ZJQXFiaW52bE5DVl9wMVBqNm1ZVkxPZ3dTdEVmMkVVaVpQbzRIeEJVN1E1QW13dmpjdUhX?oc=5",
-          "published_at": "2026-03-31T04:21:13+00:00"
+          "title": "韓 수출, 사상 첫 ‘800억 달러 시대’ 열었다…반도체 신화에 ‘역대급 실적’ - 이지경제",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ma0w4bEtFdEI5azBINUZaVWxoS05QYlY0d2xiMXUxdGtneG5tQnNnSkJQRnp3NWhoZ2FSY2gwQy13aG0xeHlxLXRncEVCWnczSWd3RVF3UXZBbHRRYjdhamVCMHNRTVpvbE9xVXp3?oc=5",
+          "published_at": "2026-04-01T04:48:08+00:00"
         },
         {
-          "title": "신현송 \"환율 큰 우려 없어‥달러 유동성 양호\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YR09SSkR6NG0yTmtjZGY5ZkM4RjNRY1IyMC1NVmFXTVowT2NrYXBlYWpiQVhTT3d6ZWI4REsyeDUxUXNBaVdjZDY5aktURTdDWkNCSVhfeWE4cFk0ZktHNEZaX0VtNktUVm1RWXlORzdVTmV5TUhOWdIBeEFVX3lxTE83Y3JBcTVPTWk1ZUxXYlgtSVFGNlZWYldhTGxFcGxDcHdxVFAxcThwUTdqdVlMWkpoVUJ1Y1VMNmt4d0NtZ01ybURYVnFLd0ZndUxma1dtbTYyUHJvcTFqSDJPZ1FkZ3VIcEw5dE1Pdl9ZNkliOXJrVg?oc=5",
-          "published_at": "2026-03-31T03:18:38+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "수출",
-      "score": 136.13,
-      "articles": [
-        {
-          "title": "경북도 이탈리아 ‘코스모프로프 2026’서 285만 달러 수출 계약 성사 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wN1B6WUY1V1RabW1UclE0VXFPX0ZweWZhMTdSUHV4cE9PcEE0Q1lVWVBjT25wMl9FZlppYmJsUWx2ZklzNHVwU3hDazJLLXc?oc=5",
-          "published_at": "2026-03-31T05:00:21+00:00"
-        },
-        {
-          "title": "[26.2조 중동 추경]반도체 추가세수 활용…수출·석화 지원부터 제조 AX·창업까지 '맞춤형 핀셋 지원' - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vbk5hMjVQczRORHZoMXRETWZnX0NneGM5VEU4dEdHVUYzazZhRnhQT2dRaDMyaEVxZVc3VjRBQ3doTHdOVmprTHJBSDRoQQ?oc=5",
-          "published_at": "2026-03-31T04:52:24+00:00"
-        },
-        {
-          "title": "\"이러다 문 닫는다\"…수출 中企에 4600억·긴급자금 2500억 투입 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIaDFNQkN4emhmU29TOUNuS21BV1pkQnMtRkN2bFd5QlU5ZTduaC1NR1VwNW92TGN2WFNnMzVjbGIzblhaY21IS0hZWGRaN0V6ejQ0NEFScTJadHps?oc=5",
-          "published_at": "2026-03-31T04:43:29+00:00"
-        },
-        {
-          "title": "중기부, 추경 1.9조 편성…수출 중기·소상공인 경영 안정 집중 지원 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBraFJ4UXk5ZmlnS1BLTktfSjB5ZGJFNGg4OUlaMzJIN2NyMFZuZ1hYWHFfRUFmWmdVeUM5NDB4ZVBwUlE2TnR0VUNNN1VvWGVjdEdiRzk5ejQzNVVY?oc=5",
-          "published_at": "2026-03-31T04:42:36+00:00"
-        },
-        {
-          "title": "[중동 추경] 중기부, 1조9000억…수출피해·소상공인·청년창업 '집중' - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pREV0YXdtVFNDRGZRTWFSeVl0cFFzYTN1NHFGWFdjelg3YjRsNDJ0d2wwcjZBWG9SVm1tQU9pcF9BUW5sX3FlM2JsTnkzM0I0WTNoU0kwbENmQXhmTnhnMVdJWlZfWGZNdC1JWjR6Wng?oc=5",
-          "published_at": "2026-03-31T04:42:21+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "유동성",
-      "score": 112.72,
-      "articles": [
-        {
-          "title": "환율 상승에도 냉정한 톤…신현송 한은 총재 후보 “달러 유동성 양호” - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWEdjeEhaSGFFRXBsNnd4cFRuME1qM3JKb2dRRkk3UG10LVZlbWJCbHV0YWpXSmloaURUTGVaUm0wLXJBWVJaZVBIMy1OdjhjWDJldUl4Q1EyME0?oc=5",
-          "published_at": "2026-03-31T04:59:06+00:00"
-        },
-        {
-          "title": "신현송 \"환율 높지만 큰 우려 없어…달러 유동성 양호\" - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzAwSWM4bXF3WG53OTdYRE9lY0ZBRzZRM3IzZXI3bTVOR3ZXN2hFQ1hUeWtaeDRvdDVzNnh0cE9YaWtIdkZhdnkyOUJBTlVCR2NTRWNPeFE3aEhlLXFmdFNDUFFXamFKb3N4R3EzaHJQQ2FRMXhMb1NaZ0llRk5WSDJR?oc=5",
-          "published_at": "2026-03-31T04:31:21+00:00"
-        },
-        {
-          "title": "신현송 “중동發 물가 압력…환율 상승에도 달러 유동성 양호” - dnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kVTJVNHVjRERGRnpuU1F3NDd5c2gydEU4UTB2LUtPblZpaE16UXh1N09TYUZHbVhETGdUVGRsS0ZJQXFiaW52bE5DVl9wMVBqNm1ZVkxPZ3dTdEVmMkVVaVpQbzRIeEJVN1E1QW13dmpjdUhX?oc=5",
-          "published_at": "2026-03-31T04:21:13+00:00"
-        },
-        {
-          "title": "환율 1530원 육박...한은총재 후보자\"달러 유동성 풍부, 큰 문제 없다\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuaUctMUJBdkZwMDN4SXIyRXczc1Jva2RJQU9GeGtzLWRuMnhnZXNxUFJsVFB5NDF6S2JLMkI0ZlMyVFBXXzJURFVOcTRDRW8?oc=5",
-          "published_at": "2026-03-31T03:32:59+00:00"
-        },
-        {
-          "title": "신현송 \"환율 큰 우려 없어‥달러 유동성 양호\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YR09SSkR6NG0yTmtjZGY5ZkM4RjNRY1IyMC1NVmFXTVowT2NrYXBlYWpiQVhTT3d6ZWI4REsyeDUxUXNBaVdjZDY5aktURTdDWkNCSVhfeWE4cFk0ZktHNEZaX0VtNktUVm1RWXlORzdVTmV5TUhOWdIBeEFVX3lxTE83Y3JBcTVPTWk1ZUxXYlgtSVFGNlZWYldhTGxFcGxDcHdxVFAxcThwUTdqdVlMWkpoVUJ1Y1VMNmt4d0NtZ01ybURYVnFLd0ZndUxma1dtbTYyUHJvcTFqSDJPZ1FkZ3VIcEw5dE1Pdl9ZNkliOXJrVg?oc=5",
-          "published_at": "2026-03-31T03:18:38+00:00"
+          "title": "‘반도체 초호황’에 수출 첫 800억달러… 전쟁 충격·편중 리스크 여전 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kTXhYUjhFSUpWYS1pWF9PX2ZYYlo4RndhV1ZlZVlSUWpEWTB6OXZsZGRfRlIzYTZlWVozb19PRGVwV1R3YW5MdXlYOVI2MExtMEJ0WkNoZmN1ZDFuMWZ0eUFIdkJ4aEZDMGc?oc=5",
+          "published_at": "2026-04-01T04:37:46+00:00"
         }
       ]
     }
