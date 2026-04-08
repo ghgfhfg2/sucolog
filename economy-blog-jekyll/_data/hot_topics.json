@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-04-07T05:06:14.796568+00:00",
+  "generated_at": "2026-04-08T05:08:01.046624+00:00",
   "source_count": 4,
-  "article_count": 391,
+  "article_count": 387,
   "top_keywords": [
     {
-      "keyword": "수출",
-      "score": 163.68
-    },
-    {
-      "keyword": "금리",
-      "score": 144.41
-    },
-    {
       "keyword": "환율",
-      "score": 121.95
+      "score": 203.29
     },
     {
-      "keyword": "확대",
-      "score": 112.83
+      "keyword": "휴전",
+      "score": 182.64
     },
     {
-      "keyword": "daum",
-      "score": 109.1
+      "keyword": "급락",
+      "score": 164.61
     },
     {
       "keyword": "net",
-      "score": 109.1
-    },
-    {
-      "keyword": "중동",
-      "score": 107.28
-    },
-    {
-      "keyword": "상승",
-      "score": 107.27
+      "score": 150.09
     },
     {
       "keyword": "이란",
-      "score": 88.84
+      "score": 149.59
+    },
+    {
+      "keyword": "daum",
+      "score": 145.43
+    },
+    {
+      "keyword": "국제유가",
+      "score": 122.88
     },
     {
       "keyword": "유가",
-      "score": 86.37
+      "score": 122.61
     },
     {
-      "keyword": "물가",
-      "score": 78.89
+      "keyword": "2주",
+      "score": 117.9
     },
     {
-      "keyword": "대응",
-      "score": 67.4
+      "keyword": "수출",
+      "score": 103.87
+    },
+    {
+      "keyword": "금리",
+      "score": 83.45
+    },
+    {
+      "keyword": "달러",
+      "score": 77.02
     }
   ],
   "hot_topics": [
     {
-      "keyword": "수출",
-      "score": 163.68,
-      "articles": [
-        {
-          "title": "GC녹십자웰빙, ‘지셀르 리본느’ 일본 수출…메디컬 에스테틱 사업 속도 - 백세시대",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iaVMyV3lwTkJLZ1hhZ2pnQlVabWlIYTB0ZTFCSmxkVFBRbkRwdkFaZ3BoU0o2YmEwdTc4b2JtZ3ZUVWhFZ2lTdDBOcllYY2VLWExJUmZ2ZTlCRVlOM1UyWXNQeFFfaXFVMHNr?oc=5",
-          "published_at": "2026-04-07T04:39:58+00:00"
-        },
-        {
-          "title": "GC녹십자웰빙, 무세포동종진피 '지셀르 리본느' 日 수출 계약 체결 - newspost.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MLWFXWWpNYmFWN2hicEJhTF9pWUlFdUk2Y0xBUzFSWVBnMUE3cklfaW5zbHplRTVucjlETzh6dzJtNFJhX3RUbWNhdkYxLThveGY0ZEx3YUt0SG03WjBjbkpxWmJKY0tW?oc=5",
-          "published_at": "2026-04-07T04:32:48+00:00"
-        },
-        {
-          "title": "전북 중소기업 해외진출 ‘맞손’…수출 확대 본격화 - 전라매일",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56LTVzckdNVEoyLWpNVWRUSE1CSXZSbkxUNldSSUlkczVQSi1FZEFieFZPN2hfS1VqNUdLUGxNT0Z4eDdPeDBCdVdnZ3gycEw1N0E?oc=5",
-          "published_at": "2026-04-07T04:25:00+00:00"
-        },
-        {
-          "title": "“미국이 키웠다?” 수출 규제의 역설···중국, 반도체 ‘자립’ 넘어 ‘호황’ 중 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQRFMxcG0tSVhLRDFzMmZUWVlyV3owamkwcGoxVDhrOTY5Z0xBM2pWTDNRZXN3TnZQQVZuT1JRRi1YU0ZzNFJTWWFwV1pYa1BwdktpQy1zUzZrOTdKSjdFSmpjVnJncFhHN1g3dTZZOFNGbTRWQm15N283N050RzhwM2Z2ZzRUalBxTl80cjU0cFdnWjlHejA2UHRDR2drN1A5eXliTFZqMHR5WTVQNnNkWHBkZGRmT3FyTTZURmoySXQ3NkZ1RklMaHlKWmF5MjdoMTFRUFJYMW1iM2hZaHdiLS1aSm9PMDBaMFhTX1cwSFpfLXpYT0dvRU01bFRhclZZaDFteW9rN0djZ2psdGoxQlJmMXpKM01CZTUzaXhBX1NYaWUtQ2o4UUVBZTdTWmdQeVRpdWJLRGVFQQ?oc=5",
-          "published_at": "2026-04-07T04:21:55+00:00"
-        },
-        {
-          "title": "신세계면세점, 수출 1위 ‘듀오락’ 단독 입점으로 헬스케어 강화 - 신세계그룹 뉴스룸",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGxUQ0ZXdzN2ci0yd0Z2UXdsM25uZ1B5OGVvQW5JaUNVOWFnM0NfTmtXS0RkSEgzcC1XODJJSmdBMlUwYlJ1WTdHdlVzSU1NRzFCWGFUN05WdVZySUNSQ0dKczZrS1lSOF81Sy1yM3RmcUlvLUluajNOYjkyZzc1NUNfTS12X0hKbUh6b0t5RDhiQQ?oc=5",
-          "published_at": "2026-04-07T04:11:23+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 144.41,
-      "articles": [
-        {
-          "title": "日 30년물 국채 금리, 입찰 소화 후 하락 전환(상보) - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80VWlhbzFabEpfS0cxanFpOFVKWU9wajQ5VHJxcGpXc0JSYVdFZXBPM3FnMU9zM3ZVa1YxM2gwUVNKSDl4Vl8zOXBGMlFDcmdPQzlUMkhRczctcm1IX2Zid1czQ2FZaW1KdGpWSWEwSzlZdw?oc=5",
-          "published_at": "2026-04-07T04:20:23+00:00"
-        },
-        {
-          "title": "JP모건 체이스 CEO는 미국과 이란 간의 갈등으로 인해 인플레이션과 금리가 상승할 수 있다고 경고했습니다. - vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0diRkFZalRDeE1yLUxkbzlHdnl0RlJKbDZMRUsyNDFfZ0hsbDFfRUFoQ3NHNzBuQ1JkZm9wWDQ4ZEplSHVxelIyTEJLZkFuZTlXZE9MYnlxZ2RKdk1STGpUQVpaWXdjNGJoMmFuN1FLZHVJUGVrWXNSRlBHM1RFdGxES0FjVG9LM0JpRjMxVjRVb09fRXJjMENyWWNuQm1t?oc=5",
-          "published_at": "2026-04-07T04:17:07+00:00"
-        },
-        {
-          "title": "JP모건 체이스 CEO는 인플레이션과 금리 위험이 예상보다 높을 수 있다고 경고했습니다. - vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQU0tY09pYmc4OUMxcDdkS1dxbGFLYjYzYklrdExFbVpPSUNMeEN3MXdISDBjWThzckJfbjEwVElhcDNKU2doamJwdUNGZXIyM09ZZHluMnpST0pxUU5KODFERGJPTUlCSWRuWWFMM1R2TXZ2ZnpIaDg1SmphbzNjQlBsVjNRY3VUaTNKTkkyb2o5NzByWm1vWUlGaVQyQWI0SXNxdWRR?oc=5",
-          "published_at": "2026-04-07T04:14:46+00:00"
-        },
-        {
-          "title": "국고채 금리 상승…줄어든 휴전 기대에 약세 전환 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QVXB2RGV3dGNnNHY4blVFOU8xSzRKZnM2bVdZTU4tVmFyRC1ERVdqVXlsLTlHaEN1NVc5c0JFdDd1OFQ0YlM0VzZYeEVaemcydkY4M0FvY2FiTjZFbXo3dmI0bHdDNHRfQUFlU0V4Zlg?oc=5",
-          "published_at": "2026-04-07T04:14:10+00:00"
-        },
-        {
-          "title": "4월 7일 기준 은행 금리: 일부 지역에서는 10%에 달합니다. - vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91djE3dUV0NGFFcGxjRUhIQlh2Y0NwY2luemZoTzY0bjFWdnBwQ3liaGE2MFJTNlRyV184QnBZVU9qbTJ4ZlBwaTRWOS1BRHNicXAtWFpaSElCLUE3WVBxWUhEb0Y5anBSazZGSEZSQWhsY25GNDdB?oc=5",
-          "published_at": "2026-04-07T03:55:49+00:00"
-        }
-      ]
-    },
-    {
       "keyword": "환율",
-      "score": 121.95,
+      "score": 203.29,
       "articles": [
         {
-          "title": "중동發 '전면전' 초읽기…유가·환율 급등에 산업별 '희비' 갈린다 - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZbmZHdUQxcDhNZkFUYUs0R0J6UkVhY0EyNlVVUm9DTVNTMjMwLWdaNkxDeUVRZ1FUTHRybUVyZWRLdHU0VkpRajNsS2NFNnE0YS1abk41bEZVUWhxOEprVTM2S2pKNGhYcUhLUHNpQdIBc0FVX3lxTE1RaTM3MXRsUV9teWpjTmJtWnFOclF0VG8yWE9MdUVqUHdCUzFJcUJ3bE5mc2lqX2x1N1pBT0FKV0ZfdjlJbDd2UDQ3QWtIbE5sYXpqa1REODNXT1l3TS05SjJtNGlQQ0U3eHVhOURsQUpyRmc?oc=5",
-          "published_at": "2026-04-07T04:41:44+00:00"
+          "title": "물가·환율 상승 예상 약화에…5월 채권시장 심리 호전 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94NUtfZ0RlRGxrazRfdWxqdnBvQ05HMkxXcGVfNGwwU0dMOVY2NjVOWVQwbTd6RnR6SlZkZDVRRTU4a0xaTkh3aC1CT0hmU0JWUGhxaG05S0hNWVd2TWQySw?oc=5",
+          "published_at": "2026-04-08T05:00:00+00:00"
         },
         {
-          "title": "[환율 전망] 첫 만남은 너무 어려워 (feat. 미·이란) - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82VDYyZko2WnRLbVl1c1k2bEVWYXRPbzhzb0U4dHFqN2hJazdxRjlZU2NGQTMwTzJVSTN3Q2liWk9KYWhUUC1qa1V6UmU2S1VXaVdFeFFaVWE0WUV5NHVsQg?oc=5",
-          "published_at": "2026-04-07T04:37:25+00:00"
+          "title": "중동발 소식에 힘입어 유로 환율이 2026년 4월 8일 400동 급등했다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWhNUGRtUG9DTFBWdDdLUHNtcW5BakkxRG1fdHNzNkFiMlNpQWRBN0Mtb2lCMTFrWHZSUXJQczRkSXdieGQ1cU9BbmJ3eDhwZVJnYzd4QWwydGNFQkVIeXdLN3NmNFV5YVFKMEJaZ0I2VzV6X2NZVVJtcU5WUG83d1lVXzA3cXNFZHlTWTVVRURQYU5QMWdlUVBTMEZ4V3E1TWc?oc=5",
+          "published_at": "2026-04-08T04:48:54+00:00"
         },
         {
-          "title": "현 환율 심각한 위험 아냐...금값 상승 가능성 [인사이트] - 네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kYklBQkhRWl95NlJjSFdpSENsbjdYVndZUS1ycUs2UmctM3dmMzhyNERDTlhKS3d6SmtCRFhwczZ2Y2dXdkctcVFkYWFpU19Hb2dGX2dfdWZCcnZHVVl5ME9ZUmFzUVpISmVJemRGNzNSM1ZSNTRzb1paWnZVb00?oc=5",
-          "published_at": "2026-04-07T04:27:00+00:00"
+          "title": "미국과 이란의 발표 이후 유로 환율이 오늘(2026년 4월 8일) 400동 급등했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG9sVWZmN3A4WlVhaEtJdjdYM29IVmZJUkNMVDdTVWktQUlFc0pJdV9SMmE3c3JxNFFETW9qNEdwREtXNHQ1UW5SZmR2dFQtb1dXalZTd29RNW5GUzhzZ0hOWGgtZ1ZJNTF6SHdfbC1xVHh6NEhkSUFwYUIzRExzQjNuTGVwVThfSzVCRGF5NTRhRk1XVkk0VzZZSUljb0xVRVZLc0R3?oc=5",
+          "published_at": "2026-04-08T04:40:44+00:00"
         },
         {
-          "title": "원-엔화 환율, 1.6원 이상 하락하면서 943원 초반대 기록…달러-엔화 환율은 중동전쟁 장기화에 159엔 중반대로 내려서 - 산업일보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5nRGQxWV9SU3ZnY0o5eFZOc3d3cEFxREUxM3ZHZEhZWEk0amVGaEdkQ3pMZW5UOHh2TEpxd1BUTU90Xy1C?oc=5",
-          "published_at": "2026-04-07T04:22:06+00:00"
+          "title": "환율이 오르니 내 재산도 쑥쑥…‘모럴 해저드’ 논란 휩싸인 금통위 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUtkUFdCSWVxY1pLU09NNTN3ZHY0dks4djVVSXN3WHROX0hYSGJ4eFp4ck4tZk5yc1pWY2Njdi0zSkpiUUllbEJ3OUNNU2pnbW5pN0ZGUURMUHBpc1RmSGllU3lSXzItY2ZQQUg4STZoWFhNZjlSeEdYcm9KcDlGU0ZuUUNCX1dEZVk3SXJ30gGiAUFVX3lxTE5SN1VuSi1vcTFBanlaNldueEN1dGRKc3VlaUFka2U0VGdIQ0N0NGRoVk9LalQ4RjZXWE1KRFBuclVUWTB5WWJPZEtDZ2xiWks1ZDFpX1lDdUxqTDFkdGdkbzNHeTYxSGExRkd4cnFlNkFoUUhNMGNBdDJmWlZRUzVaMHEwbjAtTUVvbVdQVm5nNlBSWnlBdVI1dERNWWlJbmNqQQ?oc=5",
+          "published_at": "2026-04-08T04:05:18+00:00"
         },
         {
-          "title": "[이슈] 배당 시즌에 달러 수요 확대…환율 상승 압력 커질 듯 - 폴리뉴스 Polinews",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sclMtdF9wUnVmM29UcWJWdVRzbTdsRlU5dzE1R2d5QnhwY0RXVFZuSlc3b0lNQlNjMjlfR21rRzluS2p5UlBhbzAtbGE5WXZ2Rk56eWIzbHZmdFFfUTZwc1BYcnF0MjNPNk8yRHVR0gFyQVVfeXFMTWUyVFM2eFhLU0tSN09wZTdlcG9tLUNYZ2ZBVFhWTlpBTzhjaHVqeDRnd0ZEUmpXVHFaR2NsMEtvY0gxWUtkY0JwYXQ0TEFjakJJUm1yMGhySDE3TDJyOFlXeS1sOGtqdWdjZGl4NUNlY3pB?oc=5",
-          "published_at": "2026-04-07T03:36:35+00:00"
+          "title": "5월 채권시장 심리 호전…\"물가·환율상승 예상 약화\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUT3I1Z2pVV3ZNYl9scGltZ0p4TUNDcC1EVzlRdlBiTlpFYWVGTzZyRjdpbGtJZ0xoSGNMMUp2QzFkN21oN3dZWXRJWU1jU0dLN1VwcmczMUREeFFVZWhGQdIBeEFVX3lxTE9qYmk4Ty1TajFXdDZXZlk2YW5ySW5TTjJRMVQ5amMwNnBfMEd5OTVCWFNlQ0tuRU5MSERlVG40WkVvYThVNmR6MHpiUkV0c1ZPZm8yWDdWa2hxS1BrdU9peVRjZGxYclBodS1aVUpNSkRkcm9vVDNRbg?oc=5",
+          "published_at": "2026-04-08T04:04:47+00:00"
         }
       ]
     },
     {
-      "keyword": "확대",
-      "score": 112.83,
+      "keyword": "휴전",
+      "score": 182.64,
       "articles": [
         {
-          "title": "KDI “중동전쟁에 경기 하방 위험 확대…물가상승 우려” - mstoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Smt0d2loc1JHWTdPYWFNRzU0VGJoQUUyOUJBN282NEc2RkpnbU82MjlKMWpKdGg3VHVDQWxFV1NXU2RyX0RYeERJRVlmTTA0Z0JrZnk3RDdycUVYRDNFZXlGcUpNOC1PSEZMZ29R?oc=5",
-          "published_at": "2026-04-07T04:55:50+00:00"
+          "title": "미·이란 휴전에 아시아 통화 강세, RBNZ 금리 동결, RBI 결정 앞두고 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOYzZlUzhSalF0djd4bF9LRmNpQzlfOHpEdS0wMGtxYmJNVWloaWhxdlpsR3dMbVVCQmxpUjlGSnVYSmlTS0hWdE03WmhWSU9JM0ZoYnVQS2wtS3NGYkRwaHBMYjRILUk?oc=5",
+          "published_at": "2026-04-08T03:29:00+00:00"
         },
         {
-          "title": "KDI \"중동전쟁에 경기 하방 위험 확대…물가상승 압력 커져\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cTB0cGQzUlZNOTJaOW1NR3ZMd1JHWlhoZERvYUZKc3EzYlhMX2lWOHM3MXZqQkZYb05CajRLd2d4OEhDWGdkUXlTZHZlZWM?oc=5",
-          "published_at": "2026-04-07T04:36:22+00:00"
+          "title": "미·이란 '2주 휴전', 국제유가 한때 19% 급락…달러↓·금값↑ - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tSVI3U0gwOXNUZ3JPUTcwY29JdkRlVVF4c0Rrdk82NURCR3V1UV9fd1VGVHltMHl2bHJxU0dOd2FiZU8xWVZfUGNvRE1SNl9CZTRlSUZMSVdvelc0YTNZUnZnb2h4Q3NJdUE?oc=5",
+          "published_at": "2026-04-08T03:28:44+00:00"
         },
         {
-          "title": "인천시, 어업용 면세유 지원 대폭 확대…유가 급등 대응 총력 - 동방일보",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwSU5oOGdQekp5VDJTSFZGSEd5aEIzVXNsN1paU3JDZ2tDeUJPVzBCUkRSZWMwNDE4QlVmbE5sd1JIRnNmMVpPQUdEejVMVDEwbjYwZkFyM2RSMy1mTGZnb3dUcXpiZkdSaktBQ0theFVfZw?oc=5",
-          "published_at": "2026-04-07T04:27:33+00:00"
+          "title": "휴전 소식에 유가 급락…국제유가 최대 19% 급락 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vX0pTTkhGMEZrbk9IcW5ZSVRXdVZtTjFwdWNESlFxUk9QcFBuUTBUTEUycjFHN296WVpjTENwNThWa3BjSkpKQ2p4UlZGYmpjUlBSODFpQU9tMnM?oc=5",
+          "published_at": "2026-04-08T03:02:00+00:00"
         },
         {
-          "title": "KDI “중동 전쟁으로 경기 하방 위험 확대” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hVzZ1Z2lnaHdxZ3BhNXM0MERJS09LdWltTUdnNktEdWxCZHlsajVDSU90aTlIRURlejNoS29hajJLZmRRWFQ1RUEtZGRRSnNLMXNuaTZQMUQxNGhSMXdNamNaNTJrWm9KME5CRHV3c0RsZw?oc=5",
-          "published_at": "2026-04-07T04:27:00+00:00"
+          "title": "환율, 미국·이란 휴전에 20원 이상 '뚝' ... 1470원대 복귀 - 뉴데일리 경제",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wZnN5V2N4NjRDSzRORGNDT0tIMlB0czU5ZGZ3eWxianh2VUtpVGdGM0ZpMzk1amh2Tzd2RnBybktoeWtRMjNpSTloNWpvS1RmcUUycmdnSWpLQzNlVFktSmtnamlwZlFxNDZ1SlcwVmUzUklFcGtrRDIyNA?oc=5",
+          "published_at": "2026-04-08T03:00:48+00:00"
         },
         {
-          "title": "전북 중소기업 해외진출 ‘맞손’…수출 확대 본격화 - 전라매일",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56LTVzckdNVEoyLWpNVWRUSE1CSXZSbkxUNldSSUlkczVQSi1FZEFieFZPN2hfS1VqNUdLUGxNT0Z4eDdPeDBCdVdnZ3gycEw1N0E?oc=5",
-          "published_at": "2026-04-07T04:25:00+00:00"
+          "title": "美·이란 휴전에 원달러 환율 1470원대로 떨어져 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jU0dIanlzMGkxNWNhUHg2Mmhpek9QS29DYkZTc0FnZ0pBeHhqLS1Lb0hDaEdSQWdwY0xWbUZMcXFKREtLMzM4TUp4S2t0Y2w5ZDFpS3AzWUZuSDJyU2FqYzVFZU1EZlRPdGVuTw?oc=5",
+          "published_at": "2026-04-08T02:40:53+00:00"
         }
       ]
     },
     {
-      "keyword": "daum",
-      "score": 109.1,
+      "keyword": "급락",
+      "score": 164.61,
       "articles": [
         {
-          "title": "KDI “중동 사태로 세계 경제 둔화 전망” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nMUY2VHNoby1HRXpkb1Bmd1FNSlBSUVhIX1o4cFVacTlXY29jaGJCQmNDcXRwckNrVWk1M0pNall3UVM5bVAzMVktX0NrcUU?oc=5",
-          "published_at": "2026-04-07T05:00:53+00:00"
+          "title": "반도체 선전에도 수출 전망 급락…2분기 제조업 BSI ‘76’ - m-i.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnMlV1dEQ2bm94V1oyMWduMFVKU3cyWXJVTHlZVnVQY3NQUDMyenREbEEtSEJmNmhFUTRhTjRLOExyQXhQLVhvbzZWMjRjYkFXVnpseEpNUmQwSEd2LXcyWV82ZEw?oc=5",
+          "published_at": "2026-04-08T04:32:48+00:00"
         },
         {
-          "title": "김석구 \"광주를 일하러 오는 도시로\"… '경제자족도시' 제시 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16LVZ1OUxDcHhYT2NLNUVHdjI5dWJCQVNoemtOVk92bUl3ay1SM1lGcHVfeV9zQl9qbTcxbnhXZzNhbUlSV1UzNHZ3VWVZbnM?oc=5",
-          "published_at": "2026-04-07T04:57:23+00:00"
+          "title": "국제유가 급락에 휘발유 상승세 꺾이나…3차 최고가제 이목 - 더팩트",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1saVdER2RvMkt0YWREMnJ6RndFRU1IcGRmbUZpRG1PdTBBRDlwdEExVlhoYVpfTVg3R3FCbTFiODF6WHlZbFl0M3JsdjN4S0hVczlZWkV4TmxLUdIBVEFVX3lxTE5NM1FHWWNrWkhuNFoyVGpQRUwtVTVzM09YY3MyZTRaMUpfMHZKSlg1c2x5cWVacW51aFBVU3FhUWV3UE9DVlZCa09WWDNkbDBtRnIyUQ?oc=5",
+          "published_at": "2026-04-08T04:09:50+00:00"
         },
         {
-          "title": "대전시장 \"서민 경제 비상상황…소상공인 임대료 신속 집행\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uN2VPRno0UnotQ3ZuWUtzUzM3YTFhV3dMMEJSeGxmb1JmWjdZMkMzWkNMWnE5VFdiVlRkSVluWmo3OENVVW5QWGNxSThrOFU?oc=5",
-          "published_at": "2026-04-07T04:50:53+00:00"
+          "title": "미·이란 '2주 휴전', 국제유가 한때 19% 급락…달러↓·금값↑ - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tSVI3U0gwOXNUZ3JPUTcwY29JdkRlVVF4c0Rrdk82NURCR3V1UV9fd1VGVHltMHl2bHJxU0dOd2FiZU8xWVZfUGNvRE1SNl9CZTRlSUZMSVdvelc0YTNZUnZnb2h4Q3NJdUE?oc=5",
+          "published_at": "2026-04-08T03:28:44+00:00"
         },
         {
-          "title": "KDI \"중동전쟁에 경기 하방 위험 확대…물가상승 압력 커져\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cTB0cGQzUlZNOTJaOW1NR3ZMd1JHWlhoZERvYUZKc3EzYlhMX2lWOHM3MXZqQkZYb05CajRLd2d4OEhDWGdkUXlTZHZlZWM?oc=5",
-          "published_at": "2026-04-07T04:36:22+00:00"
+          "title": "코스피·코스닥 장 초반 급등…환율 급락 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EbGtGejRxU05zRFk3dWl6RkI1d002djM1WEszT0Y3Qk9nMXRPcE82UGVfVkhMUUE0WTk5SUROU185Z20xSVhmVEFDb18tMG8?oc=5",
+          "published_at": "2026-04-08T03:13:00+00:00"
         },
         {
-          "title": "[현장영상] 이 대통령, 여야정 민생경제협의체 오찬 회동 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56dENxYWZhZGlVekM5THBpbzFuY0t3V2p1V19vMFUxLVRfZnUwTVkzbzR5NEUzVURGeEs1aEk5WFMxN252cE4wbXhXTWZUckU?oc=5",
-          "published_at": "2026-04-07T04:21:28+00:00"
+          "title": "휴전 소식에 유가 급락…국제유가 최대 19% 급락 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vX0pTTkhGMEZrbk9IcW5ZSVRXdVZtTjFwdWNESlFxUk9QcFBuUTBUTEUycjFHN296WVpjTENwNThWa3BjSkpKQ2p4UlZGYmpjUlBSODFpQU9tMnM?oc=5",
+          "published_at": "2026-04-08T03:02:00+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 109.1,
+      "score": 150.09,
       "articles": [
         {
-          "title": "KDI “중동 사태로 세계 경제 둔화 전망” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nMUY2VHNoby1HRXpkb1Bmd1FNSlBSUVhIX1o4cFVacTlXY29jaGJCQmNDcXRwckNrVWk1M0pNall3UVM5bVAzMVktX0NrcUU?oc=5",
-          "published_at": "2026-04-07T05:00:53+00:00"
+          "title": "[6.3 지방선거 이것이 정책] 전경원 “수성알파시티, 일자리·기업·교육 결합한 ‘경제 엔진’으로 키운다” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhb18xSlA1elY5MkJaQ3Y0UFZwV01oQ25yVm50eWJ6czVzQ1hkNE92LVFZQ29tWm1xWEhOd1NFbmVPS2FBSW94WVY1bTlKdHc?oc=5",
+          "published_at": "2026-04-08T05:00:09+00:00"
         },
         {
-          "title": "김석구 \"광주를 일하러 오는 도시로\"… '경제자족도시' 제시 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16LVZ1OUxDcHhYT2NLNUVHdjI5dWJCQVNoemtOVk92bUl3ay1SM1lGcHVfeV9zQl9qbTcxbnhXZzNhbUlSV1UzNHZ3VWVZbnM?oc=5",
-          "published_at": "2026-04-07T04:57:23+00:00"
+          "title": "장신상 횡성군수 예비후보 “우천, 산업경제 중심지로 조성” - kado.net",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53V1E3MWk3QUxUbzFQR29EVjlJMkp4WTkzYmZNU3RtMXVnZXh6LUstM3lRUFNUd1dGbzVfTkMxSTRLTExjUHRvVmFuSHdXYnppNTJRWGpaakYzY0tYaktnUTV1VV96VjQ?oc=5",
+          "published_at": "2026-04-08T04:15:39+00:00"
         },
         {
-          "title": "대전시장 \"서민 경제 비상상황…소상공인 임대료 신속 집행\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uN2VPRno0UnotQ3ZuWUtzUzM3YTFhV3dMMEJSeGxmb1JmWjdZMkMzWkNMWnE5VFdiVlRkSVluWmo3OENVVW5QWGNxSThrOFU?oc=5",
-          "published_at": "2026-04-07T04:50:53+00:00"
+          "title": "코스피·코스닥 장 초반 급등…환율 급락 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EbGtGejRxU05zRFk3dWl6RkI1d002djM1WEszT0Y3Qk9nMXRPcE82UGVfVkhMUUE0WTk5SUROU185Z20xSVhmVEFDb18tMG8?oc=5",
+          "published_at": "2026-04-08T03:13:00+00:00"
         },
         {
-          "title": "KDI \"중동전쟁에 경기 하방 위험 확대…물가상승 압력 커져\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cTB0cGQzUlZNOTJaOW1NR3ZMd1JHWlhoZERvYUZKc3EzYlhMX2lWOHM3MXZqQkZYb05CajRLd2d4OEhDWGdkUXlTZHZlZWM?oc=5",
-          "published_at": "2026-04-07T04:36:22+00:00"
+          "title": "추미애 \"민주당 승리와 경기도 경제 회복, 두 가지 모두 해내겠다\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HY3VIUThtZDZ3U3I2WlpRNy1pcHZrMWtYc2ExZGYyNUx0WUtDdDBPLUFEaE5kNVd0STFNTGFnMExoNUhRRVlVZHpYSUU0ZFE?oc=5",
+          "published_at": "2026-04-08T03:03:37+00:00"
         },
         {
-          "title": "[현장영상] 이 대통령, 여야정 민생경제협의체 오찬 회동 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56dENxYWZhZGlVekM5THBpbzFuY0t3V2p1V19vMFUxLVRfZnUwTVkzbzR5NEUzVURGeEs1aEk5WFMxN252cE4wbXhXTWZUckU?oc=5",
-          "published_at": "2026-04-07T04:21:28+00:00"
+          "title": "장동혁 “대통령 한 번만 하겠다, 이 한마디를 왜 못하나” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Fb3A1bmEwdDZFblhXMzRURDBON0lrMXh4ZktoNkQ4Z2NMNk02c2JIS0J4VUlYX1FRNlNlUWxrRk9HM2hhcTBRd1NiODdyTTQ?oc=5",
+          "published_at": "2026-04-08T03:03:05+00:00"
         }
       ]
     },
     {
-      "keyword": "중동",
-      "score": 107.28,
+      "keyword": "이란",
+      "score": 149.59,
       "articles": [
         {
-          "title": "KDI “중동 사태로 세계 경제 둔화 전망” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nMUY2VHNoby1HRXpkb1Bmd1FNSlBSUVhIX1o4cFVacTlXY29jaGJCQmNDcXRwckNrVWk1M0pNall3UVM5bVAzMVktX0NrcUU?oc=5",
-          "published_at": "2026-04-07T05:00:53+00:00"
+          "title": "RBI, 금리 동결 유지하며 이란 충격에도 경제 회복력 강조 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UUFpMcFl2cXpYT1NQVUxVRlZlS25QdUFCczNuRzM3MXczaE1KVHc2MDNxblgzaE1VY2wyYjQyd0NncFdpVXcyQWxzcGJCT2szUlR0MV9fS1pMZ2JKcDlwR0F2OWNKQmkweWc?oc=5",
+          "published_at": "2026-04-08T04:57:00+00:00"
         },
         {
-          "title": "KDI “중동전쟁에 경기 하방 위험 확대…물가상승 우려” - mstoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Smt0d2loc1JHWTdPYWFNRzU0VGJoQUUyOUJBN282NEc2RkpnbU82MjlKMWpKdGg3VHVDQWxFV1NXU2RyX0RYeERJRVlmTTA0Z0JrZnk3RDdycUVYRDNFZXlGcUpNOC1PSEZMZ29R?oc=5",
-          "published_at": "2026-04-07T04:55:50+00:00"
+          "title": "미국과 이란의 발표 이후 유로 환율이 오늘(2026년 4월 8일) 400동 급등했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG9sVWZmN3A4WlVhaEtJdjdYM29IVmZJUkNMVDdTVWktQUlFc0pJdV9SMmE3c3JxNFFETW9qNEdwREtXNHQ1UW5SZmR2dFQtb1dXalZTd29RNW5GUzhzZ0hOWGgtZ1ZJNTF6SHdfbC1xVHh6NEhkSUFwYUIzRExzQjNuTGVwVThfSzVCRGF5NTRhRk1XVkk0VzZZSUljb0xVRVZLc0R3?oc=5",
+          "published_at": "2026-04-08T04:40:44+00:00"
         },
         {
-          "title": "강서구, ‘비상경제 대응 T/F’ 가동… 중동 전쟁 여파 선제 대응 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sY2FFV1ZuMUIxUjJiSE5jY2F6SVIweVhFUk5SdndUQ3Y5MzByeDZXc0lpNmRGZUU5dGlxTkR1NDJLcG0wYkUwN0ZKME1Ub3NlVE1uaEZ6MF9zMkxOX0dnbWUyTFV4dFNOZ3VFMEt0LXd0ZGvSAXdBVV95cUxOTTF6ajhZUFRlVWRIMDhpZ2V0UjFkdFY5eGlESURMZTlQMS0zVEwzWGhGRHpYa3ptQ1AxNmc0WUJFa2NncWtScHdDQlJ4Z3J0bmdWT25fY0U3aGNxMUt6d3E3cnpJZmZfWW1MV09wZUc3UVZpMUtGVQ?oc=5",
-          "published_at": "2026-04-07T04:51:42+00:00"
+          "title": "골드만삭스, 이란 전쟁 따른 경제 성장 둔화 가능성에 \"구리값 하락\" 경고 - 더구루",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EZDZncUoydklSTVByM3VPNHJHQ2c1VVRLamVHOTEwVnJ0cUw1ek5sV0dLazBzZWljVWpvLWdZamlVR2dxQ3Z4bEtwTFFoUGh1aEZiZ2JYdUd2Mmp5eUlNZUJlSQ?oc=5",
+          "published_at": "2026-04-08T04:17:19+00:00"
         },
         {
-          "title": "중동發 '전면전' 초읽기…유가·환율 급등에 산업별 '희비' 갈린다 - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZbmZHdUQxcDhNZkFUYUs0R0J6UkVhY0EyNlVVUm9DTVNTMjMwLWdaNkxDeUVRZ1FUTHRybUVyZWRLdHU0VkpRajNsS2NFNnE0YS1abk41bEZVUWhxOEprVTM2S2pKNGhYcUhLUHNpQdIBc0FVX3lxTE1RaTM3MXRsUV9teWpjTmJtWnFOclF0VG8yWE9MdUVqUHdCUzFJcUJ3bE5mc2lqX2x1N1pBT0FKV0ZfdjlJbDd2UDQ3QWtIbE5sYXpqa1REODNXT1l3TS05SjJtNGlQQ0U3eHVhOURsQUpyRmc?oc=5",
-          "published_at": "2026-04-07T04:41:44+00:00"
+          "title": "미·이란 휴전에 아시아 통화 강세, RBNZ 금리 동결, RBI 결정 앞두고 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOYzZlUzhSalF0djd4bF9LRmNpQzlfOHpEdS0wMGtxYmJNVWloaWhxdlpsR3dMbVVCQmxpUjlGSnVYSmlTS0hWdE03WmhWSU9JM0ZoYnVQS2wtS3NGYkRwaHBMYjRILUk?oc=5",
+          "published_at": "2026-04-08T03:29:00+00:00"
         },
         {
-          "title": "KDI \"중동전쟁에 경기 하방 위험 확대…물가상승 압력 커져\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cTB0cGQzUlZNOTJaOW1NR3ZMd1JHWlhoZERvYUZKc3EzYlhMX2lWOHM3MXZqQkZYb05CajRLd2d4OEhDWGdkUXlTZHZlZWM?oc=5",
-          "published_at": "2026-04-07T04:36:22+00:00"
+          "title": "미·이란 '2주 휴전', 국제유가 한때 19% 급락…달러↓·금값↑ - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tSVI3U0gwOXNUZ3JPUTcwY29JdkRlVVF4c0Rrdk82NURCR3V1UV9fd1VGVHltMHl2bHJxU0dOd2FiZU8xWVZfUGNvRE1SNl9CZTRlSUZMSVdvelc0YTNZUnZnb2h4Q3NJdUE?oc=5",
+          "published_at": "2026-04-08T03:28:44+00:00"
         }
       ]
     },
     {
-      "keyword": "상승",
-      "score": 107.27,
+      "keyword": "daum",
+      "score": 145.43,
       "articles": [
         {
-          "title": "KDI “중동전쟁에 경기 하방 위험 확대…물가상승 우려” - mstoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Smt0d2loc1JHWTdPYWFNRzU0VGJoQUUyOUJBN282NEc2RkpnbU82MjlKMWpKdGg3VHVDQWxFV1NXU2RyX0RYeERJRVlmTTA0Z0JrZnk3RDdycUVYRDNFZXlGcUpNOC1PSEZMZ29R?oc=5",
-          "published_at": "2026-04-07T04:55:50+00:00"
+          "title": "[6.3 지방선거 이것이 정책] 전경원 “수성알파시티, 일자리·기업·교육 결합한 ‘경제 엔진’으로 키운다” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhb18xSlA1elY5MkJaQ3Y0UFZwV01oQ25yVm50eWJ6czVzQ1hkNE92LVFZQ29tWm1xWEhOd1NFbmVPS2FBSW94WVY1bTlKdHc?oc=5",
+          "published_at": "2026-04-08T05:00:09+00:00"
         },
         {
-          "title": "KDI \"중동전쟁에 경기 하방 위험 확대…물가상승 압력 커져\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cTB0cGQzUlZNOTJaOW1NR3ZMd1JHWlhoZERvYUZKc3EzYlhMX2lWOHM3MXZqQkZYb05CajRLd2d4OEhDWGdkUXlTZHZlZWM?oc=5",
-          "published_at": "2026-04-07T04:36:22+00:00"
+          "title": "코스피·코스닥 장 초반 급등…환율 급락 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EbGtGejRxU05zRFk3dWl6RkI1d002djM1WEszT0Y3Qk9nMXRPcE82UGVfVkhMUUE0WTk5SUROU185Z20xSVhmVEFDb18tMG8?oc=5",
+          "published_at": "2026-04-08T03:13:00+00:00"
         },
         {
-          "title": "현 환율 심각한 위험 아냐...금값 상승 가능성 [인사이트] - 네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kYklBQkhRWl95NlJjSFdpSENsbjdYVndZUS1ycUs2UmctM3dmMzhyNERDTlhKS3d6SmtCRFhwczZ2Y2dXdkctcVFkYWFpU19Hb2dGX2dfdWZCcnZHVVl5ME9ZUmFzUVpISmVJemRGNzNSM1ZSNTRzb1paWnZVb00?oc=5",
-          "published_at": "2026-04-07T04:27:00+00:00"
+          "title": "추미애 \"민주당 승리와 경기도 경제 회복, 두 가지 모두 해내겠다\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HY3VIUThtZDZ3U3I2WlpRNy1pcHZrMWtYc2ExZGYyNUx0WUtDdDBPLUFEaE5kNVd0STFNTGFnMExoNUhRRVlVZHpYSUU0ZFE?oc=5",
+          "published_at": "2026-04-08T03:03:37+00:00"
         },
         {
-          "title": "JP모건 체이스 CEO는 미국과 이란 간의 갈등으로 인해 인플레이션과 금리가 상승할 수 있다고 경고했습니다. - vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0diRkFZalRDeE1yLUxkbzlHdnl0RlJKbDZMRUsyNDFfZ0hsbDFfRUFoQ3NHNzBuQ1JkZm9wWDQ4ZEplSHVxelIyTEJLZkFuZTlXZE9MYnlxZ2RKdk1STGpUQVpaWXdjNGJoMmFuN1FLZHVJUGVrWXNSRlBHM1RFdGxES0FjVG9LM0JpRjMxVjRVb09fRXJjMENyWWNuQm1t?oc=5",
-          "published_at": "2026-04-07T04:17:07+00:00"
+          "title": "장동혁 “대통령 한 번만 하겠다, 이 한마디를 왜 못하나” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Fb3A1bmEwdDZFblhXMzRURDBON0lrMXh4ZktoNkQ4Z2NMNk02c2JIS0J4VUlYX1FRNlNlUWxrRk9HM2hhcTBRd1NiODdyTTQ?oc=5",
+          "published_at": "2026-04-08T03:03:05+00:00"
         },
         {
-          "title": "국고채 금리 상승…줄어든 휴전 기대에 약세 전환 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QVXB2RGV3dGNnNHY4blVFOU8xSzRKZnM2bVdZTU4tVmFyRC1ERVdqVXlsLTlHaEN1NVc5c0JFdDd1OFQ0YlM0VzZYeEVaemcydkY4M0FvY2FiTjZFbXo3dmI0bHdDNHRfQUFlU0V4Zlg?oc=5",
-          "published_at": "2026-04-07T04:14:10+00:00"
+          "title": "IMF 총재 \"세계 경제 성장 전망치 낮출 것…전쟁 영향\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EbzdlY1hxa01jM3h3V1BVZ3B3R3Q5REZfUVFEWEFHeGU0X2J2cUFjZkhEdC1ILURzWDR6YVNCbmFrSE1wSWdpU1VhaFVEN0U?oc=5",
+          "published_at": "2026-04-08T02:40:31+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "국제유가",
+      "score": 122.88,
+      "articles": [
+        {
+          "title": "국제유가 급락에 휘발유 상승세 꺾이나…3차 최고가제 이목 - 더팩트",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1saVdER2RvMkt0YWREMnJ6RndFRU1IcGRmbUZpRG1PdTBBRDlwdEExVlhoYVpfTVg3R3FCbTFiODF6WHlZbFl0M3JsdjN4S0hVczlZWkV4TmxLUdIBVEFVX3lxTE5NM1FHWWNrWkhuNFoyVGpQRUwtVTVzM09YY3MyZTRaMUpfMHZKSlg1c2x5cWVacW51aFBVU3FhUWV3UE9DVlZCa09WWDNkbDBtRnIyUQ?oc=5",
+          "published_at": "2026-04-08T04:09:50+00:00"
+        },
+        {
+          "title": "미·이란 '2주 휴전', 국제유가 한때 19% 급락…달러↓·금값↑ - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tSVI3U0gwOXNUZ3JPUTcwY29JdkRlVVF4c0Rrdk82NURCR3V1UV9fd1VGVHltMHl2bHJxU0dOd2FiZU8xWVZfUGNvRE1SNl9CZTRlSUZMSVdvelc0YTNZUnZnb2h4Q3NJdUE?oc=5",
+          "published_at": "2026-04-08T03:28:44+00:00"
+        },
+        {
+          "title": "휴전 소식에 유가 급락…국제유가 최대 19% 급락 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vX0pTTkhGMEZrbk9IcW5ZSVRXdVZtTjFwdWNESlFxUk9QcFBuUTBUTEUycjFHN296WVpjTENwNThWa3BjSkpKQ2p4UlZGYmpjUlBSODFpQU9tMnM?oc=5",
+          "published_at": "2026-04-08T03:02:00+00:00"
+        },
+        {
+          "title": "호르무즈 열린다…2주간 공격중단에 국제유가 하락 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LQTNNamVjaFFySC15aVEyZGJfZVBCWjY2cU5PT1o5OXd0ZlBpS0t5V2dPS2lDWDZaVF9kUE1ZejZuN0tXMWE0SmFyTEw2cHc?oc=5",
+          "published_at": "2026-04-08T02:39:09+00:00"
+        },
+        {
+          "title": "미국·이란 '2주 휴전'… 국제유가 12% 급락 - 세무사신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5MmFjelpQYUh4dVU5N2JfSWNReUpEYmhwNlBmS2R3dkZpQmZaMnh3Q0VwcDh3ZmdLR1ZtNUhXc1FxRXZiRm1SQVZWaGI3R3h0QjR2d0ZoVzRyUG13ZFNaVjd1WmdmMG12SXg1Rkl3?oc=5",
+          "published_at": "2026-04-08T02:02:23+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "유가",
+      "score": 122.61,
+      "articles": [
+        {
+          "title": "[기획]\"유가 충격 아직 반영 전…선제대응 나서야\" - m-i.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdXFyekVSVEJwOTlpNktRUHdHVUZvWFRiR2Y3Y3VPTVFtU0NWY3Zwa0dDSkRVVTVYdTVFYVNUNzVNTzJwNm02c0VQcUFPWFpqcHloS2Ryc1VVc0xnUXRadFNrNWk?oc=5",
+          "published_at": "2026-04-08T04:55:07+00:00"
+        },
+        {
+          "title": "'중동전쟁' 유가·민생지원…하남시, 300억 규모 긴급 추경 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ia0JMSWVmUkJlcm96ZXlmZ2RVVS1ldmdCdzhJWm1VTUw1QTlwRjFzZTZ0R0hkZkxZbVVXekFTMC1ja0VqSXgyYVV6Qmlsc3psdmRsSGZJR3JaTjZBcTZiNw?oc=5",
+          "published_at": "2026-04-08T04:54:17+00:00"
+        },
+        {
+          "title": "산업통상부는 국가 예산에서 유가안정기금을 선지급하는 것에 관한 지침을 발표했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1JYSDlCYWRwMlB5aVZhRTR4RkRhRlhpNHE4OEhleFBnYnhscU1NbEctVDhmTC1EYXpyLVRZenBzOHBGWVc5S01VOTJiSllMaDZqZW5NUkJ2Y282QnhYVGstQkJKYjNYSHl0ZEd4VTZNMzlhVGlCLTB6dEtMcHJPb19zaWZQRnpidnBuTzQ5TWVvNkV0Und1ZzJFMENLLUd1c1YxcE9qTkNXRVk?oc=5",
+          "published_at": "2026-04-08T04:38:46+00:00"
+        },
+        {
+          "title": "국제유가 급락에 휘발유 상승세 꺾이나…3차 최고가제 이목 - 더팩트",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1saVdER2RvMkt0YWREMnJ6RndFRU1IcGRmbUZpRG1PdTBBRDlwdEExVlhoYVpfTVg3R3FCbTFiODF6WHlZbFl0M3JsdjN4S0hVczlZWkV4TmxLUdIBVEFVX3lxTE5NM1FHWWNrWkhuNFoyVGpQRUwtVTVzM09YY3MyZTRaMUpfMHZKSlg1c2x5cWVacW51aFBVU3FhUWV3UE9DVlZCa09WWDNkbDBtRnIyUQ?oc=5",
+          "published_at": "2026-04-08T04:09:50+00:00"
+        },
+        {
+          "title": "미·이란 '2주 휴전', 국제유가 한때 19% 급락…달러↓·금값↑ - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tSVI3U0gwOXNUZ3JPUTcwY29JdkRlVVF4c0Rrdk82NURCR3V1UV9fd1VGVHltMHl2bHJxU0dOd2FiZU8xWVZfUGNvRE1SNl9CZTRlSUZMSVdvelc0YTNZUnZnb2h4Q3NJdUE?oc=5",
+          "published_at": "2026-04-08T03:28:44+00:00"
         }
       ]
     }
