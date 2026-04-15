@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-04-14T05:20:06.127046+00:00",
+  "generated_at": "2026-04-15T05:20:31.238812+00:00",
   "source_count": 4,
-  "article_count": 384,
+  "article_count": 385,
   "top_keywords": [
     {
+      "keyword": "신현송",
+      "score": 224.05
+    },
+    {
       "keyword": "수출",
-      "score": 197.89
-    },
-    {
-      "keyword": "환율",
-      "score": 174.91
-    },
-    {
-      "keyword": "달러",
-      "score": 120.06
-    },
-    {
-      "keyword": "daum",
-      "score": 100.72
-    },
-    {
-      "keyword": "net",
-      "score": 100.72
-    },
-    {
-      "keyword": "3월",
-      "score": 97.2
-    },
-    {
-      "keyword": "금리",
-      "score": 96.07
-    },
-    {
-      "keyword": "유가",
-      "score": 91.16
-    },
-    {
-      "keyword": "협상",
-      "score": 83.22
-    },
-    {
-      "keyword": "연합인포맥스",
-      "score": 73.03
+      "score": 206.04
     },
     {
       "keyword": "중동",
-      "score": 70.95
+      "score": 190.38
     },
     {
-      "keyword": "ICT",
-      "score": 70.0
+      "keyword": "환율",
+      "score": 175.9
+    },
+    {
+      "keyword": "3월",
+      "score": 146.32
+    },
+    {
+      "keyword": "물가",
+      "score": 130.4
+    },
+    {
+      "keyword": "daum",
+      "score": 123.07
+    },
+    {
+      "keyword": "net",
+      "score": 123.07
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 110.3
+    },
+    {
+      "keyword": "상승",
+      "score": 103.74
+    },
+    {
+      "keyword": "유가",
+      "score": 89.12
+    },
+    {
+      "keyword": "수입물가",
+      "score": 86.19
     }
   ],
   "hot_topics": [
     {
-      "keyword": "수출",
-      "score": 197.89,
+      "keyword": "신현송",
+      "score": 224.05,
       "articles": [
         {
-          "title": "포항철강단지 생산 보합·수출 급감···“중국발 공급과잉 직격탄” - 경북매일",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ldGduYkUzWml2U2QtQng1WUhVVWpFRzZKWlB4OVRYek9TU1RDOXBmNk9MMVhWRl9LQkdGSm9tbVJzNkNsbmRPLV9KbWg3YnUwdkl1NnVmbGE3dw?oc=5",
-          "published_at": "2026-04-14T05:14:00+00:00"
+          "title": "신현송 \"물가 안정에 무게 둘 것‥중동 리스크 2차 파급 시 통화정책 써야\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DYjY3XzlJT2lYVGNHRVdGV01HcE9qTGU3TTBvNWZzOUxaazM2Q000Z0ZWZnJjbkg0MExyajdvMndHTmlERW1JbXdsMndhRW8?oc=5",
+          "published_at": "2026-04-15T05:00:07+00:00"
         },
         {
-          "title": "K-방산 수출 154억달러 반등...K-반도체와 다른 '구조적 성장' 왜 - 데일리방산",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82SWwyNGtORnJ3amhBdGF6QzMtYjJXU1hZdDYtYXU0cl95TDM1SE9mcl9JSkNVNnFGU1lZSG02RllhZmNvX0xKS1FJd0Q4MnRnV3FaVVNBbDEyYWNQNXZNUkhaQnBoVVVhME02Q1BUOA?oc=5",
-          "published_at": "2026-04-14T05:11:36+00:00"
+          "title": "신현송 \"금리, 어느 한 방향으로 움직이기에는 이른 측면 있다\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wVkhoY2phOThWUlFUTl9WNEVRZ2wtcFN3R1BneFBGRkJuV01MRE90SEtLdF83Z09OZ2N3NnIwZ1cyZGdEQ2NjeHhNakdQbDFTR3Y5NjBJa25TOFBWRzgzZXhBdWlPTG9MTlk1SkRxbmHSAXRBVV95cUxNenNUZkZkNDFhSWhmX1VxblhKOHhOLXYzT2ZMRE43WE1ZVzU5dEJmcTlaVEU1UTVwYW9seF9nTnc3TE1OaUFLYTV1Rm42X3k1c05aQXVFYW9XazZLUm9PdFUteS1QYzJLeDk1TnM2UWlpbE1iZQ?oc=5",
+          "published_at": "2026-04-15T04:58:33+00:00"
         },
         {
-          "title": "한국콜마, 무보·우리은행과 협약 수출 공급망 금융지원 참여 - 코스인코리아닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5anVzMEczY3M2NnNsLW83YWczT3Ewcmd4Xy1DX2V6dVVyOFBZc0FKdEJQRFRsNC1uNHNOY3lFcGtxY2FUZ3Iycm5KRFNrWFJidndxOTA0YjFTWURvVVp2RE9RM0NNQQ?oc=5",
-          "published_at": "2026-04-14T05:10:16+00:00"
+          "title": "신현송 “신상 문제로 국민께 송구…한국 경제 위해 최선 다하겠다” - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92WW9jaFpwTEhjVFI1TGp0bWQtQlpWSkg2dVA1ZmgteDBESk5xVGNVM1F1MWJ6TE5Kazl5eVVsZ2FLc184UlpoNnA2d1huVWZEUWlXN3hvbWtDV0d6bUHSAWNBVV95cUxPZW44bTEybVdEeURMTDNfcmVaMVNueFdMSFNqczNHUHAxR2JXX2RqbHlLN1gwUXBmMzFiQkRuZmtsaDI5QVU5U19WWG9uc1AtLVJqaUZOSXpNYUlQZ09JNlFYQ2M?oc=5",
+          "published_at": "2026-04-15T04:58:00+00:00"
         },
         {
-          "title": "호르무즈 봉쇄에 中 ‘수입 급증·수출 둔화’… 에너지 쇼크 현실화 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYloxbVFRQnVLMEZUcjU2Qy1pMUxZanlrNGFoaUJSSDRGdjZSMWlBSWlqN3lBd3BmRlpERHIwTGpCcGtWWEV0ZWNIRFFBS2plUXZadU5ieWhBRGh3RHozTnQyU1hTLTFOVklldmo1WnhNVFBUQVdRZkh4THJjR0w3Y3hnd2NmWTM3?oc=5",
-          "published_at": "2026-04-14T05:02:27+00:00"
+          "title": "신현송 한은 총재 후보자 “성장보다 물가 안정 우선”...실용적 정책 운용 강조 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wclZZTHlFZFpObW9RNUtNQVhUSDFhWldqbWRHcHNudGNLUWFja2JXclkwTk1DcXZGY2ZWZXlEUkVQRlVNNk5rV21nLTNHQQ?oc=5",
+          "published_at": "2026-04-15T04:45:53+00:00"
         },
         {
-          "title": "AI·반도체 훈풍에 ICT 3월 수출 435억달러… 사상 첫 400억달러 돌파 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGU2Smk5TVRVTHpSMGd4QUNzcnVXbWtwYk56QVItMEU1MGtwam12aWpaa1g3T2YzM1ctS1FBRnd5NVBneVl4Uk9ScnNyS2VhY21TWTRQSVpncWhZdW5OWVpOcU95amdIeFZZZXpLalI2QTJmUUJIMC04NXVsMjVPX3Z30gGWAUFVX3lxTFBnaUowYlB1R0JkZ2ZWWXJYREg2dTVMV3dVNS1Db2xzTm0yN0NrWFFkV2RuMWJRbWwxRTZWNlVSenRBZHNNWjdyYUYwd3FyXzNOWmh3SEowN3ZPU0lsZ1dUWW9wek55M3phRFlPczY0X1BqeUJOR0JXYlZFOUF1QkJmWk9kMEpGRVotUVRUYkc4WjlaRTRGdw?oc=5",
-          "published_at": "2026-04-14T05:01:00+00:00"
+          "title": "[청문회] 신현송 \"중동 군사적 긴장 여전…물가·성장 불확실성 큰 상황\" - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1NxYnhBc3p6bDhtWWdwRWdVUU13MEdwMmtZbW9UdDRHVEFYOXNQQnl2ODVBZ2tydGtYRmRhd3g5eFZ1eDRZYnB4eDZVcnpUemhlVENwM3dQUmpQSE5XRXNsVzFiYkN6VUxaVHhBY3BQUVRzNmMtNzZ3X0hPSG1Cb00tR3E?oc=5",
+          "published_at": "2026-04-15T04:38:17+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "수출",
+      "score": 206.04,
+      "articles": [
+        {
+          "title": "자동차 수출, 관세·전쟁 변수 속 2% 성장…하이브리드가 견인 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LWG1DWjJ5YWp6eFZmV1RCYVdyRkdCS0xac010OE9pQ29pMmdYMXMxcm9ydU5vS2MtUlVtTzQzdk9YQ0s1MlJEWWU4cXRRblE?oc=5",
+          "published_at": "2026-04-15T05:11:44+00:00"
+        },
+        {
+          "title": "자동차 수출, 관세·전쟁 변수 속 2% 성장…하이브리드가 견인 - 시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ZkhxOUlwLXk2c2haeC1CdnBGX3RjeVJja05mR1lHTU1yczNLYmstVEdkbV9nVWdEMTBaZnpYb3VuNWFGanBTcTZ0bVR0aVhveDZ3dnF6YXNBclI1SzJ1VGVqUjlicFI4QS04MjFmZ9IBc0FVX3lxTE81bGQ4a0xIYVVQQk56bVBwTGNNU05uZWFfclpLRk9kZmxPYlRodlRzMFVIaUNHY29kR3hTTDg2cTM2dVRneVlSa3l1SGhxWUNqUnVITHN2N3VSZzZPSllyQkk0Vkhwa2VmX0F3MnFIOFJvZTg?oc=5",
+          "published_at": "2026-04-15T05:09:00+00:00"
+        },
+        {
+          "title": "K-푸드+ 수출상담회에 전시된 발효식품 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iSVNIdXNDQWo2WGdJQ0VlbmlPUi11bkp0V0tTTm9HSXVMS2FkYm5jaXpMZGF4aXd4Y0dBdjVGRW9HYWVNTGswemQ5elNYVUpZNDlQR1lHT01HMGRDRHFpM0s5SndwV0E3dE5RRktZc1hfeTQ?oc=5",
+          "published_at": "2026-04-15T05:06:13+00:00"
+        },
+        {
+          "title": "K-푸드+ 수출상담회에 전시된 전통 과자 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIQ2dyMjF5RFQtZ3I5NGVDTXBxR2N2MEdOMU9taWM1TW01b1dGYTJrQVQxZ2dtUHY0M3RhdmdVX3gta1h2N0J1eVVMazNYclJFYWpEaUpxd0VEcWxrUjJJMnNtNWNYbXRYU1g5STh3U0Zvcjg?oc=5",
+          "published_at": "2026-04-15T05:06:10+00:00"
+        },
+        {
+          "title": "의료기기협회, 규제 혁신부터 수출 지원까지 산업 성장에 박차 - 의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wcmhpcUlqTHAwVUVoeWFKMzVhaE16d3lIOWZKVXd5Q0tod2NsNjgwY2N1QTg4VmVOX1pHT3lSbkpnZ0VEMzlzdHhHVW9aclhBY1FVQjIyMGpNQTFXajcyV1dvWF9xRjk0WFE?oc=5",
+          "published_at": "2026-04-15T05:04:06+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "중동",
+      "score": 190.38,
+      "articles": [
+        {
+          "title": "가평군, 중동 전쟁 여파 ‘비상경제대응팀’ 가동…\"27일부터 고유가 지원금 1인당 10만~60만원 지급 예정\" - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OWXcyNlJRSWNYR2Vtc0xSdTFkMjk0QkhEUVdaTDlDZVJCdy12X0F4cUFURWZ0VEJBci1RT1NUOGx2ZDlfc1JqeG5wRm0ycGFPalVhazBLT2xwS2ZmWlF6Mm9Qa2Q?oc=5",
+          "published_at": "2026-04-15T05:07:05+00:00"
+        },
+        {
+          "title": "경기도, 중동 전쟁으로 경영난 겪는 농업 수출경영체 긴급지원… 총 390억 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3LVFwSTQ0Zksxcl9HSzZaaERlcFZaRlF5Sjc1QWhMMU9xbVdyTERYaC1sTERaNHFRQi0wbVJ4NTNLMlN3dHRia2RPVU8zaHVtTTBZNldacExMa3p4bnp2RFh3?oc=5",
+          "published_at": "2026-04-15T05:00:10+00:00"
+        },
+        {
+          "title": "신현송 \"물가 안정에 무게 둘 것‥중동 리스크 2차 파급 시 통화정책 써야\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DYjY3XzlJT2lYVGNHRVdGV01HcE9qTGU3TTBvNWZzOUxaazM2Q000Z0ZWZnJjbkg0MExyajdvMndHTmlERW1JbXdsMndhRW8?oc=5",
+          "published_at": "2026-04-15T05:00:07+00:00"
+        },
+        {
+          "title": "중동 변수 수출 돌파구…K-푸드+ 바이어 상담회 규모 확대 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qSXQ0RUcwR1U0bFRCcVZ4S01Ud0hQVnpJRTUxVVpHdzVYLUNaMjJxTzJRWWdpQUhsTjU5SWEzMklpZmdzczdDMnhBanZxQQ?oc=5",
+          "published_at": "2026-04-15T05:00:00+00:00"
+        },
+        {
+          "title": "중동 리스크에도 K푸드 수출 확장 드라이브…45개국 바이어 집결 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNXdiT0o5TnVEVjIta0M5UWxSLXlURG5VVnRLckx0VVh3TkFyMUZTLVczMXZFTThxVXBNbWZBalRvcVRycUlUdlBtY2laWjkxcDdEQVZMMlI4WHh4UkRhZtIBeEFVX3lxTE53Q3k0Wks0VVlWa2pWWU9Da0IwVFBZbjFMeFpVSmZ2VjNBTE9KX01ldjFOU0h1dnhHd0ZlbjZjYV9DTGpyT05YOUYzbFhSdXRVTFA0YTN3M25yTW9MX2s5cW5vdmcxQUFfeEtBVUYwekVqVUFEM25UOQ?oc=5",
+          "published_at": "2026-04-15T05:00:00+00:00"
         }
       ]
     },
     {
       "keyword": "환율",
-      "score": 174.91,
+      "score": 175.9,
       "articles": [
         {
-          "title": "“해외투자주식 국내 복귀 양도세 감면”…정부, 환율안정 3법 의결 - intn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dUpJTzVTWG41TjluNjFBVnV3UWtNVlU0YThZal85bnNEQ0dEZnBlcHB0TTl6VDd5WGMxOHRERENnNDJ2MFZmNjhMbk41cDhYeHdVcnNTRVRrTUlhTEdCRGY3dlZPNVJ3N3c?oc=5",
-          "published_at": "2026-04-14T05:12:39+00:00"
+          "title": "중동발 유가·환율 충격에 3월 수입물가 16.1% 상승 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43YlNPTVdCZzRtcThGc3M0N09aUHM1RDFIV1lyczZsOU84Nld2Vkp2cmV4aFVFSGFpOHAwc0NGNU1zVmJKTXpGU3A4bw?oc=5",
+          "published_at": "2026-04-15T04:54:00+00:00"
         },
         {
-          "title": "환율안정 3법 국무회의 통과…“서학개미 복귀하면 양도세 면제” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1dWJ0dnU0ZXdsRE1DaUNuMUZRYWpWMlpxOFpqNm42bW56cUY4NEs2SjBPYWVIY1lXZTBsdHZGVW56TVNlUlNoZnFZUTN1NTV2N1BqdEVHbTN3WEZ2Wm5MSjNLOWJsZw?oc=5",
-          "published_at": "2026-04-14T05:10:00+00:00"
+          "title": "신현송 “금리 동결은 전략적 인내”…청문회서 금리·환율 방향 제시 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KaWFCaXNrV2F6emdmRzNoYnZ3N1lRVTRIdGRzNUVUZnl0Q2RhbXZyQlExOFFnQjl2bDMxM0pndFdVMWJ6bWFSR3NlUDQzR2hxZkVPakR1ZWVrMGdmS1E?oc=5",
+          "published_at": "2026-04-15T04:28:00+00:00"
         },
         {
-          "title": "'리턴 서학개미에 양도세 면제' 환율안정 3법 국무회의 의결 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kV29heDVqV1dxQldnbW5raVJ1X3M3bkgyRUVFNGZxTlNEXzg5TWl0S290NzIxU0djb2tZUFFtcmxkU1Rxd2FDYUREdEZPVVYza1hJMS1XQTBRdXNtQUtWb1d5R3JOcEZJWFFLMGU5TEg?oc=5",
-          "published_at": "2026-04-14T05:04:01+00:00"
+          "title": "신현송 \"이번 환율 상승, NDF 거래가 상당히 큰 몫…꼬리가 몸통 흔들어\"(종합) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkTjQ3N3hSY1drdHVaTHE3eTVkN1JiT0pKV1R2NUVRSWRTOXE4b3ZwUzRaNWdwZk5Tek9BcnZ3MXdPWHpaanExd2hHSDJKWUplQ0FKQUtzSnNyelREdTlrcTAwbFRwVVA4V3VOM0hPT2g?oc=5",
+          "published_at": "2026-04-15T04:04:34+00:00"
         },
         {
-          "title": "울산, 유실물 반환율 전국 1위…절반 이상 돌아와 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54SXlEVzZpWDB5a1ZWLUVfNlRtUFNod3JoNEhZWGZoQW9wUzdseWlCbElyLXphV0JUUWZ6WU1Tb3lIbDJPUGZ1UUNSS20tUk80Ul83ZTBXS2h5REpkQ1pfWdIBeEFVX3lxTFA2Rnl0Ny1MVEZxMHp5ajJFal9LaE5IenNpUkpkSlg1SC16QkdNcWw2MUR0TC1oTFRSWXViNTZoMlpuSk1DZFFoSHlOa19rbERrUUFyY2RnSHA5bTRWYnp4SWVHWlo0bVlXTkEtRm04bnBDV2FaRjlFVw?oc=5",
-          "published_at": "2026-04-14T04:41:08+00:00"
+          "title": "신현송 한은 총재 후보 \"금리 동결은 타당... '환율 왝더독' 현상 경계해야\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01Z3hFanZydEJjR3FldzJudWtRZkJ3TnlxZmhfUWtUeVVTRGpZb1pOcWY2aGhuQm9mdWVnNmpVRXhkdzhzQzYtdWRHUmRueTQ?oc=5",
+          "published_at": "2026-04-15T03:53:00+00:00"
         },
         {
-          "title": "‘빅스텝’부터 환율 ‘사투’까지…이창용의 치열했던 4년 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGd21UX1luOWNzTWhBZlFLUHpIYnJDWWdOSjlhcHBRcVBQVWtlRTh1eW5MY01hQjctaWI1VXptU2ViLUQyNjM2UWR6UXB4THh4NHdkdEx3?oc=5",
-          "published_at": "2026-04-14T04:30:18+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "달러",
-      "score": 120.06,
-      "articles": [
-        {
-          "title": "K-방산 수출 154억달러 반등...K-반도체와 다른 '구조적 성장' 왜 - 데일리방산",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82SWwyNGtORnJ3amhBdGF6QzMtYjJXU1hZdDYtYXU0cl95TDM1SE9mcl9JSkNVNnFGU1lZSG02RllhZmNvX0xKS1FJd0Q4MnRnV3FaVVNBbDEyYWNQNXZNUkhaQnBoVVVhME02Q1BUOA?oc=5",
-          "published_at": "2026-04-14T05:11:36+00:00"
-        },
-        {
-          "title": "호르무즈 봉쇄 현실화, 유가 100달러 붕괴 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQUFBdkZIZkZiSFdSdTA1SHlqbG5TekZtbElXelBtNF9KNl9zdmNEM29YVTM0MWdNdUc5UDVZaHcwR1l6UVdTZ2EyZTBlZUNHQlZQSFpOWmt4ZzM5RlRoVjNYNE1Zd2NqbHRiMHVmdllqUGZSNjFzanF5M0NvOHQ1Rm1XWHJ6cC1n?oc=5",
-          "published_at": "2026-04-14T05:09:36+00:00"
-        },
-        {
-          "title": "AI·반도체 훈풍에 ICT 3월 수출 435억달러… 사상 첫 400억달러 돌파 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGU2Smk5TVRVTHpSMGd4QUNzcnVXbWtwYk56QVItMEU1MGtwam12aWpaa1g3T2YzM1ctS1FBRnd5NVBneVl4Uk9ScnNyS2VhY21TWTRQSVpncWhZdW5OWVpOcU95amdIeFZZZXpLalI2QTJmUUJIMC04NXVsMjVPX3Z30gGWAUFVX3lxTFBnaUowYlB1R0JkZ2ZWWXJYREg2dTVMV3dVNS1Db2xzTm0yN0NrWFFkV2RuMWJRbWwxRTZWNlVSenRBZHNNWjdyYUYwd3FyXzNOWmh3SEowN3ZPU0lsZ1dUWW9wek55M3phRFlPczY0X1BqeUJOR0JXYlZFOUF1QkJmWk9kMEpGRVotUVRUYkc4WjlaRTRGdw?oc=5",
-          "published_at": "2026-04-14T05:01:00+00:00"
-        },
-        {
-          "title": "ICT 수출 435억달러 '사상 최고'…반도체 300억달러 시대 열렸다 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IcEtLQ3NrWDJZbllmRjY4MXF4UlZBcDFtUEQtd3JCbXJmbXRsTGMwWVp3VmIyczJ1ZkZ5UDdFUEI3akhEQnpocUVTUjVkQQ?oc=5",
-          "published_at": "2026-04-14T04:42:51+00:00"
-        },
-        {
-          "title": "ICT 수출 중동 전쟁에도 신기록… 400억달러 돌파 - 서울와이어",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FaXE2X05ORG5FYlVqeVpPWjVzd3VqaWYwa05xRkpWTUphMTR5N1Eyczl6WWpobnF6cjNYQ1pUd1VlNmVtZkdjNkhCaS1fZGk0Q3RHZ0w1cTJOQkU5cEF0UlQ4NVhjLVRSWmFxcw?oc=5",
-          "published_at": "2026-04-14T04:29:30+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "daum",
-      "score": 100.72,
-      "articles": [
-        {
-          "title": "日 유가 보조금 정책에 정유사 불만…\"업계에 부담 떠넘겨\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04RkZBMEhOQ2J5cjd0d3M4aUVKLWQwSXRkOHUzc1RnQ2w3ZUh6cmJvUm9hMXdwODF6V3dBdUJFMVVkRWNCcmZZNnlRSE51Nlk?oc=5",
-          "published_at": "2026-04-14T04:33:10+00:00"
-        },
-        {
-          "title": "[현장] 완도 故 박승원·노태영 소방관 영결식…식장 가득 채운 비통함 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Yc2Nnb1MzbjkwaWl4blBIeHU0MjVjNXRWWmVvTERYSzM3VzhKS0x0cVpTRm51eWloalJOMC1KUFNYV2xxWEUtYnU5bzNMR0k?oc=5",
-          "published_at": "2026-04-14T04:25:32+00:00"
-        },
-        {
-          "title": "이 대통령 \"형사 처벌 너무 남발…경제 제재가 오히려 큰 효과\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zM2RaOTUwWnduNXZEUXhwVm1jUWxNVWNPcklmRXRfSk9BRm9LVE5BSWFYem1fN01UQ0pCLUhDeW1oN1ExdWFweU4yekdLN2M?oc=5",
-          "published_at": "2026-04-14T03:15:12+00:00"
-        },
-        {
-          "title": "한은이 본 청년 남성의 경제활동참가율 하락 이유 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11QjQ0T0kyeUdUV0ZFdEY5ZGFhaFBFWXNWUFRsYzVHdWxqTEh0RmNlRUgwekRGTmlvQm1oZkdTM20yRnVuSS1jMFR4cWlNSmM?oc=5",
-          "published_at": "2026-04-14T03:02:04+00:00"
-        },
-        {
-          "title": "한은 \"男청년층 경제활동 급감…성별·세대간 경쟁 심화 영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmUlczV3ptMWg5Zzl3NzBUOF9mbmktSngwLUduU0NnMWZ3V1BNZnlGZVl6TWIzSmxvdWt1NkF6SVJXeEJhSnp1NVlqb0VIdHc?oc=5",
-          "published_at": "2026-04-14T03:01:31+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "net",
-      "score": 100.72,
-      "articles": [
-        {
-          "title": "日 유가 보조금 정책에 정유사 불만…\"업계에 부담 떠넘겨\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04RkZBMEhOQ2J5cjd0d3M4aUVKLWQwSXRkOHUzc1RnQ2w3ZUh6cmJvUm9hMXdwODF6V3dBdUJFMVVkRWNCcmZZNnlRSE51Nlk?oc=5",
-          "published_at": "2026-04-14T04:33:10+00:00"
-        },
-        {
-          "title": "[현장] 완도 故 박승원·노태영 소방관 영결식…식장 가득 채운 비통함 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Yc2Nnb1MzbjkwaWl4blBIeHU0MjVjNXRWWmVvTERYSzM3VzhKS0x0cVpTRm51eWloalJOMC1KUFNYV2xxWEUtYnU5bzNMR0k?oc=5",
-          "published_at": "2026-04-14T04:25:32+00:00"
-        },
-        {
-          "title": "이 대통령 \"형사 처벌 너무 남발…경제 제재가 오히려 큰 효과\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zM2RaOTUwWnduNXZEUXhwVm1jUWxNVWNPcklmRXRfSk9BRm9LVE5BSWFYem1fN01UQ0pCLUhDeW1oN1ExdWFweU4yekdLN2M?oc=5",
-          "published_at": "2026-04-14T03:15:12+00:00"
-        },
-        {
-          "title": "한은이 본 청년 남성의 경제활동참가율 하락 이유 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11QjQ0T0kyeUdUV0ZFdEY5ZGFhaFBFWXNWUFRsYzVHdWxqTEh0RmNlRUgwekRGTmlvQm1oZkdTM20yRnVuSS1jMFR4cWlNSmM?oc=5",
-          "published_at": "2026-04-14T03:02:04+00:00"
-        },
-        {
-          "title": "한은 \"男청년층 경제활동 급감…성별·세대간 경쟁 심화 영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmUlczV3ptMWg5Zzl3NzBUOF9mbmktSngwLUduU0NnMWZ3V1BNZnlGZVl6TWIzSmxvdWt1NkF6SVJXeEJhSnp1NVlqb0VIdHc?oc=5",
-          "published_at": "2026-04-14T03:01:31+00:00"
+          "title": "신현송 \"이번 환율 상승, NDF 거래가 상당히 큰 몫…꼬리가 몸통 흔드는 현상\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wcTd6Rmg2NVhwdU1kU1lPSHhLTWhramRGMGp6bUpTRkRPMzl5Xy16bUZfY1FMSFhzalc1Q2gwNXE1Q0NneEZlLXBOWDVxWVMzNzNfclVnWm9rZTg0QTd2VE4wTl9JdWdmSkwyMjhSVl_SAXRBVV95cUxQSURkUzUweDNjc05ZSjNSb3VzSWdJTVJHc1JSR19RWEJrQnZCYjROdV9Ed3hOUUo0UXNhaTBqLVZmOFVNeEpxLUJrRHVpSGp3V2NReHU0Wkg2cVRkajNNajBreVp4cUFZWExGX0QxMC1VNVM5MQ?oc=5",
+          "published_at": "2026-04-15T03:46:35+00:00"
         }
       ]
     },
     {
       "keyword": "3월",
-      "score": 97.2,
+      "score": 146.32,
       "articles": [
         {
-          "title": "AI·반도체 훈풍에 ICT 3월 수출 435억달러… 사상 첫 400억달러 돌파 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGU2Smk5TVRVTHpSMGd4QUNzcnVXbWtwYk56QVItMEU1MGtwam12aWpaa1g3T2YzM1ctS1FBRnd5NVBneVl4Uk9ScnNyS2VhY21TWTRQSVpncWhZdW5OWVpOcU95amdIeFZZZXpLalI2QTJmUUJIMC04NXVsMjVPX3Z30gGWAUFVX3lxTFBnaUowYlB1R0JkZ2ZWWXJYREg2dTVMV3dVNS1Db2xzTm0yN0NrWFFkV2RuMWJRbWwxRTZWNlVSenRBZHNNWjdyYUYwd3FyXzNOWmh3SEowN3ZPU0lsZ1dUWW9wek55M3phRFlPczY0X1BqeUJOR0JXYlZFOUF1QkJmWk9kMEpGRVotUVRUYkc4WjlaRTRGdw?oc=5",
-          "published_at": "2026-04-14T05:01:00+00:00"
+          "title": "3월 車수출 64억달러 '역대 2위'…하이브리드 버팀목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44NHRvcjB5V2ZsT09UWGQ0NWtWZ1lYdzdKYU16REZGMHVSa0xrVXVId3VpdV92SnVEN2tVUmx0cjlabkl4VGZ2RHBBZ2pqbm8?oc=5",
+          "published_at": "2026-04-15T05:03:08+00:00"
         },
         {
-          "title": "\"호르무즈 해협 봉쇄 여파\"…中 3월 수출, 예상치 하회(종합) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTEdObU9OeXVaS1hzV2JzVTB2RE1mZzZCdWM1aGNDNDBXSU1naFhZWmhoVUFoWEV5ZXMwS09lLThYNHdwdjlKXzhlVUppVHVNVktfVC1tdG1ZR2I1MGlLbDJSRHVIbU52M0VqM3A3QXrSAXRBVV95cUxORmZDMDB6cGg2RjYzUlo0T3FLZFplcG9TS3BvLUt6VmlPTkRybFE0d3NSdlhOSE1XWUlpb3M5cmZjMTBDMG1DMno0bG90aGI0clJqLTJkcWZwZDZFU1pmQWl5RUc1TXl6UC01LS0zMkRYV1Fkcg?oc=5",
-          "published_at": "2026-04-14T04:57:32+00:00"
+          "title": "중동발 유가·환율 충격에 3월 수입물가 16.1% 상승 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43YlNPTVdCZzRtcThGc3M0N09aUHM1RDFIV1lyczZsOU84Nld2Vkp2cmV4aFVFSGFpOHAwc0NGNU1zVmJKTXpGU3A4bw?oc=5",
+          "published_at": "2026-04-15T04:54:00+00:00"
         },
         {
-          "title": "3월 석유류 물가 전년 동월 대비 9.9% 상승 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44WHZGMzF1eEs1Y1VLb3EzWUVvWXdzLVBTTlZkWkdlcXJpcmQxVlFZSGZOWjNfVDJrNEp4Vk1PMGtVVXRmQmhMTGp4NA?oc=5",
-          "published_at": "2026-04-14T04:25:27+00:00"
+          "title": "광주·전남, 3월 수출실적 31.7% 증가 - 한국세정신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XNHMweUc0dlZrZ0NQc2gzQmxNWHdjaXQzTVQweDhJcjE4cHk0Z29neFlCRnd1NE5XTGdfd3hDeGRmVXBvSU9jS3QyVC0xZkhaNVBlUDBPdUZVOVhwZTNkRzd4QQ?oc=5",
+          "published_at": "2026-04-15T04:29:39+00:00"
         },
         {
-          "title": "中 3월 달러 기준 수출 전년비 2.5% ↑…예상치 하회(상보) - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtSDBMZ1JfWm9NSXc1Uzh2Z1ctcFVkcy1PamIyV1dRY0RKWEY2bDlHakhoN1pVVzBSWlJ1WXZNQWpmeFJKMjhmaFN6VEd2OHhZSXllellGRTdLVjc1ZlBFbXAtYnV0dDdiSEctV2ItZ01iUQ?oc=5",
-          "published_at": "2026-04-14T04:03:19+00:00"
+          "title": "산업부, 3월 자동차실적 '수출·내수·생산' 모두 성장 - seoulwire.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXTzRzY1ZUOWV3blIwTTFISEJaMUFfZ3BBU1NMRUI4MDNFb2h6eFE4V1d5ZlRSZUV1eHFMUG5hQk4ybUJ3RlIwNVpwbXRuMXVDSmFLUDB4dWF0d2wtZEM4b0hMZXBqUlMxZE95UA?oc=5",
+          "published_at": "2026-04-15T03:29:45+00:00"
         },
         {
-          "title": "반도체 호황에 3월 ICT 수출 435억 달러 '역대 최대' - 금융소비자뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02WGdlbzVOWjR5R2JVclpyZHh5akhiSEtiZnZJdzB2d1Q5YjVqUENWc2JhNFVGUUhFOGxfQlYtNURZSmhoZUZWQXUxWEh6Qjhjbjh6TmhLNGxPTHFNMThZVnRzWHBldDlMWGc?oc=5",
-          "published_at": "2026-04-14T03:30:02+00:00"
+          "title": "3월 수입물가 16% 급등‥28년 만에 최고 상승률 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzQU51UU0zQ2hvOWRnWExzdThZSFNXRmRwbTlsUW1GTEpweWRIWUFQWG1VY2VuMVdRREZGaDdDTGJNdHQzQ3o3d3IzV2dNWlR0YmRIM084d0V1ZmlXY3pPbzFnbThOYWJUVWFQNU9COUZOdXJCcmVWY9IBeEFVX3lxTE5Oa092c1BOR2xKS1BMd3hoX0R1bXMyNmI3cjY2cE00R2g5ZS0tVWRFclBGSUp2VWNjN0d3d25reFZEaHE1WFdzSG1pQlkxSE9XejNFYmRyaUFfeEtfZVpWRUt0d0pWUVRHYWxJb25CMThoMWJGSUhMUA?oc=5",
+          "published_at": "2026-04-15T03:10:02+00:00"
         }
       ]
     },
     {
-      "keyword": "금리",
-      "score": 96.07,
+      "keyword": "물가",
+      "score": 130.4,
       "articles": [
         {
-          "title": "금리 인상은 부동산 시장에 '필터' 역할을 합니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkZ4Wm1vR2VyYVQxS0I5LWRJdjcxZFlXc3U3bXlpeW15MzdncXctVjNWOU1aand3RVJURlBwTWwyVFo5eE5GQWliMG1EcUFscTVySkE1bG43OHJoZnFpV2J6eU5FQVQyd01CSC1leG9CenlvVTVnTjlVQzRrRGlhQmtoazRWWUk?oc=5",
-          "published_at": "2026-04-14T05:01:26+00:00"
+          "title": "신현송 \"물가 안정에 무게 둘 것‥중동 리스크 2차 파급 시 통화정책 써야\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DYjY3XzlJT2lYVGNHRVdGV01HcE9qTGU3TTBvNWZzOUxaazM2Q000Z0ZWZnJjbkg0MExyajdvMndHTmlERW1JbXdsMndhRW8?oc=5",
+          "published_at": "2026-04-15T05:00:07+00:00"
         },
         {
-          "title": "[증권사 금리 압박]③ 신한투자증권, 리스크 관리 속 성장 속도 조절 - 블로터",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JNnVXRmJ0aGFuOXBWcUg0U3pIVnp2WkhvV0t5MldDQXk0MEJ4ZTR3UHl0a0VlZC1ZTk15dUhyR2FJSF83ajg1Q0lXSFZ1dmlZVHlWTDdXUEp6dnVNUXNsd2h5UGZqYmlx0gFsQVVfeXFMTjVXWUU4OUo5dU5ReERiaXRKbHUwQ0o2XzBkaFkwT25GbHNyY1ZzazVkbEFPTElaMmRrdWlUOXpZUXNEdkZfOEM0RlRPRldFaDJpMTZjVmRnWTFaYzZoRVM1bGdod3NEallnLWZa?oc=5",
-          "published_at": "2026-04-14T04:49:48+00:00"
+          "title": "중동발 유가·환율 충격에 3월 수입물가 16.1% 상승 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43YlNPTVdCZzRtcThGc3M0N09aUHM1RDFIV1lyczZsOU84Nld2Vkp2cmV4aFVFSGFpOHAwc0NGNU1zVmJKTXpGU3A4bw?oc=5",
+          "published_at": "2026-04-15T04:54:00+00:00"
         },
         {
-          "title": "중동 변수에 흔들리는 채권시장…유가 향방 따라 연내 금리 인상 갈린다 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43X3lkVTZyb2FqZWM4aGdhSThFcjZqNXNvc0VtdVB6MUQwdWNiTjZ2bXNYcm05OERwUUxkOXQ0YXQtZGZqTzVMNDdBVUtiNThfSVFmLXZtSHZ5aFE?oc=5",
-          "published_at": "2026-04-14T04:45:15+00:00"
+          "title": "인천시, 고유가 속 농산물 수급 물가 점검 - 일간경기",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53cUx4VzhtYnAxWG1RNXN1TDNaNkVESEdZSERZclYzTHZiNG92eGxnVDhaWFdTb0NPQ3c3WXZxV2lFMlhyTmVON05zWE91NkllNE1fX2plbzRuakNUdV9tSDUySFBRWHVI?oc=5",
+          "published_at": "2026-04-15T04:47:47+00:00"
         },
         {
-          "title": "신현송, 내일 청문회서 금리·환율 구상 주목…국적·다주택도 도마에 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3bVpYYkd6ZllNV21QWjZHeWRKejdsVS1NbmdIOGZZTmQtdmxiV1dIaDl2U3ZWalNpM3owTk96RWcybHRncjVaTEtDZ3p1Q29mUjhsOUg3SEJqczJVV3VaetIBeEFVX3lxTE14NllkRXFUOVRScWpxOTdqZU9mcndyLUFIVU0wQnZqdmxBUmF4NDM2R0lLNGRSNDRIQkJvNXBRQ0hYMWwwVmJaajlTV0hyMW5SU0o1NGRFZmhJTW53RV93Um40Ti1ST0ZlQjZid0lnUmh3NDdfa3NjYg?oc=5",
-          "published_at": "2026-04-14T04:30:00+00:00"
+          "title": "신현송 한은 총재 후보자 “성장보다 물가 안정 우선”...실용적 정책 운용 강조 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wclZZTHlFZFpObW9RNUtNQVhUSDFhWldqbWRHcHNudGNLUWFja2JXclkwTk1DcXZGY2ZWZXlEUkVQRlVNNk5rV21nLTNHQQ?oc=5",
+          "published_at": "2026-04-15T04:45:53+00:00"
         },
         {
-          "title": "日 국채 20년물, 입찰 호조에 금리 낙폭 9bp 이상으로 확대(상보) - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZ21Qc3BjZHBNQ1FtLVVXNWZPdWJiWlhneDNEb0k0SkRVRDBFOTdUZmlDUWtxX1pvYWNMZnlyNzByNHFlSEFSb01aaC1jUDRDaFZIX2E1QlFhR3J3ZmQ5aXJENGo0VjR4ZE5uYS1kSktxUQ?oc=5",
-          "published_at": "2026-04-14T04:26:06+00:00"
+          "title": "석유公 오피넷…고유가 속 ‘물가 파수꾼’ 역할 톡톡 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51NG1lSzNQX0hKZmxiY2hqTVdDV29KakU2bWVnVG9nYVBWYTJWZmFXQ0ZoRm5aNmJuT1F4R2ZwdkNQSXRWOTFTYnhVUXNROG8?oc=5",
+          "published_at": "2026-04-15T04:41:26+00:00"
         }
       ]
     },
     {
-      "keyword": "유가",
-      "score": 91.16,
+      "keyword": "daum",
+      "score": 123.07,
       "articles": [
         {
-          "title": "호르무즈 봉쇄 현실화, 유가 100달러 붕괴 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQUFBdkZIZkZiSFdSdTA1SHlqbG5TekZtbElXelBtNF9KNl9zdmNEM29YVTM0MWdNdUc5UDVZaHcwR1l6UVdTZ2EyZTBlZUNHQlZQSFpOWmt4ZzM5RlRoVjNYNE1Zd2NqbHRiMHVmdllqUGZSNjFzanF5M0NvOHQ1Rm1XWHJ6cC1n?oc=5",
-          "published_at": "2026-04-14T05:09:36+00:00"
+          "title": "자동차 수출, 관세·전쟁 변수 속 2% 성장…하이브리드가 견인 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LWG1DWjJ5YWp6eFZmV1RCYVdyRkdCS0xac010OE9pQ29pMmdYMXMxcm9ydU5vS2MtUlVtTzQzdk9YQ0s1MlJEWWU4cXRRblE?oc=5",
+          "published_at": "2026-04-15T05:11:44+00:00"
         },
         {
-          "title": "[르포] 중동發 유가 폭등 못 견딘 연안해운업계…결국 5월부터 ‘요금 인상’ - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xYUhLMkNZaW0tbkdGUFZTT1BVZ3NfdlhtSWtpSXNBRi1FcVFrSFB0cHhLN2hoZ3VOZll6RnM5RVhjMjVTS1dYM0c4R1p0eFN0dlRtMDNn?oc=5",
-          "published_at": "2026-04-14T04:47:39+00:00"
+          "title": "3월 車수출 64억달러 '역대 2위'…하이브리드 버팀목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44NHRvcjB5V2ZsT09UWGQ0NWtWZ1lYdzdKYU16REZGMHVSa0xrVXVId3VpdV92SnVEN2tVUmx0cjlabkl4VGZ2RHBBZ2pqbm8?oc=5",
+          "published_at": "2026-04-15T05:03:08+00:00"
         },
         {
-          "title": "중동 변수에 흔들리는 채권시장…유가 향방 따라 연내 금리 인상 갈린다 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43X3lkVTZyb2FqZWM4aGdhSThFcjZqNXNvc0VtdVB6MUQwdWNiTjZ2bXNYcm05OERwUUxkOXQ0YXQtZGZqTzVMNDdBVUtiNThfSVFmLXZtSHZ5aFE?oc=5",
-          "published_at": "2026-04-14T04:45:15+00:00"
+          "title": "세법 개정 시동 건 재경부, '세제 개편' 경제단체 의견 청취 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BbGFfMDMtQ05sc3ctSDlvT0hZUk5wODlMOE1qdXcydmF1V0hzbHQtaEdBQXU4bGNNeVp6SHFBMUZTZ2JQUllrYmFtVlhmREE?oc=5",
+          "published_at": "2026-04-15T05:03:02+00:00"
         },
         {
-          "title": "평택시, 유가 급등 대응 ‘교통안심대책’ 추진 - B world",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTlpvT1U1RkxmSVpRbl9aTHJ5dC1iNnRPemMwdG9aLU54ZmRYZnVBUVBLcDRsZG9aSUdRdTRUYUhpWnVoVGYya0xveVpQMXIzcnZiQkdRQjRlSFowSFJ3cU94WWF4bWRzbmo0RUN1Q1Y?oc=5",
-          "published_at": "2026-04-14T04:35:58+00:00"
+          "title": "재경부, 세법개정 앞두고 경제단체 의견 수렴... \"현장 목소리 반영\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZXNKTVZwa09uZlVGSlZvY0lVTmdET01EREFwSGpjZHcyQy1aOXZEcDVWU2o1b3FLV2hzSkI0YUNWeUhKdE5rLUcwaGJFSGc?oc=5",
+          "published_at": "2026-04-15T05:02:37+00:00"
         },
         {
-          "title": "日 유가 보조금 정책에 정유사 불만…\"업계에 부담 떠넘겨\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04RkZBMEhOQ2J5cjd0d3M4aUVKLWQwSXRkOHUzc1RnQ2w3ZUh6cmJvUm9hMXdwODF6V3dBdUJFMVVkRWNCcmZZNnlRSE51Nlk?oc=5",
-          "published_at": "2026-04-14T04:33:10+00:00"
+          "title": "신현송 \"물가 안정에 무게 둘 것‥중동 리스크 2차 파급 시 통화정책 써야\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DYjY3XzlJT2lYVGNHRVdGV01HcE9qTGU3TTBvNWZzOUxaazM2Q000Z0ZWZnJjbkg0MExyajdvMndHTmlERW1JbXdsMndhRW8?oc=5",
+          "published_at": "2026-04-15T05:00:07+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 123.07,
+      "articles": [
+        {
+          "title": "자동차 수출, 관세·전쟁 변수 속 2% 성장…하이브리드가 견인 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LWG1DWjJ5YWp6eFZmV1RCYVdyRkdCS0xac010OE9pQ29pMmdYMXMxcm9ydU5vS2MtUlVtTzQzdk9YQ0s1MlJEWWU4cXRRblE?oc=5",
+          "published_at": "2026-04-15T05:11:44+00:00"
+        },
+        {
+          "title": "3월 車수출 64억달러 '역대 2위'…하이브리드 버팀목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44NHRvcjB5V2ZsT09UWGQ0NWtWZ1lYdzdKYU16REZGMHVSa0xrVXVId3VpdV92SnVEN2tVUmx0cjlabkl4VGZ2RHBBZ2pqbm8?oc=5",
+          "published_at": "2026-04-15T05:03:08+00:00"
+        },
+        {
+          "title": "세법 개정 시동 건 재경부, '세제 개편' 경제단체 의견 청취 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BbGFfMDMtQ05sc3ctSDlvT0hZUk5wODlMOE1qdXcydmF1V0hzbHQtaEdBQXU4bGNNeVp6SHFBMUZTZ2JQUllrYmFtVlhmREE?oc=5",
+          "published_at": "2026-04-15T05:03:02+00:00"
+        },
+        {
+          "title": "재경부, 세법개정 앞두고 경제단체 의견 수렴... \"현장 목소리 반영\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZXNKTVZwa09uZlVGSlZvY0lVTmdET01EREFwSGpjZHcyQy1aOXZEcDVWU2o1b3FLV2hzSkI0YUNWeUhKdE5rLUcwaGJFSGc?oc=5",
+          "published_at": "2026-04-15T05:02:37+00:00"
+        },
+        {
+          "title": "신현송 \"물가 안정에 무게 둘 것‥중동 리스크 2차 파급 시 통화정책 써야\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DYjY3XzlJT2lYVGNHRVdGV01HcE9qTGU3TTBvNWZzOUxaazM2Q000Z0ZWZnJjbkg0MExyajdvMndHTmlERW1JbXdsMndhRW8?oc=5",
+          "published_at": "2026-04-15T05:00:07+00:00"
         }
       ]
     }
