@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-04-17T05:24:38.637118+00:00",
+  "generated_at": "2026-04-18T05:03:37.076036+00:00",
   "source_count": 4,
-  "article_count": 382,
+  "article_count": 392,
   "top_keywords": [
     {
-      "keyword": "환율",
-      "score": 182.87
-    },
-    {
-      "keyword": "수출",
-      "score": 158.42
-    },
-    {
-      "keyword": "금리",
-      "score": 94.63
+      "keyword": "호르무즈",
+      "score": 196.33
     },
     {
       "keyword": "daum",
-      "score": 92.26
+      "score": 128.57
     },
     {
       "keyword": "net",
-      "score": 92.26
+      "score": 128.57
     },
     {
-      "keyword": "상승",
-      "score": 87.66
+      "keyword": "급락",
+      "score": 117.14
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 85.38
+      "keyword": "국제유가",
+      "score": 97.41
     },
     {
-      "keyword": "확대",
-      "score": 81.5
+      "keyword": "환율",
+      "score": 90.52
     },
     {
       "keyword": "유가",
-      "score": 74.55
+      "score": 90.33
     },
     {
-      "keyword": "달러",
-      "score": 63.23
+      "keyword": "개방",
+      "score": 85.59
     },
     {
-      "keyword": "기준금리",
-      "score": 58.86
+      "keyword": "이란",
+      "score": 76.78
     },
     {
-      "keyword": "뉴스1",
-      "score": 57.57
+      "keyword": "금리",
+      "score": 72.55
+    },
+    {
+      "keyword": "기대",
+      "score": 61.62
+    },
+    {
+      "keyword": "구윤철",
+      "score": 58.83
     }
   ],
   "hot_topics": [
     {
-      "keyword": "환율",
-      "score": 182.87,
+      "keyword": "호르무즈",
+      "score": 196.33,
       "articles": [
         {
-          "title": "한은 “경상수지 흑자에도 환율 상승… 민간 해외투자 영향 커” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xUDVoX09neW9jNWJYeHk0c2xwZUNBeS0tTS15ZGpkTFZnaTBLdkdiMzVPQUcyVXA3bm4yZ3d1UHZQMVdZR2pKV2xXZllKVXFmSjB0Yi1iZDNlc1JqdERtcVBzSEl1RTRWd0dIUlJWekZqaDFXT3fSAWZBVV95cUxQUDhYdmxMWmJnR2kzNHFxRC1uSklNNW50UDdoNnNicWY4LU1EbzNVOGNGZkNlZWpnM1Y0NTFiNHFxaE91YmFneUxtQkR3dENVTUduTWdDRV85N21rUkpPX25nWHozTlE?oc=5",
-          "published_at": "2026-04-17T03:05:00+00:00"
+          "title": "이란 호르무즈 개방에 국제유가 급락…WTI 11% ↓ - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZkZZaFdhSVFkay1ORnJCb0M5M2dwMnRZSmZvRDdkdzM3eXQ5akRSVTBTaVFMWjVYWVgwR0xkNTVQWHYwQklyUk52RFBOaHFWQ2xRV1hONlZReWY4eGUtMWVzbXhBbmZGVmJXUVRlME0?oc=5",
+          "published_at": "2026-04-18T04:48:12+00:00"
         },
         {
-          "title": "경상흑자에도 환율 고공행진 이유는? - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CQnA5eUZoRkU4QnRSTEozTHRNdHRVY2pWV3FmNk5SaG0tM0tIR1BhYU8yYkhSdWsyQVVHZnU2OXJQZU9kSC12M3BXTXEyS2th?oc=5",
-          "published_at": "2026-04-17T02:40:36+00:00"
+          "title": "호르무즈 개방에 국제유가 급락…WTI 11%↓ - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLUFkX3luWGdRM2p2YUNTVnEzazNseW9UbTZnblJOQjhHSE1rOGcwM3NfdFg5WDVKLVNfTVVqakVrTlpGMmxmakpCYnI5b0hFcjdCQVN4ZXhabS1jWXFYUFZWb2lYZFVqZExSNDFsVjA5Szd5?oc=5",
+          "published_at": "2026-04-18T03:58:45+00:00"
         },
         {
-          "title": "환율 1500원 밑돌자…기업, 달러 사재기 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04ZUpiajJadHp1RU1vVnl1bmcxb1NtQVV2V1pGN2lVTFI0cWN1NDNBSm9pNUZuc0NFdkdhYjFGV1doYmRBbk1vSTJmYnUyS3REbE5UWWZR?oc=5",
-          "published_at": "2026-04-17T02:29:39+00:00"
+          "title": "'호르무즈 개방' 직전 유가하락에 '1조 베팅'...또 정보 유출? - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRFhhYVBhbERjeU9yT1dSNExZdFRrUU5kSHdDSG9IaGkwVVVNZDBDSEo3NVhzR0IzWlJEb0d4YmFjMEpBRlRSZ0VLbUFrRkFMUmhBbVQtVEZWVWoxZEE?oc=5",
+          "published_at": "2026-04-18T03:41:00+00:00"
         },
         {
-          "title": "한은 \"해외투자 증가에‥'경상흑자=환율 하락' 공식 깨져\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MbWVMVXhHQmNfVUFVeW5RYTNaV3FCVk5kWm1WcVNuTzZDY3N2Tk50eFZNMmo4YjJRc05sWWpZVW1mOU9iZE1ob1hiWjlqa2s?oc=5",
-          "published_at": "2026-04-17T02:25:12+00:00"
+          "title": "호르무즈 개방 직전 1조원대 유가 하락 베팅…반복되는 ‘수상한 거래’ - 국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU183ZFlBWWdGa3ZkaHlfVm50bV8tWkpHZ2xtMm1mNUJSOUVxQzlwMU9GMDNTcS1sSHg3TDFMS2tLUTVWOEVwUGlEanpYTjh5U1JvQk1jdUZtUmk5aVl3Ukx1dHdVbGdPd0NoT2Q0c0RTS3NtYnloeEk5REtUQVdQRUh3Mzl4RWpEZTI3QmlR?oc=5",
+          "published_at": "2026-04-18T02:59:00+00:00"
         },
         {
-          "title": "해외투자 증가에… “경상흑자=환율 하락” 공식 깨져 - 국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EUkIxZUZ0QW5lUE5rTFBBTTVFb1dJUlNyb2sxTVlyX2xYc1I3QlVFY1FpMS0yZVcyelNhVTBIbm5wNTU0eWNvWjFKR2JrVjE4bzJqeVpLTk1NanJrVm1VV3Vnb2xCbE3SAWxBVV95cUxOOEFNcG1CSFllQUhMWW5rc0J3LTR0eUptczhpb29wbE9yZVh6OGh2RVA0aUN0X2Itek5CZUJPci1aT1MxbWs5WktZd1lkMnhyaHIxWnpzLWlLTXVBU20yZThoRW1vb2NuRlU0YUo?oc=5",
-          "published_at": "2026-04-17T02:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "수출",
-      "score": 158.42,
-      "articles": [
-        {
-          "title": "쿠팡, ‘메가뷰티쇼’ 오픈…체험 넘어 K-뷰티 수출까지 돕는다 - 디지털데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16eXp4QWZaV3hzZm5USzhnckgwSzh0Z3hkQ2xGVVZ1UFpJYzUzU2ltaFhsTUZTVjloQ2NjRG5LOG9GSGFSdFZGSlRKMkFrWnMwcUxfcE9XeV9SUWdhaDhkLV9hZ24?oc=5",
-          "published_at": "2026-04-17T05:04:23+00:00"
-        },
-        {
-          "title": "[특징주] 화장품株, 수출 성장 기대에 '방긋'…코스맥스 5%↑ - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWUEc1czNWWW1TM2Fmd1huNFZMLU04V1JNX21kcDlCcDlxUFhzcndlQjJ5U1hpNWxyX3JJbmxUS0ZrOVZzSm52dkJubWlueHJaTTkxbDEyY3NfTEhlRUZDaGxqMTE0WU9waTFxblJHSdIBc0FVX3lxTFAwaVhIeVotMWp2SHpsWHNRcnhXSU9rcnNHN1N5VDFJYVVCN1IybXc5OHZxUDl5OFVqWjZ3UndraFpvS251VlAxQ0NIN0kzOWNmX2RmV3V2ZGpoLUpxT0p6ZjZSeWhDTjBJeHVvTGw0WFZyRHc?oc=5",
-          "published_at": "2026-04-17T04:52:01+00:00"
-        },
-        {
-          "title": "경진원, 베트남·인도 거점 활용해 전북 기업 '수출 나침반' 역할 톡톡 - 프레시안",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5adGZLUnl5MDB2QXhBNjFPSzRCWXo3RW9MTDVrRTlTTTN1MXZ6LWtXZFRIbzF4ZHI4X2ZtNGYwSkJCMldXcU9wbU16cEJYa2Jra2ROaldDM0lCOE5Hcl82ekRFZ2FJWmN1WmF3?oc=5",
-          "published_at": "2026-04-17T04:45:50+00:00"
-        },
-        {
-          "title": "산림청, K-임산물 수출 확대 전략 모색 - 환경일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83LXBwak5GLWd0VkRVTm9WTzdUbVdVNjk2NXJXQVVrZHlwN0xFT3E1Qm1ha1BDVnlGUzA5ODdNZHNES0lSNW5WSjlzWlNWcng1TDMyX1BoZXhmSW42MlJuQWhPWGp3Y0pm?oc=5",
-          "published_at": "2026-04-17T03:32:57+00:00"
-        },
-        {
-          "title": "인하대 GTEP사업단, ‘K-뷰티 수출 판로 개척’ 이탈리아 코스모프로프 참가 - incheonin.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MUzVwYkZ6TXBFRGZRUzhSUU9oQUs2bEFCcFR5dmItMGNBT0ZSdlRhNVkwMzdveTlmem9CaktVSjJxeFVhV2w1S2JvclhiX1VxeDR6N0UyWHlmeEFNbVV2OHN4Q2lBd0xMQ01wdw?oc=5",
-          "published_at": "2026-04-17T03:14:46+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 94.63,
-      "articles": [
-        {
-          "title": "농협은행, 비수도권 주담대 0.2%p 우대금리…'지방 정착 금융' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVMVdwbk1hdjR4TnJzakJpMFhzSGVrWVJCR3hib244LV9SQ0x1RkxrOTIyWUFFV09pck1sWkZuSlRFRnRrQmtiR05obmdBRXZCaVp1RTBvaUpjLWFkUWtWRHRn?oc=5",
-          "published_at": "2026-04-17T05:17:48+00:00"
-        },
-        {
-          "title": "카카오뱅크, 금리인하요구권 이자감면액 은행권 1위 '우뚝'...비결은? - 녹색경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuM2oxQi1oVHpWQ3A4U2ZaaTBZcS1tVTJwTi1CekRna04ySWk5bXB0X0FFZVBhU3oxZXdRRkxVajJoazhuM1RmRWh3bWhTN29kNjlJQ1k4ckR6XzNXaHdtcG93aWxTSEFM?oc=5",
-          "published_at": "2026-04-17T05:11:35+00:00"
-        },
-        {
-          "title": "금리 3%대… BNK경남은행, '다시 ON 정기예금’ 출시 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PZXJOelZNSlNWcWQ0NnpySE0ya2dSdzcxcXlJYkE5VzVxZzh0RlVVV0l6Rk00dVRvV1lER3FVVmhZQVh6b2toRmlwckctUERkcFNITVUzQ2hHVWR3OFNTVWRuQ2dhUUd6VXNSZE9Pekk?oc=5",
-          "published_at": "2026-04-17T05:07:59+00:00"
-        },
-        {
-          "title": "농협은행, 비수도권 첫 주담대 고객에 우대금리 - 디지털데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HbGp3Ym5TcW9CSUMxaUx0c2UyN3MyYWtqVFpHZjZsSmRWMDVYcm1TRmN3NGxiS1YtZ1Q2RFhNSXZKMFRCVjhxOFlFbFR0QXJjUjBFVExESG5XTFJERG1OUXBtLUg?oc=5",
-          "published_at": "2026-04-17T04:59:56+00:00"
-        },
-        {
-          "title": "2026년 4월 17일 현재 은행 금리: 29개 은행이 시장에 진입하고 금리가 하락했습니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2x3S3BZTFpob09Wd0dZYU9mSVgzM2ozaFpYdndtS1QzOWtCc3hkZUo3ZXNweUkwVFpZbVQ2R1VTYk5KZ0QxTzBNRUlHa3JZQV9XcWhGcUo5NTdlQ215bU5vdElHWmlFRjRwMDRyalZXRWRjY2tRMDlLcDVzenlGbUZ1OW5Qb2JCcnRGcV9fZjZOVWxmbDZOaVpaczNCRUR1WDc3Zw?oc=5",
-          "published_at": "2026-04-17T04:57:30+00:00"
+          "title": "‘호르무즈 개방’에 국제유가 급락·WTI 11%↓…달러·원 환율도 급락·1460원 마감 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RMktQWUZtbGFZdTkxSGtSeXZMX25UbFhXR1p5NGFRNkRhd01BRnJPMmhaSTRYSDdKWlFYYnBZUWtTdzNIM20xd1BUcFZYQUwyV3dLVzFpa1A5VUoyemRReWVveUoycXRCSFNzZjhWVHY5elQ3?oc=5",
+          "published_at": "2026-04-18T02:43:00+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 92.26,
+      "score": 128.57,
       "articles": [
         {
-          "title": "중동 전쟁 장기화에… 정부 “경제 하방 위험 커졌다” 경고 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JMkdjYVI0dHh2cXI1NnYwMGxCMWhyZm1OeTlhUE1sVWlNRHJqWGVHS2FlaVk5Tnc3UmNRdXVWR3BqcWtFUmRBcDJCak5ETGM?oc=5",
-          "published_at": "2026-04-17T05:01:32+00:00"
+          "title": "[돈MORE]찔끔 줄어든 '주담대' 이자…\"더 줄긴 어려워요\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81Rm91V29seGRFa0lsb1JNMHZDUktyUUE4YU45OFc2azNYV3NaZTVRRjl3dnUxbjRobG1YdWt6R09fbmY0dlRMbERQcHJKU1U?oc=5",
+          "published_at": "2026-04-18T03:01:32+00:00"
         },
         {
-          "title": "구윤철 \"G20 차원서 공급망 안정·경제회복 해법 모색해야\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hSGRqVkFoMUd4WXVVc05qdUxfTE9hRDNUek1WaTVLemxEdUxQa1JGRlRya242TGo3bEtrQ2luUVJ2MXBUVjVReFdWYXFxMUU?oc=5",
-          "published_at": "2026-04-17T05:01:08+00:00"
+          "title": "유가·물가의 덫…트럼프가 이란과의 협상 끊지 못하는 이유 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40YmVyY2tOWmYxUHhYcEhzQWg1ajk2d3ZQc3ItVHNOc1VvbUsyNEU3WWZHVDVoYnZoUGx2U2U5Tmx4akhEOXF3LXg0Nl85VzQ?oc=5",
+          "published_at": "2026-04-18T03:01:32+00:00"
         },
         {
-          "title": "외교부, 주영국대사에 김흥종 전 대외경제정책연구원장 임명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBubGgtM2dsc0tkamNFbms5Z3BwLUxacFRhcy1fa0lsZW44SVZOWXJmb2EwOThjemMwM3JYVzV1MUNyOURZdkZuWm5CS0pHSGs?oc=5",
-          "published_at": "2026-04-17T04:29:36+00:00"
+          "title": "\"내 두 아들, 2조5000억원 어치 비트코인 있다\" 머스크 아버지 증언 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4YVhhdTU1YVZEZVpJbDRwNVJtaW5ydERId0VwNDIydUZ5WmkxUTVNOC1yQ0NXQWh0a2gwdlRYNi1YdkFUS0E5M05RZTRnRWM?oc=5",
+          "published_at": "2026-04-18T02:23:07+00:00"
         },
         {
-          "title": "외교부, 주영국대사에 김흥종 전 대외경제정책연구원장 임명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWUVlwcS1wT1pzTzA0cDRkX2k0OThJMnM4cjdPWVBseHFndjFKNjJDZFdyZk9EaWRSWWQwX3Z1djJtaHVUN2tmVi1OcFozU3c?oc=5",
-          "published_at": "2026-04-17T02:58:10+00:00"
+          "title": "“국제사회, 한국경제 기대 커”…방미 구윤철, 자부심 느낀 포인트가? [지금뉴스] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tOGNkanhKMTBhTzRkVkNXUzFnYUozRm5iU1AxMkZvYUtYQ0JPaGJIVzM5MTFReGdEVE1FYVlJZEd4SnhpYk5LMG1pMDVIQ0E?oc=5",
+          "published_at": "2026-04-18T01:50:37+00:00"
         },
         {
-          "title": "한은 \"해외투자 증가에‥'경상흑자=환율 하락' 공식 깨져\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MbWVMVXhHQmNfVUFVeW5RYTNaV3FCVk5kWm1WcVNuTzZDY3N2Tk50eFZNMmo4YjJRc05sWWpZVW1mOU9iZE1ob1hiWjlqa2s?oc=5",
-          "published_at": "2026-04-17T02:25:12+00:00"
+          "title": "[4월 셋째 주 세계경제동향 브리핑] 코스피 6,100선 돌파…글로벌 증시 동반 급등 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdEx0SHhjVlp4d29PeWRuS0UxTEN4elY4SUFMOEwtNU40MGszWm0xaENxZmNaM1RmQ2syVGVvZjBHQVZqM1hCalZMRjFuaUE?oc=5",
+          "published_at": "2026-04-18T01:49:35+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 92.26,
+      "score": 128.57,
       "articles": [
         {
-          "title": "중동 전쟁 장기화에… 정부 “경제 하방 위험 커졌다” 경고 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JMkdjYVI0dHh2cXI1NnYwMGxCMWhyZm1OeTlhUE1sVWlNRHJqWGVHS2FlaVk5Tnc3UmNRdXVWR3BqcWtFUmRBcDJCak5ETGM?oc=5",
-          "published_at": "2026-04-17T05:01:32+00:00"
+          "title": "[돈MORE]찔끔 줄어든 '주담대' 이자…\"더 줄긴 어려워요\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81Rm91V29seGRFa0lsb1JNMHZDUktyUUE4YU45OFc2azNYV3NaZTVRRjl3dnUxbjRobG1YdWt6R09fbmY0dlRMbERQcHJKU1U?oc=5",
+          "published_at": "2026-04-18T03:01:32+00:00"
         },
         {
-          "title": "구윤철 \"G20 차원서 공급망 안정·경제회복 해법 모색해야\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hSGRqVkFoMUd4WXVVc05qdUxfTE9hRDNUek1WaTVLemxEdUxQa1JGRlRya242TGo3bEtrQ2luUVJ2MXBUVjVReFdWYXFxMUU?oc=5",
-          "published_at": "2026-04-17T05:01:08+00:00"
+          "title": "유가·물가의 덫…트럼프가 이란과의 협상 끊지 못하는 이유 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40YmVyY2tOWmYxUHhYcEhzQWg1ajk2d3ZQc3ItVHNOc1VvbUsyNEU3WWZHVDVoYnZoUGx2U2U5Tmx4akhEOXF3LXg0Nl85VzQ?oc=5",
+          "published_at": "2026-04-18T03:01:32+00:00"
         },
         {
-          "title": "외교부, 주영국대사에 김흥종 전 대외경제정책연구원장 임명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBubGgtM2dsc0tkamNFbms5Z3BwLUxacFRhcy1fa0lsZW44SVZOWXJmb2EwOThjemMwM3JYVzV1MUNyOURZdkZuWm5CS0pHSGs?oc=5",
-          "published_at": "2026-04-17T04:29:36+00:00"
+          "title": "\"내 두 아들, 2조5000억원 어치 비트코인 있다\" 머스크 아버지 증언 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4YVhhdTU1YVZEZVpJbDRwNVJtaW5ydERId0VwNDIydUZ5WmkxUTVNOC1yQ0NXQWh0a2gwdlRYNi1YdkFUS0E5M05RZTRnRWM?oc=5",
+          "published_at": "2026-04-18T02:23:07+00:00"
         },
         {
-          "title": "외교부, 주영국대사에 김흥종 전 대외경제정책연구원장 임명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWUVlwcS1wT1pzTzA0cDRkX2k0OThJMnM4cjdPWVBseHFndjFKNjJDZFdyZk9EaWRSWWQwX3Z1djJtaHVUN2tmVi1OcFozU3c?oc=5",
-          "published_at": "2026-04-17T02:58:10+00:00"
+          "title": "“국제사회, 한국경제 기대 커”…방미 구윤철, 자부심 느낀 포인트가? [지금뉴스] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tOGNkanhKMTBhTzRkVkNXUzFnYUozRm5iU1AxMkZvYUtYQ0JPaGJIVzM5MTFReGdEVE1FYVlJZEd4SnhpYk5LMG1pMDVIQ0E?oc=5",
+          "published_at": "2026-04-18T01:50:37+00:00"
         },
         {
-          "title": "한은 \"해외투자 증가에‥'경상흑자=환율 하락' 공식 깨져\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MbWVMVXhHQmNfVUFVeW5RYTNaV3FCVk5kWm1WcVNuTzZDY3N2Tk50eFZNMmo4YjJRc05sWWpZVW1mOU9iZE1ob1hiWjlqa2s?oc=5",
-          "published_at": "2026-04-17T02:25:12+00:00"
+          "title": "[4월 셋째 주 세계경제동향 브리핑] 코스피 6,100선 돌파…글로벌 증시 동반 급등 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdEx0SHhjVlp4d29PeWRuS0UxTEN4elY4SUFMOEwtNU40MGszWm0xaENxZmNaM1RmQ2syVGVvZjBHQVZqM1hCalZMRjFuaUE?oc=5",
+          "published_at": "2026-04-18T01:49:35+00:00"
         }
       ]
     },
     {
-      "keyword": "상승",
-      "score": 87.66,
+      "keyword": "급락",
+      "score": 117.14,
       "articles": [
         {
-          "title": "[도쿄환시] 달러-엔, BOJ 금리인상 전망 후퇴에 상승 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zUTR2NkRrSG5WdjFLRElXa3h5eEFBMHo2aU5tMGdXVVM1ajBzSXZxVVR4ZFd1eVdxaFM3S1dCU3FmRWlOaDVrTWZGNDZfam96S25FNzJNczBZcnVqck1XemJSTm93YWlkTHdPbDJaazZ4dw?oc=5",
-          "published_at": "2026-04-17T04:37:40+00:00"
+          "title": "이란 호르무즈 개방에 국제유가 급락…WTI 11% ↓ - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZkZZaFdhSVFkay1ORnJCb0M5M2dwMnRZSmZvRDdkdzM3eXQ5akRSVTBTaVFMWjVYWVgwR0xkNTVQWHYwQklyUk52RFBOaHFWQ2xRV1hONlZReWY4eGUtMWVzbXhBbmZGVmJXUVRlME0?oc=5",
+          "published_at": "2026-04-18T04:48:12+00:00"
         },
         {
-          "title": "국고채 금리 일제히 상승…外人 선물 매도세 ·입찰 경계 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSVGRyd0hNMU1pQlE3QVRkTnBfS0pfMk1NWnRuVmpxc1k0eU1KZ0pZSF9ndzE5X1g1VjQ2MGkxXzIxVnFqbGZNdEprT2FITmp1azlEbFVobXk3ckI5Ulk2cUhlQzAyTVEtMU9vcTVpeHfSAXRBVV95cUxQbUVJcWJQMlg4U3hLVmhlcTJwOFVGZENJYl9aZnRQZ0ctWGtNN0l1OXhmdHA4dkxDUHVWQk5zTHpXRzdCcm9TUHhxbGlVaHF1c3BFamtXNk8tRXNwZkgzbG1pc1RGTmFtNjhhaW5uSHFUNTZNaw?oc=5",
-          "published_at": "2026-04-17T04:21:01+00:00"
+          "title": "호르무즈 개방에 국제유가 급락…WTI 11%↓ - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLUFkX3luWGdRM2p2YUNTVnEzazNseW9UbTZnblJOQjhHSE1rOGcwM3NfdFg5WDVKLVNfTVVqakVrTlpGMmxmakpCYnI5b0hFcjdCQVN4ZXhabS1jWXFYUFZWb2lYZFVqZExSNDFsVjA5Szd5?oc=5",
+          "published_at": "2026-04-18T03:58:45+00:00"
         },
         {
-          "title": "한은 “경상수지 흑자에도 환율 상승… 민간 해외투자 영향 커” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xUDVoX09neW9jNWJYeHk0c2xwZUNBeS0tTS15ZGpkTFZnaTBLdkdiMzVPQUcyVXA3bm4yZ3d1UHZQMVdZR2pKV2xXZllKVXFmSjB0Yi1iZDNlc1JqdERtcVBzSEl1RTRWd0dIUlJWekZqaDFXT3fSAWZBVV95cUxQUDhYdmxMWmJnR2kzNHFxRC1uSklNNW50UDdoNnNicWY4LU1EbzNVOGNGZkNlZWpnM1Y0NTFiNHFxaE91YmFneUxtQkR3dENVTUduTWdDRV85N21rUkpPX25nWHozTlE?oc=5",
-          "published_at": "2026-04-17T03:05:00+00:00"
+          "title": "‘호르무즈 개방’에 국제유가 급락·WTI 11%↓…달러·원 환율도 급락·1460원 마감 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RMktQWUZtbGFZdTkxSGtSeXZMX25UbFhXR1p5NGFRNkRhd01BRnJPMmhaSTRYSDdKWlFYYnBZUWtTdzNIM20xd1BUcFZYQUwyV3dLVzFpa1A5VUoyemRReWVveUoycXRCSFNzZjhWVHY5elQ3?oc=5",
+          "published_at": "2026-04-18T02:43:00+00:00"
         },
         {
-          "title": "국고채 금리 일제히 상승…3년물 장중 연 3.366% - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5STGJfNW9FWUxVX3piZGRfdUh5WmU3eFlhOWF6d1ctYXVCX3B2NHo4ZUExak9WX19PdXJIRjB0bTNKSGNDc2VWU2ZzTzg3VllHb0E?oc=5",
-          "published_at": "2026-04-17T02:55:13+00:00"
+          "title": "호르무즈 통항 허용·2차 종전협상 소식에 국제유가 급락…9~11%↓ - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42RHlfYVMzd2RWaXpPQ0dkTTdYeThhWnFZNlJ0NkdpRERFMGlDMVdudjZMN1hMLVB4MW5BRTItN0hwVmJUMzNVQXJNNm9IV3lzN3lRT003V2I4TUZld3RfNkdmYjFSUHo1cnNSUEE2MndxUQ?oc=5",
+          "published_at": "2026-04-18T02:15:17+00:00"
         },
         {
-          "title": "[특징주] 코스맥스 'K-뷰티' 美·유럽 중심 수출 성장세 영향 +4%대 상승 - 전국매일신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00bC1rWFNMUzFqRWFHVzROSTJhanh1R2R3ZWdIVmRPZW9pc3BEUmR4YlRlLTN6bTZTSEMwX2VOTXN2Tm9JcmlLNXk1emh3MVZLLVB5cVhSb3pkalJ3U3JYdXotbHF1R24yWkt3NVln?oc=5",
-          "published_at": "2026-04-17T02:25:13+00:00"
+          "title": "호르무즈 열리자 금융시장 'V자 반등' … 환율 1460원 급락·S&P500 7100 돌파 - 뉴데일리 경제",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkbndsbmNFUHlpSWVDSEx5OVZRLXJhMzBaQm1LaGhyRTlBN0VycWx5em5CMnpTdnVVU09feUwzN0NZUTdlVlBYZGN5VkVOVGgybDVsUXFKOUZCVDVzeG9RWk1qYmJTMGZDNFFlMVlNd2duTEVxUW1iUXBrOA?oc=5",
+          "published_at": "2026-04-18T01:39:31+00:00"
         }
       ]
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 85.38,
+      "keyword": "국제유가",
+      "score": 97.41,
       "articles": [
         {
-          "title": "구윤철 \"공급망 안정·경제 회복 위한 G20 차원 해법 모색해야\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yWUhpcUE1NW8yVHdYNVR5SHd3dEpTTXozUnVfMFBqVGFGdExKM0JwWUQxTTFPbjV2WWpiLThEbjIzbEFYcDAyd3ByUjZOWDlJeFJXSU1kUFFoclltZTNqRGwzcF96SmI2Z2FUY25rYk0?oc=5",
-          "published_at": "2026-04-17T05:00:12+00:00"
+          "title": "이란 호르무즈 개방에 국제유가 급락…WTI 11% ↓ - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZkZZaFdhSVFkay1ORnJCb0M5M2dwMnRZSmZvRDdkdzM3eXQ5akRSVTBTaVFMWjVYWVgwR0xkNTVQWHYwQklyUk52RFBOaHFWQ2xRV1hONlZReWY4eGUtMWVzbXhBbmZGVmJXUVRlME0?oc=5",
+          "published_at": "2026-04-18T04:48:12+00:00"
         },
         {
-          "title": "국고채 금리 일제히 상승…外人 선물 매도세 ·입찰 경계 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSVGRyd0hNMU1pQlE3QVRkTnBfS0pfMk1NWnRuVmpxc1k0eU1KZ0pZSF9ndzE5X1g1VjQ2MGkxXzIxVnFqbGZNdEprT2FITmp1azlEbFVobXk3ckI5Ulk2cUhlQzAyTVEtMU9vcTVpeHfSAXRBVV95cUxQbUVJcWJQMlg4U3hLVmhlcTJwOFVGZENJYl9aZnRQZ0ctWGtNN0l1OXhmdHA4dkxDUHVWQk5zTHpXRzdCcm9TUHhxbGlVaHF1c3BFamtXNk8tRXNwZkgzbG1pc1RGTmFtNjhhaW5uSHFUNTZNaw?oc=5",
-          "published_at": "2026-04-17T04:21:01+00:00"
+          "title": "호르무즈 개방에 국제유가 급락…WTI 11%↓ - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLUFkX3luWGdRM2p2YUNTVnEzazNseW9UbTZnblJOQjhHSE1rOGcwM3NfdFg5WDVKLVNfTVVqakVrTlpGMmxmakpCYnI5b0hFcjdCQVN4ZXhabS1jWXFYUFZWb2lYZFVqZExSNDFsVjA5Szd5?oc=5",
+          "published_at": "2026-04-18T03:58:45+00:00"
         },
         {
-          "title": "미 주택담보대출 금리, 중동 우려 약화로 4주 최저 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vT0lfTDJKU29ONTdwQnZfdG1KaHVfUUhkRU1COUM4SDdmNUJsdVdNakJBbi1HLVN2MkNTUl9RdUhYeHUwQXFNcFA3UHE3RDAtSWNyUG0zdndfZk5hZ1JLeDJVUE12NTd0b2ZKQVVfU2Q?oc=5",
-          "published_at": "2026-04-17T04:15:01+00:00"
+          "title": "‘호르무즈 개방’에 국제유가 급락·WTI 11%↓…달러·원 환율도 급락·1460원 마감 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RMktQWUZtbGFZdTkxSGtSeXZMX25UbFhXR1p5NGFRNkRhd01BRnJPMmhaSTRYSDdKWlFYYnBZUWtTdzNIM20xd1BUcFZYQUwyV3dLVzFpa1A5VUoyemRReWVveUoycXRCSFNzZjhWVHY5elQ3?oc=5",
+          "published_at": "2026-04-18T02:43:00+00:00"
         },
         {
-          "title": "BOJ 총재 \"물가 상방 vs 경기 하방 위험…일반적 답변 어려워\"(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aejc0MzE5NHlRWFNmZm9DYlZhc3JvUF9rdHBSSlpaaGl0b2JfOVFyLVlNQmVsQUVoZUhoOVBQdzhmSkJHYzdIY0JGM0ZnRGducmpGZ24tSmVnc2FRZThibzhMczdpb243dEJ0dHNWNlk?oc=5",
-          "published_at": "2026-04-17T03:49:42+00:00"
+          "title": "호르무즈 통항 허용·2차 종전협상 소식에 국제유가 급락…9~11%↓ - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42RHlfYVMzd2RWaXpPQ0dkTTdYeThhWnFZNlJ0NkdpRERFMGlDMVdudjZMN1hMLVB4MW5BRTItN0hwVmJUMzNVQXJNNm9IV3lzN3lRT003V2I4TUZld3RfNkdmYjFSUHo1cnNSUEE2MndxUQ?oc=5",
+          "published_at": "2026-04-18T02:15:17+00:00"
         },
         {
-          "title": "BOJ 총재 \"물가 상방·경기 하방 위험 모두 있어…일반적 답변 어려워\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IallpeVp4VlJURnFwYVNpUVgzMmRiSjdvMzBhZzJDRnNocHIyYUR2Mmt3Q3V6ZjIxZDJyc0E5RU9nM0wtRmVoZlViSlVQUzloNWY3WkxIV0RrTnlKenZVSk1mX0F2U1hhSEhOVzQ5ZnE?oc=5",
-          "published_at": "2026-04-17T03:18:00+00:00"
+          "title": "IBK기업은행, 국제유가 상승에 ‘IBK카드 Oil빵빵(5100)’ 주유 지원 이벤트 실시 - 이슈투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15M0lINnhjbUpXR0dPbmRJWjlHTDFyXzFrVXJnakRWWjZHZEE3VFM1OVFtYkJGYUtqWmFPYjRLX0xPZi15U0ZGRVoyeUNqU2tXbEJtZjZmRWZpa056aWxITnVLOHhhdw?oc=5",
+          "published_at": "2026-04-18T02:07:24+00:00"
         }
       ]
     },
     {
-      "keyword": "확대",
-      "score": 81.5,
+      "keyword": "환율",
+      "score": 90.52,
       "articles": [
         {
-          "title": "ESS 배터리 수요 확대…과거와는 다르다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6MXZGMUZWY2pERzZfNUZHOXhpWFNmVEJMMXpBTUwwLTU5cUpqejJseVdJLXRFZU4tYWxOcWdXUktfLWdIWE9pMVhrdzJoTEtFMEJMTw?oc=5",
-          "published_at": "2026-04-17T05:01:20+00:00"
+          "title": "‘호르무즈 개방’에 국제유가 급락·WTI 11%↓…달러·원 환율도 급락·1460원 마감 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RMktQWUZtbGFZdTkxSGtSeXZMX25UbFhXR1p5NGFRNkRhd01BRnJPMmhaSTRYSDdKWlFYYnBZUWtTdzNIM20xd1BUcFZYQUwyV3dLVzFpa1A5VUoyemRReWVveUoycXRCSFNzZjhWVHY5elQ3?oc=5",
+          "published_at": "2026-04-18T02:43:00+00:00"
         },
         {
-          "title": "중국, 외국계 은행 해외대출 3배 확대 - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IdGNOVXo3cHcxY0dFY0pRV2xrYzdsRXZMOTdBUXp5OXM3TkxnWVBvOFNLOWlqTXVyN3o0bjVkZHNKMTZ1YjJydzRkbTJNcnZndFQyWmRZWHFISnlvRlE?oc=5",
-          "published_at": "2026-04-17T04:41:40+00:00"
+          "title": "구윤철, 호르무즈 진정에 환율 숨고르기 “시장 기대 수준 더 가야” - 스페셜경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EbDdFakM3a3p4QXpPQWlhSldqSUpUcmF2LWFrTy1RLTQ3a1Zoa2ZncmV5Q1FJNV9kRW1rWXlTRk1aSkFranVhaE9aNnVaTnNCVUdpRE03QXR3UmliZGhUN0FKSVJJbVVMR3BfZA?oc=5",
+          "published_at": "2026-04-18T02:15:00+00:00"
         },
         {
-          "title": "용인시, 화물 운송업계 지원 강화… 유가보조금 284억 원대로 확대 - 더리포트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMk1oSUxaOHM3MWx0ejUzNUExZ05ubTBuN1NFMEpjdWpBWjdKX2JEakxjSXNjd2ZxYTg1bHQtdGZ3WnZ0U0RETWtSQXdXSmVKZmJkbXhxTmcwQmNtQVhMaFBCaVlway1iY0psZTB3?oc=5",
-          "published_at": "2026-04-17T04:28:52+00:00"
+          "title": "호르무즈 열리자 금융시장 'V자 반등' … 환율 1460원 급락·S&P500 7100 돌파 - 뉴데일리 경제",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkbndsbmNFUHlpSWVDSEx5OVZRLXJhMzBaQm1LaGhyRTlBN0VycWx5em5CMnpTdnVVU09feUwzN0NZUTdlVlBYZGN5VkVOVGgybDVsUXFKOUZCVDVzeG9RWk1qYmJTMGZDNFFlMVlNd2duTEVxUW1iUXBrOA?oc=5",
+          "published_at": "2026-04-18T01:39:31+00:00"
         },
         {
-          "title": "한-EU, 경제안보 협력 확대…차세대 전략파트너십 추진 - 더팩트",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54STE0Ylo3M3hBSnhrS0VnMUtlcGU1eTYtU1hyYXlYYlZRdGlOQUNGRTdaVFhXeEtTaFM2Nkx5czNpaVh5SnJrcXhIQTZnWm02QVB2aEhuVmd1Z9IBVEFVX3lxTFBjSUxsVmJLZnNTX2RGMlFycFgyd1ZZQndNRmpzRkkwTkhUUVpzR1B4Z0hhTnRMbFlvb1dUQV9yS1JLTjV0QmxkeE1SX01jeWIwME1IRg?oc=5",
-          "published_at": "2026-04-17T04:12:59+00:00"
+          "title": "1460원대로 내려온 환율에…구윤철 \"시장 기대 수준까지 가야\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSTFCMjVkOW04SzdQcWFEVThHcXhGckZBRGRhMDVYSXdudjBJZGpqZmczdWtxMU1OX0ZXdGFxY0VfZ0pJZjdKNkdrNlFhR29ROWVaQzhJVlk5cVEwb0U1Zm1lQllUM3J0TFdmYTNKamNrbHBkS1hUMWlscWJqSEcxaXNJa0M5REZRWTdrYWl3?oc=5",
+          "published_at": "2026-04-18T01:05:00+00:00"
         },
         {
-          "title": "산림청, K-임산물 수출 확대 전략 모색 - 환경일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83LXBwak5GLWd0VkRVTm9WTzdUbVdVNjk2NXJXQVVrZHlwN0xFT3E1Qm1ha1BDVnlGUzA5ODdNZHNES0lSNW5WSjlzWlNWcng1TDMyX1BoZXhmSW42MlJuQWhPWGp3Y0pm?oc=5",
-          "published_at": "2026-04-17T03:32:57+00:00"
+          "title": "방미 구윤철 \"환율, 우려보다는 많이 안정돼\" - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yV1hlckZJNWYtMkJWcHpic0gtdTlnZzZyNnBhbDRPbEFSNDRoRU55NkNGWkxrZWR2N1ZLSTZkQzdqT0N6U3pfb0JEdXNLNmU4RjdvZ0NnRjEyYWxoR3RzRHV5WkxJaDZfSGlRbzZmSDlBVHps?oc=5",
+          "published_at": "2026-04-18T00:35:35+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "유가",
+      "score": 90.33,
+      "articles": [
+        {
+          "title": "전쟁·휴전·제재 완화 '엇갈린 신호'에 유가 롤러코스터 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OX3VyT2JXcFlGaG12cEpxVElBNHZrcW1wRy0xT0tzZmI1WVlKYXQ1NEgyeDNzNGdqU1hYS280REc2NW5GSEtyalZKZUVLZ2JvOHYwRk4xUVVldlp1dU9xMHVvUkI1b2pBTTdqNFZOc0Y?oc=5",
+          "published_at": "2026-04-18T05:00:00+00:00"
+        },
+        {
+          "title": "이란 호르무즈 개방에 국제유가 급락…WTI 11% ↓ - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZkZZaFdhSVFkay1ORnJCb0M5M2dwMnRZSmZvRDdkdzM3eXQ5akRSVTBTaVFMWjVYWVgwR0xkNTVQWHYwQklyUk52RFBOaHFWQ2xRV1hONlZReWY4eGUtMWVzbXhBbmZGVmJXUVRlME0?oc=5",
+          "published_at": "2026-04-18T04:48:12+00:00"
+        },
+        {
+          "title": "호르무즈 개방에 국제유가 급락…WTI 11%↓ - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLUFkX3luWGdRM2p2YUNTVnEzazNseW9UbTZnblJOQjhHSE1rOGcwM3NfdFg5WDVKLVNfTVVqakVrTlpGMmxmakpCYnI5b0hFcjdCQVN4ZXhabS1jWXFYUFZWb2lYZFVqZExSNDFsVjA5Szd5?oc=5",
+          "published_at": "2026-04-18T03:58:45+00:00"
+        },
+        {
+          "title": "'호르무즈 개방' 직전 유가하락에 '1조 베팅'...또 정보 유출? - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRFhhYVBhbERjeU9yT1dSNExZdFRrUU5kSHdDSG9IaGkwVVVNZDBDSEo3NVhzR0IzWlJEb0d4YmFjMEpBRlRSZ0VLbUFrRkFMUmhBbVQtVEZWVWoxZEE?oc=5",
+          "published_at": "2026-04-18T03:41:00+00:00"
+        },
+        {
+          "title": "유가·물가의 덫…트럼프가 이란과의 협상 끊지 못하는 이유 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40YmVyY2tOWmYxUHhYcEhzQWg1ajk2d3ZQc3ItVHNOc1VvbUsyNEU3WWZHVDVoYnZoUGx2U2U5Tmx4akhEOXF3LXg0Nl85VzQ?oc=5",
+          "published_at": "2026-04-18T03:01:32+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "개방",
+      "score": 85.59,
+      "articles": [
+        {
+          "title": "이란 호르무즈 개방에 국제유가 급락…WTI 11% ↓ - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZkZZaFdhSVFkay1ORnJCb0M5M2dwMnRZSmZvRDdkdzM3eXQ5akRSVTBTaVFMWjVYWVgwR0xkNTVQWHYwQklyUk52RFBOaHFWQ2xRV1hONlZReWY4eGUtMWVzbXhBbmZGVmJXUVRlME0?oc=5",
+          "published_at": "2026-04-18T04:48:12+00:00"
+        },
+        {
+          "title": "호르무즈 개방에 국제유가 급락…WTI 11%↓ - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLUFkX3luWGdRM2p2YUNTVnEzazNseW9UbTZnblJOQjhHSE1rOGcwM3NfdFg5WDVKLVNfTVVqakVrTlpGMmxmakpCYnI5b0hFcjdCQVN4ZXhabS1jWXFYUFZWb2lYZFVqZExSNDFsVjA5Szd5?oc=5",
+          "published_at": "2026-04-18T03:58:45+00:00"
+        },
+        {
+          "title": "'호르무즈 개방' 직전 유가하락에 '1조 베팅'...또 정보 유출? - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRFhhYVBhbERjeU9yT1dSNExZdFRrUU5kSHdDSG9IaGkwVVVNZDBDSEo3NVhzR0IzWlJEb0d4YmFjMEpBRlRSZ0VLbUFrRkFMUmhBbVQtVEZWVWoxZEE?oc=5",
+          "published_at": "2026-04-18T03:41:00+00:00"
+        },
+        {
+          "title": "호르무즈 개방 직전 1조원대 유가 하락 베팅…반복되는 ‘수상한 거래’ - 국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU183ZFlBWWdGa3ZkaHlfVm50bV8tWkpHZ2xtMm1mNUJSOUVxQzlwMU9GMDNTcS1sSHg3TDFMS2tLUTVWOEVwUGlEanpYTjh5U1JvQk1jdUZtUmk5aVl3Ukx1dHdVbGdPd0NoT2Q0c0RTS3NtYnloeEk5REtUQVdQRUh3Mzl4RWpEZTI3QmlR?oc=5",
+          "published_at": "2026-04-18T02:59:00+00:00"
+        },
+        {
+          "title": "‘호르무즈 개방’에 국제유가 급락·WTI 11%↓…달러·원 환율도 급락·1460원 마감 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RMktQWUZtbGFZdTkxSGtSeXZMX25UbFhXR1p5NGFRNkRhd01BRnJPMmhaSTRYSDdKWlFYYnBZUWtTdzNIM20xd1BUcFZYQUwyV3dLVzFpa1A5VUoyemRReWVveUoycXRCSFNzZjhWVHY5elQ3?oc=5",
+          "published_at": "2026-04-18T02:43:00+00:00"
         }
       ]
     }
