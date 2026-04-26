@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-04-25T05:08:29.833063+00:00",
+  "generated_at": "2026-04-26T05:35:48.546191+00:00",
   "source_count": 4,
-  "article_count": 393,
+  "article_count": 381,
   "top_keywords": [
     {
       "keyword": "수출",
-      "score": 146.11
-    },
-    {
-      "keyword": "daum",
-      "score": 105.24
-    },
-    {
-      "keyword": "net",
-      "score": 105.24
-    },
-    {
-      "keyword": "이란",
-      "score": 99.01
-    },
-    {
-      "keyword": "금리",
-      "score": 70.7
-    },
-    {
-      "keyword": "동결",
-      "score": 53.13
-    },
-    {
-      "keyword": "헤럴드경제",
-      "score": 48.81
+      "score": 192.55
     },
     {
       "keyword": "환율",
-      "score": 47.76
+      "score": 159.91
     },
     {
-      "keyword": "협상",
-      "score": 43.21
+      "keyword": "daum",
+      "score": 112.89
     },
     {
-      "keyword": "상승",
-      "score": 42.48
+      "keyword": "net",
+      "score": 112.89
     },
     {
-      "keyword": "물가",
-      "score": 42.34
+      "keyword": "우리은행",
+      "score": 104.54
     },
     {
-      "keyword": "유가",
-      "score": 40.83
+      "keyword": "지원",
+      "score": 95.47
+    },
+    {
+      "keyword": "세미나",
+      "score": 88.86
+    },
+    {
+      "keyword": "지방",
+      "score": 76.59
+    },
+    {
+      "keyword": "중동",
+      "score": 73.39
+    },
+    {
+      "keyword": "찾아가는",
+      "score": 69.28
+    },
+    {
+      "keyword": "FOMC",
+      "score": 69.15
+    },
+    {
+      "keyword": "기업",
+      "score": 57.26
     }
   ],
   "hot_topics": [
     {
       "keyword": "수출",
-      "score": 146.11,
+      "score": 192.55,
       "articles": [
         {
-          "title": "인천서구, 일본무역사절단 파견... 1,070만 달러 수출 상담 성과 - 경기매일",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zdjFsY1BLUG1CVEV3V0lTdFJiamlFck9RR1p6R3hCcV9qRTljRU9uMHRwUEc5OFMzY0c5cXJuMk5mS3FORlZzaktPckt0MWhQNmw3elpsbDI2dWl6Zzk5Mks1eVQyVHM?oc=5",
-          "published_at": "2026-04-25T05:00:09+00:00"
+          "title": "국제유가 급등에도 불구하고 반도체 수출로 무역수지 흑자 유지 전망 - 공감신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeS0zc3ZQYjBYTTI0VTRndlRMcFR1ell3M1hXaFVtNXZzSnpfcjg0ZUdEdVhYRG1nZHM1SzFsRG1ONUtzdzVNaHlWc291UDNOSTJqZ1Z5SldTYWdSdDVxVmlkMnM4TDQ?oc=5",
+          "published_at": "2026-04-26T05:15:56+00:00"
         },
         {
-          "title": "대통령 순방에 K-푸드 수출 '날개'… \"베트남을 동남아 수출 거점으로\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZjBqeEZmVWp6cjZESkd6UzQwazU2QmItd2RVV0o3VGVveHM3YXpxWVVKVjZmX2VlZU85aXIyMWxaV2t2dXNnT2FpYjlCbEE?oc=5",
-          "published_at": "2026-04-25T04:51:19+00:00"
+          "title": "국제 유가 급등에도 안정적인 한국 무역수지… 반도체 수출이 견인하다 - 공감신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1Ty1ORG16bnMxZmc1Rjdvekt5aUNFbDJjVTFsakZTNmhMYTA0bWRqeUVWRjBrOUstakEwQUFNbGM0S0RMSzdRTExwUVNDOVlLc0RlSERCSHFnaFlVZmpONGItbnd6aURB?oc=5",
+          "published_at": "2026-04-26T05:15:08+00:00"
         },
         {
-          "title": "미국 반도체 수출 법안 진전에 중국, 글로벌 공급망 혼란 경고 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hSDg0d1doSGhFVEthYlFxTUdZelNnYkprTTNpMG1SSlU5eTQ2eE9tX1Bac0ZZdGxuVl9IOUtDdFVnMFk5Tl9QemxXbGpOWXU3WE9SZklHRTEwTUU1a3BCZUpRb3hSUGx5Y2c?oc=5",
-          "published_at": "2026-04-25T04:19:00+00:00"
+          "title": "군산 서광수출포장㈜ 손명엽 대표이사 효·애교·애향 실천 귀감 - 전북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTJ5eTQ2ZnQ3ejk2SzN6V1ZHQWtNOFhCVjJNVTd6eXF4M05nUWt5YV81ODFLWENXUmZkZnRNeXFtQmRYQzNOYm5mNlR5RVY1ZkRicjE0SUdPa0ZTZlFVYzZuVUM5RWRhQXVEYkhaVkpYT2pueldkTWY5VVI2RnlCbGVHQTYzc0k?oc=5",
+          "published_at": "2026-04-26T04:58:34+00:00"
         },
         {
-          "title": "중동 노동력 수출: 선제적 대응 및 안정 확보 (2부) - 노동자를 보호하는 다층적 \"방패\" - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOE5RWHBWVE1hSmEyb3Y3RWhHTzRYUkxxYUFLRWhNODliT3Vvc0x1dHJwaV9ydzIzMWpHVU5oNmxjMHJFd2g1MmZCQlM3TkpnTUFsakRNbTY5NEZvOGc1VzFSLVFZNU1jUzlEM0hxLS1ZZlotWHk2QmNqWHBLTVpxaU9Gc3pFTTlQY1FQSGRuQlYwdFZDQ3FrWWk3ZExKTlNHNXd5b0k1YzhhNHVZZVRsNkRrM2RhVTNOb2JsOHN6aGtxWkxRaFJhcHVOaGs2ek1E?oc=5",
-          "published_at": "2026-04-25T03:58:17+00:00"
+          "title": "고삐 푼 일본 무기 수출…‘자위대가 쓰던 중고 살상용 장비’까지 판다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEFsWnRXcUMxVWlkbmgzSGFvZEp4X2JyQ0RIVmZOa010TzhERUVlUVF2MmlKRnhRNDVmZVl4SDJyOXVuaHEzbkUtREx1UVpvQUMzNWk2VjhLRmIxSHdXcmI1Q3Y0TmNHQk1WX3BHSXVnUWlDX0F5OHZOQTJramRRbEN3?oc=5",
+          "published_at": "2026-04-26T04:57:00+00:00"
         },
         {
-          "title": "[뉴스 속 무기] 함대공 유도무기 ‘해궁’, 해외 플랫폼 기업과 협력한 새로운 수출 모델로 말레이시아에 첫 수출 성공 - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tQ2loaktvUDdLRDIteFExNTJEckVvaW44bzIwelhGUTYyQkRiNEF6cHZENmpLMDNteXV0Z2ZTRTFNb2c3bXhoaWNVWGR5QXdFeFY1eWRaSmJEcHR5V1E?oc=5",
-          "published_at": "2026-04-25T03:38:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "daum",
-      "score": 105.24,
-      "articles": [
-        {
-          "title": "대통령 순방에 K-푸드 수출 '날개'… \"베트남을 동남아 수출 거점으로\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZjBqeEZmVWp6cjZESkd6UzQwazU2QmItd2RVV0o3VGVveHM3YXpxWVVKVjZmX2VlZU85aXIyMWxaV2t2dXNnT2FpYjlCbEE?oc=5",
-          "published_at": "2026-04-25T04:51:19+00:00"
-        },
-        {
-          "title": "“600년 살아온 집성촌 한순간에 사라질 판”…송동마을 재개발 반대시위 가보니 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04dGFZMVllU3VMYmFQQjMybjF4eVZ6UHBoc2MybUpSWGFldDVHM0lFUnNCaFdVRVQtQ0l0Z2xMbWJaNURuQTY4T29RREpycDQ?oc=5",
-          "published_at": "2026-04-25T04:24:01+00:00"
-        },
-        {
-          "title": "\"스페이스X는 머스크의 돼지저금통\"…은행 대신 수천억 저리 대출 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GTVU4MFFhMUZZNXBSeVVMdFljSGh3M0ozX0hVcUtTYmdjUzJCbWtWRTRUa1RweElJdDAzaVI4cENJQnk5NjcyMjd4WGhIc1k?oc=5",
-          "published_at": "2026-04-25T04:14:09+00:00"
-        },
-        {
-          "title": "\"2년내 집 사려는데\"…30대 부부 '15억' 들고 고민하는 이유 [돈 버는 법 아끼는 법] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fR0pxM0pjLXVpcHRrbFhVczlYX2o4OXhYVzN6cVdMYUk2YkFiRzhYMXF5cnJUVzM0aHZjbUV4LW9FMVJjamx3N1preUJWUG8?oc=5",
-          "published_at": "2026-04-25T03:56:34+00:00"
-        },
-        {
-          "title": "\"이게 왜 나와?\" 역사상 첫 발견…1600년 된 미라 뱃속에서 나온 물건 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XRDBzOTNHN1U1aF9QSWVNZkcyYTdjcmFsUGpuMzhzekVBYWRzMHBLeFd3OVQ1YUdrTERNUG5EaWJwelAxc3FuRUw5MlRFV2s?oc=5",
-          "published_at": "2026-04-25T03:12:58+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "net",
-      "score": 105.24,
-      "articles": [
-        {
-          "title": "대통령 순방에 K-푸드 수출 '날개'… \"베트남을 동남아 수출 거점으로\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZjBqeEZmVWp6cjZESkd6UzQwazU2QmItd2RVV0o3VGVveHM3YXpxWVVKVjZmX2VlZU85aXIyMWxaV2t2dXNnT2FpYjlCbEE?oc=5",
-          "published_at": "2026-04-25T04:51:19+00:00"
-        },
-        {
-          "title": "“600년 살아온 집성촌 한순간에 사라질 판”…송동마을 재개발 반대시위 가보니 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04dGFZMVllU3VMYmFQQjMybjF4eVZ6UHBoc2MybUpSWGFldDVHM0lFUnNCaFdVRVQtQ0l0Z2xMbWJaNURuQTY4T29RREpycDQ?oc=5",
-          "published_at": "2026-04-25T04:24:01+00:00"
-        },
-        {
-          "title": "\"스페이스X는 머스크의 돼지저금통\"…은행 대신 수천억 저리 대출 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GTVU4MFFhMUZZNXBSeVVMdFljSGh3M0ozX0hVcUtTYmdjUzJCbWtWRTRUa1RweElJdDAzaVI4cENJQnk5NjcyMjd4WGhIc1k?oc=5",
-          "published_at": "2026-04-25T04:14:09+00:00"
-        },
-        {
-          "title": "\"2년내 집 사려는데\"…30대 부부 '15억' 들고 고민하는 이유 [돈 버는 법 아끼는 법] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fR0pxM0pjLXVpcHRrbFhVczlYX2o4OXhYVzN6cVdMYUk2YkFiRzhYMXF5cnJUVzM0aHZjbUV4LW9FMVJjamx3N1preUJWUG8?oc=5",
-          "published_at": "2026-04-25T03:56:34+00:00"
-        },
-        {
-          "title": "\"이게 왜 나와?\" 역사상 첫 발견…1600년 된 미라 뱃속에서 나온 물건 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XRDBzOTNHN1U1aF9QSWVNZkcyYTdjcmFsUGpuMzhzekVBYWRzMHBLeFd3OVQ1YUdrTERNUG5EaWJwelAxc3FuRUw5MlRFV2s?oc=5",
-          "published_at": "2026-04-25T03:12:58+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "이란",
-      "score": 99.01,
-      "articles": [
-        {
-          "title": "국제유가 5거래일 만에 내려…미-이란 협상 재개 기대감 - 브릿지경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SY1BaQXFnX18wdUUyTnVHSS1jMHZsOFBldnA5U0g4dXg5YW9mZURGUXZ5dW1lOGVMMkx2RFZQMXhqaktjdTQ2NzZ6Mk9NM25iNHQ3Q0NPUmxfUQ?oc=5",
-          "published_at": "2026-04-25T03:29:00+00:00"
-        },
-        {
-          "title": "석유 수출 막고 코인은 동결…美, 2차 협상 앞 이란 돈줄 압박 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VWJGdFpMeThKLWxkU0VETnhvbnVId245bVg4VkJVbHRHeWI4MmEyTjdONDR1YWRMUHpMYlp6NGZVbENmYmI1Q1doRVBPbFU?oc=5",
-          "published_at": "2026-04-25T03:09:33+00:00"
-        },
-        {
-          "title": "미·이란 협상 기대에 유가 하락…5거래일 만에 내림세 - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zYjBnQTJ1NEFPZmhDbUdPWk01TWpIMDBCeDg1aW8wbFpsX3ZGbkdpVXh6S0hZcHB2M0FYY1AxV25OVHZ5SmJfaFo0dHpJR0s5VTFRQ2ZqQ2l5UXdxYzZyMjUtYWg3d0Uta1FtVUp3?oc=5",
-          "published_at": "2026-04-25T02:21:31+00:00"
-        },
-        {
-          "title": "美, ‘이란전 비협조’ 스페인 ‘나토 방출’ 검토 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5QTBLMWZvZUtuOWRRZXZfbHIyS0tXTHR0YVcySTRBQ1phR3JZQ1YtdV9CUWRiMDgwbi1HWFU4blkzemgxLWRqNFQ5NHRiV3VjcDNYS3F3?oc=5",
-          "published_at": "2026-04-25T01:03:22+00:00"
-        },
-        {
-          "title": "'석유' 수출 차단에 '코인' 동결까지…美, 이란과 종전협상 앞두고 자금줄 압박 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RkxqNEtSZTc4MGRmVWN5dm43ZTJrb19sZjJWXzZTMWVrQnN6em9OczNVRE00SmxsU2JzNFhlSUh5d2RRSFQwY1l4Mm9uNHBlclR4aVJ3T19ocTNpZHNhMA?oc=5",
-          "published_at": "2026-04-25T00:59:57+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 70.7,
-      "articles": [
-        {
-          "title": "압구정5구역 시공사 선정 착수..\"금리 전쟁\" 불붙나 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZ1hpNkJMNFRSNFNCYXI4TkZCR1cteC04Z3dxdnEtZThxMmNmeW1jNV80TVdoaGQ4UWt0dzBBUnVBc0dwU2xKUm1YZ2V6WGFRVVN3VmdMdUxOd9IBXkFVX3lxTE5vQWVkZ2hMcUV4blJ6TXl4bWRVZ3YzdHdLZE1tSGdKY1N3QVVjLUpFMGZxWlBpb1p2NTRES2dwSDFJbDJjcU5Sa3FwaVBtU0ZLTW94RjZEU3hmeTRIRXc?oc=5",
-          "published_at": "2026-04-25T02:15:55+00:00"
-        },
-        {
-          "title": "[오늘의 검색어 TOP10] 이재명 경제전략·전기본 논쟁·트럼프 금리·보잉·쿠팡·박지훈…키워드 TOP10으로 읽는 한국 사회의 방향 - 네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMjFQUHZjZHJaMFI4R2JIT3pUcFlsRGktdkFLcXdIY3NfeHM0RmI5bV9YOUNJQlR4ZVBOWWF6QXZJTm5EeHpHUnhJRmNRNjJfYVlZS2ROaGtUOC1Bd01PWml5eWJYTzhMcV9aLXlDRDE0UDNUa3otd2J3N2x5Zw?oc=5",
-          "published_at": "2026-04-25T01:01:00+00:00"
-        },
-        {
-          "title": "주금공, 내달 보금자리론 금리 0.25%p 인상 - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVEtSdHRIZFJJaUowa2hMLTM5bDdGc3ZQZ0Q5cTdfektZYVI3cWlqbHIwdkdxamxWeENUeDRnYmZTeklXVXU2Vnp5OWQ0QkhybjZvMzR3eEcxLXNXTTY4a2ZWVFJ3VEFrOGc?oc=5",
-          "published_at": "2026-04-25T01:00:00+00:00"
-        },
-        {
-          "title": "워시 '매파 발언'에 긴축 장기화 무게...시장 \"내년 9월까지 금리 동결\" - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnUzZ6dUQyOWJTdThWTkRPam13RmlvTTdWOHYtWEJzYUFELUpLM0ZvQ0tOcE8zanBKRjUzcVhUT0NRS2MxMGFrUDhuc0dtU2hz?oc=5",
-          "published_at": "2026-04-24T23:21:50+00:00"
-        },
-        {
-          "title": "2026년 소상공인 대출, 신용점수 몇 점이면 금리 0.5% 즉시 깎아줄까? - 창원특례신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbHRZcHQzekxZSUhmREZRX1VVUFNTUGRnLXpkb0p0SXVzbWJtczZhdlpqTWVKS2dSZjhZbHhxT3RjeDFncENhVUFSazJUTWcyYmRXRS1JVktFaXdkR2JCVVRQc1IzV03SAWtBVV95cUxNXzJmM2dlQklpNnJiZkt1LUlpQlNVdFNpXzFGZU9sQW9VQV9UY1BkUXRLVnN3YUcyaFEyZm1mVUt0alB4R1JUSmVFSHhLWXAtakhzVW9EM1BUMnR2cWE4bXZIYzNFRlJVeFZIaw?oc=5",
-          "published_at": "2026-04-24T22:45:13+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "동결",
-      "score": 53.13,
-      "articles": [
-        {
-          "title": "석유 수출 막고 코인은 동결…美, 2차 협상 앞 이란 돈줄 압박 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VWJGdFpMeThKLWxkU0VETnhvbnVId245bVg4VkJVbHRHeWI4MmEyTjdONDR1YWRMUHpMYlp6NGZVbENmYmI1Q1doRVBPbFU?oc=5",
-          "published_at": "2026-04-25T03:09:33+00:00"
-        },
-        {
-          "title": "'석유' 수출 차단에 '코인' 동결까지…美, 이란과 종전협상 앞두고 자금줄 압박 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RkxqNEtSZTc4MGRmVWN5dm43ZTJrb19sZjJWXzZTMWVrQnN6em9OczNVRE00SmxsU2JzNFhlSUh5d2RRSFQwY1l4Mm9uNHBlclR4aVJ3T19ocTNpZHNhMA?oc=5",
-          "published_at": "2026-04-25T00:59:57+00:00"
-        },
-        {
-          "title": "美, 이란 석유수출 막고 코인 동결…2차 협상 앞두고 ‘전방위 압박’ - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BWWhqcEpGQ2pCSWR1ME0wLTc4WHJIMnpGRUlQWkJ4TFRBUlNGQmtyQV9BMU1xaEV3Mi1kdU1xYXhiQU1Fc0prOWtqQXlfUmR3WXlsZ2s5SHFFR1NEcnlob3dDSUJUNmJfWHJCdDQ4b0ZINEp3aUNZ?oc=5",
-          "published_at": "2026-04-25T00:38:26+00:00"
-        },
-        {
-          "title": "미국, 이란 압박 수위 최고조···\"석유 수출 차단에 코인 계좌 동결\" - 한국NGO신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMklJR21ZaHpaNno2MmQ0bWgxTzFNLURXZ3N3Nzlfb2hFRk1qSUJ3R205cUJrOW1HdjR0V0xpaG50NXcyOHlXY0d2ejRHTS1NR001RDlod2ZvMVBiLWZPbW9ucDJBNnlv?oc=5",
-          "published_at": "2026-04-25T00:34:43+00:00"
-        },
-        {
-          "title": "협상앞둔 美, 이란 석유수출 막고 코인 동결 압박 - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwaXlTQ1J1UW1yUl9BaFByREFQdzY3M0hGU0ZVSVFjSm5lNDR0SG5GQUl6Y29fcGo4VE9Kc212ODNXd2MxOURtXzVGdUpyMTQzb1pmZW1KZThtdDBOUEJqdDZLVTY0bUx5bklF?oc=5",
-          "published_at": "2026-04-24T23:49:11+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "헤럴드경제",
-      "score": 48.81,
-      "articles": [
-        {
-          "title": "국힘, 이진숙 불출마에 안도…“대구선거 승리 밑거름” - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GYnhWbTh5T2hfR3VQUEhLWjZWcFJEdTU4Y3ZFZXQtdWlHajZOVWl3ZWV4N0h4b0xQem1YbmR0X2RlZ3pQTFdKM2VrVzQ1OC1IVlNxbEl3?oc=5",
-          "published_at": "2026-04-25T04:43:56+00:00"
-        },
-        {
-          "title": "“포켓몬·마리오 비켜줄래?” 자체 캐릭터가 뜬다 [언박싱] - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OdFppM1VndU9PaXJvZTdfalBpQmRnc2wyX21WU2RXb0JncVEwVWdoUHVqMGZ2ZnMwRkx3Mm1NYWpDLWNLMXFZTUJxb004YktKeGJGUnNn?oc=5",
-          "published_at": "2026-04-25T04:00:00+00:00"
-        },
-        {
-          "title": "“與의원 51명이 지지”…김용, 재보선 공천 압박 ‘고삐’ - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5idDB1WjlrZmZzY0JlN3dyMk1fRGJPQkROOHh5VVlwZkJ6RmhNdy1pdDYtTzVYcVNWWGw1REJreXNaRmFZcGdHTEwtaDJhM1VvY0tsWDZR?oc=5",
-          "published_at": "2026-04-25T03:18:12+00:00"
-        },
-        {
-          "title": "‘챔프’ 김수철 휴식기…양지용·김현우 잠정 타이틀전 결정 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSa3NzOUx5TW5kQmd6MTNHREJZYWF0eGlseFhudjFuOHBzMjVwVjlRTkNxZGhJWHlZNHZUeVpqbTd1T0NQX0EtSm5zQU5qa3JKRnFsTklR?oc=5",
-          "published_at": "2026-04-25T03:08:27+00:00"
-        },
-        {
-          "title": "갤럭시코퍼레이션, 인도 이어 베트남 경제사절단 합류… AI·로봇 기반 협력 확대 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jT3dPWjJlemZOQTIxVUk3M3dfY1gxREJDTFdyVDQyczBnck41MEhhYmhoM2hDSmtBeGMwM2hHYnNHX1VyT1VmZk5UeTNoWU1saHVtUUVB?oc=5",
-          "published_at": "2026-04-25T02:59:00+00:00"
+          "title": "이란 전쟁의 최대 수혜자?…美, 원유·LNG 수출 사상 최고치 - 디지털데일리",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zRVprbURFYUxKVENGeXdBazNvSGhXZHAySmxiT1pmYy1kNFNrUzBUSm4zWm1lZnBheWVlcEIzVXlMcnZhVTcwd19zOHlwTHR0LVg4YnNHWUZKcEMydUJfZllR?oc=5",
+          "published_at": "2026-04-26T04:52:07+00:00"
         }
       ]
     },
     {
       "keyword": "환율",
-      "score": 47.76,
+      "score": 159.91,
       "articles": [
         {
-          "title": "현대차·기아 1분기 최대 매출에도 '관세·환율' 파고 힘겨운 싸움 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SbE5CRHdINHF0UXhqbnFRcldUMHZtQ1loUkZuT0pGemlSNkNvVzY0Ti14d05takVrN21DeVloV2JFLWJOZkpBd29XWG5WTmhYSkNQQ29PQjRaRGNEYXJTNQ?oc=5",
-          "published_at": "2026-04-24T23:00:00+00:00"
+          "title": "우리은행, 지방 수출입 중소기업 대상 ‘찾아가는 환율 세미나’ 개최 - 주간한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMUHJKWm0tTEhKa1NHN2hwbUNrWjFiVnZFdmZ6OFBoc2JQUkxTYV9FWHIwZU5JWlRGSFdjY3A0QWxkVk13bHRuZ1dNYnNDak9ySG5RVEU1TmRYQm5TQTlnTURVWFUtQm9aaXJ2Q2djWUvSAXRBVV95cUxOZ240RXV5VWEtaHJpemE4YktzWTlIQjlNSGdrVmdselFmZTUxTXA4dktvOTFBUS1tVGlpcnZkVHZGRk5jdzBVVGVoRDUxX1JUYXNjX0ExTDhDdWlJM1NuZThJTjN5b0F6RHZkZjBIYV90ZE54Qw?oc=5",
+          "published_at": "2026-04-26T04:26:48+00:00"
         },
         {
-          "title": "[다음주 환율전망] 원·달러 환율, 지정학 변수에 출렁…다음주 1490원선 시험대 - 굿모닝경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PR0hfdzVNTmFFOTRwZzBncWRBLTZzZWdMSUppdU1JS3RIUTVaemlOZm53Mjd3Z1laQnAtTTY3bjNiMDVnaGJNdGxpYW9Na2o5QlcwQjE4V19CaDY5ZjRiZGZEMFJKRll5Uk1yUA?oc=5",
-          "published_at": "2026-04-24T22:00:00+00:00"
+          "title": "\"기업이 오기 전에 은행이 간다\"...우리은행, 찾아가는 환율 세미나 실시 - 청년일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0Ymt6S0V1cm95SDBvdkhzdkVOdTBoeEh1dUlCeHpPOXlwZ3BoMUFSempwZmNUODRuVnkxOTJpMFVhdHluSXBibXNtNWpzQ2I0NWU2TEpNOFJJV3JLNE9UMVN5SkFrbHlvYVE?oc=5",
+          "published_at": "2026-04-26T03:56:08+00:00"
         },
         {
-          "title": "오늘(2026년 4월 25일) 미국 달러 환율: 급등, '암시장'에서 26,600 VND 돌파. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGlFLVl4MDRJX2Z6NXNvQzQxODRGRXBPYzRYVnhUWHYtcGJxT0dFWS1UdjQtUXlTU3VlMldPckd0Q1VleWs4NkVGUVNtQXpqRy1OYy1jQzFHOVcyQmp5cEFtdVExT2JkZW50bVl4cWxCLXNoV0hQbTZVMzBvNGZQY0I0SEFyemk1eTBxUTFCOHB6Y2pzeEtJ?oc=5",
-          "published_at": "2026-04-24T21:47:01+00:00"
+          "title": "'호르무즈 리스크'에 인플레 우려 재점화···환율 1480원대 갇혔다 - 뉴스웨이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcDFyLXRxRzU1OWEzSVNlUExvMjBkUWsxWjFoVFdoWkdXWlRVa1piVHZWOEkyNEh4OUhYZ2pMVm4wWUV2MnBPZmFIX1ROMGFrMWx5TTBCZnNzcjdPb1VhbTdSa1c0eGlYLUE?oc=5",
+          "published_at": "2026-04-26T03:31:58+00:00"
         },
         {
-          "title": "한은 기준금리 연 2.5% 동결…이란전쟁에 물가·환율·성장 불안 - 한국무역협회-KITA.NET",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN05qcElXdUtWTHBkVjluVVB5LVh6MzZ5QllQc0kyMHFBZE5QVkk5SUlvRFVtbzZCMjk1MWNOZ3U2b3BWLUs0N0tsY3UxQWhfTEdBTjhJbTkwemZxT1VYeTF2b01GTWZ1MWdpRVJmM012SG1NVHJydHBuNExxUVBySjV3N1MtelRYTFQ5MVRTdl9YbkQ4UU5hdzNPdzNESjl6QTAtQ1gzRGVJU1ZXZ2JaYjlYeVB3TGNfeGxOVUtad0RmZzhBR3hjZjM4bVFaX0NsOTcxMHh3?oc=5",
-          "published_at": "2026-04-24T20:49:32+00:00"
+          "title": "우리은행, 지방 수출입 중소·중견기업 '찾아가는 환율 세미나' - 조세금융신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMmtNWGlXNTMycEUxV1hBRE03TTlHQzgwTlRaQTBDcXZVeDBPd2lfZmNhYzRSX0xLS2RYQkdBZkJvOXNLOWVmcnh4eWd5a1lna2ZQRkExa3g5ZlBTUlhuWg?oc=5",
+          "published_at": "2026-04-26T03:08:55+00:00"
         },
         {
-          "title": "[주식 매매 상위 종목 및 환율] 2026년 4월 24일자 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUxKd0V6eUJDd2xQYTRZaGxqU2hMd25GRW5CNlhiMW1ydElxRGRpdnJ4U0taYzdTVEs2M1hRbE1pN3FkRGMtaXRnWmdELU9vNURDYnlJZkdEQlRDUU5kc2tZRmdJMHdzeGRkUEJJMDFJNE5GNk42QW1FOGNhTjU1aExraV9scnlTbVVF?oc=5",
-          "published_at": "2026-04-24T15:44:00+00:00"
+          "title": "우리은행, 찾아가는 환율 세미나…수도권과 지방 간 정보 격차 해소 - 파이낸셜신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NNHhHcGZmcHotWUppYzVaWV9kSjNEZEI0N2diRDRlckduNTh2am82MEpKb05fcVN4UnpRcDN2eEhBN0RTV1RWMW9zeFdQSTVnUWgzcnA2aE5KaXZ4NE0zMGtGQ0F0OXEzLTdB?oc=5",
+          "published_at": "2026-04-26T02:51:52+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "daum",
+      "score": 112.89,
+      "articles": [
+        {
+          "title": "추경호 \"대구 경제 살리라는 절박한 명령…보수 결집으로 이뤄낼 것\"(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Q2s2dVBWbUZfZXQ1WHgxeHNCejFuSEZVX0E1NUZKTWNEMDhJYUpZbXQxWk81djB0bkIxNk9KVnpiZm9wZDVYeXYycnR0Y2M?oc=5",
+          "published_at": "2026-04-26T05:06:55+00:00"
+        },
+        {
+          "title": "8만달러 ‘깔딱고개’ 비트코인…‘FOMC 변수’ 주목 [가상자산 나침반] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VU13VEdiUGc2eDVHaC1fUlJRejQ2c2pYQ0RKMXhjYjZpOXczc2cwWnpoOG9QcVdQd01pTnRYeXZzS0FnT2w1c1Z6ejJ3ZGc?oc=5",
+          "published_at": "2026-04-26T05:01:33+00:00"
+        },
+        {
+          "title": "강남 집값 14억원 '뚝'…서울 아파트값 상승 폭 둔화 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd0ZrdzRiSjU1Vlo1MHJDcEFGNEdZT255Uk1WYlhYRFBpdTRqQ0ltdENHdmkwMXhyUENjVElGelNmcndoZXlJdFdhb2NHZkk?oc=5",
+          "published_at": "2026-04-26T04:46:34+00:00"
+        },
+        {
+          "title": "\"고유가로 무역수지 200억달러 줄 수도…반도체에 흑자는 지속\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55VTA2ZVBrcWZYYnRrQTAteU1EWFFFSU1oeGF4N2JIVjc3UFBNT3ktclZGRDJucHI3clF1SFpEOGhZOVhYTXN5MjdpekcxT3c?oc=5",
+          "published_at": "2026-04-26T04:42:04+00:00"
+        },
+        {
+          "title": "무보, 방산 中企 묶인 자금 풀어 수출 견인 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oM256aDF5alVKUjZUX0NETElLVTNvUUJFd1A4WFdEWGU3WVZHMF9wd0NVUWNKajhpUTA3ZUJtTHc1VmNBWkpQbWFkRnY3U1U?oc=5",
+          "published_at": "2026-04-26T04:29:46+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 112.89,
+      "articles": [
+        {
+          "title": "추경호 \"대구 경제 살리라는 절박한 명령…보수 결집으로 이뤄낼 것\"(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Q2s2dVBWbUZfZXQ1WHgxeHNCejFuSEZVX0E1NUZKTWNEMDhJYUpZbXQxWk81djB0bkIxNk9KVnpiZm9wZDVYeXYycnR0Y2M?oc=5",
+          "published_at": "2026-04-26T05:06:55+00:00"
+        },
+        {
+          "title": "8만달러 ‘깔딱고개’ 비트코인…‘FOMC 변수’ 주목 [가상자산 나침반] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VU13VEdiUGc2eDVHaC1fUlJRejQ2c2pYQ0RKMXhjYjZpOXczc2cwWnpoOG9QcVdQd01pTnRYeXZzS0FnT2w1c1Z6ejJ3ZGc?oc=5",
+          "published_at": "2026-04-26T05:01:33+00:00"
+        },
+        {
+          "title": "강남 집값 14억원 '뚝'…서울 아파트값 상승 폭 둔화 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd0ZrdzRiSjU1Vlo1MHJDcEFGNEdZT255Uk1WYlhYRFBpdTRqQ0ltdENHdmkwMXhyUENjVElGelNmcndoZXlJdFdhb2NHZkk?oc=5",
+          "published_at": "2026-04-26T04:46:34+00:00"
+        },
+        {
+          "title": "\"고유가로 무역수지 200억달러 줄 수도…반도체에 흑자는 지속\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55VTA2ZVBrcWZYYnRrQTAteU1EWFFFSU1oeGF4N2JIVjc3UFBNT3ktclZGRDJucHI3clF1SFpEOGhZOVhYTXN5MjdpekcxT3c?oc=5",
+          "published_at": "2026-04-26T04:42:04+00:00"
+        },
+        {
+          "title": "무보, 방산 中企 묶인 자금 풀어 수출 견인 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oM256aDF5alVKUjZUX0NETElLVTNvUUJFd1A4WFdEWGU3WVZHMF9wd0NVUWNKajhpUTA3ZUJtTHc1VmNBWkpQbWFkRnY3U1U?oc=5",
+          "published_at": "2026-04-26T04:29:46+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "우리은행",
+      "score": 104.54,
+      "articles": [
+        {
+          "title": "우리은행, 지방 수출입 중소기업 대상 ‘찾아가는 환율 세미나’ 개최 - 주간한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMUHJKWm0tTEhKa1NHN2hwbUNrWjFiVnZFdmZ6OFBoc2JQUkxTYV9FWHIwZU5JWlRGSFdjY3A0QWxkVk13bHRuZ1dNYnNDak9ySG5RVEU1TmRYQm5TQTlnTURVWFUtQm9aaXJ2Q2djWUvSAXRBVV95cUxOZ240RXV5VWEtaHJpemE4YktzWTlIQjlNSGdrVmdselFmZTUxTXA4dktvOTFBUS1tVGlpcnZkVHZGRk5jdzBVVGVoRDUxX1JUYXNjX0ExTDhDdWlJM1NuZThJTjN5b0F6RHZkZjBIYV90ZE54Qw?oc=5",
+          "published_at": "2026-04-26T04:26:48+00:00"
+        },
+        {
+          "title": "\"기업이 오기 전에 은행이 간다\"...우리은행, 찾아가는 환율 세미나 실시 - 청년일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0Ymt6S0V1cm95SDBvdkhzdkVOdTBoeEh1dUlCeHpPOXlwZ3BoMUFSempwZmNUODRuVnkxOTJpMFVhdHluSXBibXNtNWpzQ2I0NWU2TEpNOFJJV3JLNE9UMVN5SkFrbHlvYVE?oc=5",
+          "published_at": "2026-04-26T03:56:08+00:00"
+        },
+        {
+          "title": "우리은행, 지방 수출입 중소·중견기업 '찾아가는 환율 세미나' - 조세금융신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMmtNWGlXNTMycEUxV1hBRE03TTlHQzgwTlRaQTBDcXZVeDBPd2lfZmNhYzRSX0xLS2RYQkdBZkJvOXNLOWVmcnh4eWd5a1lna2ZQRkExa3g5ZlBTUlhuWg?oc=5",
+          "published_at": "2026-04-26T03:08:55+00:00"
+        },
+        {
+          "title": "우리은행, 찾아가는 환율 세미나…수도권과 지방 간 정보 격차 해소 - 파이낸셜신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NNHhHcGZmcHotWUppYzVaWV9kSjNEZEI0N2diRDRlckduNTh2am82MEpKb05fcVN4UnpRcDN2eEhBN0RTV1RWMW9zeFdQSTVnUWgzcnA2aE5KaXZ4NE0zMGtGQ0F0OXEzLTdB?oc=5",
+          "published_at": "2026-04-26T02:51:52+00:00"
+        },
+        {
+          "title": "[경제소식] 우리은행, 지방기업 '찾아가는 환율 세미나' 확대 - 포쓰저널",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81OHk1M2lsV19UZDJNVkExQ09sT0RrVjBmUzY3M1VUUmpWcjNCU08xbFlzRFFrU2VGSHhzQW54NkxQUk9XWHBuUFBWTngtS3VFYTZYNHJ6M1R2eTk5OWlCZ1FyYnY?oc=5",
+          "published_at": "2026-04-26T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "지원",
+      "score": 95.47,
+      "articles": [
+        {
+          "title": "'고유가 지원금' 내일부터 지급…취약계층 우선 - 매일경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OenBlNFUxRGpkN2VqeW1zanBrSDJEdGNPUHV3X0ZHQ3VDX2F5UW0ydkFWbG5FNC1Wb055anUtZ0Zia2o5VHJpdnlhTG5kUE13UDlPUWZhSDVhYU9MNXd5QVlNbWhaeDJH?oc=5",
+          "published_at": "2026-04-26T04:56:00+00:00"
+        },
+        {
+          "title": "무보, 방산 중소기업 유동성 지원...묶인 자금 풀어 수출 견인 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFUGd0WGRGS29IekJrRlJvRXpCSl84amtmMk1yZ2lzaFVTLUFTSkduSmt3N2g5SnRFQmpvNWdVSWlFSmNHa25HeDBCMXlEMS1IaXBZTEpudVZ1Z9IBWEFVX3lxTFBoNlE0WHRzalhWb05oMlpxdjlJcEUxMWRhbWxoTmtndWtkZ3lTUmhTTmF4emhSM3Y1UEk0WVJpOFlDdGNiWHZwRU5KVVo2eUZES3RzamlyX0c?oc=5",
+          "published_at": "2026-04-26T04:41:06+00:00"
+        },
+        {
+          "title": "전주시, AI 기반 수출 지원 본격화 - 전라매일",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbTZCYURDNi1Cc1JOSW1qeUpOckhXckQ2d0ZtNVQzTTdrNGpzV0Z6WG10dXFHdEtqZFRLakg1UVkteGtRckJhY0tNXy1QWVF3ZjVRenZabmpHalpHeFRvWjhZbDdydElueHI2NFh0TEQtMDhUZm5MNmo2N1R2WU0?oc=5",
+          "published_at": "2026-04-26T04:06:00+00:00"
+        },
+        {
+          "title": "“운임 40% 뛰자”…정부, 중소 수출기업 물류비 지원 나선다 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VQUxTM2paTG1yc3RBN1ZKUno4Q3hYUDJhWHF3a0xqakZvVkY3Z3MwT2szd1dGWG5fN1NRUVc1WnpYbHNXOXJ3WUtuLVF6MlZFMTFIaU5R?oc=5",
+          "published_at": "2026-04-26T03:58:03+00:00"
+        },
+        {
+          "title": "무협, 중소·중견기업 해상·항공 수출물류 지원…중동발 물류난 대응 - 뉴스웍스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zY2ltbzJhNUhXRy1LSWtETzk3N1RQbFhQcHBuNjdtZ0ZzMVhnMHBGR3ZwdHRpNVJYb1RRc0JieExxTXJMY2tnNjZpWldJMEh4UFZmUFFWZ1o0ZURyMjdYTUdYVzRld1ZVakpkTU9NRdIBc0FVX3lxTE5uc1ZodnRhQ0JEVWx1SGZlb0pNWXJ4dXl0RHZ4Q1pKbFFjbEliSFBhRnp3QWhaMldVVmlzYTdQN1F6M2YtcFJHSldDOHBpRXZBT1l0cjhPR0NCRmFsWnlFdi1RQ1EySmt2NUt5MkQzLXZTNmM?oc=5",
+          "published_at": "2026-04-26T02:52:53+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "세미나",
+      "score": 88.86,
+      "articles": [
+        {
+          "title": "우리은행, 지방 수출입 중소기업 대상 ‘찾아가는 환율 세미나’ 개최 - 주간한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMUHJKWm0tTEhKa1NHN2hwbUNrWjFiVnZFdmZ6OFBoc2JQUkxTYV9FWHIwZU5JWlRGSFdjY3A0QWxkVk13bHRuZ1dNYnNDak9ySG5RVEU1TmRYQm5TQTlnTURVWFUtQm9aaXJ2Q2djWUvSAXRBVV95cUxOZ240RXV5VWEtaHJpemE4YktzWTlIQjlNSGdrVmdselFmZTUxTXA4dktvOTFBUS1tVGlpcnZkVHZGRk5jdzBVVGVoRDUxX1JUYXNjX0ExTDhDdWlJM1NuZThJTjN5b0F6RHZkZjBIYV90ZE54Qw?oc=5",
+          "published_at": "2026-04-26T04:26:48+00:00"
+        },
+        {
+          "title": "\"기업이 오기 전에 은행이 간다\"...우리은행, 찾아가는 환율 세미나 실시 - 청년일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0Ymt6S0V1cm95SDBvdkhzdkVOdTBoeEh1dUlCeHpPOXlwZ3BoMUFSempwZmNUODRuVnkxOTJpMFVhdHluSXBibXNtNWpzQ2I0NWU2TEpNOFJJV3JLNE9UMVN5SkFrbHlvYVE?oc=5",
+          "published_at": "2026-04-26T03:56:08+00:00"
+        },
+        {
+          "title": "우리은행, 지방 수출입 중소·중견기업 '찾아가는 환율 세미나' - 조세금융신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMmtNWGlXNTMycEUxV1hBRE03TTlHQzgwTlRaQTBDcXZVeDBPd2lfZmNhYzRSX0xLS2RYQkdBZkJvOXNLOWVmcnh4eWd5a1lna2ZQRkExa3g5ZlBTUlhuWg?oc=5",
+          "published_at": "2026-04-26T03:08:55+00:00"
+        },
+        {
+          "title": "우리은행, 찾아가는 환율 세미나…수도권과 지방 간 정보 격차 해소 - 파이낸셜신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NNHhHcGZmcHotWUppYzVaWV9kSjNEZEI0N2diRDRlckduNTh2am82MEpKb05fcVN4UnpRcDN2eEhBN0RTV1RWMW9zeFdQSTVnUWgzcnA2aE5KaXZ4NE0zMGtGQ0F0OXEzLTdB?oc=5",
+          "published_at": "2026-04-26T02:51:52+00:00"
+        },
+        {
+          "title": "[경제소식] 우리은행, 지방기업 '찾아가는 환율 세미나' 확대 - 포쓰저널",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81OHk1M2lsV19UZDJNVkExQ09sT0RrVjBmUzY3M1VUUmpWcjNCU08xbFlzRFFrU2VGSHhzQW54NkxQUk9XWHBuUFBWTngtS3VFYTZYNHJ6M1R2eTk5OWlCZ1FyYnY?oc=5",
+          "published_at": "2026-04-26T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "지방",
+      "score": 76.59,
+      "articles": [
+        {
+          "title": "우리은행, 지방 수출입 중소기업 대상 ‘찾아가는 환율 세미나’ 개최 - 주간한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMUHJKWm0tTEhKa1NHN2hwbUNrWjFiVnZFdmZ6OFBoc2JQUkxTYV9FWHIwZU5JWlRGSFdjY3A0QWxkVk13bHRuZ1dNYnNDak9ySG5RVEU1TmRYQm5TQTlnTURVWFUtQm9aaXJ2Q2djWUvSAXRBVV95cUxOZ240RXV5VWEtaHJpemE4YktzWTlIQjlNSGdrVmdselFmZTUxTXA4dktvOTFBUS1tVGlpcnZkVHZGRk5jdzBVVGVoRDUxX1JUYXNjX0ExTDhDdWlJM1NuZThJTjN5b0F6RHZkZjBIYV90ZE54Qw?oc=5",
+          "published_at": "2026-04-26T04:26:48+00:00"
+        },
+        {
+          "title": "우리은행, 지방 수출입 중소·중견기업 '찾아가는 환율 세미나' - 조세금융신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMmtNWGlXNTMycEUxV1hBRE03TTlHQzgwTlRaQTBDcXZVeDBPd2lfZmNhYzRSX0xLS2RYQkdBZkJvOXNLOWVmcnh4eWd5a1lna2ZQRkExa3g5ZlBTUlhuWg?oc=5",
+          "published_at": "2026-04-26T03:08:55+00:00"
+        },
+        {
+          "title": "우리은행, 찾아가는 환율 세미나…수도권과 지방 간 정보 격차 해소 - 파이낸셜신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NNHhHcGZmcHotWUppYzVaWV9kSjNEZEI0N2diRDRlckduNTh2am82MEpKb05fcVN4UnpRcDN2eEhBN0RTV1RWMW9zeFdQSTVnUWgzcnA2aE5KaXZ4NE0zMGtGQ0F0OXEzLTdB?oc=5",
+          "published_at": "2026-04-26T02:51:52+00:00"
+        },
+        {
+          "title": "우리銀, 지방 수출입기업 환율 방어 지원…현장 컨설팅 진행 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dkJxRGNJVGUtOGlvVHRJOXotWWd4dGhfajFLenBYeXJXckt4Vk9IVnBOV0NEQVIxVTQ1dXdsbEhCTWlHVUM4ZUJrcDZ5NGhnN1hOUjU4YjNPUdIBWEFVX3lxTE1iTEpfN1hSZmFtekNla1ZvQjdqMGJhdGpuQzdEMGRWZXYzcHRFWnpDNkt1MzFOOVZ5SF9TVHdwX19LTGxtVFpjc2ptVlBHTFBjcDlraU90N1k?oc=5",
+          "published_at": "2026-04-26T02:27:41+00:00"
+        },
+        {
+          "title": "[경제소식] 우리은행, 지방기업 '찾아가는 환율 세미나' 확대 - 포쓰저널",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81OHk1M2lsV19UZDJNVkExQ09sT0RrVjBmUzY3M1VUUmpWcjNCU08xbFlzRFFrU2VGSHhzQW54NkxQUk9XWHBuUFBWTngtS3VFYTZYNHJ6M1R2eTk5OWlCZ1FyYnY?oc=5",
+          "published_at": "2026-04-26T02:00:00+00:00"
         }
       ]
     }
