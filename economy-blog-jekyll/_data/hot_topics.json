@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-04-28T05:55:34.713324+00:00",
+  "generated_at": "2026-04-29T05:51:10.774576+00:00",
   "source_count": 4,
-  "article_count": 371,
+  "article_count": 379,
   "top_keywords": [
     {
-      "keyword": "기준금리",
-      "score": 179.9
-    },
-    {
-      "keyword": "동결",
-      "score": 176.96
-    },
-    {
-      "keyword": "금리",
-      "score": 176.93
-    },
-    {
       "keyword": "수출",
-      "score": 169.47
-    },
-    {
-      "keyword": "일본은행",
-      "score": 151.71
-    },
-    {
-      "keyword": "연속",
-      "score": 147.19
-    },
-    {
-      "keyword": "유지",
-      "score": 141.29
-    },
-    {
-      "keyword": "75%",
-      "score": 137.5
-    },
-    {
-      "keyword": "daum",
-      "score": 128.99
-    },
-    {
-      "keyword": "net",
-      "score": 128.99
-    },
-    {
-      "keyword": "3회",
-      "score": 115.91
+      "score": 194.0
     },
     {
       "keyword": "환율",
-      "score": 105.38
+      "score": 126.0
+    },
+    {
+      "keyword": "금리",
+      "score": 107.07
+    },
+    {
+      "keyword": "daum",
+      "score": 102.84
+    },
+    {
+      "keyword": "net",
+      "score": 102.84
+    },
+    {
+      "keyword": "FOMC",
+      "score": 96.67
+    },
+    {
+      "keyword": "OPEC",
+      "score": 87.09
+    },
+    {
+      "keyword": "유가",
+      "score": 83.53
+    },
+    {
+      "keyword": "달러",
+      "score": 82.04
+    },
+    {
+      "keyword": "뉴시스",
+      "score": 79.68
+    },
+    {
+      "keyword": "상승",
+      "score": 78.67
+    },
+    {
+      "keyword": "동결",
+      "score": 72.02
     }
   ],
   "hot_topics": [
     {
-      "keyword": "기준금리",
-      "score": 179.9,
+      "keyword": "수출",
+      "score": 194.0,
       "articles": [
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXdLVVNpWmN2RHdDY20yNmFhUjhoWUpOYjVjUVh5XzJmOElUUjlnU2lTZWtjRmdvY1U3a2IzTFZINjBHc0lTRWpfRG1QRFZBek5lb1dtTU10RWtqM1RuOA?oc=5",
-          "published_at": "2026-04-28T05:52:51+00:00"
+          "title": "제약·바이오 수출 드라이브…정부·유관기관 'K원팀' 출범 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qbEhZSVExX1VoNXR1bC1KMFdDcWV2S0lTSnhIWkxqbldOanlDakJKWHNIZ3JaREJoblB2cnJtYkJfSG5kb0hUSTRULUZ3dw?oc=5",
+          "published_at": "2026-04-29T05:35:44+00:00"
         },
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…중동 리스크에 인상 보류 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOHhBMnhwbUVXbzVTR2Q5bjRjNjNyNkpoZkFYRERtYkh2ME54WFVOOENqR2pfbkxwQVdIMk5oNGlwTDZqYS1xM3dUVDZHMUU?oc=5",
-          "published_at": "2026-04-28T05:43:06+00:00"
+          "title": "[포토] ‘전략수출금융지원에 관한 법률안’ 제정에 관한 공청회 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zS250b1otbGxEUWR6WkFqRl9sRHQ5V2FoS3JGYVhBMFlRYXVVWnNnSjBXckpjYWRBbFRpXzMzSWEtbHl2OW1vTS1Va1NvOWJBQUw1X2dQRVFTU1d3SDAxcXFpS1duenRFQnc?oc=5",
+          "published_at": "2026-04-29T05:33:52+00:00"
         },
         {
-          "title": "일본은행, 예상대로 기준금리 또 동결…엔화 환율은 하락 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Nzl5SnVvSkRvREJKTFFUM3VKNWZHR0VKeTJDdVREQnRoUUV1c2RWNkI2azBveWFHN3FtOWNpN015c3pzcjhKZW8yd25xZEw5OEp6b3ZZcGQwTGZKWFRVX3VNdw?oc=5",
-          "published_at": "2026-04-28T05:31:13+00:00"
+          "title": "KG모빌리티, 튀르키예서 무쏘 글로벌 출사표…수출 확대 시동 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83dG92dlBCWDVid1BTam0tSTlxTnVMTjZLeUYzelRxTXotVlhnZ3hwLTRSRFNtWWVuWXp4QWxJV3ktOVZDeHA4bG1fazNyRGVjYXBlMXVB?oc=5",
+          "published_at": "2026-04-29T05:11:16+00:00"
         },
         {
-          "title": "BOJ 위원 9명 중 기준금리 동결 찬성 6명…반대 3명(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSWlKcDFIbmFSdTdQeHBhVTZCU0JHU2oyTEVHLUpIOTliZ0pMYV81c2pJOUpnenZoOFJBd0FjeU9BOXRweXJ6Q3RWelRvZkxjR2h5c1Nuekxvd0Jxc005WWtkd0EtalVRN0t4SlVsNGc?oc=5",
-          "published_at": "2026-04-28T05:26:55+00:00"
+          "title": "1분기 中企 수출 298억달러 역대 최고치 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XM281WnY0NTRDYXJ0Unl1WU1ZZ05SQUY0cTF2UkQwcmhSMDBFT0ZTTTZMdnR2dGxuaHdwd0FpVG03VktSeVIwS3VWX0plYW8?oc=5",
+          "published_at": "2026-04-29T05:09:00+00:00"
         },
         {
-          "title": "일본 기준금리 3회 연속 동결…0.75% 유지 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PZkJON1BBMnNRam5kMnpHLTRjVV9iSUcyYW5obnU0bzZ2THpjdjl5R25qZWRhSmI2YW5aRW9KU3Z4TE12T296R3BjWDhTalZZUl9F?oc=5",
-          "published_at": "2026-04-28T04:38:00+00:00"
+          "title": "전쟁 악재 딛고 1분기 中企 수출 ‘역대 최대’…화장품·반도체 쌍끌이 - 와우테일",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Jc0VaTTFWeHZzV0laUllJNjE1X2txMWhleEFkTjh0TTBHMkc5UFRXS08wcXpRTmZZOTV5T25yWjJaZl9TZkNkZHJjaU0zMm8?oc=5",
+          "published_at": "2026-04-29T05:05:41+00:00"
         }
       ]
     },
     {
-      "keyword": "동결",
-      "score": 176.96,
+      "keyword": "환율",
+      "score": 126.0,
       "articles": [
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXdLVVNpWmN2RHdDY20yNmFhUjhoWUpOYjVjUVh5XzJmOElUUjlnU2lTZWtjRmdvY1U3a2IzTFZINjBHc0lTRWpfRG1QRFZBek5lb1dtTU10RWtqM1RuOA?oc=5",
-          "published_at": "2026-04-28T05:52:51+00:00"
+          "title": "4월 29일 유로 환율: 시중 은행 전반에 걸쳐 급격한 상승세. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHl5RlBUUUEyQ0hRMVZLQ243SzFNbFU4MWpXbW5CT3dvVkt2UTZBRWNqWGpjbTVyVkJReXRma0pkUmswMUZHMVFxM05sRk9yM2hzY2VUVFVWS2R1VnNObldhZzdmS241TWs0Yl9xNFVxeS1IRkNHS19WUkpUNjVHNTNzZnppVzZ6SW92UE14QXYxdmdDT29VR3ZFd18?oc=5",
+          "published_at": "2026-04-29T04:12:35+00:00"
         },
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…중동 리스크에 인상 보류 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOHhBMnhwbUVXbzVTR2Q5bjRjNjNyNkpoZkFYRERtYkh2ME54WFVOOENqR2pfbkxwQVdIMk5oNGlwTDZqYS1xM3dUVDZHMUU?oc=5",
-          "published_at": "2026-04-28T05:43:06+00:00"
+          "title": "외환거래, 일평균 1천억달러 넘겨 역대 최대…주식매매·환율 영향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50cVByUjNDRFcwc1FNUlR0RWxsVnJ1c3ZVZ3U3VmhWZ3B3WVZzaG9XT3RzNXdSaUZFNjBrazFaVnBMTndtVy1Kc0VjYlRuOG95LUpPX2t4TlgwZlVMWFFyRlU1Q2swN1k?oc=5",
+          "published_at": "2026-04-29T03:47:00+00:00"
         },
         {
-          "title": "일본은행, 예상대로 기준금리 또 동결…엔화 환율은 하락 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Nzl5SnVvSkRvREJKTFFUM3VKNWZHR0VKeTJDdVREQnRoUUV1c2RWNkI2azBveWFHN3FtOWNpN015c3pzcjhKZW8yd25xZEw5OEp6b3ZZcGQwTGZKWFRVX3VNdw?oc=5",
-          "published_at": "2026-04-28T05:31:13+00:00"
+          "title": "1분기 외환거래 1000억불 첫 돌파…증권투자·환율 변동성에 최대치 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xdF94d3Z6ZnlVd2V2Yl9uaW9CQWFWaURZM2lIYTFrZG5RWWpoQ0tfeWljX2UzdjlUVTRJSHh4UDRBbGEteDl1dDFEa1VUQTRPa3pzaEh3c19fcVdObEdjOWY5ZFdQN2JKcUxZ0gFwQVVfeXFMTlplRkxlQXNMalhrT1p1ZWxqYnFnQWctSWRERFNvQnNOdkwzWkxTbWd0SUt5U1RUeWwxQ0lSelcwTXFHdkhEbWJKcXZfa3lxMng3cC00eVRFWnRqLVoxOWk3c1psWlkxcm9yT2NubC1jLQ?oc=5",
+          "published_at": "2026-04-29T03:00:00+00:00"
         },
         {
-          "title": "BOJ 위원 9명 중 기준금리 동결 찬성 6명…반대 3명(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSWlKcDFIbmFSdTdQeHBhVTZCU0JHU2oyTEVHLUpIOTliZ0pMYV81c2pJOUpnenZoOFJBd0FjeU9BOXRweXJ6Q3RWelRvZkxjR2h5c1Nuekxvd0Jxc005WWtkd0EtalVRN0t4SlVsNGc?oc=5",
-          "published_at": "2026-04-28T05:26:55+00:00"
+          "title": "1분기 외환거래액, 1026억달러 역대 최대…환율 널뛰기에 헤지 증가 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tdnVfa0N6b0t1ck1NZU1sOW5jQ3BkY3diV2o1MjAyQ3RZSHBxRDZCbEFONDFOX1d6SkZYaFl4bkNlMjJIZFlrLV9sYW1RSXFFbDJNT3JTYzVWQdIBWEFVX3lxTFBia0NvWWl3eGtsdGRuZmU2MzVVNWphSTI0dHZ5YW5xVDVtSHVtcHFCVndQek1Razl1ZVlRWDlZbnF4QUNiUXV6NmVnRlJWbjV3Z21jNDJPUXQ?oc=5",
+          "published_at": "2026-04-29T03:00:00+00:00"
         },
         {
-          "title": "일본은행, 정책금리 동결 결정… 마이니치 “기록적 엔저에도 3회 연속 인상 보류” - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYW9tZUp6V1V0bGFFR3JaZHFkTklpNjd2OUVxRjhPNFlaTkxTOENVMGZwNU1BT3JLTG9lMXFlOVVJWnBQdDBZQ18xcndfN0hnaFhXbGpPNzFiYU9iYW5wMnpYUldPSXBJSWN4YURjb05RcHQ0RE13VG1yOF9LdFpvWnlNODlydEJu?oc=5",
-          "published_at": "2026-04-28T05:11:58+00:00"
+          "title": "원-엔화 환율, 소폭 상승하면서 925원 초반대 기록…달러-엔화 환율은 임박한 FOMC 금리 결정에 159엔 중반대 나타내 - 산업일보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWaWJveHNLN2xVT25MZV9iYmM2Z3AyZ3pkeEFjdTRyMTNKWE95MTN5aW1LUkFBaTFoVUNpdkRzaHJDRUNG?oc=5",
+          "published_at": "2026-04-29T02:48:21+00:00"
         }
       ]
     },
     {
       "keyword": "금리",
-      "score": 176.93,
+      "score": 107.07,
       "articles": [
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXdLVVNpWmN2RHdDY20yNmFhUjhoWUpOYjVjUVh5XzJmOElUUjlnU2lTZWtjRmdvY1U3a2IzTFZINjBHc0lTRWpfRG1QRFZBek5lb1dtTU10RWtqM1RuOA?oc=5",
-          "published_at": "2026-04-28T05:52:51+00:00"
+          "title": "기업은행, 중소기업 근로자 대출 금리감면…최대 0.6%p↓ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RRFZhckJncVh5YWpOX21kOUs1MnV3c18wVmZPU0RwZkhjbG9BR2RXV2QwZzNDMkNBOW8tOEJBTElUTHZJS2VTQ1prRFM0ejZPNmV0Z1BKUGs3RHp6YVlTa9IBeEFVX3lxTE1ScFBheWpZdE91eVcxRVhSVGQ1TXYzR3l0U2Juem1KdkZOY1lYSTlDaEZjbk5UV0JhUV9IOUh4dmJ1X0t6ZkVSX3pleWxJXzlaUEdVS3BGM1VUS2tuUnJQSU53ZHdLb3A4TnVUSGxabm8xdDVhYnlmeA?oc=5",
+          "published_at": "2026-04-29T05:28:27+00:00"
         },
         {
-          "title": "3월 은행 주담대 금리 연 4.34%…6개월 연속 상승 [머니뭐니] - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hRjdwaXJMcFFkTG4zOE9jXzdzNnVyV2tPWU9BZGw0Z29zNnRlVldhUVMxU1Q4c0lLLWt0RHNrVExmMk1NdTkxaFA1WW5GcU9fM1BvUFRB?oc=5",
-          "published_at": "2026-04-28T05:49:05+00:00"
+          "title": "고금리·변동성 확대에 기업 단기자금 조달 25.6% 증가 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zZkkzVUVaSVVGb0VSdHR2TTFyRnVscF9FZ0Jkd080eDR5WEpFZU1mOXVJaG9qR1JhSVN0ZV8zZWR2VmJyaGRoX2NJRTBMMURFcXYwTVkxclRXcWpUc0NzWkZ1RDJlYUU?oc=5",
+          "published_at": "2026-04-29T05:03:00+00:00"
         },
         {
-          "title": "주택담보대출 금리 2년 4개월 만에 최고…가계대출·고정금리 비중 하락 - 파이낸스투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUjNEUlphemJGcmtkSmxvOHptMkNuN0hSTHAzNVp1Ry1iRzdQTDAyU0dKRVBRclQyT1Jod0JRZ21yQTJXN2dmZUQzaS15Z2lCNmdkSUNJZDBGOFZaM09kMlM2VXNPUElnR3dySQ?oc=5",
-          "published_at": "2026-04-28T05:47:05+00:00"
+          "title": "IBK기업은행, 중소기업 재직 근로자 위한 비대면대출 금리감면 제도 신설 - 테크월드",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xdmlJTDBxRENtWHdMdEppbW00bkhzQU96bzVDMm9zMV9Jcm9OdTktbEpKMWo1SnliS1JuR3FhUU1KVW1tSUI1UzZWT3JUaDVpZU16WGJ2al9GZWV3NXhjYWx6aEpxZjBq?oc=5",
+          "published_at": "2026-04-29T04:50:00+00:00"
         },
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…중동 리스크에 인상 보류 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOHhBMnhwbUVXbzVTR2Q5bjRjNjNyNkpoZkFYRERtYkh2ME54WFVOOENqR2pfbkxwQVdIMk5oNGlwTDZqYS1xM3dUVDZHMUU?oc=5",
-          "published_at": "2026-04-28T05:43:06+00:00"
+          "title": "일본은행(BOJ)은 기준금리를 0.75%로 동결하고, 물가상승률 전망치를 2.8%로 대폭 상향 조정했다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVd4bFlacnhYRURPTUZRUHNKZ0lMcF92T2w3bG9XUENJeUVqMWI4Z3BMVENacTRvdFJPd2RZV2Q0dVVJRTBXMi1lVXJkcmc3SWRKR1ljcmtPdTVfVnFtclV5UU5jVGdZWGpRaUNYdktXUm1UUEhoVk1nNHV0UUlKRTZUcndnY1FZTW9iQ0pWR3JDd2NPM0E?oc=5",
+          "published_at": "2026-04-29T04:47:01+00:00"
         },
         {
-          "title": "일본은행, 예상대로 기준금리 또 동결…엔화 환율은 하락 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Nzl5SnVvSkRvREJKTFFUM3VKNWZHR0VKeTJDdVREQnRoUUV1c2RWNkI2azBveWFHN3FtOWNpN015c3pzcjhKZW8yd25xZEw5OEp6b3ZZcGQwTGZKWFRVX3VNdw?oc=5",
-          "published_at": "2026-04-28T05:31:13+00:00"
+          "title": "일본은행은 기준금리를 0.75%로 동결하고, 물가상승률 전망치를 2.8%로 상향 조정했다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEFCMXUyNW9RT2Nucm1nd3RQNnhLRGdUR0I3WWoyQ09WeW9qUzJMQzgxMU91UUpNanhYYnJMNVdwb0VIZ0R2MlRPR3JqOUxRNTRVQ0hiaWZtcFNONk1pcFJNeU5vQ1RQZ2dtdng5LUMyS3FaTmhOazhmWExzSnRmMWhCbEE5MG9pTjY0ZUoxdThEMnVSTHZ6cmtjZGo5UzJ1OFpkQ2UzNFo0clQwZ3c?oc=5",
+          "published_at": "2026-04-29T04:40:33+00:00"
         }
       ]
     },
     {
-      "keyword": "수출",
-      "score": 169.47,
+      "keyword": "daum",
+      "score": 102.84,
       "articles": [
         {
-          "title": "안랩, 산업통상부 주관 '2026년 K-수출스타 500' 사업 선정 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12MjNwNXFXamJrbzZ1Zkw5NVVUc0lXaFVhdHpmaEZpeVlfQXkwczVmQnAtT011SzhJSkJHM3ZhWHB2TUtLYmxOVjRldnZuZFpxbHBRTVBPMTYwOThwanl3RA?oc=5",
-          "published_at": "2026-04-28T05:48:05+00:00"
+          "title": "“관광은 살아났는데 돈이 끊겼다”… 제주 경제, ‘씀씀이 단절’ 드러났다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NT2ZaVmc0RkJYTlpUM2FPXzc5R0ZkMVZnWGY1WC1FM1MyMHdoZFRwcWR3M2R2azRvUDdkYXkzOGFOdmxkOGNjclloTTM2Zlk?oc=5",
+          "published_at": "2026-04-29T05:15:02+00:00"
         },
         {
-          "title": "美봉쇄에 막힌 이란 원유…수출 급감·저장 한계 ‘생산 반토막 위기’ - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NZjZxZ29uNWFQTENsSF9ld05Ta3M5d3A0eWRkNU9KTTBUNDZrQnpTNk9UVUpzVzdDYjJqVmsyNjFLSk1ZMUVnaXNVUm12cC1aZUFqY3J3?oc=5",
-          "published_at": "2026-04-28T05:44:58+00:00"
+          "title": "1분기 中企 수출 298억달러 역대 최고치 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XM281WnY0NTRDYXJ0Unl1WU1ZZ05SQUY0cTF2UkQwcmhSMDBFT0ZTTTZMdnR2dGxuaHdwd0FpVG03VktSeVIwS3VWX0plYW8?oc=5",
+          "published_at": "2026-04-29T05:09:00+00:00"
         },
         {
-          "title": "EU 포장규제 8월 시행 임박…정부, 합동 설명회로 수출기업 대응 지원 - 푸드투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VMHZCMmZfemNvYnVoU29XOVN4ZDhUVEJ2Um5HblhMV3hTSmdNMlRRU1hYN1I5cWsyUXNwRlpMWFdUbGFxTUlvN2hCR0g4RjhCSHFONHN1LVpaQl9oWW9GX1dxdVozZw?oc=5",
-          "published_at": "2026-04-28T05:43:47+00:00"
+          "title": "국힘 경기지사 경선... 양향자·이성배·함진규 'AI·경제' 정책 경쟁 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MDhjZkI0c0U4Y05EMGE2cnEwTnBHQ2l3Z2ZmeXFtN1ZsR3hHUERIdGRKQjlTRWs1X1hSYnRZa2Z1WHptVy1xYkMtdV92b0E?oc=5",
+          "published_at": "2026-04-29T05:02:10+00:00"
         },
         {
-          "title": "“중동발 물류 대란 막는다” 강원도, 수출기업 물류 전문가 1:1 밀착 지원 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzN3I3aGhHbU9IUjZ0YllYOXp1MElDa2xlS3YwM2xfRWFVbnJmV1JJLW1OLWJremRWZWtnaU1BV0E2cERBQnllZFJlNFVHRGRTaFFaSFRTRE1qRFVlVERuSQ?oc=5",
-          "published_at": "2026-04-28T05:42:02+00:00"
+          "title": "칠곡군 레슬링팀, 헤럴드경제·코리아헤럴드배 전국레슬링대회 금2 획득 및 단체종합우승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zTkkwd1ZESnpqMmExam1TcnJiN3V4MnlVYUVJWTFoZ1FTTTZyQWxKZnk2UWl5MGJOZGhOYnlLcGMzMklVenc?oc=5",
+          "published_at": "2026-04-29T05:00:12+00:00"
         },
         {
-          "title": "케이팝 인기에 음반 수출 역대 최대치 - 연합뉴스 한민족센터",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QalJQRG5Odll2MWZjWkxJSk9XYkJCUndoc1daQlRFakxRWHlqNnpoNklJVHp1VkFaS212OGZvdU9Rd2FHaHhuRlhuaTBnUW5xLXVkZTFCSHM1TTJPU0dnNzVUWTVDSlNaMHY3eGhxdVB0UVRS?oc=5",
-          "published_at": "2026-04-28T05:31:12+00:00"
+          "title": "전재수 “부산, 중앙정부와 소통 가능한 리더십 필요…경제 회생 골든타임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aN2R3WmJ2LW8wZU8xRk1wNloybDE0bDRuR3JZSHY4VDl0dGhsVVpfd1RkenB6SlJnWXZyYTgxWHVJbXhBSnVVcWx1Z3daQkk?oc=5",
+          "published_at": "2026-04-29T04:35:02+00:00"
         }
       ]
     },
     {
-      "keyword": "일본은행",
-      "score": 151.71,
+      "keyword": "net",
+      "score": 102.84,
       "articles": [
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXdLVVNpWmN2RHdDY20yNmFhUjhoWUpOYjVjUVh5XzJmOElUUjlnU2lTZWtjRmdvY1U3a2IzTFZINjBHc0lTRWpfRG1QRFZBek5lb1dtTU10RWtqM1RuOA?oc=5",
-          "published_at": "2026-04-28T05:52:51+00:00"
+          "title": "“관광은 살아났는데 돈이 끊겼다”… 제주 경제, ‘씀씀이 단절’ 드러났다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NT2ZaVmc0RkJYTlpUM2FPXzc5R0ZkMVZnWGY1WC1FM1MyMHdoZFRwcWR3M2R2azRvUDdkYXkzOGFOdmxkOGNjclloTTM2Zlk?oc=5",
+          "published_at": "2026-04-29T05:15:02+00:00"
         },
         {
-          "title": "일본은행, 올해 CPI 상승률 전망 2.8%로 상향..성장 전망은 0.5%로 낮춰 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMUG0walA2enpEZVAxaTFFRC1lc2F5UWpwNy0zejN1Y2hvTlBocnJOeXlGQUNNMHI3RTZmV2NTUHdONjVNaWRVRC1sMlRzM2hxQk8wbUxHZ1JmZ9IBXkFVX3lxTE9UWlVTMUVIcExNOTJGTnNDZXlBZHktWjFIV0pyZXdJd3V3VnhvNHlUMjBPcG96RWpCbmxFN2F6Y2xZQzBNUlo2RTBTZ3NhdzJ2YUQ3Vm5LeXloYWljb3c?oc=5",
-          "published_at": "2026-04-28T05:45:26+00:00"
+          "title": "1분기 中企 수출 298억달러 역대 최고치 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XM281WnY0NTRDYXJ0Unl1WU1ZZ05SQUY0cTF2UkQwcmhSMDBFT0ZTTTZMdnR2dGxuaHdwd0FpVG03VktSeVIwS3VWX0plYW8?oc=5",
+          "published_at": "2026-04-29T05:09:00+00:00"
         },
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…중동 리스크에 인상 보류 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOHhBMnhwbUVXbzVTR2Q5bjRjNjNyNkpoZkFYRERtYkh2ME54WFVOOENqR2pfbkxwQVdIMk5oNGlwTDZqYS1xM3dUVDZHMUU?oc=5",
-          "published_at": "2026-04-28T05:43:06+00:00"
+          "title": "국힘 경기지사 경선... 양향자·이성배·함진규 'AI·경제' 정책 경쟁 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MDhjZkI0c0U4Y05EMGE2cnEwTnBHQ2l3Z2ZmeXFtN1ZsR3hHUERIdGRKQjlTRWs1X1hSYnRZa2Z1WHptVy1xYkMtdV92b0E?oc=5",
+          "published_at": "2026-04-29T05:02:10+00:00"
         },
         {
-          "title": "일본은행, 예상대로 기준금리 또 동결…엔화 환율은 하락 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Nzl5SnVvSkRvREJKTFFUM3VKNWZHR0VKeTJDdVREQnRoUUV1c2RWNkI2azBveWFHN3FtOWNpN015c3pzcjhKZW8yd25xZEw5OEp6b3ZZcGQwTGZKWFRVX3VNdw?oc=5",
-          "published_at": "2026-04-28T05:31:13+00:00"
+          "title": "칠곡군 레슬링팀, 헤럴드경제·코리아헤럴드배 전국레슬링대회 금2 획득 및 단체종합우승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zTkkwd1ZESnpqMmExam1TcnJiN3V4MnlVYUVJWTFoZ1FTTTZyQWxKZnk2UWl5MGJOZGhOYnlLcGMzMklVenc?oc=5",
+          "published_at": "2026-04-29T05:00:12+00:00"
         },
         {
-          "title": "일본은행, 정책금리 동결 결정… 마이니치 “기록적 엔저에도 3회 연속 인상 보류” - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYW9tZUp6V1V0bGFFR3JaZHFkTklpNjd2OUVxRjhPNFlaTkxTOENVMGZwNU1BT3JLTG9lMXFlOVVJWnBQdDBZQ18xcndfN0hnaFhXbGpPNzFiYU9iYW5wMnpYUldPSXBJSWN4YURjb05RcHQ0RE13VG1yOF9LdFpvWnlNODlydEJu?oc=5",
-          "published_at": "2026-04-28T05:11:58+00:00"
+          "title": "전재수 “부산, 중앙정부와 소통 가능한 리더십 필요…경제 회생 골든타임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aN2R3WmJ2LW8wZU8xRk1wNloybDE0bDRuR3JZSHY4VDl0dGhsVVpfd1RkenB6SlJnWXZyYTgxWHVJbXhBSnVVcWx1Z3daQkk?oc=5",
+          "published_at": "2026-04-29T04:35:02+00:00"
         }
       ]
     },
     {
-      "keyword": "연속",
-      "score": 147.19,
+      "keyword": "FOMC",
+      "score": 96.67,
       "articles": [
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXdLVVNpWmN2RHdDY20yNmFhUjhoWUpOYjVjUVh5XzJmOElUUjlnU2lTZWtjRmdvY1U3a2IzTFZINjBHc0lTRWpfRG1QRFZBek5lb1dtTU10RWtqM1RuOA?oc=5",
-          "published_at": "2026-04-28T05:52:51+00:00"
+          "title": "美 연준, 4월 FOMC '금리 동결' 확실시…파월 '마지막 발언' 주목 - 뉴스웍스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PUUxMMDB6Q0d3NGRzVUpxWmpvM013d3BnSUtwejZkQ0N3b3hhbGtZTk9WY0pXNl82RWEwRXNaZklfSlRwUGp2aHh4Tll5aWFrd210NzJiSW1yNGgzU29BYTNQeHVHMlBzQzdxRGdOY9IBc0FVX3lxTE8ybUlROUZta1Z4bk14SnRXam83VGp1emNXYzVwenRldS1YbTRPWmFScklhSHhraDNndlVVMV9NMXBKUndBNWlEZzdRZE51ajdObkx0ek5vdTc0OGFpOGkzZm56WHZmY2lxR1h1UHZjbjFWNlk?oc=5",
+          "published_at": "2026-04-29T03:47:46+00:00"
         },
         {
-          "title": "3월 은행 주담대 금리 연 4.34%…6개월 연속 상승 [머니뭐니] - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hRjdwaXJMcFFkTG4zOE9jXzdzNnVyV2tPWU9BZGw0Z29zNnRlVldhUVMxU1Q4c0lLLWt0RHNrVExmMk1NdTkxaFA1WW5GcU9fM1BvUFRB?oc=5",
-          "published_at": "2026-04-28T05:49:05+00:00"
+          "title": "월가 \"파월의 마지막 FOMC, 신중한 동결 전망\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILXJfd2hscGYwcjB0Qi1KeTF0aUQ0Y1pwUTNla29iUHEyMXF2d2tBbzBKTWRtRHBKaHNjWC1GbVBaSFA1SGYySUpxUWZOeWh2by1qZzYwSVhwLVg2YUd3YzB6OGFHcmd0YmhTTFdGR0rSAXRBVV95cUxNZlcwYlVvaW1mQlZxeTBUSi0yN2RySGEwSm42QjdwNVNuZkhXd1BqYW1zMm9LTmZjRmx5V1RLM1k2QVNLTVNoeTdadUpucEtmaUNRMjdNNmd0dW9rZk45LXY0YVVNZW5aQ3BBZDlDNW9UQVVTNw?oc=5",
+          "published_at": "2026-04-29T03:14:39+00:00"
         },
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…중동 리스크에 인상 보류 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOHhBMnhwbUVXbzVTR2Q5bjRjNjNyNkpoZkFYRERtYkh2ME54WFVOOENqR2pfbkxwQVdIMk5oNGlwTDZqYS1xM3dUVDZHMUU?oc=5",
-          "published_at": "2026-04-28T05:43:06+00:00"
+          "title": "S&P500 선물, FOMC·'M7' 실적 관망 속 상승 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlb3lYNXRhbTlhNWFXel9ZVFhiNS1zbDE1YjBHZk9YNU12TzZELWMyanV5WUczclBVSUJVd3J1eG5kUFF4SHhuVXp0M0p4bFpRSzRJTzFZN0hrbXIybmdKV2lla3dqc2N6NmM4MmN0SjHSAXRBVV95cUxQYUdNd25iY1ZBenJkYW1UelNoNEhBY20tbk9YM3VfX3dqT3g1M3B1QmcySmMxQkY3VHMyN3BRUEJhbXU5VTEyQWk2QmljYzZFRTVDR2hyOFk2UDRpZHUtc2lncnp3WTRETmRZVU5jdklOQ3VoVg?oc=5",
+          "published_at": "2026-04-29T02:58:55+00:00"
         },
         {
-          "title": "일본은행, 정책금리 동결 결정… 마이니치 “기록적 엔저에도 3회 연속 인상 보류” - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYW9tZUp6V1V0bGFFR3JaZHFkTklpNjd2OUVxRjhPNFlaTkxTOENVMGZwNU1BT3JLTG9lMXFlOVVJWnBQdDBZQ18xcndfN0hnaFhXbGpPNzFiYU9iYW5wMnpYUldPSXBJSWN4YURjb05RcHQ0RE13VG1yOF9LdFpvWnlNODlydEJu?oc=5",
-          "published_at": "2026-04-28T05:11:58+00:00"
+          "title": "원-엔화 환율, 소폭 상승하면서 925원 초반대 기록…달러-엔화 환율은 임박한 FOMC 금리 결정에 159엔 중반대 나타내 - 산업일보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWaWJveHNLN2xVT25MZV9iYmM2Z3AyZ3pkeEFjdTRyMTNKWE95MTN5aW1LUkFBaTFoVUNpdkRzaHJDRUNG?oc=5",
+          "published_at": "2026-04-29T02:48:21+00:00"
         },
         {
-          "title": "3월 주담대 평균 금리 4.34%...6개월 연속 상승세 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWZtQmZIQUpSQkpyaXpobHhYTk45US0waHF0eE96UVVKcUtEX0NlWXBXMmVBRzEtSU1weUxlb1I2ckR2S2pFSW5IM2EwWThwRTlNSF9mZ0paanBpaXd2SzhiMFZBOEhraDJYb1E5S3lmY2FhdERkVTItd0xDM0Y5UGI5M1g?oc=5",
-          "published_at": "2026-04-28T05:04:48+00:00"
+          "title": "코스피, 외국인 매도세에 보합권…FOMC·빅테크 실적 대기 - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMGJWcWVzRFRQdmhNZWduNkdHbjVmRFhJa0pITTd0a0pXSG44aThNdUhiX0VzRkp5N1IxU1JNNER2ZG01dE4wOHRYMEN0aGJ4azgyekU0Q1Fnb2pfTzBJSWc1ZjQ5eEt1ckdTN3BJNmlFbVlRWkVGUE1TVnY4RFJGSA?oc=5",
+          "published_at": "2026-04-29T02:38:19+00:00"
         }
       ]
     },
     {
-      "keyword": "유지",
-      "score": 141.29,
+      "keyword": "OPEC",
+      "score": 87.09,
       "articles": [
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXdLVVNpWmN2RHdDY20yNmFhUjhoWUpOYjVjUVh5XzJmOElUUjlnU2lTZWtjRmdvY1U3a2IzTFZINjBHc0lTRWpfRG1QRFZBek5lb1dtTU10RWtqM1RuOA?oc=5",
-          "published_at": "2026-04-28T05:52:51+00:00"
+          "title": "UAE, OPEC 탈퇴에 국제 유가 '출렁'…해운업계 비용 리스크 확대 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13SUJXbTJRMDBpNmFZZGlEZWwwSmt6SUFMQXVOWE4zdW44MG1OSjVpZ3g5UGZCV3B5bjhMc1NPWVpKT0phV0lWMklWaG9hWDRGMmZyZTNWVnV0dnZDVU82c9IBeEFVX3lxTE1NNm83dW5OOHZ3REFNdWhHdnMtbmk3ZllUMkhQTzJTd3pPdWdWaUxVUU1TQjVpRHNsaUNPWk9nSVhpeHM1Q09PclBzcWlzYUstdmV5c1Z3SVZENko1QnlDM3ZoQS12TkJHdHVqTUFGSy1CNjJWZm14Ng?oc=5",
+          "published_at": "2026-04-29T04:23:00+00:00"
         },
         {
-          "title": "일본 기준금리 3회 연속 동결…0.75% 유지 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PZkJON1BBMnNRam5kMnpHLTRjVV9iSUcyYW5obnU0bzZ2THpjdjl5R25qZWRhSmI2YW5aRW9KU3Z4TE12T296R3BjWDhTalZZUl9F?oc=5",
-          "published_at": "2026-04-28T04:38:00+00:00"
+          "title": "UAE의 OPEC 탈퇴 선언...\"유가, 당장은 올랐지만 변동성 커질 듯\" - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOMDJnN0JPOTJidW9YUlFBV1lXTklweTJCaHY4X3NkLW5qTEQ2TWV1OU1PQXJZUi1IUmI3WEJUX0FfNk1kemtXZGltQUpOOVI4dGd3Z2xGMDJsc3Jkck50ZGdIeldYVXJQRl9IWTdJc3A?oc=5",
+          "published_at": "2026-04-29T04:21:19+00:00"
         },
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SblJ3SVRLSjBYa29wZ3pGWFhsVXBybUNYdncxWmJld1Nfckh2TDFaU09Damc4ZXN1X2U0V3JLRVQxWmxoVXpyZ0dCUzdJQjF1?oc=5",
-          "published_at": "2026-04-28T04:36:47+00:00"
+          "title": "[뉴스특보] UAE, OPEC 탈퇴 선언…우리 경제 영향은 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uMzY4QjJodHc5RXl2b2MtUGdRZy0xazFBWFJ6NDJaRW1KX1R1ZGpZTW02enhwb0NrcGN6aDFLSDJfNWR4alI5d3BQNVRteEU?oc=5",
+          "published_at": "2026-04-29T04:14:13+00:00"
         },
         {
-          "title": "일본은행, 기준금리 0.75% 유지…올해 성장 전망 0.5%로 하향 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wcGkyQ19OWC11XzJvTl9mVzB5azNMZm5hVUZtM3J4Y0dZZTh5WWxUbmZKZ1B1cTZPeXlIdTlaV1BMV3pPQmR3WEwxWGhwcmJDTndZaFVn?oc=5",
-          "published_at": "2026-04-28T04:34:03+00:00"
+          "title": "“UAE 탈퇴 OPEC, 석유시장 영향력 약화…유가 떨어질 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByQ3N4Y3FlV2NZcUhGSkY4Q2M5ZnY1aEJremF3ZjRZZTQtWWdCeVZ3VGxmQjZfNXNhZDZhZHNQSkJ6S2oyWVQ1bUZDd1ZRc0RRbW9FRFM2SzRhcnZDa1ppcTVwRzY0MFhxdThJOHEwV3lVTTjSAWZBVV95cUxQYzhiQVkySWhuQXFCZHNVTUthRmI3WVdMcE9vMWRYMGl1ay1NeWlKcHRubmNsODl6c1VYZnNIa3VUdTRIanhlb255am9wMjhDbnBRUmJWb2ZfS2pvSzYxaWkzSThsbVE?oc=5",
+          "published_at": "2026-04-29T03:52:00+00:00"
         },
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SeC1oZjJKaHlrR0Y4UThfaHNSWGFSemQ4NVNlUFFLbU54Xy1SLVF0SE1DUGZQLUxxSzN5MEtyWDF2N0QwT25sSWFFeURHak9VczRj?oc=5",
-          "published_at": "2026-04-28T04:22:00+00:00"
+          "title": "UAE 이탈에 흔들리는 OPEC…‘유가 전쟁’ 신호탄, 트럼프만 웃는다 [이슈+] - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMVVHb3BlWnY1bGhlMTlMTTVCNHNUdE9vYU1TZUxyWjJRcWpoOUhrdktjRHp4Ym0zaWswdkJSX0hZRUpKa2VZclJZY2NYYk5XWm51VkFuLURwUnM?oc=5",
+          "published_at": "2026-04-29T03:29:18+00:00"
         }
       ]
     },
     {
-      "keyword": "75%",
-      "score": 137.5,
+      "keyword": "유가",
+      "score": 83.53,
       "articles": [
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXdLVVNpWmN2RHdDY20yNmFhUjhoWUpOYjVjUVh5XzJmOElUUjlnU2lTZWtjRmdvY1U3a2IzTFZINjBHc0lTRWpfRG1QRFZBek5lb1dtTU10RWtqM1RuOA?oc=5",
-          "published_at": "2026-04-28T05:52:51+00:00"
+          "title": "수협, 중동사태發 유가급등 대응에 총력…면세유 공급 안정이 최우선 - 어업in수산",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IOW5yaGlfNUZPOW9kUGtfRnMwRUdnLURFeVctZXpfdFE2NzNDcXlDUkpDbXJlTVBoU0plaDd5Tkl6S2hadFc4OFdVeWtZWW1wQkpxR1hRLVo1aUt5YjlEaVRrcmlvLW1QdlBucEJmZw?oc=5",
+          "published_at": "2026-04-29T05:27:25+00:00"
         },
         {
-          "title": "일본 기준금리 3회 연속 동결…0.75% 유지 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PZkJON1BBMnNRam5kMnpHLTRjVV9iSUcyYW5obnU0bzZ2THpjdjl5R25qZWRhSmI2YW5aRW9KU3Z4TE12T296R3BjWDhTalZZUl9F?oc=5",
-          "published_at": "2026-04-28T04:38:00+00:00"
+          "title": "서삼석 의원, “유가 상승·가격 불안·수급정책 혼선으로 농어업인 삼중고…농업·에너지·해운, 종합 대응 시급” - 농수축산신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZDBOdXNtT190YUx0Y3RmdU1QZWQ2cm5id1FaWW9BQjZGYWRrWmVMU1FTY1U2VE54NzBXR3hVTFVQbENxUHg5N3NScDhUcS1xVkN5ZmxKUVJ6bDlVZDNhMGVDSzlCWWlJUFNjaQ?oc=5",
+          "published_at": "2026-04-29T05:25:44+00:00"
         },
         {
-          "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SblJ3SVRLSjBYa29wZ3pGWFhsVXBybUNYdncxWmJld1Nfckh2TDFaU09Damc4ZXN1X2U0V3JLRVQxWmxoVXpyZ0dCUzdJQjF1?oc=5",
-          "published_at": "2026-04-28T04:36:47+00:00"
+          "title": "UAE, OPEC 탈퇴에 국제 유가 '출렁'…해운업계 비용 리스크 확대 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13SUJXbTJRMDBpNmFZZGlEZWwwSmt6SUFMQXVOWE4zdW44MG1OSjVpZ3g5UGZCV3B5bjhMc1NPWVpKT0phV0lWMklWaG9hWDRGMmZyZTNWVnV0dnZDVU82c9IBeEFVX3lxTE1NNm83dW5OOHZ3REFNdWhHdnMtbmk3ZllUMkhQTzJTd3pPdWdWaUxVUU1TQjVpRHNsaUNPWk9nSVhpeHM1Q09PclBzcWlzYUstdmV5c1Z3SVZENko1QnlDM3ZoQS12TkJHdHVqTUFGSy1CNjJWZm14Ng?oc=5",
+          "published_at": "2026-04-29T04:23:00+00:00"
         },
         {
-          "title": "일본은행, 기준금리 0.75% 유지…올해 성장 전망 0.5%로 하향 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wcGkyQ19OWC11XzJvTl9mVzB5azNMZm5hVUZtM3J4Y0dZZTh5WWxUbmZKZ1B1cTZPeXlIdTlaV1BMV3pPQmR3WEwxWGhwcmJDTndZaFVn?oc=5",
-          "published_at": "2026-04-28T04:34:03+00:00"
+          "title": "UAE의 OPEC 탈퇴 선언...\"유가, 당장은 올랐지만 변동성 커질 듯\" - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOMDJnN0JPOTJidW9YUlFBV1lXTklweTJCaHY4X3NkLW5qTEQ2TWV1OU1PQXJZUi1IUmI3WEJUX0FfNk1kemtXZGltQUpOOVI4dGd3Z2xGMDJsc3Jkck50ZGdIeldYVXJQRl9IWTdJc3A?oc=5",
+          "published_at": "2026-04-29T04:21:19+00:00"
         },
         {
-          "title": "BOJ, 기준금리 0.75% 동결...\"중동 정세 영향 주시\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZMnJfSEJsMzltci0wTF91R3l3S1RMRTQ4U09aWmJzazFfdTI5RTJxWmUxaUh6LXl5TGY3clJGeGJLZ0hSM3N5ZDRKdU9UeTZiTmNGanR2SjlVekRY?oc=5",
-          "published_at": "2026-04-28T04:22:00+00:00"
+          "title": "“UAE 탈퇴 OPEC, 석유시장 영향력 약화…유가 떨어질 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByQ3N4Y3FlV2NZcUhGSkY4Q2M5ZnY1aEJremF3ZjRZZTQtWWdCeVZ3VGxmQjZfNXNhZDZhZHNQSkJ6S2oyWVQ1bUZDd1ZRc0RRbW9FRFM2SzRhcnZDa1ppcTVwRzY0MFhxdThJOHEwV3lVTTjSAWZBVV95cUxQYzhiQVkySWhuQXFCZHNVTUthRmI3WVdMcE9vMWRYMGl1ay1NeWlKcHRubmNsODl6c1VYZnNIa3VUdTRIanhlb255am9wMjhDbnBRUmJWb2ZfS2pvSzYxaWkzSThsbVE?oc=5",
+          "published_at": "2026-04-29T03:52:00+00:00"
         }
       ]
     }
