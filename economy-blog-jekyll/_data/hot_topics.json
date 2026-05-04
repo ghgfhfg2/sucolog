@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-05-03T05:55:02.983484+00:00",
+  "generated_at": "2026-05-04T06:08:59.431864+00:00",
   "source_count": 4,
-  "article_count": 383,
+  "article_count": 391,
   "top_keywords": [
     {
+      "keyword": "금리",
+      "score": 218.48
+    },
+    {
       "keyword": "수출",
-      "score": 243.29
+      "score": 193.31
+    },
+    {
+      "keyword": "한은",
+      "score": 158.42
+    },
+    {
+      "keyword": "인상",
+      "score": 153.32
+    },
+    {
+      "keyword": "부총재",
+      "score": 143.56
+    },
+    {
+      "keyword": "고민할",
+      "score": 131.41
     },
     {
       "keyword": "daum",
-      "score": 122.99
+      "score": 110.17
     },
     {
       "keyword": "net",
-      "score": 122.99
+      "score": 110.17
     },
     {
-      "keyword": "금리",
-      "score": 87.3
+      "keyword": "환율",
+      "score": 87.96
     },
     {
-      "keyword": "올해",
-      "score": 85.41
-    },
-    {
-      "keyword": "반도체",
-      "score": 75.11
-    },
-    {
-      "keyword": "성장률",
-      "score": 62.41
-    },
-    {
-      "keyword": "증가",
-      "score": 62.1
-    },
-    {
-      "keyword": "30%",
-      "score": 62.07
+      "keyword": "5월",
+      "score": 76.36
     },
     {
       "keyword": "물가",
-      "score": 58.33
+      "score": 65.65
     },
     {
-      "keyword": "2분기",
-      "score": 57.76
-    },
-    {
-      "keyword": "유가",
-      "score": 56.96
+      "keyword": "뉴시스",
+      "score": 62.92
     }
   ],
   "hot_topics": [
     {
-      "keyword": "수출",
-      "score": 243.29,
+      "keyword": "금리",
+      "score": 218.48,
       "articles": [
         {
-          "title": "중국 기업 해외 진출, ‘제품 수출’ 넘어 ‘운영 모델 수출’로 변화 - 인터내셔널포커스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LNkd4dkYydFA5Si10alhTeEdNcUVTR01haW5OdWJsaHVxc01DZnpYcm95aVk0OWZ2cUdwUUtsQnJlcVhDUV8yckZ2N0xocVI1cVpPQWNSR1Y3S3M?oc=5",
-          "published_at": "2026-05-03T05:36:00+00:00"
+          "title": "KB국민은행, 민간중금리대출 확대…올해 1조5300억 공급 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CSHdfcVJDYV9DUl9LVUVKZHFzWHE0ZHZxc0ZvS2I1TzNVVGtURWNjaW4yOHYwaFd3TU9iT0p5bGV2MFRXV2JMYjRCeWZ4Tk1jQ2dIYVk4Z29KOGFrSWlMUDcxNTk?oc=5",
+          "published_at": "2026-05-04T05:35:31+00:00"
         },
         {
-          "title": "중국, 국제유가 급등에 수혜 받나…지난달 수출 대폭 확대 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HR2h4SXZ2TG9RZ3o0azRpelA0NWVpTm1IX19sdU9zMlBnc2RsQS1mbXFaVENXSU1TRTdDQ2FCZjF6dExXY3c0Rm92MFQ5b21MTGZr?oc=5",
-          "published_at": "2026-05-03T05:35:00+00:00"
+          "title": "[데일리 브리핑] 2026-05-04 주요 경제지표 스케줄 / 기관의 투자의견 / 10년물 미국채 금리동향 / WTI 원유 선물 동향 - 네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZUFoQ2NxWUJlUnhraUxaWkxUbjRWUXBwbGVocW9yVWl2cU5kZXZkUXhmRFg0MHhzQTZydFkzRWlEUjdZTzhreGtFVXptNWQ5dkNZVmNkR2ZHbkt0M2pCVGUtaGdqd3YxVkRPZmItVmhpZWlHSWRWMW8yRkhBMzJ5b3VsUlU?oc=5",
+          "published_at": "2026-05-04T05:32:54+00:00"
         },
         {
-          "title": "연휴 기간 동안 상품의 수입과 수출은 순조롭게 진행되었습니다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHdoSUpHZ21OaFY0MjgycW1xTy1jQXNRMHVKRUgyWlNCRXMycHFzR0lQZHpQWWpoZGFxMWlmSjBSTkJtU1BJeFIxWWNMeWpMSjJRZXFEOHNMdWZOTGt3Y2RVTmhYVWtSMDdEMzRyaTE1cFhQZUVvak01bGNJanZzaUNsNlk?oc=5",
-          "published_at": "2026-05-03T05:05:31+00:00"
+          "title": "한은 부총재 \"금리 인상 고민할 때···5월 금통위서 신호 가능성\" - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rc1JMTUVKMzhtNjF4cVJWbklKbDFad2tVRHNuWE0xRC1sM3I2MmxEaHFVbkVYZ3VjNG85YXRxSElxQ1RxNTRManhQN0dreWlKNEhvUGJTTExpZHNyRE91Y1VXZHpWOVZOaUE?oc=5",
+          "published_at": "2026-05-04T05:30:02+00:00"
         },
         {
-          "title": "이천시, 중소기업 동남아 수출 기반 마련… “기업 해외 진출 적극 지원할 것” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1neWdudVlIcTV2bndiS3plYkY1cTNnOXNNZ2E3TFdTWmJJY3J1R0xYVTFQbkVhRVZrRG5GZ0s5eHJISU1VMmtaUEdYYWZoZG5pLWY1NjlfbFdmM0E?oc=5",
-          "published_at": "2026-05-03T04:56:00+00:00"
+          "title": "물가 상승 속 성장률 반등…한은 부총재 “금리인상 고민할 때” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVXcxS2FwOVloaXhjb3IwNHF2bnZPM0FyUEtBMWlQQlF5cFFZM1QwcHVDaDhGRHI4YVREYktrMWNMZjhEdG5vVTRsRU85WFoxRGVnYUZYMl9aN241ZlU3VnlWTQ?oc=5",
+          "published_at": "2026-05-04T05:25:13+00:00"
         },
         {
-          "title": "현대경제연구원, 올해 성장률 2.7%로 상향⋯\"수출 호황 영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KeE9nX3VSZlpXeDhRSTJ5NERpSjhJYUlWeS1KbDIyZVoxR3FRYzZGakFFeGtUVGc5dkY2S2plRDRXNnlwUkVxc1hRNkdpU0E?oc=5",
-          "published_at": "2026-05-03T04:55:32+00:00"
+          "title": "한은 '금리 인상' 전환 시사…인플레, 성장 갉아먹기 전 잡는다? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVY1Q5aDE3d1NRUUxnSS13OVhpNXJkY3Q1R19paV8tdTVSaDM1aEpRZVJ4QXN0a2hOQ05ybkRtX2kwdks4SzBCOGJkR3pEVkhwRTlEaUZUajRWaUVTR3dlV3pQRjBTY1owVEtv0gFwQVVfeXFMTi1idkFQdEdSUnM2RVlUcFg1VUxoTDhIQWJwOEVRUG5JRnlkTG1CRmY3d2JkdHpKYzNleHFDNi15UTUwa0ItaXJsMXlUT1hhTzZhTERVc2lvMjRxM2pqZ3RyNlEzM3Y1S2pwTWNBSHVibA?oc=5",
+          "published_at": "2026-05-04T05:21:46+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "수출",
+      "score": 193.31,
+      "articles": [
+        {
+          "title": "LIG 비궁, 미국서 수만 발 만든다...\"수출 계약 막바지\" [배창학의 방산인사이드] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42aWh3dTdIaVMxOVZKdDd6UTR1dVJHYkp3MzhsVnNIRGowMEFlVGVaWWRab1JiODFkNzBBZjZTN0o0NW40cEhETE5td0Qza2c?oc=5",
+          "published_at": "2026-05-04T05:53:17+00:00"
+        },
+        {
+          "title": "중남미 수출 거점 멕시코 홀린 ‘K-푸드’…중남미 시장 수출 탄력 기대 - 식품음료신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YaUNGUDBzOGtJZmM3Tm1UbFJGamVHYTdvT3Jfd2RJaFlNTktESlFRM243U0hoVUlINng1eWVNNy1OLU1OU2NDLXAwMXdQbnZPSHJGS2NvMTh0TXlGRTRCNHlQbVlNaEVyX09uUzlzOA?oc=5",
+          "published_at": "2026-05-04T05:44:55+00:00"
+        },
+        {
+          "title": "오투사이언스-GCNC, 고농도 산소수 수출 확대를 위한 전략적 협약 체결 - 파이낸스투데이",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9icDBEb2pNUWdUbUtGTWZfaHlCQTdNd1ZnZ2xlcHVncnNiOEhwdFVGQnVUZDJmN3h3YU5lMjROaWNGRWExNFpGQW5kak1HNV9yeE53TVRYWlBacmlKdmYzM0FUUHZ2THd3WENNMw?oc=5",
+          "published_at": "2026-05-04T05:37:00+00:00"
+        },
+        {
+          "title": "미국시장 끝없이 두드린 해남군, 글로벌 수출 성과로 결실 - 농수축산신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SRHB5QUpKdFZ0RkFfejQ0VTdyTmZfR29xcVBuWWdfLUFaVmJZelhJekg5cmtYYlhzM3BCQlFqREgwdUdoSE4yZXZiMll0aUw1QmhxXzh4QWxYSk54eTliZ1ItR2dNb3JZRHJYSw?oc=5",
+          "published_at": "2026-05-04T05:00:24+00:00"
+        },
+        {
+          "title": "경북대구농협 수출협의회, 2026년 정기총회 개최 - 농수축산신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dc3FXWWxEbmhnN0xJQ3lEZWNiQ1ZTakdpUm1Ta09CbXo2WWQwLVhJTTNSZ3dGMjVEaTY4Z21qRnFiLVViZEhDZGFwNndFcnVrNlBDWnI5NFMxZUU3NldnTnZtOWFiMUhIOVZkYw?oc=5",
+          "published_at": "2026-05-04T04:53:32+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "한은",
+      "score": 158.42,
+      "articles": [
+        {
+          "title": "한은 부총재 \"금리 인상 고민할 때···5월 금통위서 신호 가능성\" - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rc1JMTUVKMzhtNjF4cVJWbklKbDFad2tVRHNuWE0xRC1sM3I2MmxEaHFVbkVYZ3VjNG85YXRxSElxQ1RxNTRManhQN0dreWlKNEhvUGJTTExpZHNyRE91Y1VXZHpWOVZOaUE?oc=5",
+          "published_at": "2026-05-04T05:30:02+00:00"
+        },
+        {
+          "title": "물가 상승 속 성장률 반등…한은 부총재 “금리인상 고민할 때” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVXcxS2FwOVloaXhjb3IwNHF2bnZPM0FyUEtBMWlQQlF5cFFZM1QwcHVDaDhGRHI4YVREYktrMWNMZjhEdG5vVTRsRU85WFoxRGVnYUZYMl9aN241ZlU3VnlWTQ?oc=5",
+          "published_at": "2026-05-04T05:25:13+00:00"
+        },
+        {
+          "title": "한은 '금리 인상' 전환 시사…인플레, 성장 갉아먹기 전 잡는다? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVY1Q5aDE3d1NRUUxnSS13OVhpNXJkY3Q1R19paV8tdTVSaDM1aEpRZVJ4QXN0a2hOQ05ybkRtX2kwdks4SzBCOGJkR3pEVkhwRTlEaUZUajRWaUVTR3dlV3pQRjBTY1owVEtv0gFwQVVfeXFMTi1idkFQdEdSUnM2RVlUcFg1VUxoTDhIQWJwOEVRUG5JRnlkTG1CRmY3d2JkdHpKYzNleHFDNi15UTUwa0ItaXJsMXlUT1hhTzZhTERVc2lvMjRxM2pqZ3RyNlEzM3Y1S2pwTWNBSHVibA?oc=5",
+          "published_at": "2026-05-04T05:21:46+00:00"
+        },
+        {
+          "title": "한은 부총재 “금리 인상 고민할 때…5월 금통위서 신호 가능성” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MDFZZGVaNDNWREl1bE55LVRyekdmcXNDU09wSk0tUG9NUGc1aTNWN0c5WlQtdFVSb1FnZklSbk50cHAxWDljVnhvNDhBb1E?oc=5",
+          "published_at": "2026-05-04T05:07:05+00:00"
+        },
+        {
+          "title": "한은 부총재 “금리 인하 기조 멈추고 금리 인상 고민할 때” - IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvWmFHU1N6bXdtWTRwd2p4ZTJHaWFFeVZpLW1rSGZqOEh0WEh6YVdEcmVycmZBVlVzaXVCTlJ5UmdXZkY0Q2dpUHpHZDF6Qms5T3h5RVBkZE1xUzFiaXB5cXZTeEh2d2R2M0daWVJHYmLSAXRBVV95cUxNa0dDRWR5U2tNN0JyWE1iODFIa0R4RVFEUmw2RmFOMFZxQnpURlgzbkp1WHBTdEZCSFN5Uk1Ga3pidjdjd2FzcXJ6RG1aZVc5RlpNZE93NkJ1TDkyYTVxcmtWN0lWaDlNaUpqeElBNWUtTWdyUw?oc=5",
+          "published_at": "2026-05-04T04:56:42+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "인상",
+      "score": 153.32,
+      "articles": [
+        {
+          "title": "한은 부총재 \"금리 인상 고민할 때···5월 금통위서 신호 가능성\" - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rc1JMTUVKMzhtNjF4cVJWbklKbDFad2tVRHNuWE0xRC1sM3I2MmxEaHFVbkVYZ3VjNG85YXRxSElxQ1RxNTRManhQN0dreWlKNEhvUGJTTExpZHNyRE91Y1VXZHpWOVZOaUE?oc=5",
+          "published_at": "2026-05-04T05:30:02+00:00"
+        },
+        {
+          "title": "물가 상승 속 성장률 반등…한은 부총재 “금리인상 고민할 때” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVXcxS2FwOVloaXhjb3IwNHF2bnZPM0FyUEtBMWlQQlF5cFFZM1QwcHVDaDhGRHI4YVREYktrMWNMZjhEdG5vVTRsRU85WFoxRGVnYUZYMl9aN241ZlU3VnlWTQ?oc=5",
+          "published_at": "2026-05-04T05:25:13+00:00"
+        },
+        {
+          "title": "한은 '금리 인상' 전환 시사…인플레, 성장 갉아먹기 전 잡는다? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVY1Q5aDE3d1NRUUxnSS13OVhpNXJkY3Q1R19paV8tdTVSaDM1aEpRZVJ4QXN0a2hOQ05ybkRtX2kwdks4SzBCOGJkR3pEVkhwRTlEaUZUajRWaUVTR3dlV3pQRjBTY1owVEtv0gFwQVVfeXFMTi1idkFQdEdSUnM2RVlUcFg1VUxoTDhIQWJwOEVRUG5JRnlkTG1CRmY3d2JkdHpKYzNleHFDNi15UTUwa0ItaXJsMXlUT1hhTzZhTERVc2lvMjRxM2pqZ3RyNlEzM3Y1S2pwTWNBSHVibA?oc=5",
+          "published_at": "2026-05-04T05:21:46+00:00"
+        },
+        {
+          "title": "[이란 전쟁] 유상대 “물가 상방 압력 확대…금리인상 전환 고민할 시점” - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZU5lcnUtU2FXaXhWS2Y2SWpnWF8xRTI5US1NSEMtNkpIS0QwWTJrU01wYWhxdUhYY1lVeE5FbGFLNTVYdEpncXdWd3haR2lKQlpYRjFwVElPTmg0bU9QeGVoZmZyYXVyU1pqTURydllNdkFnVWJGanVkOG16b1AyMXFpLWJvUndmWDhJ?oc=5",
+          "published_at": "2026-05-04T05:10:37+00:00"
+        },
+        {
+          "title": "한은 부총재 “금리 인상 고민할 때…5월 금통위서 신호 가능성” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MDFZZGVaNDNWREl1bE55LVRyekdmcXNDU09wSk0tUG9NUGc1aTNWN0c5WlQtdFVSb1FnZklSbk50cHAxWDljVnhvNDhBb1E?oc=5",
+          "published_at": "2026-05-04T05:07:05+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "부총재",
+      "score": 143.56,
+      "articles": [
+        {
+          "title": "한은 부총재 \"금리 인상 고민할 때···5월 금통위서 신호 가능성\" - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rc1JMTUVKMzhtNjF4cVJWbklKbDFad2tVRHNuWE0xRC1sM3I2MmxEaHFVbkVYZ3VjNG85YXRxSElxQ1RxNTRManhQN0dreWlKNEhvUGJTTExpZHNyRE91Y1VXZHpWOVZOaUE?oc=5",
+          "published_at": "2026-05-04T05:30:02+00:00"
+        },
+        {
+          "title": "물가 상승 속 성장률 반등…한은 부총재 “금리인상 고민할 때” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVXcxS2FwOVloaXhjb3IwNHF2bnZPM0FyUEtBMWlQQlF5cFFZM1QwcHVDaDhGRHI4YVREYktrMWNMZjhEdG5vVTRsRU85WFoxRGVnYUZYMl9aN241ZlU3VnlWTQ?oc=5",
+          "published_at": "2026-05-04T05:25:13+00:00"
+        },
+        {
+          "title": "한은 부총재 “금리 인상 고민할 때…5월 금통위서 신호 가능성” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MDFZZGVaNDNWREl1bE55LVRyekdmcXNDU09wSk0tUG9NUGc1aTNWN0c5WlQtdFVSb1FnZklSbk50cHAxWDljVnhvNDhBb1E?oc=5",
+          "published_at": "2026-05-04T05:07:05+00:00"
+        },
+        {
+          "title": "한은 부총재 “금리 인하 기조 멈추고 금리 인상 고민할 때” - IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvWmFHU1N6bXdtWTRwd2p4ZTJHaWFFeVZpLW1rSGZqOEh0WEh6YVdEcmVycmZBVlVzaXVCTlJ5UmdXZkY0Q2dpUHpHZDF6Qms5T3h5RVBkZE1xUzFiaXB5cXZTeEh2d2R2M0daWVJHYmLSAXRBVV95cUxNa0dDRWR5U2tNN0JyWE1iODFIa0R4RVFEUmw2RmFOMFZxQnpURlgzbkp1WHBTdEZCSFN5Uk1Ga3pidjdjd2FzcXJ6RG1aZVc5RlpNZE93NkJ1TDkyYTVxcmtWN0lWaDlNaUpqeElBNWUtTWdyUw?oc=5",
+          "published_at": "2026-05-04T04:56:42+00:00"
+        },
+        {
+          "title": "유상대 한은 부총재 \"이제는 금리 인상 고민할 때\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFX19sQy1EYTVvWWZkdi1JemJrMlJpXzdIT0puem0wZ0RCMXNxMU1TbXFEZDA4VnMzc3A5bk1GTGh3dXYxX3VEQndQVlRwUUE?oc=5",
+          "published_at": "2026-05-04T04:14:49+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "고민할",
+      "score": 131.41,
+      "articles": [
+        {
+          "title": "한은 부총재 \"금리 인상 고민할 때···5월 금통위서 신호 가능성\" - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rc1JMTUVKMzhtNjF4cVJWbklKbDFad2tVRHNuWE0xRC1sM3I2MmxEaHFVbkVYZ3VjNG85YXRxSElxQ1RxNTRManhQN0dreWlKNEhvUGJTTExpZHNyRE91Y1VXZHpWOVZOaUE?oc=5",
+          "published_at": "2026-05-04T05:30:02+00:00"
+        },
+        {
+          "title": "물가 상승 속 성장률 반등…한은 부총재 “금리인상 고민할 때” - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVXcxS2FwOVloaXhjb3IwNHF2bnZPM0FyUEtBMWlQQlF5cFFZM1QwcHVDaDhGRHI4YVREYktrMWNMZjhEdG5vVTRsRU85WFoxRGVnYUZYMl9aN241ZlU3VnlWTQ?oc=5",
+          "published_at": "2026-05-04T05:25:13+00:00"
+        },
+        {
+          "title": "[이란 전쟁] 유상대 “물가 상방 압력 확대…금리인상 전환 고민할 시점” - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZU5lcnUtU2FXaXhWS2Y2SWpnWF8xRTI5US1NSEMtNkpIS0QwWTJrU01wYWhxdUhYY1lVeE5FbGFLNTVYdEpncXdWd3haR2lKQlpYRjFwVElPTmg0bU9QeGVoZmZyYXVyU1pqTURydllNdkFnVWJGanVkOG16b1AyMXFpLWJvUndmWDhJ?oc=5",
+          "published_at": "2026-05-04T05:10:37+00:00"
+        },
+        {
+          "title": "한은 부총재 “금리 인상 고민할 때…5월 금통위서 신호 가능성” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MDFZZGVaNDNWREl1bE55LVRyekdmcXNDU09wSk0tUG9NUGc1aTNWN0c5WlQtdFVSb1FnZklSbk50cHAxWDljVnhvNDhBb1E?oc=5",
+          "published_at": "2026-05-04T05:07:05+00:00"
+        },
+        {
+          "title": "한은 부총재 “금리 인하 기조 멈추고 금리 인상 고민할 때” - IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvWmFHU1N6bXdtWTRwd2p4ZTJHaWFFeVZpLW1rSGZqOEh0WEh6YVdEcmVycmZBVlVzaXVCTlJ5UmdXZkY0Q2dpUHpHZDF6Qms5T3h5RVBkZE1xUzFiaXB5cXZTeEh2d2R2M0daWVJHYmLSAXRBVV95cUxNa0dDRWR5U2tNN0JyWE1iODFIa0R4RVFEUmw2RmFOMFZxQnpURlgzbkp1WHBTdEZCSFN5Uk1Ga3pidjdjd2FzcXJ6RG1aZVc5RlpNZE93NkJ1TDkyYTVxcmtWN0lWaDlNaUpqeElBNWUtTWdyUw?oc=5",
+          "published_at": "2026-05-04T04:56:42+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 122.99,
+      "score": 110.17,
       "articles": [
         {
-          "title": "유럽 대신 중동 택한 미국…전쟁 틈타 12.6조원 규모 무기 판매 신속 집행 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hanNEV0JFTFdYUnNQYVVOY0pLdFEzMV8wcTBUT3BsR0FrM19CdTRiOHFxTHplYWNpa3NfVzJhN2FiVFZ3OFFtdjFfN3c4SEE?oc=5",
-          "published_at": "2026-05-03T05:33:01+00:00"
+          "title": "LIG 비궁, 미국서 수만 발 만든다...\"수출 계약 막바지\" [배창학의 방산인사이드] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42aWh3dTdIaVMxOVZKdDd6UTR1dVJHYkp3MzhsVnNIRGowMEFlVGVaWWRab1JiODFkNzBBZjZTN0o0NW40cEhETE5td0Qza2c?oc=5",
+          "published_at": "2026-05-04T05:53:17+00:00"
         },
         {
-          "title": "현대경제연구원, 올해 성장률 2.7%로 상향⋯\"수출 호황 영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KeE9nX3VSZlpXeDhRSTJ5NERpSjhJYUlWeS1KbDIyZVoxR3FRYzZGakFFeGtUVGc5dkY2S2plRDRXNnlwUkVxc1hRNkdpU0E?oc=5",
-          "published_at": "2026-05-03T04:55:32+00:00"
+          "title": "한은 부총재 “금리 인상 고민할 때…5월 금통위서 신호 가능성” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MDFZZGVaNDNWREl1bE55LVRyekdmcXNDU09wSk0tUG9NUGc1aTNWN0c5WlQtdFVSb1FnZklSbk50cHAxWDljVnhvNDhBb1E?oc=5",
+          "published_at": "2026-05-04T05:07:05+00:00"
         },
         {
-          "title": "대구시, 농식품 수출 ‘전 과정 지원’ 나선다…해외 판로 개척 강화 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uNk5vN2dWc3YyR3pRODk5QnotTldobGNtZEJodTBTM2llZmFSWEpVaDVrOGw3ZnUxWkY5WTlELVRuTEFpbmlXdGtFY0p5TmM?oc=5",
-          "published_at": "2026-05-03T04:35:04+00:00"
+          "title": "“기름값 너무 올랐어요”...트럼프 표심 흔들린다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwODVQSUxTb0lLejJKalRQYUFlVEJGRnJSaWRjRHFqblB2Q0w3RjNlNGxURkNnVlNrdlR1YTczX3VfcGdWUHpscW4xN2NuQnM?oc=5",
+          "published_at": "2026-05-04T04:54:00+00:00"
         },
         {
-          "title": "中 전기차 수출 급증…해외 판매 더 늘린다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DUjRobzVrVnVwSjZiXzZuejlPTFVCMWNjRVBUWGZmNGd4cldNR2V0X0tVT3V5ZU5FMVJ6MjBnNEI2WXFidTFsSDBxTExTSm8?oc=5",
-          "published_at": "2026-05-03T04:24:01+00:00"
+          "title": "부안군, 농업용 면세유 유가연동 보조금 지원 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKRC1NcnVacm5CdHMxRURXZ0lyOHRZel90NWQ0SXJDUjhQTEtZUEhqZDdjaV9LVmZycFRJRTM4RVY0UUtOZzNIT1prOVhZUzg?oc=5",
+          "published_at": "2026-05-04T04:35:33+00:00"
         },
         {
-          "title": "빈곤층도 아닌데 '꼬박꼬박'…\"이대로 다 주다간\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qTms0QXFPTXNaOU5uQU9SSmd5NzIwS3Z6aFBJVlVlVGllYktnaHJwejM5Y2YydVl6VXl6TnNERlBYV1Y4X1hTV1FzYXh1TVk?oc=5",
-          "published_at": "2026-05-03T04:20:09+00:00"
+          "title": "이란 원유 놓고 미·중 정면 충돌…최전선에 선 티팟 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoM1NNMklGMjNyYWkxTkp2dldHNmJPR0VSUFR1a05fT1M2Sy1VRWMxaUpOV3MwanNCeDg3RzJxQlhZRlE1dlhMM3ppVmNYSVk?oc=5",
+          "published_at": "2026-05-04T04:23:02+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 122.99,
+      "score": 110.17,
       "articles": [
         {
-          "title": "유럽 대신 중동 택한 미국…전쟁 틈타 12.6조원 규모 무기 판매 신속 집행 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hanNEV0JFTFdYUnNQYVVOY0pLdFEzMV8wcTBUT3BsR0FrM19CdTRiOHFxTHplYWNpa3NfVzJhN2FiVFZ3OFFtdjFfN3c4SEE?oc=5",
-          "published_at": "2026-05-03T05:33:01+00:00"
+          "title": "LIG 비궁, 미국서 수만 발 만든다...\"수출 계약 막바지\" [배창학의 방산인사이드] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42aWh3dTdIaVMxOVZKdDd6UTR1dVJHYkp3MzhsVnNIRGowMEFlVGVaWWRab1JiODFkNzBBZjZTN0o0NW40cEhETE5td0Qza2c?oc=5",
+          "published_at": "2026-05-04T05:53:17+00:00"
         },
         {
-          "title": "현대경제연구원, 올해 성장률 2.7%로 상향⋯\"수출 호황 영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KeE9nX3VSZlpXeDhRSTJ5NERpSjhJYUlWeS1KbDIyZVoxR3FRYzZGakFFeGtUVGc5dkY2S2plRDRXNnlwUkVxc1hRNkdpU0E?oc=5",
-          "published_at": "2026-05-03T04:55:32+00:00"
+          "title": "한은 부총재 “금리 인상 고민할 때…5월 금통위서 신호 가능성” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MDFZZGVaNDNWREl1bE55LVRyekdmcXNDU09wSk0tUG9NUGc1aTNWN0c5WlQtdFVSb1FnZklSbk50cHAxWDljVnhvNDhBb1E?oc=5",
+          "published_at": "2026-05-04T05:07:05+00:00"
         },
         {
-          "title": "대구시, 농식품 수출 ‘전 과정 지원’ 나선다…해외 판로 개척 강화 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uNk5vN2dWc3YyR3pRODk5QnotTldobGNtZEJodTBTM2llZmFSWEpVaDVrOGw3ZnUxWkY5WTlELVRuTEFpbmlXdGtFY0p5TmM?oc=5",
-          "published_at": "2026-05-03T04:35:04+00:00"
+          "title": "“기름값 너무 올랐어요”...트럼프 표심 흔들린다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwODVQSUxTb0lLejJKalRQYUFlVEJGRnJSaWRjRHFqblB2Q0w3RjNlNGxURkNnVlNrdlR1YTczX3VfcGdWUHpscW4xN2NuQnM?oc=5",
+          "published_at": "2026-05-04T04:54:00+00:00"
         },
         {
-          "title": "中 전기차 수출 급증…해외 판매 더 늘린다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DUjRobzVrVnVwSjZiXzZuejlPTFVCMWNjRVBUWGZmNGd4cldNR2V0X0tVT3V5ZU5FMVJ6MjBnNEI2WXFidTFsSDBxTExTSm8?oc=5",
-          "published_at": "2026-05-03T04:24:01+00:00"
+          "title": "부안군, 농업용 면세유 유가연동 보조금 지원 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKRC1NcnVacm5CdHMxRURXZ0lyOHRZel90NWQ0SXJDUjhQTEtZUEhqZDdjaV9LVmZycFRJRTM4RVY0UUtOZzNIT1prOVhZUzg?oc=5",
+          "published_at": "2026-05-04T04:35:33+00:00"
         },
         {
-          "title": "빈곤층도 아닌데 '꼬박꼬박'…\"이대로 다 주다간\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qTms0QXFPTXNaOU5uQU9SSmd5NzIwS3Z6aFBJVlVlVGllYktnaHJwejM5Y2YydVl6VXl6TnNERlBYV1Y4X1hTV1FzYXh1TVk?oc=5",
-          "published_at": "2026-05-03T04:20:09+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 87.3,
-      "articles": [
-        {
-          "title": "[위클리 뱅크이슈] \"달리면 금리 혜택\"…1천만 러닝족 겨냥하는 은행권 - seoulwire.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZZVJHTXZPc29iMU95MVdNLXdtdzJLMkRjSFlxVWZRRnl1LU9MOTc5aV9rT1QxLWhmallETWVGamVvTTExaVBieC0zRXZlajlfeGtUVFBsVUpSWWctM0ZoV3JrMTBpZURMQ0xmaA?oc=5",
-          "published_at": "2026-05-03T05:30:00+00:00"
-        },
-        {
-          "title": "日은 '금리 인상', 美 연준은 '속도조절'...인하 기대 후퇴 - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PcVBwVnIyZ1RxMFhpZjFpblhBYVZ4TDhoM19STUxvMzE4blBMbGJKVVIzSTUySHJLcklISno5dDBTNUJUT1VzY2l5VjVzaHQ1ZVVLOUhVWHhWYXB6ZGtqNHJTS0xQNTBpR1JhcmFOWGZSeFE?oc=5",
-          "published_at": "2026-05-03T05:00:08+00:00"
-        },
-        {
-          "title": "가계대출 줄자 집단대출로…신한은행 금리인하, ‘대출 전쟁’ 재점화 - 브릿지경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uRUlMWDdDRldnLVJfYjhDYTJBN09rRHR0OVVoUVFfT2dvdEtyUXRYRVpubUpXWFlnRVRRVGpRVFhWMDRVM3hyY1JwYTgzV2NkRzZaejhqbUdJdw?oc=5",
-          "published_at": "2026-05-03T04:26:00+00:00"
-        },
-        {
-          "title": "굴스비 시카고 연은 총재 “물가 다시 상승…금리 인하 신중해야” - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGw1NVZCNzZyNzlDT0k5VHpPM1ppVXROSWhOVHBoa1JvaXd2cUxDSGxlVTV0WW5xRHg4UFBzT0VBMG1RdkE1eUtDbDNxQjFZYTlHLXh1bFBkUWpoY0QyUGtmV0Y2X1hVbkNvVXQ4VXl2UDJoRzh2QnF4MEdRZkg4LUkwU0xLLVJp?oc=5",
-          "published_at": "2026-05-03T04:22:33+00:00"
-        },
-        {
-          "title": "24개월 최고 연 5.15%…제주은행 'MZ 플랜적금' [이주의 은행 적금금리-5월 1주] - 한국금융신문",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pb29jbVRXdzlNaUJ5eEduWFd2amR6aWgzM09YSjVKM0lTRUt4MTRVSGktUUlrekRjWEdCYTJYNERKbjlFRlAtQmZxMmFqbktuOTdFNWNXdzZ6SlRkTHZ0d0pHa3pLRzV1Q1JWeHFRTVdrWDg3NFgwU2FGQmg?oc=5",
-          "published_at": "2026-05-03T03:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "올해",
-      "score": 85.41,
-      "articles": [
-        {
-          "title": "현대경제硏, 올해 韓 성장률 1.9%→2.7% 상향…\"반도체·추경 효과\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaVGJSMldxREtQc0JySmNVZE8yd2dXTjlQTUREVW5LUmVhcmNXb1llNDlwOGtseVJtMEhQZ21pcHdkN2E3M3ZxaGRhYjhBa3A2ZmJZRg?oc=5",
-          "published_at": "2026-05-03T05:40:30+00:00"
-        },
-        {
-          "title": "현대경제연구원, 올해 성장률 2.7%로 상향⋯\"수출 호황 영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KeE9nX3VSZlpXeDhRSTJ5NERpSjhJYUlWeS1KbDIyZVoxR3FRYzZGakFFeGtUVGc5dkY2S2plRDRXNnlwUkVxc1hRNkdpU0E?oc=5",
-          "published_at": "2026-05-03T04:55:32+00:00"
-        },
-        {
-          "title": "현대경제연구원, 올해 성장률 2.7%로 상향⋯\"수출 호황 영향\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Hc1I5cGcwUENMX2JtekF6SzJVdV85OTh4akhMb0tSekFfSERMcUJFNTBwRnFYNjN5bTIyc3lUZkJPTHllZ3kzNWduY0F1ZlBSNU5r?oc=5",
-          "published_at": "2026-05-03T04:54:00+00:00"
-        },
-        {
-          "title": "올해 수정 경제성장률 2.7%…지난해 1.0%에서 1.7%p 상승 - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlgxMFQ1OEYzcThjRzN2X0NJUUhVcFluWmhnbFNtYXl2TVgtYU5lN1pHckx2V2JldjlQeHRBLV84UkltMk9uVTJPdFBBS3lyeWRnUGhVcDJVZ1FWYTRNbTBlVXZqSzYya09xbVkteW9IR3c2WkZBMld1eVZ1d0FIUXJCOHZZeklPV0Rz?oc=5",
-          "published_at": "2026-05-03T04:53:00+00:00"
-        },
-        {
-          "title": "전남 농수산식품 수출 올해 들어 20.9% 증가 - 남도일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTHQyOUw4WkhaYzVQTk1HbUpEdkt6NjUtMHJTVlVaRjJod1E1VUNudno2Ti1hcGJXRnViVkdCNWs5MlBDbFhoU0cxak0tWkFRdldPdDllenVZajF3cTRjQ0ZWRVBoNm1xQjVhQ9IBcEFVX3lxTFBnd2kwNWx6SXRKQ0R4WWtUREJBZmU4S3ExeS1fNWhBcEQzWEFhS2hnQ19wcENSR0Q4U1ZXa3EwazNiU2FldWt5VXpoU1d0MEVpeGlHc0F2TS1rMnNKNkx3RjZOb00waTNIOVl1MVRIVlA?oc=5",
-          "published_at": "2026-05-03T04:06:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "반도체",
-      "score": 75.11,
-      "articles": [
-        {
-          "title": "현대경제硏, 올해 韓 성장률 1.9%→2.7% 상향…\"반도체·추경 효과\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaVGJSMldxREtQc0JySmNVZE8yd2dXTjlQTUREVW5LUmVhcmNXb1llNDlwOGtseVJtMEhQZ21pcHdkN2E3M3ZxaGRhYjhBa3A2ZmJZRg?oc=5",
-          "published_at": "2026-05-03T05:40:30+00:00"
-        },
-        {
-          "title": "반도체가 다 했다...\"중동 리스크에도 2분기 수출 30% 증가 전망\" - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Fd3VfTm54YVJ6VVlCRmtnc3h6WXUyYWtYQXU2QnBJY2JURENUMGJvaC1sQVR1WWM3U2ljbHRGNXU0R3JrVnpmVmZmYXc2UUZ1VHg0RlRURy1MZ9IBXkFVX3lxTE8zYnhLZXR3S2NEbkd5cUd2TnZfTUhmcU82enFCR1lOS2JpVElYcGVfQnlXQ1g1dnFKNzhhVHRRQTdScndvWFBlTUJBc2pIQ2hWWXFWTVRFZUJpVU9pZmc?oc=5",
-          "published_at": "2026-05-03T04:52:09+00:00"
-        },
-        {
-          "title": "수은 \"2분기 수출, 지난해보다 30% 증가…압도적 반도체가 견인\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ockxraDlURjFaSDEwRWFnM3JCeWdKa0ZWYjFjZ0NBZENVZHplNlR6MG9ERnljX0JvQVN0eFo1dFRlY2xqV2lUWlpXTGNNb1d5RGh2WkM4dEpyak9WTTBfa2ZjOTUtMnBJM1UxaExISlF1RmE1X1VhUA?oc=5",
-          "published_at": "2026-05-03T03:10:00+00:00"
-        },
-        {
-          "title": "현대경제硏, 올해 韓 성장률 2.7%로 상향…\"추경·반도체가 고유가 상쇄\" - 더팩트",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VS25hQU9MSlFoUTdkVFZ1WHlacjdBSTQtNEdoRUFoc2FHSnR0RzZYOGRNN2p5eS05V0ZiQ01vWk0tdXZSQ09ncmxhRTN6dUtGMXhhdklwUlQ4Z9IBVEFVX3lxTFBKSHZHSEdESHpqYXJqbTNPd0lpSmRNVUpxck5JYjFhc2didzNRZGZvNU50RS1PcWlLUGJOOVp1OUc5dFBjdTh2SDg1MHpkSjNIcS1sWA?oc=5",
-          "published_at": "2026-05-03T03:09:06+00:00"
-        },
-        {
-          "title": "현대경제연구원, 올해 성장률 2.7%로 0.8%p 상향…\"반도체 수출 호조\" - SBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52T05Ga1A4NUtYcTFJOE5OMGU4TW8tVGYtUG5iSUJrYk44SzhQY2RZSUh4RzZ6WFZPWFhUSzJ1RjU3OUwzZmJnaVlmTUk5dmZKUU00QUVKdGNtT2FMc2Y2cVNERHpfTFlQU1E?oc=5",
-          "published_at": "2026-05-03T02:48:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "성장률",
-      "score": 62.41,
-      "articles": [
-        {
-          "title": "현대경제硏, 올해 韓 성장률 1.9%→2.7% 상향…\"반도체·추경 효과\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaVGJSMldxREtQc0JySmNVZE8yd2dXTjlQTUREVW5LUmVhcmNXb1llNDlwOGtseVJtMEhQZ21pcHdkN2E3M3ZxaGRhYjhBa3A2ZmJZRg?oc=5",
-          "published_at": "2026-05-03T05:40:30+00:00"
-        },
-        {
-          "title": "현대경제연구원, 올해 성장률 2.7%로 상향⋯\"수출 호황 영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KeE9nX3VSZlpXeDhRSTJ5NERpSjhJYUlWeS1KbDIyZVoxR3FRYzZGakFFeGtUVGc5dkY2S2plRDRXNnlwUkVxc1hRNkdpU0E?oc=5",
-          "published_at": "2026-05-03T04:55:32+00:00"
-        },
-        {
-          "title": "현대경제연구원, 올해 성장률 2.7%로 상향⋯\"수출 호황 영향\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Hc1I5cGcwUENMX2JtekF6SzJVdV85OTh4akhMb0tSekFfSERMcUJFNTBwRnFYNjN5bTIyc3lUZkJPTHllZ3kzNWduY0F1ZlBSNU5r?oc=5",
-          "published_at": "2026-05-03T04:54:00+00:00"
-        },
-        {
-          "title": "올해 수정 경제성장률 2.7%…지난해 1.0%에서 1.7%p 상승 - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlgxMFQ1OEYzcThjRzN2X0NJUUhVcFluWmhnbFNtYXl2TVgtYU5lN1pHckx2V2JldjlQeHRBLV84UkltMk9uVTJPdFBBS3lyeWRnUGhVcDJVZ1FWYTRNbTBlVXZqSzYya09xbVkteW9IR3c2WkZBMld1eVZ1d0FIUXJCOHZZeklPV0Rz?oc=5",
-          "published_at": "2026-05-03T04:53:00+00:00"
-        },
-        {
-          "title": "수은 “2분기 수출 작년보다 30% 증가할 것”…현대硏, 올해 성장률 2.7%로 상향 - 세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nc05BdkhKOEcwNEg1QjJhUFlONjNhbmFubGQ0MkxlQzJrMUh0Y05YZGhsZVNMUE9YRVc3Z3k0a20yX0wtZnh0a2xxZ1FxdEZuVVpqMF9lbDPSAVRBVV95cUxQLXRxNnhsSzBaUkxaU0ktSkZvbkFiX2N2NTlyZXYyUXFPeDQya19BR0hEbkJfcmt2dEFXQ1M4SmthMW1TbnY0b1BlWS1UYVBRMy1aMF8?oc=5",
-          "published_at": "2026-05-03T03:42:49+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "증가",
-      "score": 62.1,
-      "articles": [
-        {
-          "title": "반도체가 다 했다...\"중동 리스크에도 2분기 수출 30% 증가 전망\" - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Fd3VfTm54YVJ6VVlCRmtnc3h6WXUyYWtYQXU2QnBJY2JURENUMGJvaC1sQVR1WWM3U2ljbHRGNXU0R3JrVnpmVmZmYXc2UUZ1VHg0RlRURy1MZ9IBXkFVX3lxTE8zYnhLZXR3S2NEbkd5cUd2TnZfTUhmcU82enFCR1lOS2JpVElYcGVfQnlXQ1g1dnFKNzhhVHRRQTdScndvWFBlTUJBc2pIQ2hWWXFWTVRFZUJpVU9pZmc?oc=5",
-          "published_at": "2026-05-03T04:52:09+00:00"
-        },
-        {
-          "title": "전남 농수산식품 수출 올해 들어 20.9% 증가 - 남도일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTHQyOUw4WkhaYzVQTk1HbUpEdkt6NjUtMHJTVlVaRjJod1E1VUNudno2Ti1hcGJXRnViVkdCNWs5MlBDbFhoU0cxak0tWkFRdldPdDllenVZajF3cTRjQ0ZWRVBoNm1xQjVhQ9IBcEFVX3lxTFBnd2kwNWx6SXRKQ0R4WWtUREJBZmU4S3ExeS1fNWhBcEQzWEFhS2hnQ19wcENSR0Q4U1ZXa3EwazNiU2FldWt5VXpoU1d0MEVpeGlHc0F2TS1rMnNKNkx3RjZOb00waTNIOVl1MVRIVlA?oc=5",
-          "published_at": "2026-05-03T04:06:00+00:00"
-        },
-        {
-          "title": "수은 “2분기 수출 작년보다 30% 증가할 것”…현대硏, 올해 성장률 2.7%로 상향 - 세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nc05BdkhKOEcwNEg1QjJhUFlONjNhbmFubGQ0MkxlQzJrMUh0Y05YZGhsZVNMUE9YRVc3Z3k0a20yX0wtZnh0a2xxZ1FxdEZuVVpqMF9lbDPSAVRBVV95cUxQLXRxNnhsSzBaUkxaU0ktSkZvbkFiX2N2NTlyZXYyUXFPeDQya19BR0hEbkJfcmt2dEFXQ1M4SmthMW1TbnY0b1BlWS1UYVBRMy1aMF8?oc=5",
-          "published_at": "2026-05-03T03:42:49+00:00"
-        },
-        {
-          "title": "수은 \"2분기 수출, 지난해보다 30% 증가…압도적 반도체가 견인\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ockxraDlURjFaSDEwRWFnM3JCeWdKa0ZWYjFjZ0NBZENVZHplNlR6MG9ERnljX0JvQVN0eFo1dFRlY2xqV2lUWlpXTGNNb1d5RGh2WkM4dEpyak9WTTBfa2ZjOTUtMnBJM1UxaExISlF1RmE1X1VhUA?oc=5",
-          "published_at": "2026-05-03T03:10:00+00:00"
-        },
-        {
-          "title": "수출입은행 “2분기 수출 전년比 30% 내외 증가할 듯\" - 디지털데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUkMzQVl4dWU3ZWFYQlVtN3hpak9OMGZXUzVpR09Mb0pnSFRBSXIzeUswU0JlcElSX25KQXUtcU5ZZWJYUkppNDlaVG1MV211V295MWsxNmlhVTBjS1RWRjZhNWo?oc=5",
-          "published_at": "2026-05-03T02:36:10+00:00"
+          "title": "이란 원유 놓고 미·중 정면 충돌…최전선에 선 티팟 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoM1NNMklGMjNyYWkxTkp2dldHNmJPR0VSUFR1a05fT1M2Sy1VRWMxaUpOV3MwanNCeDg3RzJxQlhZRlE1dlhMM3ppVmNYSVk?oc=5",
+          "published_at": "2026-05-04T04:23:02+00:00"
         }
       ]
     }
