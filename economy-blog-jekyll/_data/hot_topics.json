@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-05-05T05:39:14.355913+00:00",
+  "generated_at": "2026-05-06T05:53:49.883767+00:00",
   "source_count": 4,
-  "article_count": 386,
+  "article_count": 389,
   "top_keywords": [
     {
-      "keyword": "유가",
-      "score": 139.61
-    },
-    {
-      "keyword": "금리",
-      "score": 134.37
-    },
-    {
-      "keyword": "daum",
-      "score": 94.22
-    },
-    {
-      "keyword": "net",
-      "score": 94.22
+      "keyword": "4월",
+      "score": 216.28
     },
     {
       "keyword": "수출",
-      "score": 88.72
+      "score": 193.84
     },
     {
-      "keyword": "급등",
-      "score": 84.76
+      "keyword": "물가",
+      "score": 184.31
     },
     {
-      "keyword": "인상",
-      "score": 76.83
+      "keyword": "소비자물가",
+      "score": 155.62
     },
     {
-      "keyword": "긴장",
-      "score": 72.53
+      "keyword": "상승",
+      "score": 134.19
     },
     {
-      "keyword": "호르무즈",
-      "score": 66.7
+      "keyword": "daum",
+      "score": 106.06
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 65.19
+      "keyword": "net",
+      "score": 106.06
     },
     {
-      "keyword": "환율",
-      "score": 57.41
+      "keyword": "만에",
+      "score": 103.71
     },
     {
-      "keyword": "뉴시스",
-      "score": 53.76
+      "keyword": "석유류",
+      "score": 102.47
+    },
+    {
+      "keyword": "지원",
+      "score": 93.92
+    },
+    {
+      "keyword": "5월",
+      "score": 75.01
+    },
+    {
+      "keyword": "최고",
+      "score": 74.88
     }
   ],
   "hot_topics": [
     {
-      "keyword": "유가",
-      "score": 139.61,
+      "keyword": "4월",
+      "score": 216.28,
       "articles": [
         {
-          "title": "이천농협 농업용 면세유 유가보조금 추가로 자체 지원 - 기호일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vZzBQaEo5SU4wTWp5THpqU05YVkVYaDhUYlloOTlxSzl6NUtIV2dwMC1yOHZTZ0pzR092MDRGMDRycGdQQk1ETXhmT05qcTQ1RFN6U1RIZmVfVU1JdS1GVG5aSGhFaDN3b3F6akNzWQ?oc=5",
-          "published_at": "2026-05-05T05:07:00+00:00"
+          "title": "충북 4월 물가 2.9% 올랐다… 기름값에 지갑 '철렁' - 뉴데일리 충청세종",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLcTNpVzBYRW8tRGg5MmNXQ2lhekZxUHBmQWZfRW5LRllXSEhlb3FhZzNEY3lxd0FsVThkSUhzUzcxanVJbk82Njh0WFJZeTQ3TTlxQ0JIU0ZTQXYwWFhERndRTWpvUm53WXdZNU5jQTgxcE0yZW5icmdR?oc=5",
+          "published_at": "2026-05-06T05:33:01+00:00"
         },
         {
-          "title": "유가 폭등에도 트럼프는 \"금리 인하\"...전망은 암울 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiR0dhUVlFalpFeEM4bDFjZkYtMkFwcHFNV0lJQjVSemRvcVIxM0RBeW83RXFmUlB2dUxkVUt5RC05LXRCY1NVS3FIY2dWa00ydUNqcnpad2xQeUxsX0E?oc=5",
-          "published_at": "2026-05-05T05:02:00+00:00"
+          "title": "전북 물가 다시 꿈틀... 4월 소비자물가 3.0% 상승 - 전북제일신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92V2dQM19XdkxZaHJyb29EMGVzNWNiNXI3elF5RVNyaFY4aEJlcEZObkRiT2lSSU5ESm1zNDFhcUxxcWh0LXdEYUFDY0N4d2hudEtkQkFmY2EzZjVzWF81TDU5Q2xjcjBPY3c?oc=5",
+          "published_at": "2026-05-06T05:32:19+00:00"
         },
         {
-          "title": "호르무즈 갇힌 선원 긴장 최고조…유가는 다시 급등 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NM0xPS211ZG1oWTcwYk9iZHJLUldSemwzOTJ0Ym5PZFNjd3ZNRnNDQ29tczBrdXFvMC1vWF9aZ1J4ZGw0aVUyaTUwWEo5NGw5NENlR2p2MDE1VWM?oc=5",
-          "published_at": "2026-05-05T05:01:00+00:00"
+          "title": "중동전쟁에 석유류 22% 뛰자 4월 소비자물가 2.6%↑...21개월 만에 최고 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92QTJIYlpXVmQzMWVlYjV0Y0lzMnV4c3BlYjhLUGVwdW1qaU50ZkhMOFp5cmhsVXNHTnQ5SDBOMUxzeGpYREVtZE9FRlVVdXJaZTV4eU13?oc=5",
+          "published_at": "2026-05-06T05:07:38+00:00"
         },
         {
-          "title": "“중동전쟁, 한국 성장률 0.9%p 하락 압력…고유가 타격 커” - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtWUxmdUNyTmREbHg1ZGRzVWRLaUpCSnpfSVNTYUo1R29wVC1Va29laExwYmpYczFkSVdieTV5cFh1cGx6VUJjT0hhWXVwMU9ZOVYxVjh3b3B2MTNfME1kLQ?oc=5",
-          "published_at": "2026-05-05T04:52:02+00:00"
+          "title": "부산 4월 석유류 물가 23% 폭등…3년 9개월만 최고 상승률 - 국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXZRM0F3SEpYN3NuRDJ2eGszNWVTNHA1SlJkclhvek5Bdm1VUWsyZFh4cnBvcDRBSGlxZjRpQjRZYm1zT2dra3VMR0tEN0tncUU1OWpWYTlWWXJLclhQS3htT2Zndk90VVJfc3l5YVUtUV9lMDYxMkN6cVR1QkRGYmNjQjJjblQzZjRXalVB?oc=5",
+          "published_at": "2026-05-06T05:06:00+00:00"
         },
         {
-          "title": "IMF \"이란전 내년까지 가면 유가 125$…세계경제, 훨씬 더 나쁜 결과 직면\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HdW5RdWR5TEl3T2piVzF0UVpBMkFCTnNKR00tQXVieXZybzVBaHpwaldmd01Td0tJbEtvM1I2ekNuTjdsWDUwa1RSdElxdE10LUdWaE9TbDlpMG5remREX9IBeEFVX3lxTE1KRENBQVh6aWpMOU9nWHFDUjI1S21xMV9KRnItRXVkTlhYcUZzTHEwRFZiNVZ5WWdPMTZxcUZYZlBQaEJ1RGZBcFZBYlkxM21OVFJZN2ozcWRJQ0w4OU5IM0NkVlpyOC1ndkg5QmdVTXNMa3NZMVE4Xw?oc=5",
-          "published_at": "2026-05-05T04:49:52+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 134.37,
-      "articles": [
-        {
-          "title": "호주 기준금리 3회 연속 인상 - 호주 톱뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAta0diRWJSYjgtZGhvRlRNUl9OUFJXSjV0aUVXc0IwQWN6a0Y4bXVvX2RPZ1JGUE44YlpLcHQ0VENJX0tfWUhPT1RoT3REbHdKemlMNndxTkk2V2lZYkVNeS1MUllIMEc0bFVCNE90WXc?oc=5",
-          "published_at": "2026-05-05T05:15:00+00:00"
-        },
-        {
-          "title": "한은 부총재도 \"인상 고민\"…커지는 금리 인상론 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02dTJHN2p2NGFwYy00VnV1SlBGZHR3Z1FhdzNRZllmUUdMeTJqV3hSMnB5dTlJNTdURlhyNG9DNEU0UzZveDQ5c1dwdFlvdjVZTHJSTFVDRHpPbExKMVpvWdIBeEFVX3lxTE0xMTFyR1pob01jMnBacjI0OEhobjB0REZIa01uNnlFSnFVa1JEVENFV2lSZnFsRlRRR2laNXV0Q0ZOczhWcDZENk55QjNYQkszdm1VNDc2LXk4T1hzQzFxV1ppRGlvNEszdERBNlBjOVAteWRUd3I2Qw?oc=5",
-          "published_at": "2026-05-05T05:11:41+00:00"
-        },
-        {
-          "title": "RBA, 기준금리 0.25%p 인상…4.35%로 올해 '3연속' 상승 - SBS Australia",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEZrcVlzOE1iTWFZb0JrSTllWXpwQXlYRGJmd2dGbklKMGdDWTNHMVdtUG5UaWVLZHpONFctb2dmbTFBUGk1TjZDejh2M29WRmVIaWtIS0lmN0d6RUR2a0RsSDM1THJsLWQ0c0dibUM4YVRscTN0WDE0Uk1fbmpFZmd3MVhTVW5XTFBrWk1uMTRPVUcxTzB6cFpVcw?oc=5",
-          "published_at": "2026-05-05T05:11:21+00:00"
-        },
-        {
-          "title": "호주중앙은행, 3회 연속 금리 인상…팬데믹 이후 최고치 4.35% - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5Rld4V2NqM0xNdGpXYkpuT0xRbVcxMm9mQlFEUnV2bjI2a2F4Umd4RExKWWIycE9BTE5pNHpJVkk3NTNzeFQzR20yMXltM1BwdERvUVlqdVBoTkJHSlE?oc=5",
-          "published_at": "2026-05-05T05:03:26+00:00"
-        },
-        {
-          "title": "유가 폭등에도 트럼프는 \"금리 인하\"...전망은 암울 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiR0dhUVlFalpFeEM4bDFjZkYtMkFwcHFNV0lJQjVSemRvcVIxM0RBeW83RXFmUlB2dUxkVUt5RC05LXRCY1NVS3FIY2dWa00ydUNqcnpad2xQeUxsX0E?oc=5",
-          "published_at": "2026-05-05T05:02:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "daum",
-      "score": 94.22,
-      "articles": [
-        {
-          "title": "IMF, 이란전쟁 장기화에 \"세계 침체\" 경고...美 경제도 '빨간불' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mVkc3a19OeDlrTm5PelpKUWwwRTB2SW9FRHZtRjNUOExKaGh5MFlib25kdC1UNHFaVW1hYnVhZGFrblZZb1NvaHFoUUtqd1k?oc=5",
-          "published_at": "2026-05-05T05:23:48+00:00"
-        },
-        {
-          "title": "[POWER COMPANY] 보호무역·전쟁 겹친 수출 위기…무보 ‘SMILE’ 해법으로 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Vamg2cjFwaUpkWlhhTGJ0Q3JQZDhiNm1Ic0Z5WE5ZUnhzZjlxWkg2RWlHdm9aZjduQk5YTkdqVXBXdjhTZmpxZmRGQ2hhLVU?oc=5",
-          "published_at": "2026-05-05T05:11:33+00:00"
-        },
-        {
-          "title": "신제윤 삼성 이사회 의장 \"파업, 국가경제에 심각한 악영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iS3IzdXJpUFE2enRtb1hZQ0thekp0d0IxUHJ4WF90SFFBWHFHQmhXWU9PZFNmbFZBNUFsQUh4bUg3SDJ0bTJUeHVhanF0bUE?oc=5",
-          "published_at": "2026-05-05T04:31:47+00:00"
-        },
-        {
-          "title": "“가상자산 1천만원 이상 거래 무조건 보고” 법개정에…“그러다 진짜 범죄 놓치면 어쩌죠” 업계 ‘멘붕’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vcmxrSlBxSEwwWTR6RG9Bb0ZUTmFVcUQ0TzhMZnRHamdvY1dyTFBuQ2lybFdDUjJTbjVhVFBpdVR4X0lMS0tIWUZQdXpkTVU?oc=5",
-          "published_at": "2026-05-05T04:21:00+00:00"
-        },
-        {
-          "title": "플라스틱 감량·고품질 순환이용 사업 '순환경제 규제특례' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WWFg0amJUSzJLZVltVVFQblRwdU56Qmp0ZkZZWEtwY3RKX2NKTFRhUEozRlpVckJsR09GMjdoenptVThUa2Npd0dHSzVKRjA?oc=5",
-          "published_at": "2026-05-05T03:03:16+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "net",
-      "score": 94.22,
-      "articles": [
-        {
-          "title": "IMF, 이란전쟁 장기화에 \"세계 침체\" 경고...美 경제도 '빨간불' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mVkc3a19OeDlrTm5PelpKUWwwRTB2SW9FRHZtRjNUOExKaGh5MFlib25kdC1UNHFaVW1hYnVhZGFrblZZb1NvaHFoUUtqd1k?oc=5",
-          "published_at": "2026-05-05T05:23:48+00:00"
-        },
-        {
-          "title": "[POWER COMPANY] 보호무역·전쟁 겹친 수출 위기…무보 ‘SMILE’ 해법으로 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Vamg2cjFwaUpkWlhhTGJ0Q3JQZDhiNm1Ic0Z5WE5ZUnhzZjlxWkg2RWlHdm9aZjduQk5YTkdqVXBXdjhTZmpxZmRGQ2hhLVU?oc=5",
-          "published_at": "2026-05-05T05:11:33+00:00"
-        },
-        {
-          "title": "신제윤 삼성 이사회 의장 \"파업, 국가경제에 심각한 악영향\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iS3IzdXJpUFE2enRtb1hZQ0thekp0d0IxUHJ4WF90SFFBWHFHQmhXWU9PZFNmbFZBNUFsQUh4bUg3SDJ0bTJUeHVhanF0bUE?oc=5",
-          "published_at": "2026-05-05T04:31:47+00:00"
-        },
-        {
-          "title": "“가상자산 1천만원 이상 거래 무조건 보고” 법개정에…“그러다 진짜 범죄 놓치면 어쩌죠” 업계 ‘멘붕’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vcmxrSlBxSEwwWTR6RG9Bb0ZUTmFVcUQ0TzhMZnRHamdvY1dyTFBuQ2lybFdDUjJTbjVhVFBpdVR4X0lMS0tIWUZQdXpkTVU?oc=5",
-          "published_at": "2026-05-05T04:21:00+00:00"
-        },
-        {
-          "title": "플라스틱 감량·고품질 순환이용 사업 '순환경제 규제특례' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WWFg0amJUSzJLZVltVVFQblRwdU56Qmp0ZkZZWEtwY3RKX2NKTFRhUEozRlpVckJsR09GMjdoenptVThUa2Npd0dHSzVKRjA?oc=5",
-          "published_at": "2026-05-05T03:03:16+00:00"
+          "title": "고유가에 4월 물가 2.6% 상승…21개월만에 최고 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96QU9qY2Z6WlpadHN2RjNLNVR6eVpSRkpvVW9rT2lkNXQzTTJrblE5MWhvY29waWQtYzFTckN6bHNHVGQxLWxNMFlKamNzOU9BVHJDV1E3SmxZMjZ3Wm1BdWlJOE11b0l3cnVSRDZ1djU5d1FNalHSAWZBVV95cUxPSWpHMXpZZkZCZU1LaG5pWlU1MXJnRm5rNktscGlWZUxJdlFFRGtyRU9VLXBDbTl3RUZzbzl6RUxjc0wzemNHVm9WLThveTFrZnlkTS05ZHdGYUFKQ0pkb3AzQmlkaFE?oc=5",
+          "published_at": "2026-05-06T05:05:00+00:00"
         }
       ]
     },
     {
       "keyword": "수출",
-      "score": 88.72,
+      "score": 193.84,
       "articles": [
         {
-          "title": "`한전이 원전수출 총괄` 법으로 못박는다…산업부 제정 검토 - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUhLQVJxRTFTajFMMzVpQk1rbWJWZHh2bzh3aWltQVdZa0lSRnNjalpqQldNQmZZZVZmR1BEclpvUE1yNHlsME5kaVZDcmxaVG91OWFual9OLXhHbEpFYW1zczYxeDJUYUdRMEgxcUVCSU50azhJd3FPclo1Tk5ReFVTWXdPT0J3eHlTV0JZTkJVUlVERGlVWg?oc=5",
-          "published_at": "2026-05-05T05:35:00+00:00"
+          "title": "무보, K-콘텐츠 수출경쟁력 강화…'이차보전사업' 1호 지원 개시 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xUzBjRzFVMlVkV3BsTGZzVnZSZnJSeDhKcUZ2aW50T2stZXRBaVRtcVJZRzktbUtzZG5qem5YeXdRLUlnZ1J1R1NCV0pndw?oc=5",
+          "published_at": "2026-05-06T05:48:00+00:00"
         },
         {
-          "title": "식약처, 홍콩 수출 축산물 수출서류 '즉시 출력'...\"민원 시간·비용·편의성 개선\" - 이코노뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfaENDU0VmZWwteEc2ZTJHQV9hRUlNMWtoNEJDUkRrY2tyU3dLc3hCQTEtM2lVdTAtTUFNVG9aZzA2dGNJVWJzb01zV1hlSzZFZWdBOU9rdlB4WmVpYlhVY1VqeXJYRDFWWjU3TXJ3?oc=5",
-          "published_at": "2026-05-05T05:14:15+00:00"
+          "title": "“수출 중소기업 손실 4조원”…코엑스 일부 폐쇄 계획에 ‘패닉’ - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XZDdZUTNMbGtJMEFBRkpqSVdMM3FacGJrd3dWc1pIcHRaWFlfTHZvVlM5Y0lCbElSdFhpcUtkNTVwWG5qZTREXzEyOFVENlJ2enExQWN3?oc=5",
+          "published_at": "2026-05-06T05:34:52+00:00"
         },
         {
-          "title": "[POWER COMPANY] 보호무역·전쟁 겹친 수출 위기…무보 ‘SMILE’ 해법으로 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Vamg2cjFwaUpkWlhhTGJ0Q3JQZDhiNm1Ic0Z5WE5ZUnhzZjlxWkg2RWlHdm9aZjduQk5YTkdqVXBXdjhTZmpxZmRGQ2hhLVU?oc=5",
-          "published_at": "2026-05-05T05:11:33+00:00"
+          "title": "수출 지도 6년 만에 개편…주력 품목 15→20대 확대, 통계 세분화 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41WDh2LWdic29NWWtmMEtxQjFOalFIc1JIM2p2Q2RWWWI1ZUhSZEY4WDJRNjQwcWIzcU5wS1hPVUxLMjhqcVBIcDdlbWx3ZkhMV0RYWFFoRnk2clVvby0tMGZBUHJVS2lhcVRN0gFwQVVfeXFMT1V6SnpwRkxfNDdYYzctanVwdUZhSGRSRmZHVWNvN2xqWXRUX0ZyRUc3OXlGaVpTRllzSW03VkNuRTVWVGVpbWR4QkdBYnB5SWgzR1JjUV9icE11VUxoQ3F4MWNzdFMwRmlkSlcyUWxZcw?oc=5",
+          "published_at": "2026-05-06T05:33:13+00:00"
         },
         {
-          "title": "반도체 질주 수출 800억 달러 2연타… 한일 역전 눈앞 - jabon.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QMkVvMXduMHVmNFRoNjQ2T2FfamtYSjJJT05INXNOZjhnY3l4elBLb2xEaERteXZ2WlBqOVBqUndLdlRqWXplMHE4b3g5QmFEaDB4ZE1JM0J5SDJoeUpLdV8tX0h1Nkk?oc=5",
-          "published_at": "2026-05-05T05:00:00+00:00"
+          "title": "한국, 일본 제치고 1분기 세계 수출 5위…“주력품목 20대로 늘린다” - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ValJhTk41NlNUN054U0tiR2Y2c2RBbWczYjk2LXd5RGJwMlM1cVVGSG9MeVRhNDNpUWV5MFZBRHlzTU9HSUt3V1cySjQwd0o4eDY2NnlHQ2diejdIbXhyeWFGVm90MUV5MTFGWVZnWQ?oc=5",
+          "published_at": "2026-05-06T05:30:10+00:00"
         },
         {
-          "title": "다카이치 “수출 허용한 살상무기, 구매 국 방위력 높여 결국 일 안보에 도움” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVNVZkthaVVzNW50ZGx4eFNFcDZBaU5rUnM0Z0JrQm1IUVJDTmRybEY5eU1QRFNERUlpcWwtRDJyYWpHM2tuSm1KLTlKMEhRM05mdm13bDliLU12RXRsWXh1dGZmUkZreGplc0VwSUZkUk53LWMzazdrYU8zaDBVaF9R?oc=5",
-          "published_at": "2026-05-05T04:39:00+00:00"
+          "title": "\"최대 1000만원 지원\" 수출기업 물류비 지원 예산 2배 상향 - 제민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0dHltWEpGdk9XY3QxVGIzVmJEeF9hQkFkV09oVVBaLVlVaEgyUkFPNnV1MjJCM1hoNmZlY1RlLTZnRmZEUDFfLWpBR1Nua096YTc0NGl2TkVXbHItaExQdEpKak92UQ?oc=5",
+          "published_at": "2026-05-06T05:24:00+00:00"
         }
       ]
     },
     {
-      "keyword": "급등",
-      "score": 84.76,
+      "keyword": "물가",
+      "score": 184.31,
       "articles": [
         {
-          "title": "호르무즈 갇힌 선원 긴장 최고조…유가는 다시 급등 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NM0xPS211ZG1oWTcwYk9iZHJLUldSemwzOTJ0Ym5PZFNjd3ZNRnNDQ29tczBrdXFvMC1vWF9aZ1J4ZGw0aVUyaTUwWEo5NGw5NENlR2p2MDE1VWM?oc=5",
-          "published_at": "2026-05-05T05:01:00+00:00"
+          "title": "“물가 잡았다”는 정부… 그런데 기름값·항공료·외식비는 더 올랐다 - JIBS제주방송",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2kwUUZCZVp1Mzg5YWdxQW04aGpPU3JVY2h0QjJ0RnFYZ2FRUGZVeV9CNmRqeDZnU0x6VkJZWkEzMVY2T0JiR0FHLUV1VmVMRUlwV1lnUlJFMC1reWhKY3l1Tm9NT2c0T3Y5SjE4dGhFaHhpUlRMa2VqaWtzU011c25BdVpUTmNmX29QLU13?oc=5",
+          "published_at": "2026-05-06T05:40:11+00:00"
         },
         {
-          "title": "두달 넘어선 '이란 전쟁'…호르무즈 충돌에 국제유가 5% 급등 - 아시아타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SOFczUVpuZWZVbHhmTWlzaUgzeWs0cjFfZTlmckpjUnlselFMdUlOUmlDaDVqUzNaNkdYMUoyY0xNV01UcUJOMm5ydTJ1cFUtVi12dUVFQUZEX3hDN2c?oc=5",
-          "published_at": "2026-05-05T04:47:00+00:00"
+          "title": "충북 4월 물가 2.9% 올랐다… 기름값에 지갑 '철렁' - 뉴데일리 충청세종",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLcTNpVzBYRW8tRGg5MmNXQ2lhekZxUHBmQWZfRW5LRllXSEhlb3FhZzNEY3lxd0FsVThkSUhzUzcxanVJbk82Njh0WFJZeTQ3TTlxQ0JIU0ZTQXYwWFhERndRTWpvUm53WXdZNU5jQTgxcE0yZW5icmdR?oc=5",
+          "published_at": "2026-05-06T05:33:01+00:00"
         },
         {
-          "title": "중동 긴장 재점화에 국제 유가 급등··· 브렌트유 5.8%↑ - 대경일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aUGh3Qmp3UlVocTlaT1VwSTNvRWp0MFFNTFI5bnNTUFRYMzB2V2lPR1JZcmo5b0kxekhTM01Ra3E1SUpjVVZOUjJCeS1WU1FGR0M4VDRKRGh6Z09vLURTOGNxby01UVNh?oc=5",
-          "published_at": "2026-05-05T03:18:07+00:00"
+          "title": "전북 물가 다시 꿈틀... 4월 소비자물가 3.0% 상승 - 전북제일신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92V2dQM19XdkxZaHJyb29EMGVzNWNiNXI3elF5RVNyaFY4aEJlcEZObkRiT2lSSU5ESm1zNDFhcUxxcWh0LXdEYUFDY0N4d2hudEtkQkFmY2EzZjVzWF81TDU5Q2xjcjBPY3c?oc=5",
+          "published_at": "2026-05-06T05:32:19+00:00"
         },
         {
-          "title": "[이슈] 호르무즈 긴장 격화에 유가 재급등…공급망 불안감 고조 - 오늘경제",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IUEpUX2VpaUp6QmtkT3I3Njk3N2hIUTc2NlFYb2xLYXAwckFuNGRrU3N4bjgydnBDVkNTOTlhelByeVd0MkxLa1FZRm5wTnF5ckFmQWQtdTl2dm1aUmhzMExnNjNYQmVQb21vZ3c2R2xtZjA?oc=5",
-          "published_at": "2026-05-05T02:02:04+00:00"
+          "title": "중동전쟁에 석유류 22% 뛰자 4월 소비자물가 2.6%↑...21개월 만에 최고 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92QTJIYlpXVmQzMWVlYjV0Y0lzMnV4c3BlYjhLUGVwdW1qaU50ZkhMOFp5cmhsVXNHTnQ5SDBOMUxzeGpYREVtZE9FRlVVdXJaZTV4eU13?oc=5",
+          "published_at": "2026-05-06T05:07:38+00:00"
         },
         {
-          "title": "이란戰 재고조에 금융시장 다시 요동 … 국제유가·美 국채금리 일제 급등, 韓 환율도 다시 1470원대 중반으로 - 뉴데일리 경제",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlZDk3OFhrbDRjU2pObGIzaGxNbWc0MjltQVc1S2F1QkdYOGUxZ3g5bmhfdXBja24xYzlJVmdDazVNWHZpRzh2VmhSbUdWbmNlMUFUU2ppeWExY1JBZ0dOMkxiaUVORUF6ZlZ3Mmx5NEdkWDIxeG1qMU5uMA?oc=5",
-          "published_at": "2026-05-05T01:11:45+00:00"
+          "title": "부산 4월 석유류 물가 23% 폭등…3년 9개월만 최고 상승률 - 국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXZRM0F3SEpYN3NuRDJ2eGszNWVTNHA1SlJkclhvek5Bdm1VUWsyZFh4cnBvcDRBSGlxZjRpQjRZYm1zT2dra3VMR0tEN0tncUU1OWpWYTlWWXJLclhQS3htT2Zndk90VVJfc3l5YVUtUV9lMDYxMkN6cVR1QkRGYmNjQjJjblQzZjRXalVB?oc=5",
+          "published_at": "2026-05-06T05:06:00+00:00"
         }
       ]
     },
     {
-      "keyword": "인상",
-      "score": 76.83,
+      "keyword": "소비자물가",
+      "score": 155.62,
       "articles": [
         {
-          "title": "호주 기준금리 3회 연속 인상 - 호주 톱뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAta0diRWJSYjgtZGhvRlRNUl9OUFJXSjV0aUVXc0IwQWN6a0Y4bXVvX2RPZ1JGUE44YlpLcHQ0VENJX0tfWUhPT1RoT3REbHdKemlMNndxTkk2V2lZYkVNeS1MUllIMEc0bFVCNE90WXc?oc=5",
-          "published_at": "2026-05-05T05:15:00+00:00"
+          "title": "전북 물가 다시 꿈틀... 4월 소비자물가 3.0% 상승 - 전북제일신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92V2dQM19XdkxZaHJyb29EMGVzNWNiNXI3elF5RVNyaFY4aEJlcEZObkRiT2lSSU5ESm1zNDFhcUxxcWh0LXdEYUFDY0N4d2hudEtkQkFmY2EzZjVzWF81TDU5Q2xjcjBPY3c?oc=5",
+          "published_at": "2026-05-06T05:32:19+00:00"
         },
         {
-          "title": "한은 부총재도 \"인상 고민\"…커지는 금리 인상론 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02dTJHN2p2NGFwYy00VnV1SlBGZHR3Z1FhdzNRZllmUUdMeTJqV3hSMnB5dTlJNTdURlhyNG9DNEU0UzZveDQ5c1dwdFlvdjVZTHJSTFVDRHpPbExKMVpvWdIBeEFVX3lxTE0xMTFyR1pob01jMnBacjI0OEhobjB0REZIa01uNnlFSnFVa1JEVENFV2lSZnFsRlRRR2laNXV0Q0ZOczhWcDZENk55QjNYQkszdm1VNDc2LXk4T1hzQzFxV1ppRGlvNEszdERBNlBjOVAteWRUd3I2Qw?oc=5",
-          "published_at": "2026-05-05T05:11:41+00:00"
+          "title": "중동전쟁에 석유류 22% 뛰자 4월 소비자물가 2.6%↑...21개월 만에 최고 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92QTJIYlpXVmQzMWVlYjV0Y0lzMnV4c3BlYjhLUGVwdW1qaU50ZkhMOFp5cmhsVXNHTnQ5SDBOMUxzeGpYREVtZE9FRlVVdXJaZTV4eU13?oc=5",
+          "published_at": "2026-05-06T05:07:38+00:00"
         },
         {
-          "title": "RBA, 기준금리 0.25%p 인상…4.35%로 올해 '3연속' 상승 - SBS Australia",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEZrcVlzOE1iTWFZb0JrSTllWXpwQXlYRGJmd2dGbklKMGdDWTNHMVdtUG5UaWVLZHpONFctb2dmbTFBUGk1TjZDejh2M29WRmVIaWtIS0lmN0d6RUR2a0RsSDM1THJsLWQ0c0dibUM4YVRscTN0WDE0Uk1fbmpFZmd3MVhTVW5XTFBrWk1uMTRPVUcxTzB6cFpVcw?oc=5",
-          "published_at": "2026-05-05T05:11:21+00:00"
+          "title": "4월 소비자물가 상승률 2.6%…한은 \"5월 물가 오름폭 더 확대\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10V0NYenp5SUgtUm5SZTZBQUpTMWtEYnVHSUVzdkVUNkFmZWVnUzFUbUowam1CY0F3eFVSc2xlX3ZQUWJLNHAxZzA3SGFsYmM?oc=5",
+          "published_at": "2026-05-06T04:51:03+00:00"
         },
         {
-          "title": "호주중앙은행, 3회 연속 금리 인상…팬데믹 이후 최고치 4.35% - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5Rld4V2NqM0xNdGpXYkpuT0xRbVcxMm9mQlFEUnV2bjI2a2F4Umd4RExKWWIycE9BTE5pNHpJVkk3NTNzeFQzR20yMXltM1BwdERvUVlqdVBoTkJHSlE?oc=5",
-          "published_at": "2026-05-05T05:03:26+00:00"
+          "title": "4월 소비자물가 2.6%↑…유가 상승 반영 본격화 - 데이터뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRlZ1QVpNM2VlbEpTdGtlYVVtSDBUM0xDR0NBMjQtZXM3Sno2Q0hKMlpCM2kwTVFqRnA1MVQ2M0xRdktScDdmRm1ENHlSNzItN2ViWmc3bHlsZDJvZDFJ?oc=5",
+          "published_at": "2026-05-06T04:23:57+00:00"
         },
         {
-          "title": "중동 긴장 고조로 아시아 통화 약세, RBA 예상대로 금리 인상 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mak0zU1JhcUdEcFplcWVMQWxWNDVORTdHN3ZHUXJtRlNrVENQRmk3Y1luLXJ5Q0xRODkyWVoxcmlCRXNQV1NZT29SMk94cUg3NjVDUE9IZGhHZ3VMbzAwZmN1WGhzX2c?oc=5",
-          "published_at": "2026-05-05T04:57:00+00:00"
+          "title": "중동 전쟁 여파 기름값 폭등···대구·경북 소비자물가 동반 상승 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CT0c0OFBKSjdVeU9GeGRjYlFOLTBjSjhXRnBiaDFVVVhIY25neDRCUHJjNjlZaGllS2JqZnRKYnZvRkF4dGY5STl4dm9mRnhZNnQ5eEw1QzJhSjRVVGV0ZlZRdlV5TktrWHc?oc=5",
+          "published_at": "2026-05-06T03:51:25+00:00"
         }
       ]
     },
     {
-      "keyword": "긴장",
-      "score": 72.53,
+      "keyword": "상승",
+      "score": 134.19,
       "articles": [
         {
-          "title": "호르무즈 갇힌 선원 긴장 최고조…유가는 다시 급등 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NM0xPS211ZG1oWTcwYk9iZHJLUldSemwzOTJ0Ym5PZFNjd3ZNRnNDQ29tczBrdXFvMC1vWF9aZ1J4ZGw0aVUyaTUwWEo5NGw5NENlR2p2MDE1VWM?oc=5",
-          "published_at": "2026-05-05T05:01:00+00:00"
+          "title": "전북 물가 다시 꿈틀... 4월 소비자물가 3.0% 상승 - 전북제일신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92V2dQM19XdkxZaHJyb29EMGVzNWNiNXI3elF5RVNyaFY4aEJlcEZObkRiT2lSSU5ESm1zNDFhcUxxcWh0LXdEYUFDY0N4d2hudEtkQkFmY2EzZjVzWF81TDU5Q2xjcjBPY3c?oc=5",
+          "published_at": "2026-05-06T05:32:19+00:00"
         },
         {
-          "title": "중동 긴장 고조로 아시아 통화 약세, RBA 예상대로 금리 인상 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mak0zU1JhcUdEcFplcWVMQWxWNDVORTdHN3ZHUXJtRlNrVENQRmk3Y1luLXJ5Q0xRODkyWVoxcmlCRXNQV1NZT29SMk94cUg3NjVDUE9IZGhHZ3VMbzAwZmN1WGhzX2c?oc=5",
-          "published_at": "2026-05-05T04:57:00+00:00"
+          "title": "부산 4월 석유류 물가 23% 폭등…3년 9개월만 최고 상승률 - 국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXZRM0F3SEpYN3NuRDJ2eGszNWVTNHA1SlJkclhvek5Bdm1VUWsyZFh4cnBvcDRBSGlxZjRpQjRZYm1zT2dra3VMR0tEN0tncUU1OWpWYTlWWXJLclhQS3htT2Zndk90VVJfc3l5YVUtUV9lMDYxMkN6cVR1QkRGYmNjQjJjblQzZjRXalVB?oc=5",
+          "published_at": "2026-05-06T05:06:00+00:00"
         },
         {
-          "title": "호르무즈 해협 군사 긴장감 증폭에 국제 유가 상승 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EblNMWEREcjQ3amFMenhib2h5a2VmYTh3RnVwX3hZYk1WaFJQdVhZcXNLb0dUUm1aUVdtN2NwNG1yWElPekhkMl9YTQ?oc=5",
-          "published_at": "2026-05-05T04:45:52+00:00"
+          "title": "고유가에 4월 물가 2.6% 상승…21개월만에 최고 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96QU9qY2Z6WlpadHN2RjNLNVR6eVpSRkpvVW9rT2lkNXQzTTJrblE5MWhvY29waWQtYzFTckN6bHNHVGQxLWxNMFlKamNzOU9BVHJDV1E3SmxZMjZ3Wm1BdWlJOE11b0l3cnVSRDZ1djU5d1FNalHSAWZBVV95cUxPSWpHMXpZZkZCZU1LaG5pWlU1MXJnRm5rNktscGlWZUxJdlFFRGtyRU9VLXBDbTl3RUZzbzl6RUxjc0wzemNHVm9WLThveTFrZnlkTS05ZHdGYUFKQ0pkb3AzQmlkaFE?oc=5",
+          "published_at": "2026-05-06T05:05:00+00:00"
         },
         {
-          "title": "중동 긴장 재점화에 국제 유가 급등··· 브렌트유 5.8%↑ - 대경일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aUGh3Qmp3UlVocTlaT1VwSTNvRWp0MFFNTFI5bnNTUFRYMzB2V2lPR1JZcmo5b0kxekhTM01Ra3E1SUpjVVZOUjJCeS1WU1FGR0M4VDRKRGh6Z09vLURTOGNxby01UVNh?oc=5",
-          "published_at": "2026-05-05T03:18:07+00:00"
+          "title": "'고삐' 풀린 美 물가...기름값 상승까지 저소득층은 '이중고' - 뉴스;트리",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYbklpbGZObU1WLUhKTjBlWGE5LTZWVl9OZWRBc0lPS3V0MHlwa1V5NzR5ZXpYaHZ6aHo5SGpQaktNMDhOWlp5N3ZBVjZyZHlHVS1uNnp4R081ZVNi?oc=5",
+          "published_at": "2026-05-06T04:55:21+00:00"
         },
         {
-          "title": "호르무즈 긴장 고조에 금융시장 '흔들'…증시↓·유가↑ - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOMVJUZDNETmZjYWdrVDctb0RReTk1RnhWdE52ai1uZW16azBDUWhtVndmbXpZR0xIbUkwalptUUlzd2RkREItNXd0UTFtM0FkZUhMSFpyOFRobmxiaDM5WdIBeEFVX3lxTE1mLWR0TVJTY0sxazM4MEh2N1NTbkFEaThvUF92ZHdsUGlmT2dqaWQ4RS04VHVKTzljcFJlbkl4bDhVM1RpbFZuUkNudWZHejZrazVYU3Ewa1VZSHZKbVJtYkcwQ1NwS0tadC1uVHdvMmRXb3RRN24xaw?oc=5",
-          "published_at": "2026-05-05T03:06:30+00:00"
+          "title": "4월 소비자물가 상승률 2.6%…한은 \"5월 물가 오름폭 더 확대\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10V0NYenp5SUgtUm5SZTZBQUpTMWtEYnVHSUVzdkVUNkFmZWVnUzFUbUowam1CY0F3eFVSc2xlX3ZQUWJLNHAxZzA3SGFsYmM?oc=5",
+          "published_at": "2026-05-06T04:51:03+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "daum",
+      "score": 106.06,
+      "articles": [
+        {
+          "title": "1분기 韓 수출 日 제쳤다…세계 5위 수출 강국 '성큼' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBodkE0cnNDajI0QkhfSjIxMXVMLXZyekZrU1FYRGpfYzZlLUpUSnpVSldGQW5zUmVTc1h3SEV3akk1V3BCcEdVR3RrOElCcVU?oc=5",
+          "published_at": "2026-05-06T05:00:05+00:00"
+        },
+        {
+          "title": "산청군, '농어촌 기본소득 시범사업' 신청…\"경제 회복 절실\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uaVMyUDFBYmh6OXc1WkIxTkxrQU44QWpYNWRDTGlxTmh6NU9JWUhTQXNmR203UFE5ZU9ZaGNMVWpZU1VOd0RIVVZndEVaSGc?oc=5",
+          "published_at": "2026-05-06T04:52:18+00:00"
+        },
+        {
+          "title": "4월 소비자물가 상승률 2.6%…한은 \"5월 물가 오름폭 더 확대\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10V0NYenp5SUgtUm5SZTZBQUpTMWtEYnVHSUVzdkVUNkFmZWVnUzFUbUowam1CY0F3eFVSc2xlX3ZQUWJLNHAxZzA3SGFsYmM?oc=5",
+          "published_at": "2026-05-06T04:51:03+00:00"
+        },
+        {
+          "title": "김부겸 vs 추경호…경제 공약 놓고 SNS서 날선 공방 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yMThjaDIyLWhoM0d1c2FIY2RjS3BpSmlwMnYzaTlDMFZGSTBKQ0ZlUkdmVXEtR0NuZ1U3WUUtU1FXMl9IVjRuZ0EtSTZEdjQ?oc=5",
+          "published_at": "2026-05-06T04:48:08+00:00"
+        },
+        {
+          "title": "이란 전쟁에 흔들린 물가…석유 최고가격제로 급한 불 껐다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSExVdmZCeHBnLXFWVlhXTXYwdmNXMEl4amNMVkVxaHZaSDVQdVhzSUMwcVVlSHR6VkdaSjU4QURxWG9OMnlUdDZDaTlLbWc?oc=5",
+          "published_at": "2026-05-06T04:34:34+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 106.06,
+      "articles": [
+        {
+          "title": "1분기 韓 수출 日 제쳤다…세계 5위 수출 강국 '성큼' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBodkE0cnNDajI0QkhfSjIxMXVMLXZyekZrU1FYRGpfYzZlLUpUSnpVSldGQW5zUmVTc1h3SEV3akk1V3BCcEdVR3RrOElCcVU?oc=5",
+          "published_at": "2026-05-06T05:00:05+00:00"
+        },
+        {
+          "title": "산청군, '농어촌 기본소득 시범사업' 신청…\"경제 회복 절실\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uaVMyUDFBYmh6OXc1WkIxTkxrQU44QWpYNWRDTGlxTmh6NU9JWUhTQXNmR203UFE5ZU9ZaGNMVWpZU1VOd0RIVVZndEVaSGc?oc=5",
+          "published_at": "2026-05-06T04:52:18+00:00"
+        },
+        {
+          "title": "4월 소비자물가 상승률 2.6%…한은 \"5월 물가 오름폭 더 확대\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10V0NYenp5SUgtUm5SZTZBQUpTMWtEYnVHSUVzdkVUNkFmZWVnUzFUbUowam1CY0F3eFVSc2xlX3ZQUWJLNHAxZzA3SGFsYmM?oc=5",
+          "published_at": "2026-05-06T04:51:03+00:00"
+        },
+        {
+          "title": "김부겸 vs 추경호…경제 공약 놓고 SNS서 날선 공방 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yMThjaDIyLWhoM0d1c2FIY2RjS3BpSmlwMnYzaTlDMFZGSTBKQ0ZlUkdmVXEtR0NuZ1U3WUUtU1FXMl9IVjRuZ0EtSTZEdjQ?oc=5",
+          "published_at": "2026-05-06T04:48:08+00:00"
+        },
+        {
+          "title": "이란 전쟁에 흔들린 물가…석유 최고가격제로 급한 불 껐다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSExVdmZCeHBnLXFWVlhXTXYwdmNXMEl4amNMVkVxaHZaSDVQdVhzSUMwcVVlSHR6VkdaSjU4QURxWG9OMnlUdDZDaTlLbWc?oc=5",
+          "published_at": "2026-05-06T04:34:34+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "만에",
+      "score": 103.71,
+      "articles": [
+        {
+          "title": "코스피 급등...'매수 사이드카' 한달 만에 발동 - BBS불교방송",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52QzVaVkFZcUdUNXg3U0gyZ0VDWEFaLVUyWm4zbWhpbG5CNE40UWtLb3BDcmxwM3h2Tm5YYkZ5VHdzUDZSZlZjMFY0bi1EV2k1dFR6cUlwY1U4d0p3YWl6TUpHVUVDZTd5dUZr?oc=5",
+          "published_at": "2026-05-06T05:41:55+00:00"
+        },
+        {
+          "title": "수출 지도 6년 만에 개편…주력 품목 15→20대 확대, 통계 세분화 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41WDh2LWdic29NWWtmMEtxQjFOalFIc1JIM2p2Q2RWWWI1ZUhSZEY4WDJRNjQwcWIzcU5wS1hPVUxLMjhqcVBIcDdlbWx3ZkhMV0RYWFFoRnk2clVvby0tMGZBUHJVS2lhcVRN0gFwQVVfeXFMT1V6SnpwRkxfNDdYYzctanVwdUZhSGRSRmZHVWNvN2xqWXRUX0ZyRUc3OXlGaVpTRllzSW03VkNuRTVWVGVpbWR4QkdBYnB5SWgzR1JjUV9icE11VUxoQ3F4MWNzdFMwRmlkSlcyUWxZcw?oc=5",
+          "published_at": "2026-05-06T05:33:13+00:00"
+        },
+        {
+          "title": "1분기 韓 수출 日 앞질러…6년만에 무역품목 체계도 개편 - 더팩트",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94TjN3Y29scU5LYXRQWkNSLWwyR0xPbzlYd0MyV3FnUmc0bDdqY29rVUE5SWNzYm9xdnN4TF9IZkk1NWdlVEpNaXh5NVVLemU3ZHF3Y0hEWGZoZ9IBVEFVX3lxTFByb1k1LVJsRXpnMl9xNUFxSjcyRmVKMHRqZExQc0kwUUo3ZGZZX2RlcnN1NzhZUFZScjUzSmRyb0tWa3U3dEtodVM1WTI2WWk0RWg2eQ?oc=5",
+          "published_at": "2026-05-06T05:18:44+00:00"
+        },
+        {
+          "title": "정부, 주력 수출 품목 15개→20개로 확대…수출입 통계 6년 만에 개편 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmJUakFzSm0wX0JoSWg3dWdiMmtqdjN5LVR0bDdxTEpiZXVXeENvQ2JudnRfUXU3UHJ3eF9oMERPT25nMWFSUzQyRWxWVHVGUFZHOXBFNG1iWjhQSzJNNDVYazlMeThIMjNPM0dmSHA3RndjRWs1d01PNmY3U25nWXJVSlUzQdIBmgFBVV95cUxOV2VSTy1HODNUV1pVNGFndThoTVJTXy01eWxTdERNTk9jbFZwS1dpeWthdWEwWlREcDlWRk1TSzZwRjc4U2tLSHpINzRoVW1GNU1QQjdzSG5Ha0pLMm5jREV4RUQ2LUVVUFU2V01ickw5NmxOVS04STllMk9yZDFtNFVzMVFDM3FFcUNSd1kzWF96Y2Q4SzB2OWJn?oc=5",
+          "published_at": "2026-05-06T05:09:00+00:00"
+        },
+        {
+          "title": "중동전쟁에 석유류 22% 뛰자 4월 소비자물가 2.6%↑...21개월 만에 최고 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92QTJIYlpXVmQzMWVlYjV0Y0lzMnV4c3BlYjhLUGVwdW1qaU50ZkhMOFp5cmhsVXNHTnQ5SDBOMUxzeGpYREVtZE9FRlVVdXJaZTV4eU13?oc=5",
+          "published_at": "2026-05-06T05:07:38+00:00"
         }
       ]
     }
