@@ -5,12 +5,16 @@ permalink: /sitemap.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% assign pages = site.pages | concat: site.posts %}
+  {% assign seen_urls = "|" %}
   {% for p in pages %}
-    {% unless p.sitemap == false or p.url contains '/assets/' %}
+    {% assign clean_url = p.url | replace:'index.html','' %}
+    {% assign url_key = clean_url | prepend:'|' | append:'|' %}
+    {% unless p.sitemap == false or p.url contains '/assets/' or seen_urls contains url_key %}
   <url>
-    <loc>{{ p.url | replace:'index.html','' | absolute_url }}</loc>
+    <loc>{{ clean_url | absolute_url }}</loc>
     <lastmod>{% if p.date %}{{ p.date | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
   </url>
+      {% assign seen_urls = seen_urls | append: clean_url | append:'|' %}
     {% endunless %}
   {% endfor %}
 </urlset>

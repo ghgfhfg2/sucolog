@@ -17,6 +17,18 @@ layout: default
     {{ content }}
   </div>
 
+  {% assign related_posts = site.related_posts | where_exp: "post", "post.url != page.url" %}
+  {% if related_posts.size > 0 %}
+  <section class="related-posts" aria-label="관련 글">
+    <h2>같이 보면 좋은 경제 글</h2>
+    <ul>
+      {% for post in related_posts limit: 5 %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
   <div class="disclaimer-box">
     <strong>면책</strong><br>
     본 글은 정보 제공 목적이며 투자 권유가 아닙니다. 최종 투자 판단은 본인 책임입니다.
