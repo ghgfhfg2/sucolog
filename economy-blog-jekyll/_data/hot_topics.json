@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-05-15T06:31:25.074866+00:00",
+  "generated_at": "2026-05-16T05:51:01.464007+00:00",
   "source_count": 4,
-  "article_count": 362,
+  "article_count": 383,
   "top_keywords": [
     {
-      "keyword": "환율",
-      "score": 201.06
-    },
-    {
-      "keyword": "수출",
-      "score": 142.51
-    },
-    {
-      "keyword": "달러",
-      "score": 141.82
-    },
-    {
-      "keyword": "4월",
-      "score": 132.86
-    },
-    {
-      "keyword": "1500원",
-      "score": 92.35
+      "keyword": "금리",
+      "score": 131.65
     },
     {
       "keyword": "daum",
-      "score": 91.38
+      "score": 105.97
     },
     {
       "keyword": "net",
-      "score": 91.38
+      "score": 105.97
     },
     {
-      "keyword": "상승",
-      "score": 81.14
+      "keyword": "급등",
+      "score": 75.13
+    },
+    {
+      "keyword": "뉴욕증시",
+      "score": 70.7
+    },
+    {
+      "keyword": "수출",
+      "score": 59.79
+    },
+    {
+      "keyword": "하락",
+      "score": 57.65
+    },
+    {
+      "keyword": "국제유가",
+      "score": 56.64
+    },
+    {
+      "keyword": "급등에",
+      "score": 54.95
+    },
+    {
+      "keyword": "나스닥",
+      "score": 54.89
+    },
+    {
+      "keyword": "환율",
+      "score": 54.75
     },
     {
       "keyword": "연합인포맥스",
-      "score": 76.76
-    },
-    {
-      "keyword": "금리",
-      "score": 75.81
-    },
-    {
-      "keyword": "만에",
-      "score": 72.43
-    },
-    {
-      "keyword": "코스피",
-      "score": 71.6
+      "score": 51.88
     }
   ],
   "hot_topics": [
     {
-      "keyword": "환율",
-      "score": 201.06,
+      "keyword": "금리",
+      "score": 131.65,
       "articles": [
         {
-          "title": "'팔천피' 찍고 7300선 곤두박질…외인 순매도에 환율 1500원 돌파(종합) - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fbjlwbl9lbVNXZDYwamhwdFIwQWhPNV91Y0ZnU25hVnUtNFI4a1M0UjV1V0ZyYm9HX0ZCTlFwenJLMW4zSENOMlBOZEJHWFk0c2RZXzBjeFZIQzQ?oc=5",
-          "published_at": "2026-05-15T06:15:10+00:00"
+          "title": "'5% 금리의 역습'...G7이 긴급 현안으로 국채 붕괴를 꺼내든 이유 - 네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1ZyeDEwVFdDX3F6WlY4S0hqUlo4WUpJbDg0T3JHczV1LVJvTXRqbDdIdDFVa3U5X0VFZ1FpTU1oQjE1bWQ1dHV4V3ptYWtHTEo1ai1lUFU1bmd5NGZsVVBsODZZR2YyMHpxSDI2Nk4zeVNFZ0ZHaDhBNWc3dmRMQkpqMFBYQQ?oc=5",
+          "published_at": "2026-05-16T05:00:00+00:00"
         },
         {
-          "title": "환율, 한 달만에 1500원 돌파...강달러에 외인 증시 매도 겹쳐 - 오피니언뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ1hDTFZuX3RMTERfUF91aC11Q2dTbGJIa2UtNXk5eHlpOW5BeU15ZVpfOEozMC1VeHdkNEtPTV93UFV4Z280MGtjcTFHaVRtRDF5bHduNzlmc0c2ZnJHcGxheTJ2YWZTWW85dDNRUUM?oc=5",
-          "published_at": "2026-05-15T06:08:55+00:00"
+          "title": "반도체·AI 호황에 흔들리는 채권시장…국채 금리 상승 압력 확대 - ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13WXI5Y2JQUGN0cmVxOGcxZGZzOS0tMWMtVVR2c2c1R21BeUFmOWI0RUQ4VWY5eU9CclVjdGZScVBjOVo1Znh6d3Rub1liazVrUDM2RzZWYU5KMWxnWWJOZmh2ZmRqcXZX?oc=5",
+          "published_at": "2026-05-16T04:07:17+00:00"
         },
         {
-          "title": "환율, 美 인플레 우려에 한 달 만에 장중 1500원 넘어 - 아주경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXSjliS1NHUF83QWJPeWl1LUlSLVdDb1hIaElUaWJGaUp2dmRobzBkUFB0YkFGOE5HQTRUeGd3bjI5R3hqS0dkb2ExWHVQNjhnT1JLN1JLSXhrZ9IBWEFVX3lxTFB6X1RRWXdPM1VfSU9uQUlIcGRCV3BZVmhHNy04OVVTaUtKU0Znd0R4a2FDcVBlYUJhUU9FSXVqX1FXN2ZnTTQ5aUFGNXgzLWtwUVQ4NGFPMW8?oc=5",
-          "published_at": "2026-05-15T06:08:28+00:00"
+          "title": "[5월 둘째 주 세계경제동향 브리핑] 코스피 강보합 속 코스닥 급락…환율·금리 동반 상승 - 기호일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zLUNBVDV2UnVUYVJWdnFRMldGdFh6c3dEam9iV2NIRE9WOEV2LTJITEpvclJWYUh3TkViemlGUUprTkQzRHZwNFpRX2tUdXRWc1ZiMld2R1dnbzI3VEc0S2NqcEZLMVBfTEZDemF3OA?oc=5",
+          "published_at": "2026-05-16T03:37:38+00:00"
         },
         {
-          "title": "[속보]코스피, 7500선도 붕괴…원달러 환율 1500원 재돌파 - 채널A",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHNUk0akZ6eXk3ZWl4ME1vZ2U5NmVMOU0xcXBHR01uT0xCZE4yTVZ2REs5ZlJtMW9LWmw2MHJXZ2VVbDZWWldxNmVQUWFZUjJ0VzFkRHJqTmpxR0xRR0HSAWNBVV95cUxQWXJVbXU3R1hWM2QtQ0lySlB3aWdVa2hfaFU2Xy11Yi1TbkR2OGI3OU91THdfNHI2RGxsYTYxTkZtNVBURU9XUFp5Zy1UeXQyaVh4MjIyazBIU0lra0VEOE1fR3c?oc=5",
-          "published_at": "2026-05-15T06:06:00+00:00"
+          "title": "[5월 둘째 주 세계경제동향 브리핑] 코스피 강보합 속 코스닥 급락…환율·금리 동반 상승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95T3cxd0lqTDJRbHRHTEl3ZEJudFJqN1hFQU9pWThFSWtqc0pkLWpseEZPS1cxYWNpaW82M2k3eXFUNlVuQS1BajNERGp4T3c?oc=5",
+          "published_at": "2026-05-16T03:37:38+00:00"
         },
         {
-          "title": "환율, 한 달 만에 1500원 돌파 - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMWJCcnNxaWRLdnFhUzY1OFFWZmhPSkVBUzBQTXpQZkZMc0wzTGZ4b0ZsVGNLaWxiVHRzbWF6eVBHaGxGQnFtMDRTc2VUQzJrMlNtb2Npa1hsRWVhZG13MzVMcGd2SWRKd1E?oc=5",
-          "published_at": "2026-05-15T06:04:23+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "수출",
-      "score": 142.51,
-      "articles": [
-        {
-          "title": "(사)중고차수출산업협회 출범 \"인천이 K-중고차 표준 만든다\" - 인천투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wZWtjSmtSMDR3WDREUmgxTUE5OU42SVZYb2FiWk9wX0xLM1RLbDZaV2NfUXRScEF1b2k2RnRyd2lvUXE0TEJpcGQwNTNXTl93aXdLUDdMWWo2LWdmRy1VYXhoZmJQWF9ZaFBmZmhmWGg?oc=5",
-          "published_at": "2026-05-15T06:26:42+00:00"
-        },
-        {
-          "title": "경북도, 중소기업 8개사 글로벌 수출기업으로 육성 - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oLURCSl9yTG1FMS1GdjdNeW5BQkF5M0Q1X2IxTnI4OXk2S2JoY29NT3hILW9QWGM0NDhsUlFWeDBJMnFnaGJ3QlU2Tk12b0R1cDk3ZXdOdFhabVkzeEIta3FuYXRveGJ1dmlRTS1R?oc=5",
-          "published_at": "2026-05-15T06:01:18+00:00"
-        },
-        {
-          "title": "미 무역대표부 대표 “미중 정상회담 의제서 반도체 수출통제 빠져” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rd3dWWkI0UV9TWEJleGxfVk1HNklOMnlEZzhfLTR4WGxLRzFHYzBsYm5MSm5zLWtCdEpMQmp6amFqazBWUE92N3VESTdfcjhJZnpzSkhMLUp0bFVCQkpaWkw5aEdkeDBEcmt1WHc4VQ?oc=5",
-          "published_at": "2026-05-15T05:58:00+00:00"
-        },
-        {
-          "title": "반도체값 폭등에 수출물가 28년만 최고…수입물가는 하락전환 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHRTk2bDJEN2tzTHFPaXhhN2dCTjRWaUYzUXNWNUEwdUJBUDlmaFRianAtblZ0NVVZR0N4MmtjTWFraF9JMXJLZzl1dWMxSE50by1JdW9R?oc=5",
-          "published_at": "2026-05-15T05:56:57+00:00"
-        },
-        {
-          "title": "IPA, 중고자동차 수출상담회 공동개최 - 해양한국",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wNTAtRTg2Z3RQU3V3Z3lRM1llZlAwYmZMXzF6QjBBNm45X0daT05RdVh0LVQ0bG11SzlvZW9EY0puRXJuQXFtV3NiaklQc0FoRl90QTVOXzZ3VDlkbUlQbE8wNEdPeloza3RfSEhibFkxaUY5Y2NGeWhB?oc=5",
-          "published_at": "2026-05-15T05:54:18+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "달러",
-      "score": 141.82,
-      "articles": [
-        {
-          "title": "환율, 한 달만에 1500원 돌파...강달러에 외인 증시 매도 겹쳐 - 오피니언뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ1hDTFZuX3RMTERfUF91aC11Q2dTbGJIa2UtNXk5eHlpOW5BeU15ZVpfOEozMC1VeHdkNEtPTV93UFV4Z280MGtjcTFHaVRtRDF5bHduNzlmc0c2ZnJHcGxheTJ2YWZTWW85dDNRUUM?oc=5",
-          "published_at": "2026-05-15T06:08:55+00:00"
-        },
-        {
-          "title": "[속보]코스피, 7500선도 붕괴…원달러 환율 1500원 재돌파 - 채널A",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHNUk0akZ6eXk3ZWl4ME1vZ2U5NmVMOU0xcXBHR01uT0xCZE4yTVZ2REs5ZlJtMW9LWmw2MHJXZ2VVbDZWWldxNmVQUWFZUjJ0VzFkRHJqTmpxR0xRR0HSAWNBVV95cUxQWXJVbXU3R1hWM2QtQ0lySlB3aWdVa2hfaFU2Xy11Yi1TbkR2OGI3OU91THdfNHI2RGxsYTYxTkZtNVBURU9XUFp5Zy1UeXQyaVh4MjIyazBIU0lra0VEOE1fR3c?oc=5",
-          "published_at": "2026-05-15T06:06:00+00:00"
-        },
-        {
-          "title": "원/달러 환율 장중 1500원 넘어… 한 달여 만에 ‘심리적 마지노선’ 무너져 - 강원도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zWEdMZ3VHOVZQX0NTaUZESXVUY0JSZHR5YW00RVlDSllTSXNGQ0RyNzZQOHl6ZGctTDVfR01zcXE0S0pxU19rTlZtZklidkRiME52aVRqMWN4dFlvMjY5N2s4NXVVanM?oc=5",
-          "published_at": "2026-05-15T06:00:09+00:00"
-        },
-        {
-          "title": "원·달러 환율, 한 달여 만에 장중 1500원 재돌파 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHbGNtdEhlRXlqZ0stSnBibzJHX2h3Ti1vTlpoV1h6ZDJWLVFDUmJhM2NjSkIxQU4tVi1JMjlQRFdJS1ltT3d3OXJqckVSdFk?oc=5",
-          "published_at": "2026-05-15T05:54:53+00:00"
-        },
-        {
-          "title": "원·달러 환율, 한달여만에 장중 1500원 돌파…美 물가 부담에 달러 강세 - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Nbno3YWljOTdYUDJSa3JlNjVWRjMwLWxUZ2lzSGN5YmRiRFdyb2ZWaFQ0SnNSZXdVTk56NWVBU0FMR3U4Y0xFSnNfSVgyT0VjMkFBZmVJamdjYkFMMGhsNGhOV0hPRlYzY05uMTJia9IBc0FVX3lxTFB2QW5ySFAzd25YVmpxRUdxYWdnNXZPTFAxR0hFMmtjSVFlbkxZdG5VRGpXZnpkaWt5VWtibGg1X0ltcDFIRU1idk1GUlZKNVVkMUd2NnNtRHNlcFJBUFdFODk3RGpsdGp6TjJvelJ2elA5TzQ?oc=5",
-          "published_at": "2026-05-15T05:54:24+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "4월",
-      "score": 132.86,
-      "articles": [
-        {
-          "title": "주담대 변동금리 상승…4월 코픽스 0.08%p↑ 상승 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nNFdzcmh4MXJyWFc0cjhWQmJwbE1xVTdWdzlfYmMwS2tYblVOa2V0ZEs5c3IwaGRoOHdkOXRCNXR6RHdWMDRmVHo3N3gwaFdQRFVPRGdxRGVzdzM0VTVHS2hxNUhXYllOWDBZRDBXMW13ZHdLSG13?oc=5",
-          "published_at": "2026-05-15T06:28:42+00:00"
-        },
-        {
-          "title": "주담대 변동금리도 오른다…4월 코픽스 0.08%p 상승 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xU0Nhc3JMUXh0aHZZa2VUbTFVb21oRGNocDE4OXlGcl91WnBVUV9nM2U2UEJOaVZ3N3NBUDZETkl5MmZUXzlSUm5sY3dEMGNDNFowLUVJMDB2REZxX3lERdIBeEFVX3lxTFB0NHRheXBWMkh6QTd5dF9zaWc2c2tTY3BRSWJFcmxvMFY0WkpkaFZfQ2tLU3ZCNjladHRKbWxYTWxiUzZyaHhUUUdjQXFmWWxtamJjc3AwREN0bFNreldHUGVTUFhaNkNHT3ctdXNqRF94WTZWQ0hxVA?oc=5",
-          "published_at": "2026-05-15T06:16:11+00:00"
-        },
-        {
-          "title": "주담대 변동형 금리도 오른다…4월 코픽스 0.08%p 상승 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XZUdha21xaTJMdVdPY0NOSkNKb0w2bzUxSkdKdTRjRENoUi1iSDJsc2xnRW9zSzBpNnU2WUxYTGxvRGR6RlQzSW9mN2ZSekV3WVlRUksxWi1JekduWldIQkRB?oc=5",
-          "published_at": "2026-05-15T06:10:05+00:00"
-        },
-        {
-          "title": "반도체 가격 상승에 4월 수출물가 7.1% 상승‥28년 만에 최고치 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sYmE0YVVQajdFeHNIdjZBYnE3M1lmajFKTzh1RjNjbmlqSEZ4SGxkaDhZbDRES3ZRSlhNX21lVUkzQXdONW5vSVRXRkJkM0k?oc=5",
-          "published_at": "2026-05-15T05:46:11+00:00"
-        },
-        {
-          "title": "대구·경북 4월 수출 10.7% 증가… 24억 2천만 달러 무역흑자 달성 - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yQXBSYnhGY0stQWYxSlNHSVJlOW5RRUVGSHJGUVJDNUlSYm5GczhMdmhBaGMtUjJJSG5QT3dEa0Zjc01MUFc3SS1UcEhwb1lSVkN6NXBkOEdJMUs0TmtuZzQ1TUY3akt5eXJv?oc=5",
-          "published_at": "2026-05-15T05:36:33+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "1500원",
-      "score": 92.35,
-      "articles": [
-        {
-          "title": "'팔천피' 찍고 7300선 곤두박질…외인 순매도에 환율 1500원 돌파(종합) - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fbjlwbl9lbVNXZDYwamhwdFIwQWhPNV91Y0ZnU25hVnUtNFI4a1M0UjV1V0ZyYm9HX0ZCTlFwenJLMW4zSENOMlBOZEJHWFk0c2RZXzBjeFZIQzQ?oc=5",
-          "published_at": "2026-05-15T06:15:10+00:00"
-        },
-        {
-          "title": "환율, 한 달만에 1500원 돌파...강달러에 외인 증시 매도 겹쳐 - 오피니언뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ1hDTFZuX3RMTERfUF91aC11Q2dTbGJIa2UtNXk5eHlpOW5BeU15ZVpfOEozMC1VeHdkNEtPTV93UFV4Z280MGtjcTFHaVRtRDF5bHduNzlmc0c2ZnJHcGxheTJ2YWZTWW85dDNRUUM?oc=5",
-          "published_at": "2026-05-15T06:08:55+00:00"
-        },
-        {
-          "title": "환율, 美 인플레 우려에 한 달 만에 장중 1500원 넘어 - 아주경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXSjliS1NHUF83QWJPeWl1LUlSLVdDb1hIaElUaWJGaUp2dmRobzBkUFB0YkFGOE5HQTRUeGd3bjI5R3hqS0dkb2ExWHVQNjhnT1JLN1JLSXhrZ9IBWEFVX3lxTFB6X1RRWXdPM1VfSU9uQUlIcGRCV3BZVmhHNy04OVVTaUtKU0Znd0R4a2FDcVBlYUJhUU9FSXVqX1FXN2ZnTTQ5aUFGNXgzLWtwUVQ4NGFPMW8?oc=5",
-          "published_at": "2026-05-15T06:08:28+00:00"
-        },
-        {
-          "title": "[속보]코스피, 7500선도 붕괴…원달러 환율 1500원 재돌파 - 채널A",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHNUk0akZ6eXk3ZWl4ME1vZ2U5NmVMOU0xcXBHR01uT0xCZE4yTVZ2REs5ZlJtMW9LWmw2MHJXZ2VVbDZWWldxNmVQUWFZUjJ0VzFkRHJqTmpxR0xRR0HSAWNBVV95cUxQWXJVbXU3R1hWM2QtQ0lySlB3aWdVa2hfaFU2Xy11Yi1TbkR2OGI3OU91THdfNHI2RGxsYTYxTkZtNVBURU9XUFp5Zy1UeXQyaVh4MjIyazBIU0lra0VEOE1fR3c?oc=5",
-          "published_at": "2026-05-15T06:06:00+00:00"
-        },
-        {
-          "title": "환율, 한 달 만에 1500원 돌파 - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMWJCcnNxaWRLdnFhUzY1OFFWZmhPSkVBUzBQTXpQZkZMc0wzTGZ4b0ZsVGNLaWxiVHRzbWF6eVBHaGxGQnFtMDRTc2VUQzJrMlNtb2Npa1hsRWVhZG13MzVMcGd2SWRKd1E?oc=5",
-          "published_at": "2026-05-15T06:04:23+00:00"
+          "title": "‘전쟁발 인플레 공포’ 채권 가격 폭락… 미 30년물 금리 19년만 최고 - kukinews.com",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xYlhPQm1heWNuZTZ0Q1hKTU1ZUkFab1FTcWU0czJ6QVdMN1J4c1FnakY3ajJXNVh2OWw3UlQ3Y1FSTzJxczVyY2prclJJazFBTHVUMHFjTFZCdUdfSWZsT2dncw?oc=5",
+          "published_at": "2026-05-16T03:03:42+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 91.38,
+      "score": 105.97,
       "articles": [
         {
-          "title": "원·달러 환율, 한 달여 만에 장중 1500원 재돌파 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHbGNtdEhlRXlqZ0stSnBibzJHX2h3Ti1vTlpoV1h6ZDJWLVFDUmJhM2NjSkIxQU4tVi1JMjlQRFdJS1ltT3d3OXJqckVSdFk?oc=5",
-          "published_at": "2026-05-15T05:54:53+00:00"
+          "title": "[5월 둘째 주 세계경제동향 브리핑] 코스피 강보합 속 코스닥 급락…환율·금리 동반 상승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95T3cxd0lqTDJRbHRHTEl3ZEJudFJqN1hFQU9pWThFSWtqc0pkLWpseEZPS1cxYWNpaW82M2k3eXFUNlVuQS1BajNERGp4T3c?oc=5",
+          "published_at": "2026-05-16T03:37:38+00:00"
         },
         {
-          "title": "원·달러 환율, 한 달여 만에 장중 1,500원 넘어 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ZC1YY0VrVkJnMWtRYkNYX21wWURuYXkzcUtBY2FNQ1dBcFFGdVBSd2VmU0hvWERnVUtBdkUzODQ5cW9sVFJNVlB5OTI1UEk?oc=5",
-          "published_at": "2026-05-15T05:47:53+00:00"
+          "title": "“시진핑의 외교적 판정승” 美 언론 미중 정상회담 평가 보니 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tU290N0d0WEw1QUsza0dFVFlBMTltX3hnNHEwOGgyTzZ0UFhDWldxOElZejVwajRDTm9jdlRDMzM0VnJua25mNFZkQ1I5bWc?oc=5",
+          "published_at": "2026-05-16T02:36:00+00:00"
         },
         {
-          "title": "반도체 가격 상승에 4월 수출물가 7.1% 상승‥28년 만에 최고치 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sYmE0YVVQajdFeHNIdjZBYnE3M1lmajFKTzh1RjNjbmlqSEZ4SGxkaDhZbDRES3ZRSlhNX21lVUkzQXdONW5vSVRXRkJkM0k?oc=5",
-          "published_at": "2026-05-15T05:46:11+00:00"
+          "title": "전남도, 고유가 피해지원금 지급률 전국 1위…2차 지급도 속도전 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jT3ZpOHNFZnlrMWc0d2d1REVRRHdtWGpvVERmOWU0TkRWbXJtUlY1SjQ3bzAwejFXX2VqMXVSVlJKYkR0ZEdMN3JnenRRdkE?oc=5",
+          "published_at": "2026-05-16T02:35:37+00:00"
         },
         {
-          "title": "대구경북경제자유구역청, 청년이 이끄는 지역 혁신 ‘시동’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93UWc4My1XcVJBems0OHV4UUVDSUJhV3RycnZlRlBOdldhZVpCWndaY3RZbUpwTENWeXhKN3Y0dGhoNUphQ3F4RlQ3Xy14T2c?oc=5",
-          "published_at": "2026-05-15T05:36:53+00:00"
+          "title": "“일 못구했다고요? 300만원 드립니다”…지역별 청년 수당 살펴보니 [캥거루족 탈출기⑱] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZ3M5bDItMDBUZWM5OVl6M09Hb0tLWEltZTR3V1hLams5YmFsQkIzdllmX3dGVF9VUHU1Nk9fS1hZd2pfTTFCQ3Q3UG9sVGc?oc=5",
+          "published_at": "2026-05-16T02:06:00+00:00"
         },
         {
-          "title": "구윤철 \"청년은 미래경제 공동 설계자\"…AI 시대 대응 논의 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDbldScVV0WlVILWFURThfZ0Jib25xVXpYZjRQOTU4cVp2RV9zSENDVi1zM1h3N1BlODFGWTIxMjlCNFNyU2lXb1NmSDUtbEU?oc=5",
-          "published_at": "2026-05-15T05:33:00+00:00"
+          "title": "美 반도체주 4% 급락…삼성전자·SK하이닉스 ‘검은 월요일’ 오나 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQ29saDc0ZDdkVFBEbnp5dkRoc0t5TWdsdF9ESjNXY3NYRHFwTkV4YkdoQzZNNFppLTZZMzVvTjRVckRxNUc2Vm9NWm1VN0E?oc=5",
+          "published_at": "2026-05-16T01:18:01+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 91.38,
+      "score": 105.97,
       "articles": [
         {
-          "title": "원·달러 환율, 한 달여 만에 장중 1500원 재돌파 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHbGNtdEhlRXlqZ0stSnBibzJHX2h3Ti1vTlpoV1h6ZDJWLVFDUmJhM2NjSkIxQU4tVi1JMjlQRFdJS1ltT3d3OXJqckVSdFk?oc=5",
-          "published_at": "2026-05-15T05:54:53+00:00"
+          "title": "[5월 둘째 주 세계경제동향 브리핑] 코스피 강보합 속 코스닥 급락…환율·금리 동반 상승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95T3cxd0lqTDJRbHRHTEl3ZEJudFJqN1hFQU9pWThFSWtqc0pkLWpseEZPS1cxYWNpaW82M2k3eXFUNlVuQS1BajNERGp4T3c?oc=5",
+          "published_at": "2026-05-16T03:37:38+00:00"
         },
         {
-          "title": "원·달러 환율, 한 달여 만에 장중 1,500원 넘어 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ZC1YY0VrVkJnMWtRYkNYX21wWURuYXkzcUtBY2FNQ1dBcFFGdVBSd2VmU0hvWERnVUtBdkUzODQ5cW9sVFJNVlB5OTI1UEk?oc=5",
-          "published_at": "2026-05-15T05:47:53+00:00"
+          "title": "“시진핑의 외교적 판정승” 美 언론 미중 정상회담 평가 보니 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tU290N0d0WEw1QUsza0dFVFlBMTltX3hnNHEwOGgyTzZ0UFhDWldxOElZejVwajRDTm9jdlRDMzM0VnJua25mNFZkQ1I5bWc?oc=5",
+          "published_at": "2026-05-16T02:36:00+00:00"
         },
         {
-          "title": "반도체 가격 상승에 4월 수출물가 7.1% 상승‥28년 만에 최고치 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sYmE0YVVQajdFeHNIdjZBYnE3M1lmajFKTzh1RjNjbmlqSEZ4SGxkaDhZbDRES3ZRSlhNX21lVUkzQXdONW5vSVRXRkJkM0k?oc=5",
-          "published_at": "2026-05-15T05:46:11+00:00"
+          "title": "전남도, 고유가 피해지원금 지급률 전국 1위…2차 지급도 속도전 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jT3ZpOHNFZnlrMWc0d2d1REVRRHdtWGpvVERmOWU0TkRWbXJtUlY1SjQ3bzAwejFXX2VqMXVSVlJKYkR0ZEdMN3JnenRRdkE?oc=5",
+          "published_at": "2026-05-16T02:35:37+00:00"
         },
         {
-          "title": "대구경북경제자유구역청, 청년이 이끄는 지역 혁신 ‘시동’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93UWc4My1XcVJBems0OHV4UUVDSUJhV3RycnZlRlBOdldhZVpCWndaY3RZbUpwTENWeXhKN3Y0dGhoNUphQ3F4RlQ3Xy14T2c?oc=5",
-          "published_at": "2026-05-15T05:36:53+00:00"
+          "title": "“일 못구했다고요? 300만원 드립니다”…지역별 청년 수당 살펴보니 [캥거루족 탈출기⑱] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZ3M5bDItMDBUZWM5OVl6M09Hb0tLWEltZTR3V1hLams5YmFsQkIzdllmX3dGVF9VUHU1Nk9fS1hZd2pfTTFCQ3Q3UG9sVGc?oc=5",
+          "published_at": "2026-05-16T02:06:00+00:00"
         },
         {
-          "title": "구윤철 \"청년은 미래경제 공동 설계자\"…AI 시대 대응 논의 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDbldScVV0WlVILWFURThfZ0Jib25xVXpYZjRQOTU4cVp2RV9zSENDVi1zM1h3N1BlODFGWTIxMjlCNFNyU2lXb1NmSDUtbEU?oc=5",
-          "published_at": "2026-05-15T05:33:00+00:00"
+          "title": "美 반도체주 4% 급락…삼성전자·SK하이닉스 ‘검은 월요일’ 오나 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQ29saDc0ZDdkVFBEbnp5dkRoc0t5TWdsdF9ESjNXY3NYRHFwTkV4YkdoQzZNNFppLTZZMzVvTjRVckRxNUc2Vm9NWm1VN0E?oc=5",
+          "published_at": "2026-05-16T01:18:01+00:00"
         }
       ]
     },
     {
-      "keyword": "상승",
-      "score": 81.14,
+      "keyword": "급등",
+      "score": 75.13,
       "articles": [
         {
-          "title": "주담대 변동금리 상승…4월 코픽스 0.08%p↑ 상승 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nNFdzcmh4MXJyWFc0cjhWQmJwbE1xVTdWdzlfYmMwS2tYblVOa2V0ZEs5c3IwaGRoOHdkOXRCNXR6RHdWMDRmVHo3N3gwaFdQRFVPRGdxRGVzdzM0VTVHS2hxNUhXYllOWDBZRDBXMW13ZHdLSG13?oc=5",
-          "published_at": "2026-05-15T06:28:42+00:00"
+          "title": "미 국채 금리 급등 30년물 5.12%…뉴욕증시 하락 반전 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zak5GUGFDQ3NodVhRWWhTVkFkT1hucmtkUi0zbVRJYXZGY0U2NjZ0UkU4RlVlOFFUQTVMVlVrZGR3aVpBOFUzVVVVdXNBVjdiblF5TjBVR1N6YVZVb0E3aTdQREhZME8yNFNKRjhvYURjOHFo?oc=5",
+          "published_at": "2026-05-16T00:57:01+00:00"
         },
         {
-          "title": "황순관 국고실장 \"최근 금리 상승 과도…시장 쏠림 주시\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LV2ExS1ppV09rQ3RWZGNsWjQ2ME1PYlJiRnV3UTZwZTRiM2RwN2lXVU9raGR4NGljZ1FRU2JqMG9zUXQtdUdUcjhXOERHWTZSbVBuejVXcVpnSDJVM2FMcHJNbTJrSmJJSUVJLVlOQTDSAXRBVV95cUxORlhwWjRlbmo3QlhnR1hDRWdmbnp4VmZReDhiZUR5NnJGLUE0dmhWQlFDdm1ETFljWmZQX1BFTGRQZUhvSy1OcEJ4ZGpkdjUySEY0b2JQZUFJOEtWb2tQWGdBMmdIMzVRaGxMWXB3X2NUWWdYbA?oc=5",
-          "published_at": "2026-05-15T06:24:22+00:00"
+          "title": "Berkshire Hathaway, 유가 급등 속 셰브론 주식 80억 달러 매각 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2MFB1YzNsZ1A4S0VEUXY3cmlvQzRlX09vcEJPWkprdXNXSGZFZ2Z1VmJJa1p3TWkyWEZvTXJLdGRWR01tMzlDLWQtNEEyNXUza3NrOFhKY1lSRjVvUVNRVXVNN250enBNckE?oc=5",
+          "published_at": "2026-05-16T00:56:00+00:00"
         },
         {
-          "title": "주담대 변동금리도 오른다…4월 코픽스 0.08%p 상승 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xU0Nhc3JMUXh0aHZZa2VUbTFVb21oRGNocDE4OXlGcl91WnBVUV9nM2U2UEJOaVZ3N3NBUDZETkl5MmZUXzlSUm5sY3dEMGNDNFowLUVJMDB2REZxX3lERdIBeEFVX3lxTFB0NHRheXBWMkh6QTd5dF9zaWc2c2tTY3BRSWJFcmxvMFY0WkpkaFZfQ2tLU3ZCNjladHRKbWxYTWxiUzZyaHhUUUdjQXFmWWxtamJjc3AwREN0bFNreldHUGVTUFhaNkNHT3ctdXNqRF94WTZWQ0hxVA?oc=5",
-          "published_at": "2026-05-15T06:16:11+00:00"
+          "title": "뉴욕증시, 채권 금리 급등에 기술주↓…나스닥 1.5%↓ - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRUNvTk1aV29wYUstbGhXX0g2Z2h0bWk5d21EZ3NBR0lVZFpNdHhKMWQ5SkhuRXFSWU10NzljamdVaVF3TnM5MHZfVHZ1YlJRWGhuZkdUN3VLVkU?oc=5",
+          "published_at": "2026-05-16T00:36:00+00:00"
         },
         {
-          "title": "주담대 변동형 금리도 오른다…4월 코픽스 0.08%p 상승 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XZUdha21xaTJMdVdPY0NOSkNKb0w2bzUxSkdKdTRjRENoUi1iSDJsc2xnRW9zSzBpNnU2WUxYTGxvRGR6RlQzSW9mN2ZSekV3WVlRUksxWi1JekduWldIQkRB?oc=5",
-          "published_at": "2026-05-15T06:10:05+00:00"
+          "title": "고유가·금리 급등에 뉴욕증시 하락 마감…기술주 차익매물 확대 - 산경투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrdXRKdXRzYmZXNHNnODBCd09Fcks3cjFhVUJLeDlfY2hxdWZ3NjRId3RVMEpEeEZvaEx3WWVCdU5oQmVmMERYenMydnZsZF9ybGlwNzBuemtMV2RJVDhic2lwZjJ2RzRWcUNkOEtIUjLSAXRBVV95cUxNcmc1X1dFVlNKWkxhRFBSdS11X2dod2VIZ01nbm04c1BOOW5TTk5PZnNCQTFLdnlQMXBxQzd4ZUxiOHFiNDhaOXNGZVg1ZlhORTQ2UDBoSWxkZ0RWRHFsRXdXR3FGOFVkQTQ4Z2RvQllhZkR0OQ?oc=5",
+          "published_at": "2026-05-16T00:19:35+00:00"
         },
         {
-          "title": "환율 6거래일 연속 상승…장중 1500원 돌파 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZLUZGVWc1bloxbnZsZTdoT3hNYlk3cUlFS2U1VEYwdlZBd2h1ZnE1Rnc2djNFWkk4c3kwNFJRdmFDYWp1ZHFzY3FMOUkxX0VGMFZfazROQVJWQnVw?oc=5",
-          "published_at": "2026-05-15T05:47:00+00:00"
+          "title": "국채선물, 美 국채금리 급등 속 약세…10년물 22틱↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WcTAzMVNLV0RlN3VxN2U5U2VmZEp3VFZfNW5ZZFp2blVYYi1PZFBQODdRZEFRUEJlNkd3bkhTNWExZDBaZUpKYkYtaG9oTlUtbnRpbHYyaGp1VXBhTlpkdTlVMXhPaGJEM0QtblNNZkM?oc=5",
+          "published_at": "2026-05-15T23:38:47+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "뉴욕증시",
+      "score": 70.7,
+      "articles": [
+        {
+          "title": "미 국채 금리 급등 30년물 5.12%…뉴욕증시 하락 반전 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zak5GUGFDQ3NodVhRWWhTVkFkT1hucmtkUi0zbVRJYXZGY0U2NjZ0UkU4RlVlOFFUQTVMVlVrZGR3aVpBOFUzVVVVdXNBVjdiblF5TjBVR1N6YVZVb0E3aTdQREhZME8yNFNKRjhvYURjOHFo?oc=5",
+          "published_at": "2026-05-16T00:57:01+00:00"
+        },
+        {
+          "title": "뉴욕증시, 채권 금리 급등에 기술주↓…나스닥 1.5%↓ - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRUNvTk1aV29wYUstbGhXX0g2Z2h0bWk5d21EZ3NBR0lVZFpNdHhKMWQ5SkhuRXFSWU10NzljamdVaVF3TnM5MHZfVHZ1YlJRWGhuZkdUN3VLVkU?oc=5",
+          "published_at": "2026-05-16T00:36:00+00:00"
+        },
+        {
+          "title": "고유가·금리 급등에 뉴욕증시 하락 마감…기술주 차익매물 확대 - 산경투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrdXRKdXRzYmZXNHNnODBCd09Fcks3cjFhVUJLeDlfY2hxdWZ3NjRId3RVMEpEeEZvaEx3WWVCdU5oQmVmMERYenMydnZsZF9ybGlwNzBuemtMV2RJVDhic2lwZjJ2RzRWcUNkOEtIUjLSAXRBVV95cUxNcmc1X1dFVlNKWkxhRFBSdS11X2dod2VIZ01nbm04c1BOOW5TTk5PZnNCQTFLdnlQMXBxQzd4ZUxiOHFiNDhaOXNGZVg1ZlhORTQ2UDBoSWxkZ0RWRHFsRXdXR3FGOFVkQTQ4Z2RvQllhZkR0OQ?oc=5",
+          "published_at": "2026-05-16T00:19:35+00:00"
+        },
+        {
+          "title": "채권금리 급등·'빈손' 미중 정상회담에 하락…나스닥 1.5%↓ [뉴욕증시 브리핑] - 블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTUS1BRHFTQXMwcHFva3JlWjZJcUc1bXg4WmMwekJvbERmN01pZXZMNkFGN1lOLVhaSnVjMjViRm9hQmhjQm5LTDhQcG1pQlJI?oc=5",
+          "published_at": "2026-05-15T23:25:35+00:00"
+        },
+        {
+          "title": "뉴욕증시, 기술주 매도·국채 금리 급등에 하락...나스닥 1.54%↓ [종합] - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GNGNNcXU4bHFrTDBfaEs3LTdFSFRpRkdqMVJtcE1Ccm11UHpTYnl5aFVkMjJQSEctMU4xQnhlSFA2Z2xzejhrSlpWZ2x6WTg0QVBfLQ?oc=5",
+          "published_at": "2026-05-15T22:41:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "수출",
+      "score": 59.79,
+      "articles": [
+        {
+          "title": "대구·경북 4월 수출 증가···무역흑자 24억 달러 기록 - 경북신문",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMbkQzdXo4WlI0b0ltcF9QMXVyQUs3c2NRbVoyNlhQR0lBWGg3d0xrbVRJLVRuWUFLaGpXZ3RwbVJmdExCaHpRRzdNbGo3eC1tWjZXOUFabzI?oc=5",
+          "published_at": "2026-05-16T03:55:40+00:00"
+        },
+        {
+          "title": "K라면 수출 질주…라면업계 북미 공장 증설 경쟁 - 파이낸셜투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XemE2bGp0RWMyNXA5amFRRmVJWHhzbldaVEJsOEp5WkM1VXdDbEl5OGFWdDkwMko1OWtvX0ppcFFjRTJkVS1jNGVpRkpxaThKS0ZzWXZtMlp0ZzBUT0dadWduVFM1Rlg3OGfSAW5BVV95cUxNQkw2RVp0T1lkTGlwakpZRFl4alBZekQycTFhYnlSTjV3UUZPc3dYQzYta2NIX056UDVDVkVkdjJIV1RicExUdlc1VTNtb0d0LWFOQmpEeXlQT0h2VUJ1THQteUVyQVBtXzljd2hIUQ?oc=5",
+          "published_at": "2026-05-16T02:27:10+00:00"
+        },
+        {
+          "title": "경북도, K-글로벌 수출 리더기업 육성사업 참여기업 모집 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NN1FRWGZ5dFFjQk5xX19ZS1g0QzM5clA2NUl3UUVUd0gzTTZFaVhpVlJpSG9wREduRWYtMk9ncjRVcEJudnBISi1GUWFFbTdva2VMZjRDclEtSGVxNUZF?oc=5",
+          "published_at": "2026-05-16T02:07:48+00:00"
+        },
+        {
+          "title": "해외바이어 초청 수출상담회서 773만 달러 협약 - newsinjn.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dk56ZHRMeGRoS3hLSElaTHB1ZnNhZHFoZnBoaU1LZV9EVF83VUV1eGpMbDAzVFhyRVdzYVpIeTdJZUxYWndOVEM2Ylk0bTFiYzdGZ0FQQ0dZVTM2WjZzbmtLTU5oNjRPeVE?oc=5",
+          "published_at": "2026-05-16T02:01:58+00:00"
+        },
+        {
+          "title": "할랄 시장으로의 농산물 수출을 늘릴 수 있는 기회를 잡으세요. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk1MbEVvRjdvWEZnYld5OHN6bEE2Umg4Y2xpT3ZMdFhTc0hkMENWNzl3WWlmZVpsR1NJMnppNi1IWEl0RWZ6ekZESng3U2NkVkJIWUp3N3lqVDZ6WlIxNndpU2F2WUxWSVdqQTM1NzFiYy1LZkJxNU10ZEV1XzBnUXZBcWZuRTFtVDdTb2dRSnE4bm1s?oc=5",
+          "published_at": "2026-05-16T01:29:57+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "하락",
+      "score": 57.65,
+      "articles": [
+        {
+          "title": "미 국채 금리 급등 30년물 5.12%…뉴욕증시 하락 반전 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zak5GUGFDQ3NodVhRWWhTVkFkT1hucmtkUi0zbVRJYXZGY0U2NjZ0UkU4RlVlOFFUQTVMVlVrZGR3aVpBOFUzVVVVdXNBVjdiblF5TjBVR1N6YVZVb0E3aTdQREhZME8yNFNKRjhvYURjOHFo?oc=5",
+          "published_at": "2026-05-16T00:57:01+00:00"
+        },
+        {
+          "title": "고유가·금리 급등에 뉴욕증시 하락 마감…기술주 차익매물 확대 - 산경투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrdXRKdXRzYmZXNHNnODBCd09Fcks3cjFhVUJLeDlfY2hxdWZ3NjRId3RVMEpEeEZvaEx3WWVCdU5oQmVmMERYenMydnZsZF9ybGlwNzBuemtMV2RJVDhic2lwZjJ2RzRWcUNkOEtIUjLSAXRBVV95cUxNcmc1X1dFVlNKWkxhRFBSdS11X2dod2VIZ01nbm04c1BOOW5TTk5PZnNCQTFLdnlQMXBxQzd4ZUxiOHFiNDhaOXNGZVg1ZlhORTQ2UDBoSWxkZ0RWRHFsRXdXR3FGOFVkQTQ4Z2RvQllhZkR0OQ?oc=5",
+          "published_at": "2026-05-16T00:19:35+00:00"
+        },
+        {
+          "title": "채권금리 급등·'빈손' 미중 정상회담에 하락…나스닥 1.5%↓ [뉴욕증시 브리핑] - 블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTUS1BRHFTQXMwcHFva3JlWjZJcUc1bXg4WmMwekJvbERmN01pZXZMNkFGN1lOLVhaSnVjMjViRm9hQmhjQm5LTDhQcG1pQlJI?oc=5",
+          "published_at": "2026-05-15T23:25:35+00:00"
+        },
+        {
+          "title": "뉴욕증시, 기술주 매도·국채 금리 급등에 하락...나스닥 1.54%↓ [종합] - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GNGNNcXU4bHFrTDBfaEs3LTdFSFRpRkdqMVJtcE1Ccm11UHpTYnl5aFVkMjJQSEctMU4xQnhlSFA2Z2xzejhrSlpWZ2x6WTg0QVBfLQ?oc=5",
+          "published_at": "2026-05-15T22:41:00+00:00"
+        },
+        {
+          "title": "[지난밤 뉴욕에선] 고유가·금리 급등에 하락…나스닥 1.54%↓ - 스트레이트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IRTNwQXdMX3Q0M3dHeFNkeGYtc3ZLV19XVkJKRVpCRm9yV0xsdVRIWk5vQWxPN1VTeENWMHBrSnF3SDFHSjVnamhFVi1mdTBnNjhjQXlySDZMa2w2YzlCdW9XSkk2TGhSeDNIWHUxRV9jQnfSAXdBVV95cUxQRUVjZDgxbDBIQVJCTmFVYjV0RFJkaFpxT0FnUGlXQmwxZmlEV1NmLWpBWEZ2QmJjbWVoaUZvc1htMEo5WnVzUVB3NE5aNEF1NHc4am5ydnBuYWJsY2lkcExadHRpTlBoRHVyZDYtbUZTbU42ZkhkSQ?oc=5",
+          "published_at": "2026-05-15T22:35:53+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "국제유가",
+      "score": 56.64,
+      "articles": [
+        {
+          "title": "국제유가 반등에 기름값 상승세 지속…휘발유 7주 연속 올라 - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16LWZ1YS1TSlMySjR5Q1hGR1EzY0loZEMwME5maHdiZ1k0elM3Ml9FTGdKSDRtWEVUaUY4T2JxU0tMS1g2TTd3V1JScjlYLXlXU1pqb0xtaVdwYUNJaDRXWlpWRmdXTEtYTGVyeDdqaw?oc=5",
+          "published_at": "2026-05-16T03:04:42+00:00"
+        },
+        {
+          "title": "미·중 회담에도 중동 불안 여전…국제유가 다시 100달러 돌파 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHBzQ09aR0ZPQTJHQWI2ZFZ3RDcwMTRVUVNqeEpZSlZHRVN5R21NRVZEUzdTaFNlQ3BkZnlwWE4wQ01uaWE5YzVTSlc3RWg2ejhoZW1TaUZJQzBUZUFKQ0V2WURBT2diYlo4UlNKc3hySTNMdmtHY1FBVURjYnR0S1JPQTNLZWRC?oc=5",
+          "published_at": "2026-05-16T00:45:08+00:00"
+        },
+        {
+          "title": "국제유가 100달러 재돌파…정유4사, 여름 성수기 원가 부담 확대 - 파이낸셜투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tUjR6QnRSeVlXemlrem1lUXpESnJSWlZpaGtaZVZ4REJYdEU4ekpmZ2E2cTY2SEYyaV9VbThDVHRobkJsMFh0Y1gySmFxaV85WHRoNHRfR2k4Zkh2bC1JX01hai1iaTRMM2fSAW5BVV95cUxQMmtIeVQydHlSM1BTVTBOVloxNF9fZUh3elFyZ1hSc3RuMklkNFNFTVBvV1NrRGdLcnFvaGxfRzFLelI4YnJzMTdobkVKNndKQkFtaV9DbjYtc193NmRZRlNTN2w1SHJwbE8yZ2xqZw?oc=5",
+          "published_at": "2026-05-16T00:39:24+00:00"
+        },
+        {
+          "title": "주유소 휘발유·경유 가격 7주 연속 상승…국제유가 다시 반등 - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DQ21GbmZUOEVGMmQ5b3FRMnktR0JNMFowYlhndDFkS3RQZ2NvM1U5azAtTFIzbjhYNlRNN3N6WXRKT0hhSEthUzFXVlBGaHBTNWRpOTZUUWZjTkRxZmFsTg?oc=5",
+          "published_at": "2026-05-16T00:18:57+00:00"
+        },
+        {
+          "title": "국제유가 다시 19달러대...미-이란 재충돌 가능성 고조 - thecommoditiesnews.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tQ0FmNW5mdnVINmRUOXZVazRtUl91c01fZ0dYWDNPcDBpXzRXN3N0WFZoT0hOTGlkNG1IeXRTUHdkQXNIdGtIOV9rMkRLZVFKem9NY1cwTVE0SzV5ZHhvQk5hcFd3TnBNUWVNVnk1bGhCWTJ4XzdB?oc=5",
+          "published_at": "2026-05-16T00:11:08+00:00"
         }
       ]
     }
