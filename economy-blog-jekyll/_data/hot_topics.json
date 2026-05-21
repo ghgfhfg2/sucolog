@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-05-20T06:45:53.585356+00:00",
+  "generated_at": "2026-05-21T06:51:21.773009+00:00",
   "source_count": 4,
-  "article_count": 386,
+  "article_count": 387,
   "top_keywords": [
     {
       "keyword": "수출",
-      "score": 233.49
-    },
-    {
-      "keyword": "환율",
-      "score": 150.06
+      "score": 305.31
     },
     {
       "keyword": "금리",
-      "score": 130.04
-    },
-    {
-      "keyword": "기준금리",
-      "score": 128.75
-    },
-    {
-      "keyword": "뉴시스",
-      "score": 119.9
-    },
-    {
-      "keyword": "동결",
-      "score": 101.15
+      "score": 181.23
     },
     {
       "keyword": "daum",
-      "score": 94.89
+      "score": 132.11
     },
     {
       "keyword": "net",
-      "score": 94.89
+      "score": 132.11
+    },
+    {
+      "keyword": "반도체",
+      "score": 107.3
+    },
+    {
+      "keyword": "4월",
+      "score": 106.5
     },
     {
       "keyword": "연합인포맥스",
-      "score": 93.36
+      "score": 100.3
     },
     {
-      "keyword": "LPR",
-      "score": 90.74
+      "keyword": "최대",
+      "score": 91.92
     },
     {
-      "keyword": "12개월째",
-      "score": 82.41
+      "keyword": "삼성전자",
+      "score": 91.3
     },
     {
-      "keyword": "돌파",
-      "score": 80.65
+      "keyword": "5월",
+      "score": 85.04
+    },
+    {
+      "keyword": "생산자물가",
+      "score": 78.51
+    },
+    {
+      "keyword": "인상",
+      "score": 76.77
     }
   ],
   "hot_topics": [
     {
       "keyword": "수출",
-      "score": 233.49,
+      "score": 305.31,
       "articles": [
         {
-          "title": "미국 이어 유럽도 관세 장벽…K철강 커지는 수출부담 - 아시아타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwMTlmRVR5UTgyNEhldDkyUk1KNmtjalpDOXhJNTdDSFlXSG5BMS1oZjhUaW1SeVNndEtrU19nUkw2TUhWaldfU2JPV2twbll5NW9sSVpIOWN2WW9NSWc?oc=5",
-          "published_at": "2026-05-20T06:18:00+00:00"
+          "title": "반도체 호황에 ‘상위 10개 기업’ 수출 쏠림 사상 처음 50% 넘어…대·중소 온도차 커 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lMjU2dzIxdmIwamZfNFZfV1pjcEJkNl9oT1JCdDJqZ1g1Y3p6cHhRckxfbEwtVHlhZ1lTN0QxYkUweDg4Q2ZHb2NfTEx0STE4VE9qQUhzbzZRd9IBX0FVX3lxTE13Z3p2Rld0T1FqaUx5LTB1TTJfYTluWTE3SnJjLVpGRlh6amJGcUhMNk84T1piY20ybjNWN0xIUVpHejVwbUtOX2hSMDBiVmFQWUQtVXFVcjNYOHRzNXpF?oc=5",
+          "published_at": "2026-05-21T06:44:00+00:00"
         },
         {
-          "title": "한국수자원공사, 글로벌 선도 기술 수출 확대 위한 공공-민간 협력 맞손 - 위클리피플 인물지식가이드저널",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90eVRSQ01DM2lPdFJQdnpmaElKbWpwaExXaWVoaXBpTzdaT1l6VUlvV1ZSd0oyMmZYUEtJZG5EbWpNZWxSTEJCY0hKbXZJMDg1dlVlYVhRMEU4QQ?oc=5",
-          "published_at": "2026-05-20T06:17:58+00:00"
+          "title": "서울 전세가 급상승과 반도체 주도 수출 기록, 스페이스X 비트코인까지 이시각 주요뉴스 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdVMxaGlHRFRaMFdrRDZlVVB6ZEM1bDN6cVpJYks2a2Vrb2ptMFlXZ2JVVUZDaWRnVlRGRFo4SHF4bERoMmJkZmFHRmJJZVdzUC03b2tsVS1FX2g5MTlVZDdLbjk0TUZaN2dici1qWTDSAXRBVV95cUxONkM0V3d2SkNfSUxTNDc5YUJCdkFNRGtEc1R4R0NiV1pNY0VRelBMMmhYX2dxVW1JQnpEQkx0amNLTEtFVEh4T3JmaDdzS1pZdXhObkZKU0JkM3lLZUcxU2ZPNFU2b0JlZXJPWVNfRVRvZXJLUg?oc=5",
+          "published_at": "2026-05-21T06:39:33+00:00"
         },
         {
-          "title": "외신, 삼성전자 노조 파업 일제히 긴급 타전… \"韓 수출 주도형 경제 타격\" - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWZrTjk4MlpDMHotUk1wQVJzaVhmeHAyeTBENG43aHR2dWNycDI1T3dqY0g1c2c3Y3Jia3pLX0V0YXkyVjgyWm1oNHhtbzJxdDNIaE9iWnVZSnNuc0Q3dXhNMjRISU5aZ0tsREhsbzJlMXJVbTk0aGZlVzAxeGtCTmZR?oc=5",
-          "published_at": "2026-05-20T06:09:00+00:00"
+          "title": "인도네시아, 기준금리 4.75→5.25% 깜짝인상·원자재 수출통제...왜 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1id2sweWxmOFUxOXlGZ203ZmZqTlJUY2plSGZqNUVuOWdleVRkdkM3UDRvdzcxaXZxTW5xYklBNDNmMnBhUkxtN2VndjdEb3RiNmRtQnNzNERKcVhrWEtnM2NCSzBPYVJ10gFuQVVfeXFMTS1CMnVBZEVVY09uek1lOFFyUEl4VUtuYVg1YkdHVDZzXzhrQ2lSOW13cGROekJaN3BBVzNCSTZoLVU3YnIzUmk1cURRZkRqenB6N2tNUjlLT195MG84WEVFN1JLT0xUdV9ETnFFTlE?oc=5",
+          "published_at": "2026-05-21T06:24:03+00:00"
         },
         {
-          "title": "부산본부세관, ‘전략물자 수출관리 전문교육’ 실시 - intn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3QWQ5Rk9qeDkzOUZkNlI4MFlBYkhtTGhTMW5BSTZCNHItYWxlcDdPMmo0cFhLei0zWERCVVdPbkZOZGVmZURRRTAwTWk0VXh4ZHo1SUl3cDhPdW5hbXU4cDU4TG5EbXdFekE?oc=5",
-          "published_at": "2026-05-20T06:08:17+00:00"
+          "title": "농어촌 기본소득 효과 가시화…인구 늘고 K-푸드 수출은 역대 최대 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcF93QkdQSVk3eDNXSDdrdlU3dFBxTThKUjBoQzBDVDVHVUhVR1BJN0pYMmhqYW8yMzZMazdCRFJtVnNncTRiR0FwNnA4eENxNGhWYUp4WVZ2LUxXUzJfY1RNejkyWF9jUnpCekoyeG9DY2tXcERBczdIallDbG0xek50aXJxYW9BMlE?oc=5",
+          "published_at": "2026-05-21T06:15:20+00:00"
         },
         {
-          "title": "코트라, 홍콩 미쉐린 레스토랑서 K-푸드 쇼케이스…수출계약 5건 체결 - 중소기업신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1md0h6Mm5vTmNna1oxd1JoTDJLVVpXV3ZtX3RpaVRGdjdIbGYwRWxvSGZ4WjMzU1ZONXI4TFpMZEkzeVFxeDNzS0pvUUM1VHViWXBPamdKZ3kzYTF1aGxHMDVlb3RWT1d2d1RUbQ?oc=5",
-          "published_at": "2026-05-20T06:02:41+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "환율",
-      "score": 150.06,
-      "articles": [
-        {
-          "title": "[속보]원·달러 환율, 1.0원 내린 1506.8원 마감 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81OWpOU3M5emFyNm04OVNBbEJYOFpieXlwLVlxSXZTSUJoWUdMZjNWM1pGMDY2WWVBMktsTWhBV3pLdDE0bGpDNXRMVEtnV1JuaXU3VEJwdkMyRzRjRGdXMtIBeEFVX3lxTE52REZ1M3dfemFYbWhnN01yWU1GX0pGd2M0SktINTMwWlJnLWRtdHdSaDR5U09ENGlrdHNKUTRoTElOSkFKcGhsamZVZU03YXJFWmo2SkU5Y3ZKQTFjN19tby1qeEVJTnlyMnZrRU1pdG5qTUlzWV9VNA?oc=5",
-          "published_at": "2026-05-20T06:34:15+00:00"
-        },
-        {
-          "title": "[속보] 원·달러 환율, 1원 내린 1506.8원 마감 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT29LSHltYUM4aVVtd3RmVUNmOHNXUWMzc1NNSUVwMWtyLWNsbnFMWW9CMGs0RjlmT1JnbnZmZzRLQjRPc094TXJweDBzbWF0WG9ZVFNjSkwxUmRHeDVrLUdVY3JIY29zV05HcXhqcVVOamtsQm9JSWdNb3BtcWxFc2VjaEpRQdIBmgFBVV95cUxPOWhUOTNxakVTYmhLV2lNU2NxUTRacnVybHJfU25iWHZzUnJlX042d2ctZlVCNm9QeEpVTzhRNGNuUTFxNG1DNWVYblI5WmUxWnNURGN2SHNjeVNtM19Na0JVU3JIbWpMd09IZHdjU0N4cVlZcjRRa1JxY3lFQnJNTnJaQVRKTzR0b1RTQXhrNzVqczY0S3BuWmVB?oc=5",
-          "published_at": "2026-05-20T06:33:00+00:00"
-        },
-        {
-          "title": "[외환] 원/달러 환율 1.0원 내린 1,506.8원(15:30 종가) - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSVjBCMEtScExoX2VvR2d4aWNJMTBGQnVEanpsT28tdUN6WWVReWtWMGtVN0tidUtxQ1M5bFpEcGdvWGhmakdPWXZtOFc4ajRyN1A0cDZGcDl6QjVBVFNCdQ?oc=5",
-          "published_at": "2026-05-20T06:30:39+00:00"
-        },
-        {
-          "title": "환율 1510원 돌파…정부 “변동성 과도, 필요시 적절한 조치 취할 것” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OVnBETFYwbl91c0hQcUJXd2RJM0dJdkFpN1pNNW1FN2tUclZBblBUNG5hMmRXYmVobEo2NkZTRnpURk9rSjl1S0tHc3BQcFAwaUw5eW9qSnJLb2ZCUGoxcWlVVk9zaHRKUVk2Z1Y0RW5Kdw?oc=5",
-          "published_at": "2026-05-20T06:00:00+00:00"
-        },
-        {
-          "title": "환율 1500원 돌파에 외환당국 “투기성 거래 번지면 적절 조치” - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XR0pMdlJTSU55ODU4b2RzaGNpUllhUmo4TC1SR1dNQzJERWRVNE5KWldVZ3hpZmFLQVoyMFNQWExTdHRhU2ltR0xsU2JWTkFxdGfSAVNBVV95cUxPVHliT0RVRXU2VlBBZElES2JJNzUxa3dPM2tLZno3UGtabUEwY0t1MkV2bGFQUHgwX3hRc3RFVy1LR1FUNnlLQ1NIdF93ZXRtM181UQ?oc=5",
-          "published_at": "2026-05-20T06:00:00+00:00"
+          "title": "성남시, 중소기업에 수출보험보증료 최대 100만원 지원 - - 중앙신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fcWdXc2RINS1QS0xKZ1lDOGVyclk0QlpnT3FiQkFMY1hFR2tZNGpTQ2tiQU4yeHdzeC1WRVdCRmt4S29CTVVab0g2VWY0b0llSVpZZHpGUG1ZNDRIcHh3STRrQUdRdktIVEE?oc=5",
+          "published_at": "2026-05-21T06:09:34+00:00"
         }
       ]
     },
     {
       "keyword": "금리",
-      "score": 130.04,
+      "score": 181.23,
       "articles": [
         {
-          "title": "일본은행 총재, 채권 금리 \"빠른 속도로 상승\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QVmFsTUxIWHdTWlNrdnVBNjNCRkZwRWZNeVphZlNEQzhJMmFGU0VuMkt6aFNxS0M5UlFWektaWDZZMzF1eGVzM1JTZFU5WnlsZFdQQnRXeHVYUFhPUlZsRtIBeEFVX3lxTE5CYkVQT3ZYMG9iWU52MjlkNzBwWnBBeTNPcE9hTjktSEhwY0Y3dFBET255b2dLajJTV3UzLUh4djgyRjVoM2xYM0pOTTBabnRBS3ZqeVgwajkwaHVHN0ZSczJQYzRCQ21pTXJTYl9JRzJjSHBjNUQ1bg?oc=5",
-          "published_at": "2026-05-20T06:26:29+00:00"
+          "title": "인도네시아, 기준금리 4.75→5.25% 깜짝인상·원자재 수출통제...왜 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1id2sweWxmOFUxOXlGZ203ZmZqTlJUY2plSGZqNUVuOWdleVRkdkM3UDRvdzcxaXZxTW5xYklBNDNmMnBhUkxtN2VndjdEb3RiNmRtQnNzNERKcVhrWEtnM2NCSzBPYVJ10gFuQVVfeXFMTS1CMnVBZEVVY09uek1lOFFyUEl4VUtuYVg1YkdHVDZzXzhrQ2lSOW13cGROekJaN3BBVzNCSTZoLVU3YnIzUmk1cURRZkRqenB6N2tNUjlLT195MG84WEVFN1JLT0xUdV9ETnFFTlE?oc=5",
+          "published_at": "2026-05-21T06:24:03+00:00"
         },
         {
-          "title": "국채선물 강세 전환…일본 장기금리 안정·삼전 노조 총파업 우려 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fSXNobGl4ZHMtSkhSYjVFME9xSlAzcTZVZV82V0ZZQW9OeElOVWhKVmZzdFZjMHdXSm01amFDTVRhYmtJVDdkdXpvN0JPQW5hMzhtUUllTDBPSXhVUmtYc1hKUDQzZ2U1amZTRnVJbDc?oc=5",
-          "published_at": "2026-05-20T06:16:16+00:00"
+          "title": "한은 연내 금리 인상할까 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14czBoaTBJX25NSVlQM2ZzNzdaeW8ySS1QMjJEamk1SEJUb1ZDQmpQZWRQOVdqYUhPeWRqUjZjLWVaa08xcWkxT096R0FmR3h0WG1WS09ESzI3NDRmMVFqdDRZT2w?oc=5",
+          "published_at": "2026-05-21T06:22:29+00:00"
         },
         {
-          "title": "“이러다 증시 폭락한다”…월가 덮친 美 국채금리 공포 [머니+] - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zanZSaEtXdExPcU04dkNRV21FdEVSLXNTbDJoWTNQd2dFRG10TmZTZ3Z1ZlZSUDI5SDZCaEhlczBxdm9rODR6N1pnNGxjY3p2RndvZ09XY01OLXM?oc=5",
-          "published_at": "2026-05-20T05:49:40+00:00"
+          "title": "은행주, 기준금리 동결 장기화에 배당 매력 부각 - 스트레이트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CMk1Da3J4dFUyUE1zU0NSMkV3YmMySGVlRkpPMThRaW9pc0pORmJBVGRlbWJNT01aOFlXWkNSMllNdUdXTHhlQUdzU0pZUi12XzlkMVJ5Mk9iWUU2dXhOOFNJXzVKRV91RjdpdDNqXzJyemfSAXdBVV95cUxNRFhMYUpmV0hlckROR2Q4OWw1eExOcFhpdFdISWhMbGJQSzJndEZBc0RiQmpWc0ZHRTFDMmN4MGw2cEdxWDBxZ1Zyb05ndjRVQ281R3pLQWpjWDlfTmZOa3pQTFRuVW5BUjctdVB2VGxIRGV6emhUWQ?oc=5",
+          "published_at": "2026-05-21T05:51:50+00:00"
         },
         {
-          "title": "비트코인, 美 금리·유가 변수에 약세…투자심리 급랭 - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WZ20yMmVrT0R3TjZOZmN1d29yLWVnU0NxT0MxNnMwT3VNQnllYTE5OVQzYmFpSFo0RmtlUkNRZHpjMHBFWFZrY1dzWTFXSWpYbmVTZXk0Yk4yNEV3X3lWT0ZKNC04X1QwMkMtUDBn?oc=5",
-          "published_at": "2026-05-20T05:49:17+00:00"
+          "title": "채권시장 덮친 '인플레 공포'…주담대 금리 연말 8% 갈까 '촉각' - 아시아타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuY3V4X01fUTd6bFFXejd2MDZzNUFxN3ZBNzE3VjYyNS1TWmpZay1Dc3JpQkt0eEJ4dXozbEJxal83azMzQjVqREkxSTltZm9GbjRwdkRldXg3YXZqeGc?oc=5",
+          "published_at": "2026-05-21T05:31:00+00:00"
         },
         {
-          "title": "美 장기금리 19년 만에 최고치…코스피 흔드는 국채 투매 공포 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrc0pEWFVCYkU0TmRJUWZuTmJhR2U3MnktQjZkanBXVm9rUGVlUUJJdkIzZmtvVEQ3ZHZiWV9ndDhCREtLVlFDUExYYnpMQU0?oc=5",
-          "published_at": "2026-05-20T05:39:02+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "기준금리",
-      "score": 128.75,
-      "articles": [
-        {
-          "title": "中, '사실상' 기준금리 12개월 연속 동결...인하 서두르지 않아 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mTkZRYkphWWFDaFpEQTBkTnNyLTBpd1BXeGJUdkRfQTdxdE5DVXo3TnJ4Wk1VU2Q0ckFia2pjaEk1ZmtabnhLS01nN2hOMi14NE9uaVhVVGY0UdIBXkFVX3lxTE5acHIzX3JmWldwQjhseU8tQjhWejNZaGtjWHJTUnRjdUpUVFZ2U0Y0bVZOWW1Da1N3bWZFZFljalFISGhsV1gwUHJ5SXZ2aFRZeVNOc3hHUTFGZlFfWGc?oc=5",
-          "published_at": "2026-05-20T04:07:35+00:00"
-        },
-        {
-          "title": "주담대 금리 상승에도 가계대출↑…한은 금통위 기준금리 올릴까 - 더팩트",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lQlNZMmVNTnFQS3JGckdkdElIQUxRM1QxSGI1RmVOc09VNTRINEpzVHE4Y0w5OWFELVBnS29OZ0pJbGw0N0Nha25UZXpEaFJoajRRdy0wc0Zrd9IBVEFVX3lxTE1uRTBXYjM0Vzh5SU00V1RzdXo3TUh2b1k5SHpjeFhsTXNTcnUzcTE2U1pHQkRrM0QtVmZPUmxDdzNJTFVrSTcwVW5LOGV0WHlaVlM3SA?oc=5",
-          "published_at": "2026-05-20T04:00:01+00:00"
-        },
-        {
-          "title": "中, 기준금리 역할 ‘LPR’ 12개월 연속 동결 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xTmxhY3dlX3hRUDFvTEZENm9aclVNUXplQmhualo4dmFvT2ZVWlVVYUJvdTluUWZJTnZvRF9wUnpjT2lYNURfVm5GZUtvQXhQWHphag?oc=5",
-          "published_at": "2026-05-20T03:28:00+00:00"
-        },
-        {
-          "title": "中 '사실상 기준금리' LPR 12개월째 동결 - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04UkFwSFhDWDZkTV9vbTF2eE1yWG9nODI3VGg5LXI3OE9LT2Vlejd0THg0RlE2ZUpGc2toeEJ2dHZKNzN0MnJCTV9JSFZjcldJdHdkdHlFYnNHaFg5aXdneUlBRlpsanMzWDlEUU44VdIBc0FVX3lxTE5YSndLRjVINUkxVE1PMmt2eWQyQlVuTUVUWjJDdWFMSVMySUFMemw1TndlZ1lLQ2dmejFqRmxXalhMX0hOUmRfOUFxU0d0Tmk0RDBOVEU2cERqYzZTaXJ3eGJpT2Z3enQyUG5BMnRrZ1Fnb2c?oc=5",
-          "published_at": "2026-05-20T02:42:59+00:00"
-        },
-        {
-          "title": "中, 기준금리 1년물 LPR 3.0% 5년물 3.5% 12개월째 동결 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CY05xUmx5X1UzWTNYQkpkQjJQWkFONnlNUE90NE5ZdTBHMDF0UW1ZSUt1MVRObmNLWGVQWVdWSm1KZmwwd01LclA2UUdDZl9wT0ktODkzOTJZMVZFWE1YNNIBeEFVX3lxTE1FUjVId2N3RS1MMndqNEdSTzNpVGF4SEVFWmJHQXBxb3BrUzlkTUtOV1JwOHBNOWt4YUJWeXhFODhLTi1Rc2taMzVYN1N2YWYxUmNJOGpVNVgwNnlmTVJ2eVBxRGNSRUlfY3dhRjdfNllfVXR4dFBmOA?oc=5",
-          "published_at": "2026-05-20T02:31:30+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "뉴시스",
-      "score": 119.9,
-      "articles": [
-        {
-          "title": "[속보]원·달러 환율, 1.0원 내린 1506.8원 마감 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81OWpOU3M5emFyNm04OVNBbEJYOFpieXlwLVlxSXZTSUJoWUdMZjNWM1pGMDY2WWVBMktsTWhBV3pLdDE0bGpDNXRMVEtnV1JuaXU3VEJwdkMyRzRjRGdXMtIBeEFVX3lxTE52REZ1M3dfemFYbWhnN01yWU1GX0pGd2M0SktINTMwWlJnLWRtdHdSaDR5U09ENGlrdHNKUTRoTElOSkFKcGhsamZVZU03YXJFWmo2SkU5Y3ZKQTFjN19tby1qeEVJTnlyMnZrRU1pdG5qTUlzWV9VNA?oc=5",
-          "published_at": "2026-05-20T06:34:15+00:00"
-        },
-        {
-          "title": "KB국민카드·토스, '자립준비청년' 경제 독립 지원한다 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tVmM2NGpGYXZCZXY3bzdzdmR5NlFXS1FlSjkxZEdBaHZjZFdZZlNTUWxONFp4VE1pNFJpZU04bm95U09nbGF6MDc3a1pYMWZEbVdXcHVaMWtNc2tISjJtNtIBeEFVX3lxTE1sNFhKTDRLRzJ6NXNkNFZWRU5CVHN3UmdtM3dRM0U3cDZwMlV1NDlOU1BqYmRYZXVSMnBmQ1NhTjVWNC16VW9qckN1R09tVUtmSVRERjdnVnhxOFR4bkMtaUhENlR2S3M5SU9iNGJSRFBVYUNJUjJIZA?oc=5",
-          "published_at": "2026-05-20T06:34:05+00:00"
-        },
-        {
-          "title": "일본은행 총재, 채권 금리 \"빠른 속도로 상승\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QVmFsTUxIWHdTWlNrdnVBNjNCRkZwRWZNeVphZlNEQzhJMmFGU0VuMkt6aFNxS0M5UlFWektaWDZZMzF1eGVzM1JTZFU5WnlsZFdQQnRXeHVYUFhPUlZsRtIBeEFVX3lxTE5CYkVQT3ZYMG9iWU52MjlkNzBwWnBBeTNPcE9hTjktSEhwY0Y3dFBET255b2dLajJTV3UzLUh4djgyRjVoM2xYM0pOTTBabnRBS3ZqeVgwajkwaHVHN0ZSczJQYzRCQ21pTXJTYl9JRzJjSHBjNUQ1bg?oc=5",
-          "published_at": "2026-05-20T06:26:29+00:00"
-        },
-        {
-          "title": "재경부 \"중동전쟁 장기화로 민생부담 점차 가시화…유가 변동성 확대\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dDRnM0t5ZjlhSm42ZkRPR3ZLdWRON3J2VGpPWHhySS14MnhIWVpRUTdkYXQ2eVBuekhJRVJNZjZOeGQwcTlXbjFjYWdOTnVRM0VNdnRDSktvYUxRcUNVVNIBeEFVX3lxTE0xN0tJWTRBeWxNN1hPdV9QYjFwSllVOUVHY0NqSXE3bmdUSmozN0pDLXljMTJyM1Z5ZFQ3eFY0Rm5sYVh3LXZBalZJUVNadHJQQVJqSGFQX1pvOF82SGRhb2Ntd2lyenJzc01FdXVDSTEtY1JiT09Jdg?oc=5",
-          "published_at": "2026-05-20T05:58:32+00:00"
-        },
-        {
-          "title": "경북도, '한일 지역협력포럼' 개최…경제·문화 교류 강화 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lSk1pRjN2bGMzQjZwQVBYZ3hmY2pYMW9lQXJvUFhINldSd3Axa0M5dEVJNTYxWXZ2VXZGdktXYUFVem1KLXVrZGx5VFhKREtXaUp3ejlZZ0hZU2FLMGhNNdIBeEFVX3lxTFBLckpQNGU2WFFacml4N3hrd2lleTZwcEJ1NnNJbHpRQWc5ajlPUFprWWtySThkOEZ3T3ItNFo0X2lrQlNaaXdUWVY5NDZTSUlObnVNZzAwa0tkR0hHSE5nODliaUJFX09YMHByNGJURklHR0taUHhPVg?oc=5",
-          "published_at": "2026-05-20T05:42:21+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "동결",
-      "score": 101.15,
-      "articles": [
-        {
-          "title": "노무라, 5월 금통위서 금리 동결 전망…점도표 한끗 차이 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GbS0xdGI3NmZVLVhHNGdONk1HMG5Dd0ZqZ1BQUEhRN09FZ1Jqb2NBZV9RR2JYZDZBZ3p6YWtKanMxZXNyU3NyTGZmYmhsRXZuYlRhVTFQUXBwRVFCOXk4c0ZiYU5TZDZUeVYyM1YtSXPSAXRBVV95cUxPUE1MeWlucDJQX2doUGdNZTZjYi16TTVxZ19NcDJ1Q2dpaVlodWhEV3ZYMkxyOHlPWGlhOGpEMHMzekhqaGZjeXdUUUV0aFcwYU9jVHJTR1hEc2pfT090dGFsNFNoQnR6YzBsWUNETzk0X3Z4eA?oc=5",
-          "published_at": "2026-05-20T04:33:18+00:00"
-        },
-        {
-          "title": "中, '사실상' 기준금리 12개월 연속 동결...인하 서두르지 않아 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mTkZRYkphWWFDaFpEQTBkTnNyLTBpd1BXeGJUdkRfQTdxdE5DVXo3TnJ4Wk1VU2Q0ckFia2pjaEk1ZmtabnhLS01nN2hOMi14NE9uaVhVVGY0UdIBXkFVX3lxTE5acHIzX3JmWldwQjhseU8tQjhWejNZaGtjWHJTUnRjdUpUVFZ2U0Y0bVZOWW1Da1N3bWZFZFljalFISGhsV1gwUHJ5SXZ2aFRZeVNOc3hHUTFGZlFfWGc?oc=5",
-          "published_at": "2026-05-20T04:07:35+00:00"
-        },
-        {
-          "title": "中, 기준금리 역할 ‘LPR’ 12개월 연속 동결 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xTmxhY3dlX3hRUDFvTEZENm9aclVNUXplQmhualo4dmFvT2ZVWlVVYUJvdTluUWZJTnZvRF9wUnpjT2lYNURfVm5GZUtvQXhQWHphag?oc=5",
-          "published_at": "2026-05-20T03:28:00+00:00"
-        },
-        {
-          "title": "[파이낸셜 워치(160)]'돈줄은 풀지 않았다'⋯중국, 금리를 동결한 이유 - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yYmlhTEVBRElIaXVFNXRqcldJaGFSYk1JZUJ2dVlXclJTNV9QcWtRWlJwNklhMlR3SkgzNWw5YVA1dTNDQTA1a2NrN1NZdWdHRDFacVBiOXN0Z3VrbGc?oc=5",
-          "published_at": "2026-05-20T03:07:30+00:00"
-        },
-        {
-          "title": "중국, LPR 12개월째 동결…상반기 금리 인하 기대감 낮아져 - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtOFN3azFNSnkzNEhhVlV2MFM1YUIyd3NpRUFGWjd4WEM0NmowMXZiV2lvMWdmQlZtRVkybkpNTjZkOXUtWnUyNVJUdU5fcHVZNEIxUHZIUngzNzl0YnN1NTdJLUV3Qk9DUU93R0lFN202X2s?oc=5",
-          "published_at": "2026-05-20T03:04:36+00:00"
+          "title": "[ETF 따라잡기] 고물가·금리·환율 변수 남은 韓…극심한 변동성? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1eUdpMUNkZ21sa3BMcW5UZUJ0c0pYN1FYM2xheU05dUZiTFNuckJ1dlRXRTN5QmJDcmpfNzhBdF9ldG1YNzJ4WUdzLUpPcG8?oc=5",
+          "published_at": "2026-05-21T05:30:20+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 94.89,
+      "score": 132.11,
       "articles": [
         {
-          "title": "르노코리아-부산상의, 지역 경제 활성화 위한 MOU 체결 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1VmxhUkMzWUl2VXV1TWIwbzZhMDNYTTItMG80UlhUbFA2MFNXM3hycU5oLU0xb2JZeEJHYWdZNVZOZnYzSlNYNzJjZlBrZXc?oc=5",
-          "published_at": "2026-05-20T06:22:17+00:00"
+          "title": "경제단체들, 삼성전자 노사 합의에 반색…\"국민경제에 큰 의미\"(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnWTNmRllJWDEyX3FYY29YUkdPbG93Tjd2R3ZsemNmS1Bfa29WeWlZYUxiWkRTZXBUQllDZXcwQ1NSbE1BVV9faHNMcFJlR0E?oc=5",
+          "published_at": "2026-05-21T06:23:38+00:00"
         },
         {
-          "title": "재경부 “1.7% 성장·7천피·2%대 물가, 1년 핵심 성과” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfU0t4MzlHcEFiZzBtU2ZXRENKX3BQeXdsNVBtWl9jUmFaVmZORXpKejlxM2lvSjBLTllpbEp1YUlNNS1HOWY3SFBsZldEMGs?oc=5",
-          "published_at": "2026-05-20T06:13:15+00:00"
+          "title": "기본소득 유출 막고 지역경제 살리고…정선군, 창업 지원 추진 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxbHB6Tk40T1ZvWVR5UjF2WktKd0dvemN0RXpvQ084V3NkZW8wcy14b3ZCczlZTFFRckdremZwQVVxVldzZjNMVDhSMGhFbDQ?oc=5",
+          "published_at": "2026-05-21T06:08:11+00:00"
         },
         {
-          "title": "닛케이 \"삼성전자 파업, 한국 경제 타격 우려 커져\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WNDQ4QTlBejFtYzRGUmZRWXRESk5UeEIwYUZrN0JZMUgxckFuRnJkMDRzZllSQTdhRnhVT285NEhsSFFRcmRLbWllUzllYzc4cTdOc1N0SW1qUF8wdmc?oc=5",
-          "published_at": "2026-05-20T06:09:00+00:00"
+          "title": "[종합] 중‧러, 미국 맞선 공동전선 공식화…군사·경제협력 강화 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPejk4bUo2UjBRalh6aEtrNWNvblRrTmMtNTRrSE14WU5ZWlhfMWx2LV9vYXN6ZXJzaGhIeDNkMlBneWR5VGE1TlFXRnEzalk?oc=5",
+          "published_at": "2026-05-21T05:38:33+00:00"
         },
         {
-          "title": "[이재명정부 1년]\"성장률 3.6%·코스피 7000…\"경제 회복세 본격화\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SUHUwbEpPYjhHckNPeWdIRHNvSk5QelE1a0F2RE1VekZZcGhlWjBzU3pKa1BmTmVTNEZKT3M1Vjl5cThkcXpSbGpWaEk4N2c?oc=5",
-          "published_at": "2026-05-20T05:58:04+00:00"
+          "title": "경제단체, 삼성전자 협상 극적 타결에 \"최악 상황 피해 다행\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zLVBiQ0NZUlppWERZSFM0S0F2bXlBX0NvVG5zQmhUNFFUVFh4YzdWZ01LenJWeVplY2hhbU5iNHIzTHIyVUVBX094VURGZlE?oc=5",
+          "published_at": "2026-05-21T05:33:07+00:00"
         },
         {
-          "title": "美 장기금리 19년 만에 최고치…코스피 흔드는 국채 투매 공포 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrc0pEWFVCYkU0TmRJUWZuTmJhR2U3MnktQjZkanBXVm9rUGVlUUJJdkIzZmtvVEQ3ZHZiWV9ndDhCREtLVlFDUExYYnpMQU0?oc=5",
-          "published_at": "2026-05-20T05:39:02+00:00"
+          "title": "[ETF 따라잡기] 고물가·금리·환율 변수 남은 韓…극심한 변동성? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1eUdpMUNkZ21sa3BMcW5UZUJ0c0pYN1FYM2xheU05dUZiTFNuckJ1dlRXRTN5QmJDcmpfNzhBdF9ldG1YNzJ4WUdzLUpPcG8?oc=5",
+          "published_at": "2026-05-21T05:30:20+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 94.89,
+      "score": 132.11,
       "articles": [
         {
-          "title": "르노코리아-부산상의, 지역 경제 활성화 위한 MOU 체결 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1VmxhUkMzWUl2VXV1TWIwbzZhMDNYTTItMG80UlhUbFA2MFNXM3hycU5oLU0xb2JZeEJHYWdZNVZOZnYzSlNYNzJjZlBrZXc?oc=5",
-          "published_at": "2026-05-20T06:22:17+00:00"
+          "title": "경제단체들, 삼성전자 노사 합의에 반색…\"국민경제에 큰 의미\"(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnWTNmRllJWDEyX3FYY29YUkdPbG93Tjd2R3ZsemNmS1Bfa29WeWlZYUxiWkRTZXBUQllDZXcwQ1NSbE1BVV9faHNMcFJlR0E?oc=5",
+          "published_at": "2026-05-21T06:23:38+00:00"
         },
         {
-          "title": "재경부 “1.7% 성장·7천피·2%대 물가, 1년 핵심 성과” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfU0t4MzlHcEFiZzBtU2ZXRENKX3BQeXdsNVBtWl9jUmFaVmZORXpKejlxM2lvSjBLTllpbEp1YUlNNS1HOWY3SFBsZldEMGs?oc=5",
-          "published_at": "2026-05-20T06:13:15+00:00"
+          "title": "기본소득 유출 막고 지역경제 살리고…정선군, 창업 지원 추진 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxbHB6Tk40T1ZvWVR5UjF2WktKd0dvemN0RXpvQ084V3NkZW8wcy14b3ZCczlZTFFRckdremZwQVVxVldzZjNMVDhSMGhFbDQ?oc=5",
+          "published_at": "2026-05-21T06:08:11+00:00"
         },
         {
-          "title": "닛케이 \"삼성전자 파업, 한국 경제 타격 우려 커져\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WNDQ4QTlBejFtYzRGUmZRWXRESk5UeEIwYUZrN0JZMUgxckFuRnJkMDRzZllSQTdhRnhVT285NEhsSFFRcmRLbWllUzllYzc4cTdOc1N0SW1qUF8wdmc?oc=5",
-          "published_at": "2026-05-20T06:09:00+00:00"
+          "title": "[종합] 중‧러, 미국 맞선 공동전선 공식화…군사·경제협력 강화 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPejk4bUo2UjBRalh6aEtrNWNvblRrTmMtNTRrSE14WU5ZWlhfMWx2LV9vYXN6ZXJzaGhIeDNkMlBneWR5VGE1TlFXRnEzalk?oc=5",
+          "published_at": "2026-05-21T05:38:33+00:00"
         },
         {
-          "title": "[이재명정부 1년]\"성장률 3.6%·코스피 7000…\"경제 회복세 본격화\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SUHUwbEpPYjhHckNPeWdIRHNvSk5QelE1a0F2RE1VekZZcGhlWjBzU3pKa1BmTmVTNEZKT3M1Vjl5cThkcXpSbGpWaEk4N2c?oc=5",
-          "published_at": "2026-05-20T05:58:04+00:00"
+          "title": "경제단체, 삼성전자 협상 극적 타결에 \"최악 상황 피해 다행\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zLVBiQ0NZUlppWERZSFM0S0F2bXlBX0NvVG5zQmhUNFFUVFh4YzdWZ01LenJWeVplY2hhbU5iNHIzTHIyVUVBX094VURGZlE?oc=5",
+          "published_at": "2026-05-21T05:33:07+00:00"
         },
         {
-          "title": "美 장기금리 19년 만에 최고치…코스피 흔드는 국채 투매 공포 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrc0pEWFVCYkU0TmRJUWZuTmJhR2U3MnktQjZkanBXVm9rUGVlUUJJdkIzZmtvVEQ3ZHZiWV9ndDhCREtLVlFDUExYYnpMQU0?oc=5",
-          "published_at": "2026-05-20T05:39:02+00:00"
+          "title": "[ETF 따라잡기] 고물가·금리·환율 변수 남은 韓…극심한 변동성? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1eUdpMUNkZ21sa3BMcW5UZUJ0c0pYN1FYM2xheU05dUZiTFNuckJ1dlRXRTN5QmJDcmpfNzhBdF9ldG1YNzJ4WUdzLUpPcG8?oc=5",
+          "published_at": "2026-05-21T05:30:20+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "score": 107.3,
+      "articles": [
+        {
+          "title": "반도체 호황에 ‘상위 10개 기업’ 수출 쏠림 사상 처음 50% 넘어…대·중소 온도차 커 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lMjU2dzIxdmIwamZfNFZfV1pjcEJkNl9oT1JCdDJqZ1g1Y3p6cHhRckxfbEwtVHlhZ1lTN0QxYkUweDg4Q2ZHb2NfTEx0STE4VE9qQUhzbzZRd9IBX0FVX3lxTE13Z3p2Rld0T1FqaUx5LTB1TTJfYTluWTE3SnJjLVpGRlh6amJGcUhMNk84T1piY20ybjNWN0xIUVpHejVwbUtOX2hSMDBiVmFQWUQtVXFVcjNYOHRzNXpF?oc=5",
+          "published_at": "2026-05-21T06:44:00+00:00"
+        },
+        {
+          "title": "서울 전세가 급상승과 반도체 주도 수출 기록, 스페이스X 비트코인까지 이시각 주요뉴스 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdVMxaGlHRFRaMFdrRDZlVVB6ZEM1bDN6cVpJYks2a2Vrb2ptMFlXZ2JVVUZDaWRnVlRGRFo4SHF4bERoMmJkZmFHRmJJZVdzUC03b2tsVS1FX2g5MTlVZDdLbjk0TUZaN2dici1qWTDSAXRBVV95cUxONkM0V3d2SkNfSUxTNDc5YUJCdkFNRGtEc1R4R0NiV1pNY0VRelBMMmhYX2dxVW1JQnpEQkx0amNLTEtFVEh4T3JmaDdzS1pZdXhObkZKU0JkM3lLZUcxU2ZPNFU2b0JlZXJPWVNfRVRvZXJLUg?oc=5",
+          "published_at": "2026-05-21T06:39:33+00:00"
+        },
+        {
+          "title": "'반도체 질주'에 1분기 수출 38%↑…10대기업 집중도 50% 돌파 - 금융소비자뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YaGRiNVFKaVdVLUtUVS1TY1R4Tm4xZ1d1aTlaUVl4TjJ0MlJvaS1BVjRseUZ1ay1LZ29nUko3WW1CcWN1TG1Wd3l4bXQ3dzd0MGZMSFlfVGFYWldXRG95enVsM0ZxRXR3UHc?oc=5",
+          "published_at": "2026-05-21T05:35:05+00:00"
+        },
+        {
+          "title": "1분기 수출 반도체 쏠림 뚜렷…해법은 분산보다 전략적 확장 - 이코노미트리뷴",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GRGhZVXRCbEVxQnVoWUxjNmU4MWdlMDFMVk1icW9nb25kN1JKNi0wZjFnOFpheGhjYzFWTkJ1eXRKMTZXVE1EbXo0dm91MG50WFJ5RERldmNHZEx2MWFlTlAzU05sM0xiM0VMNkNsQU5kemRJOTcw?oc=5",
+          "published_at": "2026-05-21T05:14:23+00:00"
+        },
+        {
+          "title": "日 4월 무역수지 2.8조원 흑자…\"반도체 수출 호조·중동 원유 수입 급감\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54a0lkaVl4SVhOYVc3eGQzbzZCT3gzeVg3TDhfUFhfYlNVNW8zRlowMWpJLU9hdFNGTVc3a0t4RjR3T3BCMGVuNDlPekJKRUlvYUhrZy1IZGhmOXBtM0oxSNIBeEFVX3lxTE1WYXBNNXFYLVlhajFidDEyNGJIY1ZybE1YN0U0SnFRa1ExbEVYbW9GZ3JxWmcwRXdXMW5HZEd5S29vdVhzeTFLN2JUakFuYmpsOVFIaE1jSmVzZ2ZvMlRBR3RMNEpDZjAyZE53ZlJNMVR0YUprbDR4Tg?oc=5",
+          "published_at": "2026-05-21T04:25:56+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "4월",
+      "score": 106.5,
+      "articles": [
+        {
+          "title": "4월 생산자물가 상승률, 약 28년 만에 최고 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YcW1HSlB3SzlTbVVsMVNyZC1ScGQ4WVhfY25zSUFJeHpqX1Z0d3liRkdZWW5PTjQxdlhRdGZQVmxmazcxY1FIdWwtWjByMUVNTVJlUjJYNk9SU1gtQ19LRWRqcF9RWXlNUVE?oc=5",
+          "published_at": "2026-05-21T06:32:01+00:00"
+        },
+        {
+          "title": "4월 생산자물가지수 2.5% 상승…공급물가 5.2%↑ - 동양뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85UEJiakdHSEZQcHhJWS05clVvWVpvZzNVcXVJYmFJMC10Tm9leUtvWGJxQ25rSmFUb0xQQkREdEJ1MHdORlJGOVNLRXd1X2V0UEpUQVdZYjRzVkc4M0pEc1ZYT3RSVUlfWkE?oc=5",
+          "published_at": "2026-05-21T06:27:06+00:00"
+        },
+        {
+          "title": "중동 물류난 뚫은 K푸드…1~4월 GCC 수출 37.6% 급증 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WdmlOeXNqallKZ0NWSzBSNXNQV3ZlVTdtWUJZTmpNZFl6RXZVM2tWNU1sR2lPQkJJY1d1QUF1SGFGWFQzMTRnNEVrYzdYaDlFQWg4RFRzQ1pTZw?oc=5",
+          "published_at": "2026-05-21T05:19:14+00:00"
+        },
+        {
+          "title": "중동발 충격에 4월 생산자물가 28년만 최고...유류세 인하 2개월 연장 - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNQ21aaFFRMW9zV3Bmb1lFaEwxNlhPRUtLSGU2Z3FYR20tNk4wdHdkYkRBR2ppR1J0SDhXVDhremFrOUtwa0R6b3BBaUg5QUdDQWRpaw?oc=5",
+          "published_at": "2026-05-21T04:56:00+00:00"
+        },
+        {
+          "title": "K푸드 1~4월 수출 35억 8천만 달러…중동 지역 수출 38% 증가 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhckpUdGpWNmhLaUFuQmd1b2RTYW5qOUdoUEZJYXVYRkVpVDM5LVRhM0pJS2RLYXk1a1UyR1hVSUhzY251NFJxZ3hEVHhQWG8?oc=5",
+          "published_at": "2026-05-21T04:44:29+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 100.3,
+      "articles": [
+        {
+          "title": "서울 전세가 급상승과 반도체 주도 수출 기록, 스페이스X 비트코인까지 이시각 주요뉴스 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdVMxaGlHRFRaMFdrRDZlVVB6ZEM1bDN6cVpJYks2a2Vrb2ptMFlXZ2JVVUZDaWRnVlRGRFo4SHF4bERoMmJkZmFHRmJJZVdzUC03b2tsVS1FX2g5MTlVZDdLbjk0TUZaN2dici1qWTDSAXRBVV95cUxONkM0V3d2SkNfSUxTNDc5YUJCdkFNRGtEc1R4R0NiV1pNY0VRelBMMmhYX2dxVW1JQnpEQkx0amNLTEtFVEh4T3JmaDdzS1pZdXhObkZKU0JkM3lLZUcxU2ZPNFU2b0JlZXJPWVNfRVRvZXJLUg?oc=5",
+          "published_at": "2026-05-21T06:39:33+00:00"
+        },
+        {
+          "title": "[황병극의 파인앤썰] 무겁게 오르는 금리 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxQ1BhRXVXRUtDNHRHWHV4V3h3LWVKTU05TW5UdWhVSHctS2VPbGNaUkNWVVN5QlFkbE03dnMyME5uRXBkUmFMcUxIczRnMTVyVmw1VTBWOTNrcHNDQjZjVTdYeUFwS1g4UmdrS3p3Z1E?oc=5",
+          "published_at": "2026-05-21T05:11:20+00:00"
+        },
+        {
+          "title": "[외환] 코스피 급등에도 유가·DXY 반등…1,500원대 초중반으로 낙폭 축소 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90UFZHLVo5eTRTSlBfVEwxMktRcWwwWGt4czVpa2JwMkRaVDd2clQyb09INDAtTldrc3c1Slpmei0tSVE2VEVwZUk0bjdEZTBuQTBTNmNwckNiN0dUMzZ1UWstQ3NJaUZYRHQtRTNDOS0?oc=5",
+          "published_at": "2026-05-21T04:36:22+00:00"
+        },
+        {
+          "title": "경제단체, \"삼성전자 노사 합의안 도출 다행\"…일제히 환영(종합) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vTl9YanZiNjMway05NWxZMzBVVVAwTkU0MktZQ0NQbFphMnpXWlpJaHlheDRESWF6MjFPQUgzd0Z1aWNEWUdveGQyZVpGOVE5MUVxVEEwUlBxS0dEV002YzZPVGNtR05lNzI0Qy1PdUQ?oc=5",
+          "published_at": "2026-05-21T04:32:27+00:00"
+        },
+        {
+          "title": "4월 FOMC서 '한미 통화스와프' 논의 없었다 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QXzVuSW5TX2Jwb3BOYjh2M1hON1hQNFROQkJRbndPTXJXRkNuOU5MTVpBbDhxcV91Uk1hU09FNE5XS1lCV3RZR2w3cGtjUlZQVFdFVWFZaDFBQXRTRDh2S3lWeHQ5ODhBNk1IWTR6Skg?oc=5",
+          "published_at": "2026-05-21T03:51:35+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "최대",
+      "score": 91.92,
+      "articles": [
+        {
+          "title": "중동 쇼크 본격화...생산자물가 IMF이후 최대 상승 - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zeTF4TUFfd2REeE5BZ2lPalRKWmVReWdCWDFKNEQ4dkg2NEVBcEVhM0xQamFYcVhQanc0OWE5MWxyVGdXVjJ4Z0FITVFCYlRwb2fSAVNBVV95cUxNa1BGZ2hhZFluVl9YTnQ0TEprMFdQWGJlUVAwOWo2UGJ0TDhwTnBMWmp3YmQ0LTdJd05YRFgyY0VZY2F3MHZzYl9iclZaUjJjQjRTcw?oc=5",
+          "published_at": "2026-05-21T06:33:47+00:00"
+        },
+        {
+          "title": "농어촌 기본소득 효과 가시화…인구 늘고 K-푸드 수출은 역대 최대 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcF93QkdQSVk3eDNXSDdrdlU3dFBxTThKUjBoQzBDVDVHVUhVR1BJN0pYMmhqYW8yMzZMazdCRFJtVnNncTRiR0FwNnA4eENxNGhWYUp4WVZ2LUxXUzJfY1RNejkyWF9jUnpCekoyeG9DY2tXcERBczdIallDbG0xek50aXJxYW9BMlE?oc=5",
+          "published_at": "2026-05-21T06:15:20+00:00"
+        },
+        {
+          "title": "성남시, 중소기업에 수출보험보증료 최대 100만원 지원 - - 중앙신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fcWdXc2RINS1QS0xKZ1lDOGVyclk0QlpnT3FiQkFMY1hFR2tZNGpTQ2tiQU4yeHdzeC1WRVdCRmt4S29CTVVab0g2VWY0b0llSVpZZHpGUG1ZNDRIcHh3STRrQUdRdktIVEE?oc=5",
+          "published_at": "2026-05-21T06:09:34+00:00"
+        },
+        {
+          "title": "[경제를 부탁해]삼성전자 노사 극적 합의…1인당 성과급 최대 6억 전망? - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WSHp1MVhLczE2OEk0X3RmOEVDdUt5MkdydldqUFBORTBiYURBM051TkFvNzhQNkhQWFdYcFA3TzRrVGtjYjlKeENTNmh6U1g5UXJ5T2J0RFdoR1B2QlHSAWNBVV95cUxPU0lXVHhJVmZjSXNITXBTdjk3RWZCWjdtcGpwY1Rhdi1RdXhwZW5SSThNVFV1azdOUnJ1UGJuRjFQaWJhaVcxNU9Da0NJaUVqbGVFSUVseXpESnR2U2I5S0xoU2c?oc=5",
+          "published_at": "2026-05-21T04:27:00+00:00"
+        },
+        {
+          "title": "상위 10대 기업 수출 비중 50.1% ‘역대 최대’…반도체 쏠림 심화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10ZU51b0V6Yldvc2ZZSjlyTF9GblA5aGFocWpiWk9ZZHRyWnppaWNyUzJoX0FmSmNEVTM5VG5HTEJmbXRQT0pzbFRYdHlRRzgtUHZpTW1vcUJHZkZTYnZNWHlOOXB6U3NLbS1VSzlNZ2Judw?oc=5",
+          "published_at": "2026-05-21T04:04:00+00:00"
         }
       ]
     }
