@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-06-02T07:21:42.297943+00:00",
+  "generated_at": "2026-06-03T08:12:48.685320+00:00",
   "source_count": 4,
-  "article_count": 392,
+  "article_count": 381,
   "top_keywords": [
     {
-      "keyword": "물가",
-      "score": 204.98
+      "keyword": "수출",
+      "score": 158.66
     },
     {
       "keyword": "daum",
-      "score": 195.94
+      "score": 132.34
     },
     {
       "keyword": "net",
-      "score": 195.94
+      "score": 132.34
     },
     {
-      "keyword": "5월",
-      "score": 174.5
+      "keyword": "OECD",
+      "score": 114.14
     },
     {
-      "keyword": "수출",
-      "score": 146.27
-    },
-    {
-      "keyword": "연합인포맥스",
-      "score": 105.24
+      "keyword": "물가",
+      "score": 100.39
     },
     {
       "keyword": "상승",
-      "score": 93.81
+      "score": 96.14
     },
     {
-      "keyword": "달러",
-      "score": 90.11
+      "keyword": "환율",
+      "score": 76.02
     },
     {
-      "keyword": "소비자물가",
-      "score": 89.37
+      "keyword": "5월",
+      "score": 75.9
+    },
+    {
+      "keyword": "금리",
+      "score": 74.1
+    },
+    {
+      "keyword": "반도체",
+      "score": 73.84
     },
     {
       "keyword": "기준금리",
-      "score": 87.79
+      "score": 64.9
     },
     {
-      "keyword": "유가",
-      "score": 86.63
-    },
-    {
-      "keyword": "최고",
-      "score": 86.09
+      "keyword": "상향",
+      "score": 64.65
     }
   ],
   "hot_topics": [
     {
-      "keyword": "물가",
-      "score": 204.98,
+      "keyword": "수출",
+      "score": 158.66,
       "articles": [
         {
-          "title": "고물가·고금리·고환율 '삼중고' 다가온다…서민 살림살이 팍팍 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZV2NPUmpvV0o3M2RVc3EybnZwdkhTYk51NDJVbmlwT1packVvSU80aGJxdDJWN0FaMDlEdllqSkJuamNFRnpfeHZaR1hKblk?oc=5",
-          "published_at": "2026-06-02T06:51:15+00:00"
+          "title": "aT, 방콕 국제식품박람회서 9720만 달러 수출상담 성과 - 재외동포신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93Y1dMdTItSUtMUDRsTFA4bVpSMk5IQzByeVJiRjRTYkVYVGxvakdLVXY3ZFp3VVZBVTg1NVo2UUNxeDJIV05lUGFEMUY3MGk2TW1ocUtfOWNVSlZuRG5ZTUdEOWhXYWRfWXRn?oc=5",
+          "published_at": "2026-06-03T07:45:36+00:00"
         },
         {
-          "title": "5월 물가 3%대 상승…“최고가격제로 0.6%p 하락 효과” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Yb01udlZHSWhSS3hJZnA1X3RNN1IxSHdfcW1WY1lJVEtTb3drNklrb3RoZi1ZLUsza04xRkI3MVFiRlB1OGRuZ3M4SFBfLVU?oc=5",
-          "published_at": "2026-06-02T06:45:06+00:00"
+          "title": "제주 수출기업 새 도정에 수출정책 촉구 - 제주매일",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUzB1NFJDcWlabFVpa2I3TUFEQXE5SHBodjhIUzVMMi1Vb3ZjNFlWdzV0bXpFWU9uYV9QWE1TRGdlRy1vTnFjWGZxZmR6QmNYUlBTaHBGQzNCY0pqWFhmMmxXZ3F1NnRRZ0tWZQ?oc=5",
+          "published_at": "2026-06-03T07:41:58+00:00"
         },
         {
-          "title": "중동發 고물가 본격화 되나…소비자물가 26개월 만에 3% 돌파 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10dHFkanFhQjlNZ1VXN0R1TVJlUUFmeDNLRWpXUFJDNDhQdXBrc1Vqb3pYV1NaVDVTMWxVQXoxSkdkNVRJYlBVNTI0VDB1dGpZZlVLM2lR?oc=5",
-          "published_at": "2026-06-02T06:42:06+00:00"
+          "title": "OECD 올해 한국 경제성장률 전망치 2.6%로 상향, 반도체 수출 확대 반영 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PX1BpSUFWYUJWdkJLdVBQOXJtdlpxOTdLR2dnQXpFTGdQNmRmQmlWcm1pdGYtTGFtZDAwYTdob293R1d2ejg5QVdsTm9nWlFvcHRpMFdkaGZQX2poV3NfeDdBbUdBaXZobFV1cmlYOGk2Zzg?oc=5",
+          "published_at": "2026-06-03T07:33:52+00:00"
         },
         {
-          "title": "5월 소비자물가 3.1%↑…한은 “당분간 3%대 유지될것” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRXFrb3FqMzktbjdsWUpPNy12YkItR2xKUEdJOGxWeHI2V083WVhsTmtwQk5ERDJLYTlVRFJhS2ZUTklCRHBUQzRFUFBxQ216aFdHZ005QmxxLTVrUzhZUGJOck5PSVlpTkktckxIbUZqQQ?oc=5",
-          "published_at": "2026-06-02T06:40:00+00:00"
+          "title": "OECD, 올해 韓 성장률 1.7→2.6% 상향…\"반도체 수출이 견인\" - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0phV3VkNUlXNmV0SlNpalRYcUdzSVppMTVhR0J4aHFnU2pacmZMb2toRkRSLVcxUXlqWlNtRjktZ09TYy1Xd1doSmdzWWdFV0U0c2x4a2VhdjB6TU12eVdHQm8zSlRfcWJ6NG1ia210OUM0dEdsWV9mSlZ0YWEtMEhKVDhPcmx0RWp3?oc=5",
+          "published_at": "2026-06-03T07:32:31+00:00"
         },
         {
-          "title": "중동전쟁發 유가 충격…5월 물가 26개월 만에 최고 - 경남뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ic0d4Rl8tNUpzWXVPc0dYZ1VTb0hXZUlRWWZseDc0blNlQWI0MDR2cGZ1UjAxSExkVWVVSHlrYnZrQmxBOUNSX0tjdlRDd0pwMURQb3ltN1dWWDQ2VW84MnFPSzZqWHlz?oc=5",
-          "published_at": "2026-06-02T06:24:52+00:00"
+          "title": "반도체 수출 호조에…OECD, 韓성장률 1.7→2.6% 상향 - 아시아투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56TXM1anA4d29jajZwVmFyQ09BOEg1Sm1fSk1IeEYzRkNKcHFKTXlrWEY0WG1EWlJ3REZPbXRFUndBWGJYTVlXRklGREpFTHl1MVRDLXlLTEF2X0dwanZQRFhJc0hhOFF3MldJLVp3?oc=5",
+          "published_at": "2026-06-03T07:25:21+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 195.94,
+      "score": 132.34,
       "articles": [
         {
-          "title": "콘텐츠 수출 149억 달러·외래관광객 1천894만 명‥역대 최고 성과 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJUkFTUWZOWDVaczRQNW1ieTVVN2N2XzUya0l4anJ4MTZFSWMwZElMUlZPVXdtS2xJWnY3MUEzWElzR0toOGdFZmgzckxqMkE?oc=5",
-          "published_at": "2026-06-02T07:06:02+00:00"
+          "title": "OECD, 한국 성장률 전망 1.7%→2.6% 상향…G20 중 최대 폭 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCeVM1UmZLY0VVYmNtREtYV3U5SEpnNGRrN2RHMFhDUE90MWZzSU1TcFMzY1NaMW9XQ1gxN0dpZUdYUF81RUlZLUtPRHRpVVU?oc=5",
+          "published_at": "2026-06-03T07:47:53+00:00"
         },
         {
-          "title": "서울시 사회적경제지원센터, ‘2026 사회적경제 리더스 mini MBA 과정’ 추진 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NemEyUFN5b25kVHBfTzJWOHZCa3A1c2xtT0Fmb1pfdjlLT29SNmhEYjd3SUhaaXRhWWVYZ1ZRX0VjRXMyQ1g3V0psWFlYN1E?oc=5",
-          "published_at": "2026-06-02T06:58:03+00:00"
+          "title": "OECD, 韓 경제성장률 1.7→2.6% 상향…\"반도체 호황에 더 오를 수도\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBocHZmcUpaeld1QVVtak90QVZweGEzM2hhVnlrS1A5TS1tQW5OMGdwc1FTcXdKbzE3RXZKb2l4cVdWVkQ0S0FINFJqQmZXYWc?oc=5",
+          "published_at": "2026-06-03T07:47:00+00:00"
         },
         {
-          "title": "'경제 전문가' 김경필, 강남 집 지키려다 파국…\"아내 공황장애→서울 변두리 이주\" [RE:뷰] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lY0ZuMzFWS3c1TnpmWXlBcmNaZHUxenlEbTFuVDZnMWVIcldvV3JfcVJ2V1JRNl9BS0hjNzJDR1FyWG9NTXRRUUx6eFdVWWc?oc=5",
-          "published_at": "2026-06-02T06:51:53+00:00"
+          "title": "OECD, 한국 성장률 2.6%로 상향… “반도체 수요 더 강해지면 추가 상승” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjSzZqZHByR0dVd1lFcGI1NmNoRG5OS1hfaDE3N1B5blZsLUlrSTV4MzUtR0xva29tTnQtNnJ1Zk5UYXpoRUd2a3VvUVVKT1E?oc=5",
+          "published_at": "2026-06-03T07:32:18+00:00"
         },
         {
-          "title": "고물가·고금리·고환율 '삼중고' 다가온다…서민 살림살이 팍팍 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZV2NPUmpvV0o3M2RVc3EybnZwdkhTYk51NDJVbmlwT1packVvSU80aGJxdDJWN0FaMDlEdllqSkJuamNFRnpfeHZaR1hKblk?oc=5",
-          "published_at": "2026-06-02T06:51:15+00:00"
+          "title": "같은 전쟁, 다른 청구서…수출 버틴 한·일은 인상, 물가 안정 대만은 동결 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15bnVsSEVTbjNoYk1IWDhBbWdTMkp6VFlXeUttZTNUYmRNaDJLWlRZMUhQbEZrT3VsMGpuMmdkNi1Sc1FWb290N2YyN2VaSVU?oc=5",
+          "published_at": "2026-06-03T07:15:04+00:00"
         },
         {
-          "title": "신 아메리칸 드림 실현…22개 한국기업, 텍사스 산업시찰 나선다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96d041RVhzUEZycEtqVkhDMkZGQVVESmtwc3djYjUzQjJmVVVFZDBBaE82bVBiYUhtWGpNbFhPZGlPdjdfamNIMENOT0h5WlE?oc=5",
-          "published_at": "2026-06-02T06:48:18+00:00"
+          "title": "北남포항서 대형 선박 30척 포착…석탄 수출 의혹 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MaWFuN2p5UXlWSnpxVFJkRGVvQ0xjNy01X25CM3RHTmcyRVEybGpQT1JJLTlxa2pBdjlBMEhpU2VRbldFMTBLQzBzLUJiWTA?oc=5",
+          "published_at": "2026-06-03T05:48:29+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 195.94,
+      "score": 132.34,
       "articles": [
         {
-          "title": "콘텐츠 수출 149억 달러·외래관광객 1천894만 명‥역대 최고 성과 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJUkFTUWZOWDVaczRQNW1ieTVVN2N2XzUya0l4anJ4MTZFSWMwZElMUlZPVXdtS2xJWnY3MUEzWElzR0toOGdFZmgzckxqMkE?oc=5",
-          "published_at": "2026-06-02T07:06:02+00:00"
+          "title": "OECD, 한국 성장률 전망 1.7%→2.6% 상향…G20 중 최대 폭 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCeVM1UmZLY0VVYmNtREtYV3U5SEpnNGRrN2RHMFhDUE90MWZzSU1TcFMzY1NaMW9XQ1gxN0dpZUdYUF81RUlZLUtPRHRpVVU?oc=5",
+          "published_at": "2026-06-03T07:47:53+00:00"
         },
         {
-          "title": "서울시 사회적경제지원센터, ‘2026 사회적경제 리더스 mini MBA 과정’ 추진 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NemEyUFN5b25kVHBfTzJWOHZCa3A1c2xtT0Fmb1pfdjlLT29SNmhEYjd3SUhaaXRhWWVYZ1ZRX0VjRXMyQ1g3V0psWFlYN1E?oc=5",
-          "published_at": "2026-06-02T06:58:03+00:00"
+          "title": "OECD, 韓 경제성장률 1.7→2.6% 상향…\"반도체 호황에 더 오를 수도\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBocHZmcUpaeld1QVVtak90QVZweGEzM2hhVnlrS1A5TS1tQW5OMGdwc1FTcXdKbzE3RXZKb2l4cVdWVkQ0S0FINFJqQmZXYWc?oc=5",
+          "published_at": "2026-06-03T07:47:00+00:00"
         },
         {
-          "title": "'경제 전문가' 김경필, 강남 집 지키려다 파국…\"아내 공황장애→서울 변두리 이주\" [RE:뷰] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lY0ZuMzFWS3c1TnpmWXlBcmNaZHUxenlEbTFuVDZnMWVIcldvV3JfcVJ2V1JRNl9BS0hjNzJDR1FyWG9NTXRRUUx6eFdVWWc?oc=5",
-          "published_at": "2026-06-02T06:51:53+00:00"
+          "title": "OECD, 한국 성장률 2.6%로 상향… “반도체 수요 더 강해지면 추가 상승” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjSzZqZHByR0dVd1lFcGI1NmNoRG5OS1hfaDE3N1B5blZsLUlrSTV4MzUtR0xva29tTnQtNnJ1Zk5UYXpoRUd2a3VvUVVKT1E?oc=5",
+          "published_at": "2026-06-03T07:32:18+00:00"
         },
         {
-          "title": "고물가·고금리·고환율 '삼중고' 다가온다…서민 살림살이 팍팍 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZV2NPUmpvV0o3M2RVc3EybnZwdkhTYk51NDJVbmlwT1packVvSU80aGJxdDJWN0FaMDlEdllqSkJuamNFRnpfeHZaR1hKblk?oc=5",
-          "published_at": "2026-06-02T06:51:15+00:00"
+          "title": "같은 전쟁, 다른 청구서…수출 버틴 한·일은 인상, 물가 안정 대만은 동결 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15bnVsSEVTbjNoYk1IWDhBbWdTMkp6VFlXeUttZTNUYmRNaDJLWlRZMUhQbEZrT3VsMGpuMmdkNi1Sc1FWb290N2YyN2VaSVU?oc=5",
+          "published_at": "2026-06-03T07:15:04+00:00"
         },
         {
-          "title": "신 아메리칸 드림 실현…22개 한국기업, 텍사스 산업시찰 나선다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96d041RVhzUEZycEtqVkhDMkZGQVVESmtwc3djYjUzQjJmVVVFZDBBaE82bVBiYUhtWGpNbFhPZGlPdjdfamNIMENOT0h5WlE?oc=5",
-          "published_at": "2026-06-02T06:48:18+00:00"
+          "title": "北남포항서 대형 선박 30척 포착…석탄 수출 의혹 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MaWFuN2p5UXlWSnpxVFJkRGVvQ0xjNy01X25CM3RHTmcyRVEybGpQT1JJLTlxa2pBdjlBMEhpU2VRbldFMTBLQzBzLUJiWTA?oc=5",
+          "published_at": "2026-06-03T05:48:29+00:00"
         }
       ]
     },
     {
-      "keyword": "5월",
-      "score": 174.5,
+      "keyword": "OECD",
+      "score": 114.14,
       "articles": [
         {
-          "title": "5월 물가 3%대 상승…“최고가격제로 0.6%p 하락 효과” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Yb01udlZHSWhSS3hJZnA1X3RNN1IxSHdfcW1WY1lJVEtTb3drNklrb3RoZi1ZLUsza04xRkI3MVFiRlB1OGRuZ3M4SFBfLVU?oc=5",
-          "published_at": "2026-06-02T06:45:06+00:00"
+          "title": "\"이란 전쟁 장기화시 '글로벌 경기 침체'\"…OECD 경고 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIcWljMUh1a1FiWTBmYVZiOS1YLUtzalVZR0Rfa2lzdTM4REFlNmxNeUVvX1hZdGVWVG5WN1RhMVJjWkdBM09xcG00dHI0MHo5c21MZ0hhTk5UZ9IBVEFVX3lxTE1GOTdnZVVBell4enJRQ0t6bHIwR0RkYUVSc3dPQ0MweWFJbFozZlV3Z2VKOFZEZjF5ZTMxTS15ajVJQU9sU0lBVTJDY1pGeVhKQXd4aw?oc=5",
+          "published_at": "2026-06-03T08:00:00+00:00"
         },
         {
-          "title": "5월 소비자물가 3.1%↑…한은 “당분간 3%대 유지될것” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRXFrb3FqMzktbjdsWUpPNy12YkItR2xKUEdJOGxWeHI2V083WVhsTmtwQk5ERDJLYTlVRFJhS2ZUTklCRHBUQzRFUFBxQ216aFdHZ005QmxxLTVrUzhZUGJOck5PSVlpTkktckxIbUZqQQ?oc=5",
-          "published_at": "2026-06-02T06:40:00+00:00"
+          "title": "OECD, 한국 성장률 전망 1.7%→2.6% 상향…G20 중 최대 폭 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCeVM1UmZLY0VVYmNtREtYV3U5SEpnNGRrN2RHMFhDUE90MWZzSU1TcFMzY1NaMW9XQ1gxN0dpZUdYUF81RUlZLUtPRHRpVVU?oc=5",
+          "published_at": "2026-06-03T07:47:53+00:00"
         },
         {
-          "title": "중동전쟁發 유가 충격…5월 물가 26개월 만에 최고 - 경남뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ic0d4Rl8tNUpzWXVPc0dYZ1VTb0hXZUlRWWZseDc0blNlQWI0MDR2cGZ1UjAxSExkVWVVSHlrYnZrQmxBOUNSX0tjdlRDd0pwMURQb3ltN1dWWDQ2VW84MnFPSzZqWHlz?oc=5",
-          "published_at": "2026-06-02T06:24:52+00:00"
+          "title": "OECD “韓, 최고가격제 단계적 폐지하고 재정원칙 세워라” - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OMnI3bHJ5VFNWV1JvTmlsOG5sYkhobXppaF9SVVJvSGJjbmYxWUhVaHl1cmFyLVZLZkoyOHRVV1dQbDVLQWdRQU9ENDZJT1JzMnc?oc=5",
+          "published_at": "2026-06-03T07:47:31+00:00"
         },
         {
-          "title": "유가 충격에 5월 물가 급등‥\"3%대 상승률 계속\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Td2VGblphSkNncGdWay1nT3g5ZmVJUDJhMmYwY0tNRWdxWjJ3azRTQkRsS1o5WE9fZFdSZDM5SG40NUc5RVc4QUxZTm1FcjA?oc=5",
-          "published_at": "2026-06-02T06:13:28+00:00"
+          "title": "OECD, 韓 경제성장률 1.7→2.6% 상향…\"반도체 호황에 더 오를 수도\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBocHZmcUpaeld1QVVtak90QVZweGEzM2hhVnlrS1A5TS1tQW5OMGdwc1FTcXdKbzE3RXZKb2l4cVdWVkQ0S0FINFJqQmZXYWc?oc=5",
+          "published_at": "2026-06-03T07:47:00+00:00"
         },
         {
-          "title": "“반도체가 수출 신기록 이끌었다”…5월 수출 877억달러 역대 최대 - 해사신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OTW5YWlVCcGtwQnBwb0YwYmZKeGZIMnM2Tlo0b1Awa3c3QzIzLXJ6cXNtdy1CeGxhek8xMTJRc25aRUxGc2Qxa1VKcHQ3WTFQY0ZsN3ZmZWRUZXdraEIxZFpPTlJNcjZvNURZ?oc=5",
-          "published_at": "2026-06-02T05:26:43+00:00"
+          "title": "[T나는 경제] OECD, 韓성장률 1.7→2.6% 상향…\"반도체 호조에 전망 바꿨다\" - 티제이비",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56dXgzcmNXbm5JM1dHbldHZzFvc3REMFFmUmozVV9PSXk4bXBrQ3JQdEk2UGkzZnlwWjlNUW8zQjVVeTZva3NHV3dwRndlUTNQVk9yM2pvYlBWNGs?oc=5",
+          "published_at": "2026-06-03T07:39:47+00:00"
         }
       ]
     },
     {
-      "keyword": "수출",
-      "score": 146.27,
+      "keyword": "물가",
+      "score": 100.39,
       "articles": [
         {
-          "title": "콘텐츠 수출 149억 달러·외래관광객 1천894만 명‥역대 최고 성과 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJUkFTUWZOWDVaczRQNW1ieTVVN2N2XzUya0l4anJ4MTZFSWMwZElMUlZPVXdtS2xJWnY3MUEzWElzR0toOGdFZmgzckxqMkE?oc=5",
-          "published_at": "2026-06-02T07:06:02+00:00"
+          "title": "2026년 첫 4개월 동안 소비자물가지수(CPI)는 3.99% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaRERWdkdUSVNyTFNqdHZCTmE2X3ZJM3VpRkt4SUtPcC1uNFZnajl0SkhtelVwbzZreGl0NGFlS2d1TEUtekhWbGlJd0pVODg0U29McF9EZDF5bXUzRGhNLURNU1RnRTdvOFNCOGVrWDZxbWRD?oc=5",
+          "published_at": "2026-06-03T08:08:18+00:00"
         },
         {
-          "title": "아프리카측 \"원자재 수출 넘어 현지 가공해야\"…韓기술협력 기대 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pWkJLSTlfbVNPc25XdHk5LTBLMDV5emxkX3dKamNJX181d2RqZkNJY1B4ZXlkdll1dDJHd0dLQXBOYnNVbE9Eazg3eHQzRDNRNnhMNnlkTzByTG_SAWBBVV95cUxPeFdxU3JNUTlKSmRJSzd6cFgtMHo3eEVTcTRCcFVOdzVQMVQxWElPTFRKZ2xLU0JYUC1seVR3a1UzSEdIaW1IMGREZTl5MVJPXzA0WjFNa0lSRXVDNnZiZkY?oc=5",
-          "published_at": "2026-06-02T07:00:45+00:00"
+          "title": "5월 소비자물가지수(CPI)는 0.29% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84bVdGMzJHdUM3TXNrcmdtU3dybTh6eDEzd0wzaE9iX2NSUkRBUnZpZG1tYVhHc1pYbFBLUFdGemhqdk9JeU9SR1paVnFveW1DbUh4aXp3ZkRid1E?oc=5",
+          "published_at": "2026-06-03T08:01:06+00:00"
         },
         {
-          "title": "미국·호주까지 ‘고소한 냄새’…K-푸드 열풍에 참기름 수출 ‘역대 최고’ - 농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LRXhuTWE5NHhhcmx2X0p1T1QxcDVrNU9rT1hDdzJqMFZIUlVnV3B6UTVULXlxWnYxVGM4N1o1LUxxaUhFaDZKdWFLOTY4NFZIRWhfaFlZWnNXQQ?oc=5",
-          "published_at": "2026-06-02T07:00:00+00:00"
+          "title": "전북 소비자물가 3.5% 상승…유가·교통비가 물가 압박 키웠다 - 전라매일",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoTGRkSUdnOVhJdU9HSFNXNkhFQi1sTjdMNnRacU83c0pBd2RrbEl5UlAtVl8ydVBwdERoYkxUallhb2d4R0NOR3V0NnlHSzlxVXc?oc=5",
+          "published_at": "2026-06-03T07:53:00+00:00"
         },
         {
-          "title": "한화에어로 대전공장 생산 일부 중단...\"수출 차질\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKdjdyYUhRaDBDSW5td21vSmlldjEyWFlYZ3E0SUtsejZGODhCSVU2aFNqcmVybE9aTTZKZk5uOUh2UG5tQzFrMlJpcDBuOTN2OEdDRzJQMW9hU2pNVEE?oc=5",
-          "published_at": "2026-06-02T06:59:00+00:00"
+          "title": "5월 소비자물가지수(CPI)는 전기, 수도, 연료 가격 상승으로 0.29% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCVy1BbVcyVFQtRGdOaFJ6WW9GTFk5Sm15ZUdRMEplakR0M0R1a044ZHZMWmN2RVlNdWo5Sl8tYU1tN2czYUYwbk5IazU4RllmcHpOSnIzQ09jQ3RsN3V6RElzRnpCQzBaNFN6ZDdnVURuV1ZjLVRaNlF3?oc=5",
+          "published_at": "2026-06-03T07:48:10+00:00"
         },
         {
-          "title": "'매출 5%' 대전공장 멈춘 한화에어로…천무 유도탄 수출 납기 '비상' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Lb2JKdkdDZ3BuaVljZWJsWmk3WnBaQmZYX19XTUh2bDdDY3k4REI2S2VfNWNoR3dHVG1YUG9oSTRHQnRDOVYwZWNMN2pIRjg?oc=5",
-          "published_at": "2026-06-02T06:17:05+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "연합인포맥스",
-      "score": 105.24,
-      "articles": [
-        {
-          "title": "골드만삭스 \"최근의 유가 하락, 공급보다 수요 둔화가 원인\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VWmtRS29PWXNqNGZPaXViTktvb3FNRThkY0NwS0V2dFhIZFFnVENaaVczLURIR3lLLUZraVcxRUVRd2ZZdC1Ub3FvT2JMSEphWUZiY1I0amstLUZBQzZ6Q005UlVfYXJyaVlycVJlYUw?oc=5",
-          "published_at": "2026-06-02T07:01:20+00:00"
-        },
-        {
-          "title": "국고 3년 지표 금리 하락 반전…견고한 3.8% 상단(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DclVpdndtT1NrTklxZTRtLThfSDR1TEwzeUlsak1JZVEyRHlseF96bGYwbjN6MDhNVmgzTjE3Y29hQXhaazhoUGZkczRyTkFZRnpGOF9FYlZGMGl3Yi0zcVJ0amk5NTdqazloUlJBMzc?oc=5",
-          "published_at": "2026-06-02T06:25:24+00:00"
-        },
-        {
-          "title": "국고 3년 지표 금리 하락 반전…견고한 '3.8%' 상단 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OZUhPeGRWbXBNVkJyR2ZYSENiYlZ3UTlBa0l6WmFRVU94R2hfNlJWVTdSRzU0RDJNbHNxaGcxaHNTREI2bFRfakc5Um0zYmdxc0pwQk91QnBkbHpaUzZTVXNsV3c2OUFlZi0zS1liYkHSAXRBVV95cUxPUkZMcjZhTGdQdDM0TXZWTGRFY2FaNUplQ0NwMVZ5aGhMUVJkQmFzWjlUdWZHWTBZeTVQWEprc3lzQVc1QnZZam1VNmdVb1NqcXpxX2YzVGN3YUE0Nm5TZkR3cDBueUx3TUZENmdZbnZRZzJSYQ?oc=5",
-          "published_at": "2026-06-02T06:09:56+00:00"
-        },
-        {
-          "title": "기재차관, OECD 각료이사회 참석차 프랑스 출국…산업정책 논의 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TMEVpWmN2SmVVcnpYSkU3cmRpdm5acmU2bWo0NW1uS0VuUzh1bDI1NmstWnBiZGVYWHdkanZlYzl6RkFiZzVPWlZxSFpjY1BCdHkzdzZrOFkwUU14TFljaHRNTEhHRTFMQjJlaWtaeDQ?oc=5",
-          "published_at": "2026-06-02T06:00:09+00:00"
-        },
-        {
-          "title": "시카고 연은 총재, 금리 인상 지연 위험 지적(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3S2FLNUhjT3Y0MVBZVEV1NFQ0ODl2a1kwRDFxV2tuUXV6OG9fZ2JGQjNpZzdHQ3ZQVkFHZnBWaXJmZmF3OVd1WTNkTm9rNjVEZm13NzViNG8wSHRWQkpGM0ZMZTdodVcwcndrQzlXVXo?oc=5",
-          "published_at": "2026-06-02T04:48:13+00:00"
+          "title": "5월 소비자물가지수(CPI)는 0.42% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CR3EwMkRWcmhpazBFejZQbG1QTlhoeFplQ0tud0ViX1ZOLVVBRkJRcnVkOHlsUnIwMFdlVHlGU0llMlFCVkdQTU9HVU1rRGdVVDg0eVc5a3IzWVE?oc=5",
+          "published_at": "2026-06-03T07:37:29+00:00"
         }
       ]
     },
     {
       "keyword": "상승",
-      "score": 93.81,
+      "score": 96.14,
       "articles": [
         {
-          "title": "美국채 금리 상승, 하이퍼스케일러 채권 발행 급증 탓은 과장 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NZEJSdEhzemMtc25BN3piLUpzcEpIRmJ4Q28ybDgtal94VkVwLTkwbm1aWFRlZmdIQ2ZDdWdTdURoSkREdkdMQUZiSWVBNXRkX2dteGlLR2c0V093X0l4WnZYUEFZY3Y2YzFnQWI3SXFEZw?oc=5",
-          "published_at": "2026-06-02T07:11:28+00:00"
+          "title": "2026년 첫 4개월 동안 소비자물가지수(CPI)는 3.99% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaRERWdkdUSVNyTFNqdHZCTmE2X3ZJM3VpRkt4SUtPcC1uNFZnajl0SkhtelVwbzZreGl0NGFlS2d1TEUtekhWbGlJd0pVODg0U29McF9EZDF5bXUzRGhNLURNU1RnRTdvOFNCOGVrWDZxbWRD?oc=5",
+          "published_at": "2026-06-03T08:08:18+00:00"
         },
         {
-          "title": "코스피 또 최고치...등락 거듭하다 8,800대 상승 마감 - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Nd1FuWlNmcWk2eWtJa0xWVUpzMklyNGJLNFU2Yy02QVJ2bXBYbWtVWU5yUURxc2dkcG9oaGdONGlJaU54YWQtRnRhMElTc3ctSVJqSU93Ml83TzFpRVFUTG1peGE3NnBvempR?oc=5",
-          "published_at": "2026-06-02T07:05:12+00:00"
+          "title": "5월 소비자물가지수(CPI)는 0.29% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84bVdGMzJHdUM3TXNrcmdtU3dybTh6eDEzd0wzaE9iX2NSUkRBUnZpZG1tYVhHc1pYbFBLUFdGemhqdk9JeU9SR1paVnFveW1DbUh4aXp3ZkRid1E?oc=5",
+          "published_at": "2026-06-03T08:01:06+00:00"
         },
         {
-          "title": "[속보] 코스피, 8800대 상승 마감…또 사상 최고치 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HcG1oQXExa1JQUVFKVnZyRy14NW9WUmpNTGlJaTVZUXRObkZyVFd3ZVFLdkYtR2FjT3RydmkwTm1zRUVIX09YSDVRc3RaUQ?oc=5",
-          "published_at": "2026-06-02T07:01:27+00:00"
+          "title": "전북 소비자물가 3.5% 상승…유가·교통비가 물가 압박 키웠다 - 전라매일",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoTGRkSUdnOVhJdU9HSFNXNkhFQi1sTjdMNnRacU83c0pBd2RrbEl5UlAtVl8ydVBwdERoYkxUallhb2d4R0NOR3V0NnlHSzlxVXc?oc=5",
+          "published_at": "2026-06-03T07:53:00+00:00"
         },
         {
-          "title": "5월 물가 3%대 상승…“최고가격제로 0.6%p 하락 효과” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Yb01udlZHSWhSS3hJZnA1X3RNN1IxSHdfcW1WY1lJVEtTb3drNklrb3RoZi1ZLUsza04xRkI3MVFiRlB1OGRuZ3M4SFBfLVU?oc=5",
-          "published_at": "2026-06-02T06:45:06+00:00"
+          "title": "5월 소비자물가지수(CPI)는 전기, 수도, 연료 가격 상승으로 0.29% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCVy1BbVcyVFQtRGdOaFJ6WW9GTFk5Sm15ZUdRMEplakR0M0R1a044ZHZMWmN2RVlNdWo5Sl8tYU1tN2czYUYwbk5IazU4RllmcHpOSnIzQ09jQ3RsN3V6RElzRnpCQzBaNFN6ZDdnVURuV1ZjLVRaNlF3?oc=5",
+          "published_at": "2026-06-03T07:48:10+00:00"
         },
         {
-          "title": "[경제][속보] '상승 전환' 코스피 8,801 마감...종가 기준 최고치 경신 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hT1Rla1RfSnNTaEtkYXBzZW42RUE4b0lEa09xazRoZ2ktdENWTzNCb2c5Nk1aTnB6YTR6NG1BY2QyX3Z6dHktUXpmVnV2LWgyZmtCNXp3ay1HdWl4N1B6STVqa1k2ekRSMTRiRlJvVQ?oc=5",
-          "published_at": "2026-06-02T06:44:00+00:00"
+          "title": "5월 소비자물가지수(CPI)는 0.42% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CR3EwMkRWcmhpazBFejZQbG1QTlhoeFplQ0tud0ViX1ZOLVVBRkJRcnVkOHlsUnIwMFdlVHlGU0llMlFCVkdQTU9HVU1rRGdVVDg0eVc5a3IzWVE?oc=5",
+          "published_at": "2026-06-03T07:37:29+00:00"
         }
       ]
     },
     {
-      "keyword": "달러",
-      "score": 90.11,
+      "keyword": "환율",
+      "score": 76.02,
       "articles": [
         {
-          "title": "콘텐츠 수출 149억 달러·외래관광객 1천894만 명‥역대 최고 성과 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJUkFTUWZOWDVaczRQNW1ieTVVN2N2XzUya0l4anJ4MTZFSWMwZElMUlZPVXdtS2xJWnY3MUEzWElzR0toOGdFZmgzckxqMkE?oc=5",
-          "published_at": "2026-06-02T07:06:02+00:00"
+          "title": "[이슈] 원·달러 환율 12거래일째 1500원대…금융위기 기록 넘어섰다 - 폴리뉴스 Polinews",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saEgzQnRGNDJRdElueHhtS3BJMDY4Mlc1LTFRWUQtb1pjcVNLRWhIVXFtOUZ6bkVVeTRCdlM1SVpESXYzc0hQQmVGdnEtN19pRnJiVXQ4R3NyX1BtdGlCWG1mYmJzS0owVC1BeU130gFyQVVfeXFMTU1tQ2UwTmlGM2JWLThWZ01iWEMzV21FNm54UTI0X2pVMU1SRHhGQUNGSHhIUkt6UEg4RXRHcGc5N3ljckJnZnNvYV80MjNfNjJxMk9XRmFLMEFkS1pRdkFhWFB0UVRQYndLcldMMVdyamZn?oc=5",
+          "published_at": "2026-06-03T07:12:11+00:00"
         },
         {
-          "title": "코스피 8800 돌파…원·달러 환율 1516.4원까지 올라 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnMEM5VjdKSWlnU0U4X0U0ZGpJLXZPYlhlbjRWNlVPSmh2NDR2akxueDhZVURPenZJSFNDVGJ6X0duUzIwb1Via1FSM3R3LUZOYjllZHNR?oc=5",
-          "published_at": "2026-06-02T06:48:05+00:00"
+          "title": "[이슈] 소비자물가 2년 2개월 만에 3%대 재진입…유가·환율 충격에 인플레 압력 확대 - 폴리뉴스 Polinews",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IdnJFR2dMY3BJdWc5dmJxSkdxRFk3Y0k2TlYtOGhITHJUaHNvQ2UzeXpQaElEc1lnQ2FrWk9kYVFsQWgybjRkaTNvclhIWTN2UTBHQkpLYTZqakU2eVl6QWJDZ19HTHYwWjNwVWZ30gFyQVVfeXFMUDNYaDBqSmZtYWpQWGNZcGEydENQVmpadlZvVEwtYjRSMW9FUkVLdWxUQUVNSW1PbzNxb1E2VjUza2FyeTRjMmluVl9fRmc3SFVueFNiaWR0YjI2QnM0azZVRk0yMzdhQ251MUs4ZnZlSkdB?oc=5",
+          "published_at": "2026-06-03T07:10:47+00:00"
         },
         {
-          "title": "[외환마감] 원·달러 환율 1516.4원···12.1원↑ - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96S0YzaVUtNjdjdFh4TkQ5RmdWRUhyQzFIVllERHJBbFpZX3ExRkhVV0ZobkZsdlRaQk5vMkhBV1VzWnVYajJycU5UVFBGWktLam9ZV2czaHhfRXBKMFA2X1dSMUhXX2NsTnc?oc=5",
-          "published_at": "2026-06-02T06:40:06+00:00"
+          "title": "[글로벌이코노믹 사설] 일본 엔화 환율 불안 남의 일 아니다 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZm9PM1pncWdVRnZTOGdwM3ZmSGJnWWVWSzFhRG9YQU1sLWdYX3ZLVVZoaW5qYm9Mb3pDNG80LTJza1FZWFZtTDhZalB0dnNjOV9PVWdSa2FORVpaOEd6Yll1b1BMalRFZGtCVmxOdDRwQlBjUXpDTXdVQU9PdHNBTGtMcVc?oc=5",
+          "published_at": "2026-06-03T07:03:16+00:00"
         },
         {
-          "title": "[속보] 원·달러 환율, 12.1원 오른 1516.4원 마감 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVZFUyWXlwQTFUS1BBX2Z6M0xlUWpUWHgwRVlScHhlMWlsZFZzMDhOSEtHMXFPeWVLTnRUd1FBNUlsMjV6VlRUa1hVWEc5YVQ3YXQxU2dGa2I4UdIBXkFVX3lxTE1LZWo4UHhFWWpSX0swVkV2SVpMQVpkaDlFN2s4VVVQdWhXY1kzWkdPQ3BTcmw3djNabXdiX2xMeGh4cHd1YXI1QnBmQlFVZHBwNkhaUVFKTDNfTEw2RkE?oc=5",
-          "published_at": "2026-06-02T06:34:06+00:00"
+          "title": "원·달러 환율 고공행진…12거래일째 1500원선 유지 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtREhGV3l2Z1RtaHFHQVo3ZjQxVmowTmJiaUNQWEhOTnNtaDdxTV9BR2dpYWlCVW9xTjVGN1F0U2diX0RsdS1MYWFwRQ?oc=5",
+          "published_at": "2026-06-03T05:37:36+00:00"
         },
         {
-          "title": "[속보] 원·달러 환율, 12.1원 오른 1516.4원 마감 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemZoT3AzSlVPdXhWZTBBZjBCdDRxeEVzb042dWs0a2xYTzg1MExzRmJ1VDZha21MZU9mRnROSWFaOFNqTDlJc2xSRWdRb1lSR29QbFBfdno3MkpwdjVJSm01QjQ0cXBFZ1ZJSzVYWkVsSTdobl9wdWNSYjlpSmRwdVU2V0k3Z9IBmgFBVV95cUxOMXpIeXMzYzNPYi1jOERpZmZhVnFOU2NNWWFlN3BQcGh0OUtXeW8xRmhJcm03Z1JZMENULW1MVVJLSUxwNjdWYlZ0NEpERG1rY1h1RGwwQUFxYlFDUGkzS1NSWlNjUk9Ndjh4WEpIOU1Hb3pkUnJxeEJVeGVxazFOYTVvamwzb1BFNlZsdExkODFYSXRPcmhuYUdB?oc=5",
-          "published_at": "2026-06-02T06:33:00+00:00"
+          "title": "원화 약세 심화…환율 12거래일째 1500원선 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTX2RkUDRkYnVBYUhqTnlndE43SjYtZFB3SEJzbGMtVFhUTlRQY2UtREZ3V3ZxbWpGNEFXNjRSVElONzg1U1VoS3VoTQ?oc=5",
+          "published_at": "2026-06-03T05:37:13+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "5월",
+      "score": 75.9,
+      "articles": [
+        {
+          "title": "5월 소비자물가지수(CPI)는 0.29% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84bVdGMzJHdUM3TXNrcmdtU3dybTh6eDEzd0wzaE9iX2NSUkRBUnZpZG1tYVhHc1pYbFBLUFdGemhqdk9JeU9SR1paVnFveW1DbUh4aXp3ZkRid1E?oc=5",
+          "published_at": "2026-06-03T08:01:06+00:00"
+        },
+        {
+          "title": "5월 소비자물가지수(CPI)는 전기, 수도, 연료 가격 상승으로 0.29% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCVy1BbVcyVFQtRGdOaFJ6WW9GTFk5Sm15ZUdRMEplakR0M0R1a044ZHZMWmN2RVlNdWo5Sl8tYU1tN2czYUYwbk5IazU4RllmcHpOSnIzQ09jQ3RsN3V6RElzRnpCQzBaNFN6ZDdnVURuV1ZjLVRaNlF3?oc=5",
+          "published_at": "2026-06-03T07:48:10+00:00"
+        },
+        {
+          "title": "5월 소비자물가지수(CPI)는 0.42% 상승했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CR3EwMkRWcmhpazBFejZQbG1QTlhoeFplQ0tud0ViX1ZOLVVBRkJRcnVkOHlsUnIwMFdlVHlGU0llMlFCVkdQTU9HVU1rRGdVVDg0eVc5a3IzWVE?oc=5",
+          "published_at": "2026-06-03T07:37:29+00:00"
+        },
+        {
+          "title": "중동발 유가 충격에 물가 상승 ‘현실화’... 5월 물가 3.1% 상승 - 충청게릴라뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMjJxdzFGUDRXX0dSbGdOUXdjeDhkbWZGRE9jMEhoazA0T0I0ekJ4TEowYW9VXzlPc3dkZUdnYnduT3d1bVpIMklfWmhOMEFTeGczS1R1VU50TDdBUnJJOUpVbFYxZw?oc=5",
+          "published_at": "2026-06-03T07:08:28+00:00"
+        },
+        {
+          "title": "부울경 5월 소비자물가 일제히 상승… 경남 3.6%로 가장 높아 - 브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzdkVYWFJpSXZEUVpkbkw2NEZlWTE3TUt1c0g5WWxvNjV4LThDRFdXRVBaV1l5dzhGTVdKRGlzM0RPdFBjVFFmZFVnajhpakpBZjFpa1pGd2Zhdw?oc=5",
+          "published_at": "2026-06-03T06:25:00+00:00"
         }
       ]
     }
