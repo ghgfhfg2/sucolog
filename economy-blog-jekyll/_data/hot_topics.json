@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-06-06T06:27:16.672324+00:00",
+  "generated_at": "2026-06-07T07:03:02.872814+00:00",
   "source_count": 4,
-  "article_count": 383,
+  "article_count": 388,
   "top_keywords": [
     {
       "keyword": "환율",
-      "score": 240.84
+      "score": 231.73
     },
     {
       "keyword": "daum",
-      "score": 135.91
+      "score": 140.25
     },
     {
       "keyword": "net",
-      "score": 135.91
-    },
-    {
-      "keyword": "금융위기",
-      "score": 103.4
-    },
-    {
-      "keyword": "달러",
-      "score": 92.4
-    },
-    {
-      "keyword": "이후",
-      "score": 91.56
-    },
-    {
-      "keyword": "돌파",
-      "score": 84.3
+      "score": 140.25
     },
     {
       "keyword": "수출",
-      "score": 82.82
+      "score": 106.34
     },
     {
-      "keyword": "연합뉴스",
-      "score": 78.56
+      "keyword": "금리",
+      "score": 91.01
     },
     {
-      "keyword": "최고",
-      "score": 72.23
+      "keyword": "달러",
+      "score": 89.8
     },
     {
-      "keyword": "금리인상",
-      "score": 62.38
+      "keyword": "기준금리",
+      "score": 87.61
     },
     {
       "keyword": "인상",
-      "score": 60.3
+      "score": 77.56
+    },
+    {
+      "keyword": "최고",
+      "score": 77.3
+    },
+    {
+      "keyword": "농식품",
+      "score": 57.44
+    },
+    {
+      "keyword": "연합뉴스",
+      "score": 49.0
+    },
+    {
+      "keyword": "뉴스1",
+      "score": 45.06
     }
   ],
   "hot_topics": [
     {
       "keyword": "환율",
-      "score": 240.84,
+      "score": 231.73,
       "articles": [
         {
-          "title": "환율 1,560원 돌파에도 스테이블코인 '잠잠'…'역 김치프리미엄' 심화 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53SC1vbmxoWDZINWVBTjBXcTN1OHB6QzJ5VlEzNGR3ay1nX2tJazlMQ2p5dnc5WTBnNVJUb3BuRVB1bXMybkVLZWt3YjRzN2dFNk1yLW9jTzIxQTV3cGlveXV3TUlSMThPeExGWm9BaEc?oc=5",
-          "published_at": "2026-06-06T06:17:26+00:00"
+          "title": "환율 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xdkJmbG9pQm95QTVyZUIyUmJicW9RaTVsZlRJYUg2dU4xVDByc2ZfNzJVT3ppdjhlcFBsb2tWbzBJVVBiTGEtbDRZWGJHX3VhLUE?oc=5",
+          "published_at": "2026-06-07T06:56:41+00:00"
         },
         {
-          "title": "[속보] 안철수 “환율 금융위기 이후 최고 수준…대통령, 환율 대책 TF 신설해야” - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NODNRM29McVRmMTFrSGtudmtXd1NUeWJFXzNXZkI1TVJlTzVSRmwtZ0ZETXZoOUtuZkRoRk1lNVRQZDI3YVA4VUJQaTRtS29YLTdYdlFweV9aNjhscjdSZEJB?oc=5",
-          "published_at": "2026-06-06T06:01:00+00:00"
+          "title": "환율 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83aFUwY3Frcl9HeElUbXl6R3VKenZKTk1FVDFSNXh3cHQyUk5VNVlCM1dIell4bWoxdktaRXBZQVFfd0JfSmVpenpMSUthakpYSkE?oc=5",
+          "published_at": "2026-06-07T06:55:53+00:00"
         },
         {
-          "title": "원·달러 환율, 야간거래서 1560원 돌파…금융위기 이후 최고치 - 파이낸셜투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jelZhWnd6Q0VmNWlvaGxvOHZacHZ2QkJZMUJ4SHctbjlocllUVTVHU2ZOTDhmb3VnMi03UTlPTm16NHNiQ2xnUVBPSldnaDdhckxiVGJhdjRKLXl5akxfU0RQYVc3aXNOWWfSAW5BVV95cUxNVmpHaGlhMU5pWnRkOFFtdGhHY3RFQ0dXODN5bVZsTVRYZjhrT2FSUW1lUFh3YU9XQUZVS2N4emJjSlVyZXFtbFF0Ml8wMUhEbTFOSG1PX1hMc3lKRndMd0VmcWRWM1h5U3dmemh0dw?oc=5",
-          "published_at": "2026-06-06T05:50:35+00:00"
+          "title": "정부, 환율 1560원 돌파에 긴급회의…\"투기적 움직임 엄정 대응\" 경고 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43Uk5TQ1FURnVZVW56SThqaFd0S21Qc3AzZDZhUFVSYURRaG1pT2RfaXd6XzVlb1FGcUxEaXVlRmlnWHczZUViNnBIaEYwQlgzY1RBRWRnVVROOEww?oc=5",
+          "published_at": "2026-06-07T06:54:00+00:00"
         },
         {
-          "title": "[속보] 안철수 “환율, 금융위기 이후 최고 수준…李대통령, ‘대책 TF’ 신설해야” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sa1JIU3VKWXRXVEhXZzEzeU1idEVmUF81aW96aHMxd1VLa0lEb1ZLVGRvaGJkYk1MVFFkYXpDVVJnU0tDN29YZ3JIMFBlc3c?oc=5",
-          "published_at": "2026-06-06T05:30:05+00:00"
+          "title": "구윤철 \"환율 과도한 변동성·일방향 쏠림 용인하지 않을 것\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44Tll1bkFxVjFVdldabHJ0bS1FYlluRkQ0a1M1MU1aYTVFTGM4WTZpLWN6SDEtVU5SSGdfNnJncFA2d3JWWWl4QXczZGhIQm03ZGhQMGQtOUZyaWRxNWU4Y0ItUVpxd1FuQ243NTNteG_SAXRBVV95cUxPdFpXT3dLbV90NHp3Sk1zRUVveVM3UnhGa3R3M1Z5OVVDal8yVDlCanNKYlhqTHQwbWFqUkx5U01WQ0YxbE9QbElSZ0lnbVBNbzFFcDNMRWVJV2x2a1g1OGdXcHdwdHhrQWpWVkRzeUx2R2g3aA?oc=5",
+          "published_at": "2026-06-07T06:52:56+00:00"
         },
         {
-          "title": "안철수 “환율 1560원, 정말 큰일…李대통령 ‘대책TF’ 신설해야” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xekRRMjZieExINkYyUmhYRllZNkhhT1dJbWpmNU00VjhwcnE5MGxhMFI5aF9OMmh2VnF4dE1pNy1jTkkwWXlTNlpXbnc4ZmFiRVZHWDNB?oc=5",
-          "published_at": "2026-06-06T05:27:44+00:00"
+          "title": "원달러 환율 1560원대...외환시장 '빨간불' - thecommoditiesnews.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLSFBFaWFVbzZXOXFrcWt2M2ZtVXZySXJZcEZmcktWbWFORV9aMk8wbmpidlczai1qYjlXTTBIYVhpMHJkOXB0TTQyazJTamU1MjJEMWZMd1hoa05yOWx5a3VzMzNsNzI2dU9wLW1lS0xyRXIxY3NF?oc=5",
+          "published_at": "2026-06-07T06:49:32+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 135.91,
+      "score": 140.25,
       "articles": [
         {
-          "title": "[속보] 안철수 “환율, 금융위기 이후 최고 수준…李대통령, ‘대책 TF’ 신설해야” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sa1JIU3VKWXRXVEhXZzEzeU1idEVmUF81aW96aHMxd1VLa0lEb1ZLVGRvaGJkYk1MVFFkYXpDVVJnU0tDN29YZ3JIMFBlc3c?oc=5",
-          "published_at": "2026-06-06T05:30:05+00:00"
+          "title": "국가부채, 낙관론도 위기론도 아직 이르다 [김상철의 경제 톺아보기] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jM3RSTXZCNktReGhoQTdGQlcteEdzVjhGaDY5b2ZqYXpmMDhlY091clhGaGpWcy15LVBWRDdudTh6UnFfR3JldHFkZUdjT1E?oc=5",
+          "published_at": "2026-06-07T06:01:53+00:00"
         },
         {
-          "title": "[주末머니]불닭의 인기가 끝이 없네…K푸드 성장주 주목 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMkI3OUVQMkhEWFZDdC14T2l1Z1FtUVFHS0pPQWI3YVIxTTlzUmRVY2RMaVlxVWpTdGRwNVFTRkF2anpqa2hySTZVY09nS1U?oc=5",
-          "published_at": "2026-06-06T05:10:03+00:00"
+          "title": "원·달러 환율 1600원 눈앞…외국인 매도에 2분기 환율 외환위기 후 최고 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yOTlZUVBhb0RlblhGbUE3dUduV1FWWDNISmtvVmNZWmVSeFI4ZWQxSFJDMnVscmpEXzZMbU4yMnM3OHVUQUtoczBYaXhfVlk?oc=5",
+          "published_at": "2026-06-07T05:24:07+00:00"
         },
         {
-          "title": "휘발유 3주째 내린 게 고작 0.66원…2천 원대 유가, 꿈쩍도 안 했다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41ekdISWU0cktJTHZaYTMxcmowNkJlN2U3dWN4NmlNVkd1YkVyNFNlNGNDUEZGNzQydTZpc0xYdHRzQmZaZE1vaTlDOXE5ZmM?oc=5",
-          "published_at": "2026-06-06T05:00:03+00:00"
+          "title": "장기수 \"벤처 중심 경제 생태계 전환\"…스타트업 챙기기 시동 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3VWZWaUNWQmUwdzRHZ0Y5Mkp0ejVWTE1WUDBQU2FVTW5SbTh1ajFFQ1VlUlRhX2NKUDUyTUIwdXRmeVBkN3JXTlo4alhQWEk?oc=5",
+          "published_at": "2026-06-07T04:49:38+00:00"
         },
         {
-          "title": "축의금 18만원 냈는데 식은 햄버거가 전부…\"결혼식서 장사하냐\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOT2I4REFjazZGRDFNOE9YbURfOFJjaGdSdFZRQ2phS2htQTlORHRMU0taakFGdE5XWXZZbXJMY3hYWkJia3puVXJFRE5qbnc?oc=5",
-          "published_at": "2026-06-06T03:08:02+00:00"
+          "title": "“동탄 매수자금 70%가 대출…2030 ‘영끌’ 몰렸다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtb29EWVpSdzQtYlJUTVNUUXg3R1JyVjhPaEFlcEVNVUhzTnNvd0wtLUg3N3Z5ejMyd0Z2UTJpNkpTZVNQdzM4YW1hX25xQ2c?oc=5",
+          "published_at": "2026-06-07T04:24:02+00:00"
         },
         {
-          "title": "美 반도체주 급락 공포 확산…환율 1560원대까지 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KQXRKRWhCdHdUcVZrYmFQYzVlbHNhcDFLZkg3UGlEbWxUME1zbjRUVHBJWjFSaDhfcXpZYllqekd2c2ZjdmRZaWhObFQwVG8?oc=5",
-          "published_at": "2026-06-06T02:15:05+00:00"
+          "title": "[1500원 치솟는 환율]②고공행진 언제까지…장기 고착화땐 수출기업도 타격 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MOGtzWkVBd1JKMjRLYi1GWk9NeV9qM3lWUnZ1Q3JyR0NUOHVkMnBfVS1iUThlWXh4X1k0VS1DeEFMTWhTc181X1lsaVJvelE?oc=5",
+          "published_at": "2026-06-07T04:21:39+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 135.91,
+      "score": 140.25,
       "articles": [
         {
-          "title": "[속보] 안철수 “환율, 금융위기 이후 최고 수준…李대통령, ‘대책 TF’ 신설해야” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sa1JIU3VKWXRXVEhXZzEzeU1idEVmUF81aW96aHMxd1VLa0lEb1ZLVGRvaGJkYk1MVFFkYXpDVVJnU0tDN29YZ3JIMFBlc3c?oc=5",
-          "published_at": "2026-06-06T05:30:05+00:00"
+          "title": "국가부채, 낙관론도 위기론도 아직 이르다 [김상철의 경제 톺아보기] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jM3RSTXZCNktReGhoQTdGQlcteEdzVjhGaDY5b2ZqYXpmMDhlY091clhGaGpWcy15LVBWRDdudTh6UnFfR3JldHFkZUdjT1E?oc=5",
+          "published_at": "2026-06-07T06:01:53+00:00"
         },
         {
-          "title": "[주末머니]불닭의 인기가 끝이 없네…K푸드 성장주 주목 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMkI3OUVQMkhEWFZDdC14T2l1Z1FtUVFHS0pPQWI3YVIxTTlzUmRVY2RMaVlxVWpTdGRwNVFTRkF2anpqa2hySTZVY09nS1U?oc=5",
-          "published_at": "2026-06-06T05:10:03+00:00"
+          "title": "원·달러 환율 1600원 눈앞…외국인 매도에 2분기 환율 외환위기 후 최고 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yOTlZUVBhb0RlblhGbUE3dUduV1FWWDNISmtvVmNZWmVSeFI4ZWQxSFJDMnVscmpEXzZMbU4yMnM3OHVUQUtoczBYaXhfVlk?oc=5",
+          "published_at": "2026-06-07T05:24:07+00:00"
         },
         {
-          "title": "휘발유 3주째 내린 게 고작 0.66원…2천 원대 유가, 꿈쩍도 안 했다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41ekdISWU0cktJTHZaYTMxcmowNkJlN2U3dWN4NmlNVkd1YkVyNFNlNGNDUEZGNzQydTZpc0xYdHRzQmZaZE1vaTlDOXE5ZmM?oc=5",
-          "published_at": "2026-06-06T05:00:03+00:00"
+          "title": "장기수 \"벤처 중심 경제 생태계 전환\"…스타트업 챙기기 시동 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3VWZWaUNWQmUwdzRHZ0Y5Mkp0ejVWTE1WUDBQU2FVTW5SbTh1ajFFQ1VlUlRhX2NKUDUyTUIwdXRmeVBkN3JXTlo4alhQWEk?oc=5",
+          "published_at": "2026-06-07T04:49:38+00:00"
         },
         {
-          "title": "축의금 18만원 냈는데 식은 햄버거가 전부…\"결혼식서 장사하냐\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOT2I4REFjazZGRDFNOE9YbURfOFJjaGdSdFZRQ2phS2htQTlORHRMU0taakFGdE5XWXZZbXJMY3hYWkJia3puVXJFRE5qbnc?oc=5",
-          "published_at": "2026-06-06T03:08:02+00:00"
+          "title": "“동탄 매수자금 70%가 대출…2030 ‘영끌’ 몰렸다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtb29EWVpSdzQtYlJUTVNUUXg3R1JyVjhPaEFlcEVNVUhzTnNvd0wtLUg3N3Z5ejMyd0Z2UTJpNkpTZVNQdzM4YW1hX25xQ2c?oc=5",
+          "published_at": "2026-06-07T04:24:02+00:00"
         },
         {
-          "title": "美 반도체주 급락 공포 확산…환율 1560원대까지 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KQXRKRWhCdHdUcVZrYmFQYzVlbHNhcDFLZkg3UGlEbWxUME1zbjRUVHBJWjFSaDhfcXpZYllqekd2c2ZjdmRZaWhObFQwVG8?oc=5",
-          "published_at": "2026-06-06T02:15:05+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금융위기",
-      "score": 103.4,
-      "articles": [
-        {
-          "title": "[속보] 안철수 “환율 금융위기 이후 최고 수준…대통령, 환율 대책 TF 신설해야” - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NODNRM29McVRmMTFrSGtudmtXd1NUeWJFXzNXZkI1TVJlTzVSRmwtZ0ZETXZoOUtuZkRoRk1lNVRQZDI3YVA4VUJQaTRtS29YLTdYdlFweV9aNjhscjdSZEJB?oc=5",
-          "published_at": "2026-06-06T06:01:00+00:00"
-        },
-        {
-          "title": "원·달러 환율, 야간거래서 1560원 돌파…금융위기 이후 최고치 - 파이낸셜투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jelZhWnd6Q0VmNWlvaGxvOHZacHZ2QkJZMUJ4SHctbjlocllUVTVHU2ZOTDhmb3VnMi03UTlPTm16NHNiQ2xnUVBPSldnaDdhckxiVGJhdjRKLXl5akxfU0RQYVc3aXNOWWfSAW5BVV95cUxNVmpHaGlhMU5pWnRkOFFtdGhHY3RFQ0dXODN5bVZsTVRYZjhrT2FSUW1lUFh3YU9XQUZVS2N4emJjSlVyZXFtbFF0Ml8wMUhEbTFOSG1PX1hMc3lKRndMd0VmcWRWM1h5U3dmemh0dw?oc=5",
-          "published_at": "2026-06-06T05:50:35+00:00"
-        },
-        {
-          "title": "[속보] 안철수 “환율, 금융위기 이후 최고 수준…李대통령, ‘대책 TF’ 신설해야” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sa1JIU3VKWXRXVEhXZzEzeU1idEVmUF81aW96aHMxd1VLa0lEb1ZLVGRvaGJkYk1MVFFkYXpDVVJnU0tDN29YZ3JIMFBlc3c?oc=5",
-          "published_at": "2026-06-06T05:30:05+00:00"
-        },
-        {
-          "title": "[경제분석]경상수지 흑자 행진에도 환율은 왜 금융위기 수준까지 치솟나? - 뉴스피릿",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNmcyQjlUUEtfUkhYc0NndXhxbi1NQnNkLWlsYUpuYjNtLVZoUEVLLUxJOEhIN24wS0VpUVBMcVpXUGpkaEptNDhZNGxFdkxXRnBBZnBkV3I2bHdROWFSWUdoeXhYZG41OTNF?oc=5",
-          "published_at": "2026-06-06T03:31:25+00:00"
-        },
-        {
-          "title": "환율, 강달러에 한때 1560원 돌파…금융위기 이후 17년 만에 최고 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wNHFqOGJnS2FIRldfMXZPWUpYcFRBTlZoMkxsc1FldUdDMHRnaWtSaFNFTkJaNXRmY1pEb3JHSDloX0JiMExGMHJ2SGh2QTA1dktIR1FaT1N4Uy1kQmJXb3Rn?oc=5",
-          "published_at": "2026-06-06T03:04:13+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "달러",
-      "score": 92.4,
-      "articles": [
-        {
-          "title": "원·달러 환율, 야간거래서 1560원 돌파…금융위기 이후 최고치 - 파이낸셜투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jelZhWnd6Q0VmNWlvaGxvOHZacHZ2QkJZMUJ4SHctbjlocllUVTVHU2ZOTDhmb3VnMi03UTlPTm16NHNiQ2xnUVBPSldnaDdhckxiVGJhdjRKLXl5akxfU0RQYVc3aXNOWWfSAW5BVV95cUxNVmpHaGlhMU5pWnRkOFFtdGhHY3RFQ0dXODN5bVZsTVRYZjhrT2FSUW1lUFh3YU9XQUZVS2N4emJjSlVyZXFtbFF0Ml8wMUhEbTFOSG1PX1hMc3lKRndMd0VmcWRWM1h5U3dmemh0dw?oc=5",
-          "published_at": "2026-06-06T05:50:35+00:00"
-        },
-        {
-          "title": "美금리까지 올리면 1600원 넘는 ‘원·달러 재앙’ [트럼프 스톡커] - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tejk3UTM3M09KLU0zSlNuZGs1V3N0ck9FOGt4RWFVRl9tR3h0b3RWcDJQajU1UUt5ZHNPSzFOaHQ1bm1KWHAzVkJJY0pfMUlKLWfSAVNBVV95cUxONHRmQVB5OWc0TUc5QjJUZl9CMThOcWVDVVZLSS1HN0xDMmx4YnlZcmRjbEdwdHRjdEt1SU8wWjhVZGxmdjZhT2lyTzdHbmtoLXBhWQ?oc=5",
-          "published_at": "2026-06-06T04:08:15+00:00"
-        },
-        {
-          "title": "환율, 강달러에 한때 1560원 돌파…금융위기 이후 17년 만에 최고 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wNHFqOGJnS2FIRldfMXZPWUpYcFRBTlZoMkxsc1FldUdDMHRnaWtSaFNFTkJaNXRmY1pEb3JHSDloX0JiMExGMHJ2SGh2QTA1dktIR1FaT1N4Uy1kQmJXb3Rn?oc=5",
-          "published_at": "2026-06-06T03:04:13+00:00"
-        },
-        {
-          "title": "반도체가 이끈 5월 수출 '사상 최대'… 1조 달러 장밋빛 전망 속 짙어지는 'K자형 양극화' 그림자 - 글로벌 비즈 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ISmRnYjRXamsySkstdU0wNzlpX2U1TUdpWTdxRVVhTW5BRlhwY2JjNEtVY0dGV1ZMT0czVTYtM1NkdERoM1k3cFUwMXRxYklteVpQVWxURTdPR29vVzB6UFVGei0xUdIBaEFVX3lxTE1RWkstemFoMnp5dkl6YnNrWkJsbklTVkR0NFhxR2xWMG5iT1A2Xzd5T2o4ZUQwRVZBSnlsMmYwaEw5SEpycHFRSWJWcEJxUEhKSHd6M0xiX1luSXNXR3FDanhQdjNoZkZv?oc=5",
-          "published_at": "2026-06-06T02:39:59+00:00"
-        },
-        {
-          "title": "자금 빼는 외국인, 경상흑자 1000억달러 돌파에도 원·달러 환율 1560원 육박 - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZSld3RllHT0JRb09ld0NyeXkxNXVLaEpucHRtUkZkR29YZVU4bnRZNTFkZVFoZFRfVXVOUllmU3FKUm5BV0VLZG9tS2VWektJV2xXaGNFX3ZYLUNRaEFJWG1B?oc=5",
-          "published_at": "2026-06-06T02:31:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "이후",
-      "score": 91.56,
-      "articles": [
-        {
-          "title": "[속보] 안철수 “환율 금융위기 이후 최고 수준…대통령, 환율 대책 TF 신설해야” - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NODNRM29McVRmMTFrSGtudmtXd1NUeWJFXzNXZkI1TVJlTzVSRmwtZ0ZETXZoOUtuZkRoRk1lNVRQZDI3YVA4VUJQaTRtS29YLTdYdlFweV9aNjhscjdSZEJB?oc=5",
-          "published_at": "2026-06-06T06:01:00+00:00"
-        },
-        {
-          "title": "원·달러 환율, 야간거래서 1560원 돌파…금융위기 이후 최고치 - 파이낸셜투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jelZhWnd6Q0VmNWlvaGxvOHZacHZ2QkJZMUJ4SHctbjlocllUVTVHU2ZOTDhmb3VnMi03UTlPTm16NHNiQ2xnUVBPSldnaDdhckxiVGJhdjRKLXl5akxfU0RQYVc3aXNOWWfSAW5BVV95cUxNVmpHaGlhMU5pWnRkOFFtdGhHY3RFQ0dXODN5bVZsTVRYZjhrT2FSUW1lUFh3YU9XQUZVS2N4emJjSlVyZXFtbFF0Ml8wMUhEbTFOSG1PX1hMc3lKRndMd0VmcWRWM1h5U3dmemh0dw?oc=5",
-          "published_at": "2026-06-06T05:50:35+00:00"
-        },
-        {
-          "title": "[속보] 안철수 “환율, 금융위기 이후 최고 수준…李대통령, ‘대책 TF’ 신설해야” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sa1JIU3VKWXRXVEhXZzEzeU1idEVmUF81aW96aHMxd1VLa0lEb1ZLVGRvaGJkYk1MVFFkYXpDVVJnU0tDN29YZ3JIMFBlc3c?oc=5",
-          "published_at": "2026-06-06T05:30:05+00:00"
-        },
-        {
-          "title": "환율, 강달러에 한때 1560원 돌파…금융위기 이후 17년 만에 최고 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wNHFqOGJnS2FIRldfMXZPWUpYcFRBTlZoMkxsc1FldUdDMHRnaWtSaFNFTkJaNXRmY1pEb3JHSDloX0JiMExGMHJ2SGh2QTA1dktIR1FaT1N4Uy1kQmJXb3Rn?oc=5",
-          "published_at": "2026-06-06T03:04:13+00:00"
-        },
-        {
-          "title": "안철수 \"환율 1560원, 금융위기 이후 최고…李대통령 '대책TF' 신설해야\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CYmxmcEU0dnk5d25CWktkaUZjdGJpODNLRlJNYl9WUE9CTW9MeWFONWZCbXd6NnVVbFRCd3JOa2R3eENXaU5Hd3JpQTlnTUk?oc=5",
-          "published_at": "2026-06-06T02:12:02+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "돌파",
-      "score": 84.3,
-      "articles": [
-        {
-          "title": "환율 1,560원 돌파에도 스테이블코인 '잠잠'…'역 김치프리미엄' 심화 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53SC1vbmxoWDZINWVBTjBXcTN1OHB6QzJ5VlEzNGR3ay1nX2tJazlMQ2p5dnc5WTBnNVJUb3BuRVB1bXMybkVLZWt3YjRzN2dFNk1yLW9jTzIxQTV3cGlveXV3TUlSMThPeExGWm9BaEc?oc=5",
-          "published_at": "2026-06-06T06:17:26+00:00"
-        },
-        {
-          "title": "원·달러 환율, 야간거래서 1560원 돌파…금융위기 이후 최고치 - 파이낸셜투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jelZhWnd6Q0VmNWlvaGxvOHZacHZ2QkJZMUJ4SHctbjlocllUVTVHU2ZOTDhmb3VnMi03UTlPTm16NHNiQ2xnUVBPSldnaDdhckxiVGJhdjRKLXl5akxfU0RQYVc3aXNOWWfSAW5BVV95cUxNVmpHaGlhMU5pWnRkOFFtdGhHY3RFQ0dXODN5bVZsTVRYZjhrT2FSUW1lUFh3YU9XQUZVS2N4emJjSlVyZXFtbFF0Ml8wMUhEbTFOSG1PX1hMc3lKRndMd0VmcWRWM1h5U3dmemh0dw?oc=5",
-          "published_at": "2026-06-06T05:50:35+00:00"
-        },
-        {
-          "title": "[프리뷰] 환율 비상, 이러다 1,600원도 돌파하나 - CEONEWS",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LcFRWcER6SzhDSTM4clVMMmJYbjNVZW5UQm1sWmFqSVVMSENzTU9NNEgwd2JNUFdUX0ZwWTV3X0tNa2xjMW9aRlZKTWhuRnpySktCeFRMYU9EeWhiUlZN?oc=5",
-          "published_at": "2026-06-06T05:06:00+00:00"
-        },
-        {
-          "title": "환율, 강달러에 한때 1560원 돌파…금융위기 이후 17년 만에 최고 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wNHFqOGJnS2FIRldfMXZPWUpYcFRBTlZoMkxsc1FldUdDMHRnaWtSaFNFTkJaNXRmY1pEb3JHSDloX0JiMExGMHJ2SGh2QTA1dktIR1FaT1N4Uy1kQmJXb3Rn?oc=5",
-          "published_at": "2026-06-06T03:04:13+00:00"
-        },
-        {
-          "title": "자금 빼는 외국인, 경상흑자 1000억달러 돌파에도 원·달러 환율 1560원 육박 - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZSld3RllHT0JRb09ld0NyeXkxNXVLaEpucHRtUkZkR29YZVU4bnRZNTFkZVFoZFRfVXVOUllmU3FKUm5BV0VLZG9tS2VWektJV2xXaGNFX3ZYLUNRaEFJWG1B?oc=5",
-          "published_at": "2026-06-06T02:31:00+00:00"
+          "title": "[1500원 치솟는 환율]②고공행진 언제까지…장기 고착화땐 수출기업도 타격 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MOGtzWkVBd1JKMjRLYi1GWk9NeV9qM3lWUnZ1Q3JyR0NUOHVkMnBfVS1iUThlWXh4X1k0VS1DeEFMTWhTc181X1lsaVJvelE?oc=5",
+          "published_at": "2026-06-07T04:21:39+00:00"
         }
       ]
     },
     {
       "keyword": "수출",
-      "score": 82.82,
+      "score": 106.34,
       "articles": [
         {
-          "title": "국경을 넘는 수출: 디지털 경제의 새로운 원동력. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMDVUeHZ2ZC1aS0ZSQ2hRNEFNR2lJU1pqSkh0VlhkR0lvc21mT0RyTUEtZUtxVXdYNDBJek5GdmZqa29wYTRHbkdKQTlEZ0IzZkdSc0JreEQ4MGEweUhqUml6dFNYbkFQRFFDQjVpVk1QOG41d214MnJpZFMxOGlNTVhvaWcxQjhQTHhJ?oc=5",
-          "published_at": "2026-06-06T04:47:59+00:00"
+          "title": "청도군, 경북도 농식품 수출정책 평가 '우수상' 수상 - 중도일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95OVpITFZEeE5UZGhYRlh0b2tESHZiQ3dGQ1ljakZxNFhuQU9SMld6SXhGM2w0b0hGSzMycGhEN2JaejB2VndUVUdCdkc4MmNFd2hvbnlTNkVMZFlIaE8tMGJSNXJFWDQ1eVgwaQ?oc=5",
+          "published_at": "2026-06-07T06:58:04+00:00"
         },
         {
-          "title": "美, 이란산 LPG 우회 수출 정조준…VLGC 3척 등 가스선 6척 추가 제재 - 해사신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYNnI3ek90aDFwcGlDbkhhd25KcnZYVk45bTFCM0I5Z0ZHTnFZUURiZEQ5Y2RqX180YmF6UlcyLXFHZHVKcE5fMkdueFd5WG10b0NJLXBCRUJTdzdnN3RKTWRZRHZFTWc2Q1dZ?oc=5",
-          "published_at": "2026-06-06T03:00:32+00:00"
+          "title": "청도군, 경북도 농식품 수출정책 평가 ‘우수상’ 수상 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TMWE5YWtVNVJVMjh0b1hXLUpBc3NNQW1HZmhFS0lFeE1pUHhuZEFJc1hkZWFlYU1lUDcxOE96Slo4c1dZQlRSTFVrZVEzMEtTNG9MWE0zYm85SWtmOVFHTDlaVjRrOXFWMUE?oc=5",
+          "published_at": "2026-06-07T06:40:00+00:00"
         },
         {
-          "title": "반도체가 이끈 5월 수출 '사상 최대'… 1조 달러 장밋빛 전망 속 짙어지는 'K자형 양극화' 그림자 - 글로벌 비즈 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ISmRnYjRXamsySkstdU0wNzlpX2U1TUdpWTdxRVVhTW5BRlhwY2JjNEtVY0dGV1ZMT0czVTYtM1NkdERoM1k3cFUwMXRxYklteVpQVWxURTdPR29vVzB6UFVGei0xUdIBaEFVX3lxTE1RWkstemFoMnp5dkl6YnNrWkJsbklTVkR0NFhxR2xWMG5iT1A2Xzd5T2o4ZUQwRVZBSnlsMmYwaEw5SEpycHFRSWJWcEJxUEhKSHd6M0xiX1luSXNXR3FDanhQdjNoZkZv?oc=5",
-          "published_at": "2026-06-06T02:39:59+00:00"
+          "title": "내수는 날았지만 수출은 25대…2세대 넥쏘의 ‘빛과 그림자’ - 아시아투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WQUxQQllOU3FaUUY5NENVX1FZRVNyRGtVRnczTUc5QzVDU2ZrbHkxdnBJVnFLdG1DeEw2VzJ6V0ExelFzRVJLLUxjdmNNbS12MF9ScFlRa0t3RFZEZHBBLWJjN3hjYXQtazVDd3NB?oc=5",
+          "published_at": "2026-06-07T06:39:47+00:00"
         },
         {
-          "title": "[강소기업 히트 상품] (주)사람, 24개국 수출 발열용기·기술력 집약한 '바로쿡 솔로'(Barocook Solo) 출시 - 이슈인팩트",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nNmlRTlRaMHp5ZHYyTlZqYXp0c2RDRVpLZWFxSDM3d0hqbElPODdiNldzZ1ZzMFhBbHpFQnZOamIwYWd5RTFXWWlfM3hmeF96MFdFZHJybEItVFpDLXBtSzVzWjBNRjR6dE9KYw?oc=5",
-          "published_at": "2026-06-06T02:13:54+00:00"
+          "title": "청도군, 경북 농식품 수출정책 평가 우수상…2년 연속 수상 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVU1RCX0pwdnJ2NjFMTTAwWDVOTlg4SVFqM2czU2NUV2ZKRTdQUTZFcUVHdmt5VHVzWmN5eHQtdEdJekVzWTJuTTEtMkp1ZDJfOHNvZ1ZSSEJSVHZiWGtKbVJJTU11MmpzeDVqcVljQ3g?oc=5",
+          "published_at": "2026-06-07T06:12:56+00:00"
         },
         {
-          "title": "상반기 벌써 13조 원 넘겼다…‘K바이오’ 기술수출 역대 최대 기대 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFBNS2RDWEFyampwaUx1alM0ZjVlM1pGbllfemNUb3FaVVVyOVR4cDZPVGNjcW1Ob2RKOEIydnFjZkhsN1lRLVVBRXpOWm1sVjRCMm82YmtvZzZwLUJjX3pwVWJDaS1fUlVNb2lnODMtTHgza2dFZDNWZkFkNkJnUUlZOTVBR1FUbEIw?oc=5",
-          "published_at": "2026-06-06T02:09:04+00:00"
+          "title": "예천 초산정 한상준 대표, 경북 농식품 수출 유공 도지사 표창 - 경북신문",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NcUFaSThLdDdEUDdNbTNyY29DbnNIQlg0WEtKa0tOTzNaOUtDVDhpQVpqbHZKVzlKMjNqNEpNbDRCSTNQclNFd2JNQU9JN3U5N2ZEamRtRmY?oc=5",
+          "published_at": "2026-06-07T06:08:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 91.01,
+      "articles": [
+        {
+          "title": "금감원, 불법추심·최고금리위반 대부업 ‘3개월 현장점검’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VHVpRHhpNjBVWHh3S1Brd3N6SDBWMGdIMzg3ak5iTzVleWdWcERSSzZQWlBWejJ3QzRWaXFJc1pyS0liV2szcGhCY1FoRkd0VVJOZDhzUncxc3Y3djhsdmdKYTQ0bHM?oc=5",
+          "published_at": "2026-06-07T06:59:00+00:00"
+        },
+        {
+          "title": "주담대 금리 최고 7.3%까지…신용대출 사흘 만에 1조↑ '빚투' 극성 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85STV5V2UtU0tOV2VTU0d0SHlPNDFwblVsZWxWeTZlanBzcDBYMWlFaTE4bUtKWFlLTm96Z2hmV2M5WDFpTWtKR2hKRlRPV1JVa0tJa29Td1gxMVlMd1BMbnZOdk5Rb1k?oc=5",
+          "published_at": "2026-06-07T06:35:00+00:00"
+        },
+        {
+          "title": "환율·물가·금리 ‘3고(高)’에 ‘K자형 양극화’ 심화, 구조개혁 속도 내야 - 산경일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jR3VoWVJoMmk0QWxqem1WbWQ1SnA5R0NMRWk0WTVLN0Q0TUN2eG9PaWRva1JkZmhsQXoxOG9fNlFERTdTTHFVOS1WTEFBWThYRUZnbDBVVnIwd0h3NjFyRF9qaGgzSWlVdmRvQ0xId0g?oc=5",
+          "published_at": "2026-06-07T06:33:17+00:00"
+        },
+        {
+          "title": "서울 집값은 왜 버티는가...공급·세제·금리 변수 속 하반기 부동산 시장 향방 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KanA4emRJZnN4eFQ0WFNoVGY3a19NaElpVEpCS2tUYnpDZzNCbl9BOTR5TEpGNDNKb2NnblcxMW9LOEtwdTJDWTlvYUF2UWpxY1hTWGszeXBvTm50bVE?oc=5",
+          "published_at": "2026-06-07T06:11:00+00:00"
+        },
+        {
+          "title": "[뉴욕환시-주간] 금리 인상 나서는 ECB…'강달러' 이기기 쉽지 않을 듯 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80eVVESWFmbmlDN1NLY21oUV9MeWp2ejRHOU1GbVR1TXVHZkVjZDdXX1l0WThkZDJaTFRueGNsTkp4YzJjemVRNmxqOERnWEVJZzFtLXpIdjJBeHdLZ1hiQUVFVll5UHhqektjaGl0ak8?oc=5",
+          "published_at": "2026-06-07T06:03:41+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "달러",
+      "score": 89.8,
+      "articles": [
+        {
+          "title": "원달러 환율 1560원대...외환시장 '빨간불' - thecommoditiesnews.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLSFBFaWFVbzZXOXFrcWt2M2ZtVXZySXJZcEZmcktWbWFORV9aMk8wbmpidlczai1qYjlXTTBIYVhpMHJkOXB0TTQyazJTamU1MjJEMWZMd1hoa05yOWx5a3VzMzNsNzI2dU9wLW1lS0xyRXIxY3NF?oc=5",
+          "published_at": "2026-06-07T06:49:32+00:00"
+        },
+        {
+          "title": "중동전쟁 100일째…국제 유가 200달러로 치솟지 않은 이유 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92UU15VFk3eDY1MXdLaTRtRHBQaFExSldxQjc3V09oOXA5dld6REFTdTllNG9YaDFoTXlSWXkxRzdjelNNMmxKRFp5ZkJhcXEtZERvaER1TERSenJJcFBZQ0F2WUJNeVE?oc=5",
+          "published_at": "2026-06-07T06:05:23+00:00"
+        },
+        {
+          "title": "[뉴욕환시-주간] 금리 인상 나서는 ECB…'강달러' 이기기 쉽지 않을 듯 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80eVVESWFmbmlDN1NLY21oUV9MeWp2ejRHOU1GbVR1TXVHZkVjZDdXX1l0WThkZDJaTFRueGNsTkp4YzJjemVRNmxqOERnWEVJZzFtLXpIdjJBeHdLZ1hiQUVFVll5UHhqektjaGl0ak8?oc=5",
+          "published_at": "2026-06-07T06:03:41+00:00"
+        },
+        {
+          "title": "원-달러 환율 야간거래서 장중 1560원 넘어…금융위기 이후 최고치 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaFU5UXp5eVpFRjJod3E1QUw0Y19BOHN0aTlpQ3FmSEJ1b21wV1VNVHJsc2R2NGdUaUNWOE1tSVRFcjU5d0ctUXdpZjhqSHQwaGoyT0JVX1dYaXlLWXpRczRiSFRFRWd0WmtuYnh5aTM5MXhyc2fSAWZBVV95cUxPWTZIc3dpdDFjMGhFckdUR1dFWWJXb0IzdklFbG5QZGNsUjFmOWVUWnB2bnhYaTU2a0JRUFZGTmE2WHl3ZzNabmVzaEJtYTFpX3p0TDdsSDhMMWRKbEk5M1hVMjB4QlE?oc=5",
+          "published_at": "2026-06-07T05:42:00+00:00"
+        },
+        {
+          "title": "원·달러 환율 1560원대, 원화 약세 왜 더 커졌나 - 미디어원",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2M3VSVUpUWGhFUHZ6UUlaOVczSjBGb2J3TUZBVURtX2ZPaXFqZndPZXpISklzODJmdmQ1QkRmakJYTUgwem80WGRlcjE?oc=5",
+          "published_at": "2026-06-07T05:30:39+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "기준금리",
+      "score": 87.61,
+      "articles": [
+        {
+          "title": "기준금리 인상 우려에 대출금리 급등…‘빚투’ 차주 이자 부담 확대 - 산경투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnTWNJODkxejIzUHRyRnBOWVpkc08yZWQ1TkluWkI0elR4T2ZkOHc1ckxUNmNaZVY5aWFtbllVZ2plTGh4Ym5QRFB3M3BteGNTSVNDUG0wTjJjemw5bGZUR3JhSWVDZWJwS2RhQjFjZlnSAXRBVV95cUxOUmhYRFFkekFGOWJudGZDLUtuQWFyTlBkNFhWdzFpTGU3VWYyRmN0UFp6WUhNQWoxekdXWVBnTzFCS3V5cEZKdVRTM2UyZkprR2pIa2dXQjNRRXhJTnRTMkhqZkVUZDBnNENyU2tZMHM1SHRkTQ?oc=5",
+          "published_at": "2026-06-07T04:02:50+00:00"
+        },
+        {
+          "title": "대출금리 한달새 0.33%p↑ 기준금리 연속 인상에 패닉 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wOXBpbjRfYXhzVWhjZGtIRlgzT3dHYW9IQng2d19yT18yTm1LMkxDVVFjM1lDMlFXSFJScTNJZU84NXdmU1QzODkwODlpekZIZ0hwZlhRcjBIaXExNnY2OHhaREV6OEVEQllZNTBn?oc=5",
+          "published_at": "2026-06-07T03:08:04+00:00"
+        },
+        {
+          "title": "기준금리 올리기도 전에...반년 새 1%p 오른 주담대 금리 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUJ3TkRvd3l3b0dKbW5nM3JaVnhlaFlqVVl5aVdFS0pKWF9FTzhRT0dIenhVUVNCS19lcXBkUlNleFY1R2FvYmxvVWhvZlhfMk9IeERpNzNrSlBkVU5peXEtUWpjSElteGNXZWZFOWJ2a3VWQVQwU1NwRDZrYmRJZFV1RUItb3NiUWUzZnBR?oc=5",
+          "published_at": "2026-06-07T02:14:00+00:00"
+        },
+        {
+          "title": "기준금리 인상 전망에 대출금리 한 달 새 0.33%p↑…'빚투족' 비상 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hNDhDSFZNRWdlNGlOZTZpSWdSVkJYMWdjU3RBM1VRVjNzZDBZdEhYXzR0VEVNZHlaRkpsSkVwVFJjZTBfOExDdk02aDdPdW5XQTJrSzE1b9IBjwJBVV95cUxPT014cnFhZjlxWmNRWFRWVGxzcm0yZy1YYXRuRHVORWZrRGQzeDZJcnBBVFRCMHpvU2ZmN1UzUXNocGRCd1ZOajBKbEtSX0NPc05PUWFaUXA3b2l6cEQwSW5BTXo2TlFqYmczRDVUSHZpV25JV3ZCMGk2Qld6UU1nU2FFTHhzQjRSWWNmcG12ajRGd3ZHZU9kRmJLMjNfZFFOd0RkZktUVzBnanM2YWRPb1M1VF9yU3VoRFBGS1ZPSTNYd2dSRUg4d0Q5N3I5X3lfUmJrek42bzRTbGlwMk5WQThDZnF4ejhKV04tdUxGZmFaSENyekMxbUNSRGRhSmNsTmgwY2lhRldVcThoT1dr?oc=5",
+          "published_at": "2026-06-07T02:00:00+00:00"
+        },
+        {
+          "title": "대출금리 한달새 0.33%p↑…기준금리 인상 전망에 '빚투족' 패닉 - 컨슈머타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4emREYW9vQWlpTm0wM0tLNFlRYVpYemh3a1R3azQ0SWJLVzc5NEROd2FyR0FZRVV0Y1FtT1hzOXMwQ01mdDk0Vi0zbHdUTGdua1VYOThnTV9XR1J4V25rZEdkN2RScjZKaGc?oc=5",
+          "published_at": "2026-06-06T23:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "인상",
+      "score": 77.56,
+      "articles": [
+        {
+          "title": "[뉴욕환시-주간] 금리 인상 나서는 ECB…'강달러' 이기기 쉽지 않을 듯 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80eVVESWFmbmlDN1NLY21oUV9MeWp2ejRHOU1GbVR1TXVHZkVjZDdXX1l0WThkZDJaTFRueGNsTkp4YzJjemVRNmxqOERnWEVJZzFtLXpIdjJBeHdLZ1hiQUVFVll5UHhqektjaGl0ak8?oc=5",
+          "published_at": "2026-06-07T06:03:41+00:00"
+        },
+        {
+          "title": "식음료 가격 줄인상… 고환율 장기화에 체감물가 충격 가시화 - 매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrUXdCR1JPZW1DdWUwQkxYaHc4U2VwQzV1Z2pUMWZXbG96akowc2pqcHRMUWNuUTVCYmhzeXNHZDRua2gySklpWkFZcXlUOWppWDJUVC1KT00yMEU3MWE4cHFB?oc=5",
+          "published_at": "2026-06-07T04:40:24+00:00"
+        },
+        {
+          "title": "기준금리 인상 우려에 대출금리 급등…‘빚투’ 차주 이자 부담 확대 - 산경투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnTWNJODkxejIzUHRyRnBOWVpkc08yZWQ1TkluWkI0elR4T2ZkOHc1ckxUNmNaZVY5aWFtbllVZ2plTGh4Ym5QRFB3M3BteGNTSVNDUG0wTjJjemw5bGZUR3JhSWVDZWJwS2RhQjFjZlnSAXRBVV95cUxOUmhYRFFkekFGOWJudGZDLUtuQWFyTlBkNFhWdzFpTGU3VWYyRmN0UFp6WUhNQWoxekdXWVBnTzFCS3V5cEZKdVRTM2UyZkprR2pIa2dXQjNRRXhJTnRTMkhqZkVUZDBnNENyU2tZMHM1SHRkTQ?oc=5",
+          "published_at": "2026-06-07T04:02:50+00:00"
+        },
+        {
+          "title": "대출금리 한달새 0.33%p↑ 기준금리 연속 인상에 패닉 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wOXBpbjRfYXhzVWhjZGtIRlgzT3dHYW9IQng2d19yT18yTm1LMkxDVVFjM1lDMlFXSFJScTNJZU84NXdmU1QzODkwODlpekZIZ0hwZlhRcjBIaXExNnY2OHhaREV6OEVEQllZNTBn?oc=5",
+          "published_at": "2026-06-07T03:08:04+00:00"
+        },
+        {
+          "title": "[Weekly Coin] 미 금리 인상 우려에 비트코인 급락 - 시사저널e",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rOUVmek82NzJMRUMtZDI5NG9tRUdlRDU0Y2w0c3BMUXljMTlFUmliSjVBVEJWdk5WX1E0WGdpSnA4RlFfNkRISXVxemZXQ2I2bERhX0VaNFo1Vy1VMG5Ya2NtNk5VX0dzMHF2OWUwb3lfUdIBdkFVX3lxTE9rZWtScFluUEJYWUxHX1JJSTlqbEp2WGxidmdJQVRZUUdSNU9OUFhtbmZYNzVjUFNZZzVYT25sWHpJRFRwcHVOZ0dDQmVsMU1WNnR2RjRFaFRUNkU3Tlp2bmRnbzRFMEdOb2xUZ0I2QVZPaTcwa2c?oc=5",
+          "published_at": "2026-06-07T02:44:57+00:00"
         }
       ]
     }
