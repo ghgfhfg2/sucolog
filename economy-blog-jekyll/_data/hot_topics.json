@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-06-15T08:58:07.404994+00:00",
+  "generated_at": "2026-06-16T08:42:55.018573+00:00",
   "source_count": 4,
-  "article_count": 382,
+  "article_count": 351,
   "top_keywords": [
     {
-      "keyword": "종전",
-      "score": 278.99
+      "keyword": "기준금리",
+      "score": 413.3
+    },
+    {
+      "keyword": "인상",
+      "score": 377.96
+    },
+    {
+      "keyword": "만에",
+      "score": 265.24
+    },
+    {
+      "keyword": "31년",
+      "score": 265.21
+    },
+    {
+      "keyword": "일본은행",
+      "score": 225.83
+    },
+    {
+      "keyword": "1%로",
+      "score": 209.17
     },
     {
       "keyword": "daum",
-      "score": 205.67
+      "score": 193.71
     },
     {
       "keyword": "net",
-      "score": 205.67
+      "score": 193.71
     },
     {
-      "keyword": "환율",
-      "score": 199.12
-    },
-    {
-      "keyword": "이란",
-      "score": 197.1
+      "keyword": "최고",
+      "score": 157.78
     },
     {
       "keyword": "금리",
-      "score": 135.02
-    },
-    {
-      "keyword": "유가",
-      "score": 132.55
+      "score": 153.09
     },
     {
       "keyword": "수출",
-      "score": 129.84
+      "score": 133.96
     },
     {
-      "keyword": "FOMC",
-      "score": 121.31
-    },
-    {
-      "keyword": "머니투데이",
-      "score": 106.44
-    },
-    {
-      "keyword": "5월",
-      "score": 90.59
-    },
-    {
-      "keyword": "합의",
-      "score": 84.01
+      "keyword": "일본",
+      "score": 99.08
     }
   ],
   "hot_topics": [
     {
-      "keyword": "종전",
-      "score": 278.99,
+      "keyword": "기준금리",
+      "score": 413.3,
       "articles": [
         {
-          "title": "미·이란 종전 합의에 K푸드 ‘방긋'…“추가 물량 수출 급물살” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBueExxYlVubHZnc1RqUEVoWlNIUk83amg5NHFoLWFsd2xhc3JMZnNpcTltT0dDbXZrWlRDNW9PVF9DOFJQVG85dXV4Rk1jaVVkOGYxekVn?oc=5",
-          "published_at": "2026-06-15T08:37:52+00:00"
+          "title": "日 기준금리 1%로 올랐지만 비트코인 무반응…\"이미 가격 반영\" - 블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6ZGNhVXNVNldqTVVUYjN2RHRaMWpFQ0tIeDM4LWxCVzV3LWk1UHZxQlpSZGo0T0h1UlJ1eUw0dzdQSW1LTkRUc041dnB0c0ZF?oc=5",
+          "published_at": "2026-06-16T08:20:46+00:00"
         },
         {
-          "title": "미·이란 종전 합의에 코스피 8,500선…환율도 하락 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SN095NnM3RXZheEpIclY0RW9FYnJoaE94SW5WZGc1QXNQcmVUZHp5QTdrakNFREw2TzZFdlNvTWV5TFl2TUJqN0luYXJGd2xHMXk1MnV2RnMzeWs?oc=5",
-          "published_at": "2026-06-15T08:02:00+00:00"
+          "title": "PGIM \"연준, 올해 기준금리 3회 인상 후 내년 3회 인하\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RDktSkExZFBEcV9maC1xLTVWNm1hLUN1NkhWd0VWbzNLSnFBVFFGNWtsUUdMWXhPd04xMnVQWWRUbEVPN0xFcGoyQkRiZU1XNmRVQlljU1JiSUoxZTB4aDBhdzBaWkNIdjBGemdPUjk?oc=5",
+          "published_at": "2026-06-16T08:10:23+00:00"
         },
         {
-          "title": "닛케이지수 첫 69,000 돌파...\"종전, 일 경제 호재\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EVmhPaWNwa3RzZnZYRlZwTVRXdEpnMVhiV0VJR29UMllxMHI0YktmSndBUXFIOU1qMWgwTjVzVkZUQmRDWkRISmdaeFN3eDBTQWFWeFJKTjNBU1VWaEE?oc=5",
-          "published_at": "2026-06-15T08:00:00+00:00"
+          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
+          "published_at": "2026-06-16T07:49:14+00:00"
         },
         {
-          "title": "여야, 미·이란 종전 한목소리 환영…\"경제 회복 전환점 삼아야\" - 대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxaTcwa2ZRM1VmLTNscG1DUHJBekNhNnloQ19aYk9QOEROY3V5ZXotc1FxUHJMcGNMMGpVYjRXT0pUQlFfbEZYMWp0WG9iY3dhSm5qRmc0Zzd3TEVhVHM3a2xGYzB3M0hpaGVIdk1hMA?oc=5",
-          "published_at": "2026-06-15T07:53:10+00:00"
+          "title": "일본, 31년 만에 기준금리 1%…한국도 '7월 인상론' 무게 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVFdxbFJtUGo3Q1JibnVOTXFCekhIQkdCamh2cWpvLXA1S1ZqWjk2QTRnQ2x2ek9EMEhORll4VU5XT21UZnFUbG1TU2VpSFQ0bnc?oc=5",
+          "published_at": "2026-06-16T07:43:47+00:00"
         },
         {
-          "title": "코스피 8545 상승 마감, 환율은 진정…미-이란 종전 합의 영향 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZDFFWGF4TEhoQWxPbW1WVnBEZmc0bFEzOTlqNGM3WkJJT3dCNmkyc3YxUWEzOWtDajFrUDJidWhPbDQ4X1FPWVUwdl9IVHVkNmxRWUpoRG9vclpmVHVJaUQwYS1GMk0?oc=5",
-          "published_at": "2026-06-15T07:45:00+00:00"
+          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
+          "published_at": "2026-06-16T07:43:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "인상",
+      "score": 377.96,
+      "articles": [
+        {
+          "title": "유럽 이어 일본도 금리인상…전 세계 '긴축 도미노' - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DZXY2NHVpb29RTldFeDdDMTFrTEdrVzAtNEZmdi1Tckl2alVIZVRTVnlMNTRxcVVMZTkyQy02RXdjSG00dHRpZ1VDNW1uWHN0TUpZYk5zMzJnSjhqUXR1eg?oc=5",
+          "published_at": "2026-06-16T08:28:05+00:00"
+        },
+        {
+          "title": "일본은행 부총재 \"경제·물가 상황 따라 금리 인상 계속\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ycERXN1NfeUUzdkQ4dmVlTTlqY18wTm5mTmdQQmdiNl90WkZpQUZLSjU4QTNTZUFvempQOW1JU2Fzd3ViMjdIcnVNdUJ4eVBuaExyQjJaWkZXT2Q5OEltONIBeEFVX3lxTFBkSE9QZGlmcVl2dktKcmVwc2o4YTRxTVZFeVQxUWJYYk1OWk00d0NtSm8zaUE4SDFRUjU0bW1mSXZLM2tnLWcxajNfb2oxN3dWanpqaW5KbE96SGszSHhTTTE1bDlEbDFYaTllMDMzNG5lRkFqeU9Yeg?oc=5",
+          "published_at": "2026-06-16T08:20:31+00:00"
+        },
+        {
+          "title": "PGIM \"연준, 올해 기준금리 3회 인상 후 내년 3회 인하\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RDktSkExZFBEcV9maC1xLTVWNm1hLUN1NkhWd0VWbzNLSnFBVFFGNWtsUUdMWXhPd04xMnVQWWRUbEVPN0xFcGoyQkRiZU1XNmRVQlljU1JiSUoxZTB4aDBhdzBaWkNIdjBGemdPUjk?oc=5",
+          "published_at": "2026-06-16T08:10:23+00:00"
+        },
+        {
+          "title": "우치다 BOJ 부총재 \"경제·물가 상황에 맞춰 금리 계속 인상\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdDk0cVBPN240Rm5jNTJjYTRNYTFTMWJnM0ZFbVZNVUlqWjNCb0Z5UnFRWV9tVVVYZ1NqR0FHUE9RaTV0NVlocHdRRTVhMWpYVFluRzV0R0E3ODc2?oc=5",
+          "published_at": "2026-06-16T08:07:00+00:00"
+        },
+        {
+          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
+          "published_at": "2026-06-16T07:49:14+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "만에",
+      "score": 265.24,
+      "articles": [
+        {
+          "title": "국제유가는 3개월 만에 최저…L당 2000원 주유소 기름값은 언제 내릴까 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82bDRwbElBaVh2dFQ3dTNfV254ZnpmS1pVMEpBa2V2LS1jVE4waEFBTlhkbzNoSTFTakxmR2hpQklDdmNBZ096eGtFd21LYlZxbmZTeXFn?oc=5",
+          "published_at": "2026-06-16T08:06:55+00:00"
+        },
+        {
+          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
+          "published_at": "2026-06-16T07:49:14+00:00"
+        },
+        {
+          "title": "일본, 31년 만에 기준금리 1%…한국도 '7월 인상론' 무게 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVFdxbFJtUGo3Q1JibnVOTXFCekhIQkdCamh2cWpvLXA1S1ZqWjk2QTRnQ2x2ek9EMEhORll4VU5XT21UZnFUbG1TU2VpSFQ0bnc?oc=5",
+          "published_at": "2026-06-16T07:43:47+00:00"
+        },
+        {
+          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
+          "published_at": "2026-06-16T07:43:00+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 1%로 인상...31년 만에 최고치 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR0JMM3FObXdDLW5yYmxvd2xLTDVRbFZ0YVF3MXd3VFc3SDNEVEJkV1FWVTZ5d21KRUVhMzF4NnB2Ykl3dFY2UXBRbV9UaXNTdFlpQTBmaWJYRU5KVlpra2RIU25EcE1tYkxmTERQQV9JMF94cmc?oc=5",
+          "published_at": "2026-06-16T07:42:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "31년",
+      "score": 265.21,
+      "articles": [
+        {
+          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
+          "published_at": "2026-06-16T07:49:14+00:00"
+        },
+        {
+          "title": "일본, 31년 만에 기준금리 1%…한국도 '7월 인상론' 무게 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVFdxbFJtUGo3Q1JibnVOTXFCekhIQkdCamh2cWpvLXA1S1ZqWjk2QTRnQ2x2ek9EMEhORll4VU5XT21UZnFUbG1TU2VpSFQ0bnc?oc=5",
+          "published_at": "2026-06-16T07:43:47+00:00"
+        },
+        {
+          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
+          "published_at": "2026-06-16T07:43:00+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 1%로 인상...31년 만에 최고치 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR0JMM3FObXdDLW5yYmxvd2xLTDVRbFZ0YVF3MXd3VFc3SDNEVEJkV1FWVTZ5d21KRUVhMzF4NnB2Ykl3dFY2UXBRbV9UaXNTdFlpQTBmaWJYRU5KVlpra2RIU25EcE1tYkxmTERQQV9JMF94cmc?oc=5",
+          "published_at": "2026-06-16T07:42:00+00:00"
+        },
+        {
+          "title": "'고물가 대응 불가피' 일본, 31년 만에 '1%대 기준금리'...추가 인상도 시사 - 베타뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTU8xQTA2RzJ3YTNRejEtcE5qMXVqNWhtY0o0dEZaZWZ3MVVsLUpQRWFUNndoc0xrZTJpdDJiX3liVEtHVjVYRHVKVG0tMWoxLUxoY2xFZ3YxU0hZVEk3XzIzVkw?oc=5",
+          "published_at": "2026-06-16T07:41:56+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "일본은행",
+      "score": 225.83,
+      "articles": [
+        {
+          "title": "일본은행 부총재 \"물가 상승폭 확대…인플레 목표치 벗어날 위험\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96eUFhU2dKX09QQU5VbHkyaUJUWlo0dVNSZmJ3SVptekp0ZFRsTnhfTHl3WXZxZ1B6Y2JNdENWSjJJUFNlZ2RUVlNtZUJGTUU?oc=5",
+          "published_at": "2026-06-16T08:24:00+00:00"
+        },
+        {
+          "title": "일본은행 부총재 \"경제·물가 상황 따라 금리 인상 계속\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ycERXN1NfeUUzdkQ4dmVlTTlqY18wTm5mTmdQQmdiNl90WkZpQUZLSjU4QTNTZUFvempQOW1JU2Fzd3ViMjdIcnVNdUJ4eVBuaExyQjJaWkZXT2Q5OEltONIBeEFVX3lxTFBkSE9QZGlmcVl2dktKcmVwc2o4YTRxTVZFeVQxUWJYYk1OWk00d0NtSm8zaUE4SDFRUjU0bW1mSXZLM2tnLWcxajNfb2oxN3dWanpqaW5KbE96SGszSHhTTTE1bDlEbDFYaTllMDMzNG5lRkFqeU9Yeg?oc=5",
+          "published_at": "2026-06-16T08:20:31+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 1%로 인상...31년 만에 최고치 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR0JMM3FObXdDLW5yYmxvd2xLTDVRbFZ0YVF3MXd3VFc3SDNEVEJkV1FWVTZ5d21KRUVhMzF4NnB2Ykl3dFY2UXBRbV9UaXNTdFlpQTBmaWJYRU5KVlpra2RIU25EcE1tYkxmTERQQV9JMF94cmc?oc=5",
+          "published_at": "2026-06-16T07:42:00+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 0.75→1.0%로 인상···31년 만에 최고치 - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxU3RPX0lMb3d2LS14QUlZcFZVbTgyQzl5b3ZEbDdKbGRpRU5kTVlJSXZMNDMtT2hBOHo1UXQ1dDFGR01TV1UxaVZBQkVHbGVVS1BLY1RaWFZjcVRoNC02emFwaG9EYU0wdmc?oc=5",
+          "published_at": "2026-06-16T07:14:43+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 1.0%로 인상, 31년만에 최고...각국 중앙은행 금리 인상 이어지나 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1NjZ01sMC1IVnJEbTlyVHNSSFczRHRTZEZXSC1fNWFEZ1JkcWFsMUZoeDNxTTNWWXVwVTBnX2wzdDNMUlRKR2o3QmU2SlR3Y0hRaFNkYUhKRGZPM3MzVnVrVk1MY0JZeHBCQXFBTUZVaFBadzVaV0ZacXlUSFVqQms4ZmE4LU100gGcAUFVX3lxTFBTQ0gzakRUT2ZDc1J0ai1KTHBES1VKaS1Pbm9LUzNWWWdSN3d2S05STEUyMUpteDgyUFlvcVZRbjdmZkpjTmxGTFp1cHVuT2pTSExCY2ZRcUFmbFBlbHJNU09COXc2Sjl5NFFsMmlRdnJ4bnQ1cTVyV3EzaUZTcmwzUWhmWWsyVEdKNlZwMnZLa0puVUNVRGIwcnNfTQ?oc=5",
+          "published_at": "2026-06-16T07:08:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "1%로",
+      "score": 209.17,
+      "articles": [
+        {
+          "title": "日 기준금리 1%로 올랐지만 비트코인 무반응…\"이미 가격 반영\" - 블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6ZGNhVXNVNldqTVVUYjN2RHRaMWpFQ0tIeDM4LWxCVzV3LWk1UHZxQlpSZGo0T0h1UlJ1eUw0dzdQSW1LTkRUc041dnB0c0ZF?oc=5",
+          "published_at": "2026-06-16T08:20:46+00:00"
+        },
+        {
+          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
+          "published_at": "2026-06-16T07:49:14+00:00"
+        },
+        {
+          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
+          "published_at": "2026-06-16T07:43:00+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 1%로 인상...31년 만에 최고치 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR0JMM3FObXdDLW5yYmxvd2xLTDVRbFZ0YVF3MXd3VFc3SDNEVEJkV1FWVTZ5d21KRUVhMzF4NnB2Ykl3dFY2UXBRbV9UaXNTdFlpQTBmaWJYRU5KVlpra2RIU25EcE1tYkxmTERQQV9JMF94cmc?oc=5",
+          "published_at": "2026-06-16T07:42:00+00:00"
+        },
+        {
+          "title": "일본 기준금리 31년 만에 1%로 인상…엔 캐리 위축 땐 한국 증시 유탄 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVlJ5OHRwTmtFVkQ2dVVVZU9STFRBaU1ySTNQNDhfWDNQOXJSNGZ2WEpabmxKRGNkM0dRemhnZy1RVkh0MmtvQlVIaFRmeTAyTE1ZNGo4Q3lodjFSd0R0bnpZZ2U3REs2Q0dMZmhTTjg2Z2pOa1dSQ0t3Z1JvSW5JeXN3?oc=5",
+          "published_at": "2026-06-16T06:38:00+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 205.67,
+      "score": 193.71,
       "articles": [
         {
-          "title": "캐나다 총리 \"미토스 수출통제, 특정 모델 과도 의존 때 발생\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WNHhWUzJfYUl0UUhXQjBNMV9hbW9YWFNtbThOZk8taDN6emFYZmswbXl5NnV6MXBjSG9KTjBwZ0JENk1nallQWjV1cmtsV28?oc=5",
-          "published_at": "2026-06-15T08:15:19+00:00"
+          "title": "일본은행 부총재 \"물가 상승폭 확대…인플레 목표치 벗어날 위험\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96eUFhU2dKX09QQU5VbHkyaUJUWlo0dVNSZmJ3SVptekp0ZFRsTnhfTHl3WXZxZ1B6Y2JNdENWSjJJUFNlZ2RUVlNtZUJGTUU?oc=5",
+          "published_at": "2026-06-16T08:24:00+00:00"
         },
         {
-          "title": "‘전쟁 끝났다’ 코스피 5%대 급등, 이젠 FOMC다…외국인 이틀간 3조 매수 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ek15NnI5eEVjeUNDbWJTdWg1YTlWX3dlRHA4ZUlpWnEwczYzbTR3a2xBSHZ0VlFtaWVRTlpOS1Z4SXlCWWFBcTgyRUs3Sm8?oc=5",
-          "published_at": "2026-06-15T08:13:36+00:00"
+          "title": "[仁川動力 인천동력] ② 박주봉 인천상의·대주KC그룹 회장 “앞으로 5년이 인천 경제 좌우할 골든타임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzZmJTbHhveDJrTTlLN2hCOFJlcnRTel9SdGVSQWZwLWswV3Rwd3lEaTBEbzB6bXVyWkp5NVktLWs5eXdNU1NsSElHaG9PeVU?oc=5",
+          "published_at": "2026-06-16T08:05:02+00:00"
         },
         {
-          "title": "[간추린 경제] 1. \"회생절차 신청\" 2. \"규제완화 건의\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRWVVhWkpzREdDSUVSSkpoQ0QtTjRHcXNyUlJLTTZvVWlvUm9RSjhnb25meHJ6UTNXUGtEdWZDWDFMQmZ4OHkxVjFhZ1hnX0U?oc=5",
-          "published_at": "2026-06-15T08:13:09+00:00"
+          "title": "[사사건건] 이 주의 경제 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42UXZsMkNfVHY0MWtsaEdXWlZUNFUxcDBhSXpjSC1PRmd0V0pva2ZJdVJ0ZGUzVzlwSnkzNjhveGRTVFpZTEN5bVFpeWNSam8?oc=5",
+          "published_at": "2026-06-16T08:05:00+00:00"
         },
         {
-          "title": "‘금리 최대 19%’ 청년미래적금 출시 눈앞…가입하려면? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wYUZ4VDFqY3Y3NHVJSzItTmMzYTZuMkhHdGtSVERKU0JETHM1dEZkX3FZc0JiNkdIWERxMUZYejlnQm5nOHUwX1Y1Um8xaGs?oc=5",
-          "published_at": "2026-06-15T08:00:00+00:00"
+          "title": "조달청-KOTRA. 수출 원팀 구축으로 혁신기업 세계무대 진출 가속 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OWnVFT1ZuTzM4VTI0bUlYT0tsTzI3MGR3NDM4TzFKZWFwdjhCVWFDb3hZTVh6eXh1NGpyZnN4NWxuZmtfcWh1UW5JUzFSUzQ?oc=5",
+          "published_at": "2026-06-16T07:48:09+00:00"
         },
         {
-          "title": "[현장칼럼] ‘AI 가마우지 경제’ 해법 찾아야 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZTURrdnBGek1lcFAzNDdfSG5kaHlfZkM3UUhEbmhRaGxWOU1NZ0I5Y2VCUVF5Mk9jVG1Qbi1SaVRYOW41TnVfNE9BbmlqQVU?oc=5",
-          "published_at": "2026-06-15T07:48:02+00:00"
+          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
+          "published_at": "2026-06-16T07:43:00+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 205.67,
+      "score": 193.71,
       "articles": [
         {
-          "title": "캐나다 총리 \"미토스 수출통제, 특정 모델 과도 의존 때 발생\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WNHhWUzJfYUl0UUhXQjBNMV9hbW9YWFNtbThOZk8taDN6emFYZmswbXl5NnV6MXBjSG9KTjBwZ0JENk1nallQWjV1cmtsV28?oc=5",
-          "published_at": "2026-06-15T08:15:19+00:00"
+          "title": "일본은행 부총재 \"물가 상승폭 확대…인플레 목표치 벗어날 위험\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96eUFhU2dKX09QQU5VbHkyaUJUWlo0dVNSZmJ3SVptekp0ZFRsTnhfTHl3WXZxZ1B6Y2JNdENWSjJJUFNlZ2RUVlNtZUJGTUU?oc=5",
+          "published_at": "2026-06-16T08:24:00+00:00"
         },
         {
-          "title": "‘전쟁 끝났다’ 코스피 5%대 급등, 이젠 FOMC다…외국인 이틀간 3조 매수 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ek15NnI5eEVjeUNDbWJTdWg1YTlWX3dlRHA4ZUlpWnEwczYzbTR3a2xBSHZ0VlFtaWVRTlpOS1Z4SXlCWWFBcTgyRUs3Sm8?oc=5",
-          "published_at": "2026-06-15T08:13:36+00:00"
+          "title": "[仁川動力 인천동력] ② 박주봉 인천상의·대주KC그룹 회장 “앞으로 5년이 인천 경제 좌우할 골든타임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzZmJTbHhveDJrTTlLN2hCOFJlcnRTel9SdGVSQWZwLWswV3Rwd3lEaTBEbzB6bXVyWkp5NVktLWs5eXdNU1NsSElHaG9PeVU?oc=5",
+          "published_at": "2026-06-16T08:05:02+00:00"
         },
         {
-          "title": "[간추린 경제] 1. \"회생절차 신청\" 2. \"규제완화 건의\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRWVVhWkpzREdDSUVSSkpoQ0QtTjRHcXNyUlJLTTZvVWlvUm9RSjhnb25meHJ6UTNXUGtEdWZDWDFMQmZ4OHkxVjFhZ1hnX0U?oc=5",
-          "published_at": "2026-06-15T08:13:09+00:00"
+          "title": "[사사건건] 이 주의 경제 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42UXZsMkNfVHY0MWtsaEdXWlZUNFUxcDBhSXpjSC1PRmd0V0pva2ZJdVJ0ZGUzVzlwSnkzNjhveGRTVFpZTEN5bVFpeWNSam8?oc=5",
+          "published_at": "2026-06-16T08:05:00+00:00"
         },
         {
-          "title": "‘금리 최대 19%’ 청년미래적금 출시 눈앞…가입하려면? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wYUZ4VDFqY3Y3NHVJSzItTmMzYTZuMkhHdGtSVERKU0JETHM1dEZkX3FZc0JiNkdIWERxMUZYejlnQm5nOHUwX1Y1Um8xaGs?oc=5",
-          "published_at": "2026-06-15T08:00:00+00:00"
+          "title": "조달청-KOTRA. 수출 원팀 구축으로 혁신기업 세계무대 진출 가속 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OWnVFT1ZuTzM4VTI0bUlYT0tsTzI3MGR3NDM4TzFKZWFwdjhCVWFDb3hZTVh6eXh1NGpyZnN4NWxuZmtfcWh1UW5JUzFSUzQ?oc=5",
+          "published_at": "2026-06-16T07:48:09+00:00"
         },
         {
-          "title": "[현장칼럼] ‘AI 가마우지 경제’ 해법 찾아야 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZTURrdnBGek1lcFAzNDdfSG5kaHlfZkM3UUhEbmhRaGxWOU1NZ0I5Y2VCUVF5Mk9jVG1Qbi1SaVRYOW41TnVfNE9BbmlqQVU?oc=5",
-          "published_at": "2026-06-15T07:48:02+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "환율",
-      "score": 199.12,
-      "articles": [
-        {
-          "title": "서명만 남은 미·이란 협상 타결, 유가·물가·환율 '숨통' 트이나 - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UV3o5eDVsT2IyNGdiN1VQcFJSLU5XQ3FqckxTRE5vbm4zSHBIazFoRVloT0JCNF9rbjRudy1uUGZxQjR1MG9Xa1Y4emgzXzg2VjJqSjczMGtSUFJaMzBaTVBKMU8?oc=5",
-          "published_at": "2026-06-15T08:40:49+00:00"
-        },
-        {
-          "title": "[표] 외국환율고시표 - 매일경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxdFdzTFRRVlJTWWZvSy0wR2hTSVA0Tm9FTzZUYlF1d0VoVF9MU2FiWTcxbDFFdVJLdnhCcUJJRkpxY2NYVWhPZGp1N2lwOVNlaEIwQ21yejNneWZ2SWpjdUcwSjJNVE9p?oc=5",
-          "published_at": "2026-06-15T08:36:00+00:00"
-        },
-        {
-          "title": "[표] 외국환율고시표 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1LW9TR250NmtLWkNFR28wY3BnMGx3YW9rTy1aMGxHeDVrWHNxYnNXbnh3aVl5YmNqbmUweW1jY3hodlpTTkJPMERPMWNiVE5ld0E?oc=5",
-          "published_at": "2026-06-15T08:33:50+00:00"
-        },
-        {
-          "title": "미·이란 종전 합의에 코스피 8,500선…환율도 하락 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SN095NnM3RXZheEpIclY0RW9FYnJoaE94SW5WZGc1QXNQcmVUZHp5QTdrakNFREw2TzZFdlNvTWV5TFl2TUJqN0luYXJGd2xHMXk1MnV2RnMzeWs?oc=5",
-          "published_at": "2026-06-15T08:02:00+00:00"
-        },
-        {
-          "title": "외국인, 5월 국내 주식 318억달러 순매도…환율 1520원대 By 알파경제 alphabiz - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56NlFaenR0SmZUOWd5QnlRcld1YjFiREhQMFBkbUJiWFdPWHJreV9jQk03NG1Ndi15R2dJeHFpc3FMMDFGSy1DSGp4bUJnVFVEMnV6aXNEUE05bmpINnlSeFdYZkRFNEdsU2E4UXExNXM?oc=5",
-          "published_at": "2026-06-15T07:54:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "이란",
-      "score": 197.1,
-      "articles": [
-        {
-          "title": "서명만 남은 미·이란 협상 타결, 유가·물가·환율 '숨통' 트이나 - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UV3o5eDVsT2IyNGdiN1VQcFJSLU5XQ3FqckxTRE5vbm4zSHBIazFoRVloT0JCNF9rbjRudy1uUGZxQjR1MG9Xa1Y4emgzXzg2VjJqSjczMGtSUFJaMzBaTVBKMU8?oc=5",
-          "published_at": "2026-06-15T08:40:49+00:00"
-        },
-        {
-          "title": "미·이란 종전 합의에 K푸드 ‘방긋'…“추가 물량 수출 급물살” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBueExxYlVubHZnc1RqUEVoWlNIUk83amg5NHFoLWFsd2xhc3JMZnNpcTltT0dDbXZrWlRDNW9PVF9DOFJQVG85dXV4Rk1jaVVkOGYxekVn?oc=5",
-          "published_at": "2026-06-15T08:37:52+00:00"
-        },
-        {
-          "title": "미·이란 종전 합의에 코스피 8,500선…환율도 하락 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SN095NnM3RXZheEpIclY0RW9FYnJoaE94SW5WZGc1QXNQcmVUZHp5QTdrakNFREw2TzZFdlNvTWV5TFl2TUJqN0luYXJGd2xHMXk1MnV2RnMzeWs?oc=5",
-          "published_at": "2026-06-15T08:02:00+00:00"
-        },
-        {
-          "title": "여야, 미·이란 종전 한목소리 환영…\"경제 회복 전환점 삼아야\" - 대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxaTcwa2ZRM1VmLTNscG1DUHJBekNhNnloQ19aYk9QOEROY3V5ZXotc1FxUHJMcGNMMGpVYjRXT0pUQlFfbEZYMWp0WG9iY3dhSm5qRmc0Zzd3TEVhVHM3a2xGYzB3M0hpaGVIdk1hMA?oc=5",
-          "published_at": "2026-06-15T07:53:10+00:00"
-        },
-        {
-          "title": "미·이란 전쟁 사실상 종료…충청 경제 덮친 에너지난 숨통 트이나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1M2Y1bXpXZVNudUpNOVpuOWk1TUV4SjN2T3RqaUh4UlZ1MUJSXzd6dzRFRUc1cS1HLVYtUnN2eXYyY05nYjdhMmp5aUhFZkU?oc=5",
-          "published_at": "2026-06-15T07:45:49+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 135.02,
-      "articles": [
-        {
-          "title": "물가 뛰는데 고용은 꺾였다…금리 인상 딜레마 - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZmJwNHpzcHZSNUJXWlphck04b09KRDVWUWVEc2E4M2hVc0k4QWQ5TWNBN3pJNnZJdXB0Y3Z3MVNuVEtvNGVYd3dGcGJrTFhKbTd3VDNIQURTcTlDQzVYeDZXUzU2emJFc3Z1ekNR?oc=5",
-          "published_at": "2026-06-15T08:44:25+00:00"
-        },
-        {
-          "title": "변동형 주담대 금리 또 오른다 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VXy1ydkNwQnJRWHYtazNpNnRBMU1Pa1lGYTBsS0k4TGZEVWFpbUVTSVBWamFtcFFFX1VMZE9OcUhQeXRISUxxVmF6SG5aOVhPQkQzOXdUb3RmQdIBVEFVX3lxTE9XTXhIaHdlT1ZfRkFCUUxHbTMxU0dyOHZKZVFIcXVITzlxR0x6dXEwMGx3YWtyaXJJZDYySXNTZzJQRDhwVnhmTHJlenFEN1hMVWlVcw?oc=5",
-          "published_at": "2026-06-15T08:23:02+00:00"
-        },
-        {
-          "title": "여전채 금리 4% 돌파…카드업계, 조달비용·대출규제 '이중압박' - 위키리크스한국",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nM09UdF9VZ3pBRlByN19CdERHSjQtSUc1TVU0QVpoVWRSdklWU1lrWi15ajgtTzA3LVYtQUwtWjBwSkxwQXRLWEpteWdLXzEtRkIzblNkMnhMQWphcDl5M0ZONXNTSlhpUHF2RTUzMA?oc=5",
-          "published_at": "2026-06-15T08:13:38+00:00"
-        },
-        {
-          "title": "‘금리 최대 19%’ 청년미래적금 출시 눈앞…가입하려면? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wYUZ4VDFqY3Y3NHVJSzItTmMzYTZuMkhHdGtSVERKU0JETHM1dEZkX3FZc0JiNkdIWERxMUZYejlnQm5nOHUwX1Y1Um8xaGs?oc=5",
-          "published_at": "2026-06-15T08:00:00+00:00"
-        },
-        {
-          "title": "예금금리 다시 3%대…저축은행도 수신 경쟁 가세 - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNWlo2eERCbDFHMHBCZzRWZ0RzdmkxaVJCNWJfNUEwYjE2T0gtbldLbWNYVWl0TUxnWlQ5cWVCemhidThMOE1uTVFNYWhRTUxWZlh0UFMydGNGMEJxNjdGMlpyaG8?oc=5",
-          "published_at": "2026-06-15T07:50:01+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "유가",
-      "score": 132.55,
-      "articles": [
-        {
-          "title": "유가 내릴 때 우리는 뜬다…엔진 뜨거워지는 '이 종목' - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCQVZjaWVTbWd0RDktU3NIRE5FWGxEeWZVSWVpVTFtZnY1ZTNWdUJSQXBXdEY3Mi1nUmhZUW5FWl83Rk5oS1NFT3AyODdvalFXWUpmVm1ISWdTdFpjMWNtUE1fb1M2U1Bf0gFuQVVfeXFMUGdIUXFTRTlSb1g4Q2NZamh2MmtTb3JPVlNlemt4Nm5BMXhTY3RsLU1uVGxTY0pWNzBqUHdUTklkeHRnZmFsZHZUek5RR2NyOW9QZURDeFBpLUVHbXJmUEJNVmlidGFDMkVTWlhFdGc?oc=5",
-          "published_at": "2026-06-15T08:41:57+00:00"
-        },
-        {
-          "title": "서명만 남은 미·이란 협상 타결, 유가·물가·환율 '숨통' 트이나 - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UV3o5eDVsT2IyNGdiN1VQcFJSLU5XQ3FqckxTRE5vbm4zSHBIazFoRVloT0JCNF9rbjRudy1uUGZxQjR1MG9Xa1Y4emgzXzg2VjJqSjczMGtSUFJaMzBaTVBKMU8?oc=5",
-          "published_at": "2026-06-15T08:40:49+00:00"
-        },
-        {
-          "title": "호르무즈 풀리면 유가 안정?…고물가 여진은 계속 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xUURPbmJyQzM0am0tenVJVE5uQTljbmtJOHgxN01kaFUyay1DTHVKbW1wSWhaQWgwdVMwMWh1VEJtUVFJNDA4MHpqeWRTX1lud3BlYWNB?oc=5",
-          "published_at": "2026-06-15T08:38:57+00:00"
-        },
-        {
-          "title": "유가에 물가까지…한국경제 흔든 '중동전' - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BMDRDXzhaRHJzR0hIMTlucEliNkhDWWZCZ0FQUWpIR1hZcUtaQ0gtMW00ODh1RkxSN1VQajdQc1M1STdQUFc5VEEwVWkzc29ub3EtcDZKUTZ5RDFFcUphVQ?oc=5",
-          "published_at": "2026-06-15T08:36:54+00:00"
-        },
-        {
-          "title": "미국·이란 합의 국제유가 하락…정유업계, 재고평가손실 부담 확대 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CRnZENnlLMFdZVmZjUWlFTUJJQjdEemtOajd4MTItSGhkX0xObmp3YzZRU0s3UGlOSVlnUnpRREtTUjNBem1tZ3loSF9aT1EycWd3R3JNblpLd2s1bUpnTG9qUTBrcDFEMnFXb01hRk4?oc=5",
-          "published_at": "2026-06-15T07:42:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "수출",
-      "score": 129.84,
-      "articles": [
-        {
-          "title": "미·이란 종전 합의에 K푸드 ‘방긋'…“추가 물량 수출 급물살” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBueExxYlVubHZnc1RqUEVoWlNIUk83amg5NHFoLWFsd2xhc3JMZnNpcTltT0dDbXZrWlRDNW9PVF9DOFJQVG85dXV4Rk1jaVVkOGYxekVn?oc=5",
-          "published_at": "2026-06-15T08:37:52+00:00"
-        },
-        {
-          "title": "[경제+] '제12회 中 국제기술수출입교역회', 중외 '양방향 혁신기술 협력' 이끈다 - 서울뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CVEMxdE1PbmNlWHNBRmxTaWkxdGNJd1ZYZ3RoZkpCUkNnZFRZT1BvWkFFSWFseS12M2RhMUNtdG9vUkFzOEdjYTRrVngxTVgtV2EyYWhxNjJhTFYwdV9vSlk2MlViSGU2U1NJ?oc=5",
-          "published_at": "2026-06-15T08:36:47+00:00"
-        },
-        {
-          "title": "캐나다 총리 \"미토스 수출통제, 특정 모델 과도 의존 때 발생\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WNHhWUzJfYUl0UUhXQjBNMV9hbW9YWFNtbThOZk8taDN6emFYZmswbXl5NnV6MXBjSG9KTjBwZ0JENk1nallQWjV1cmtsV28?oc=5",
-          "published_at": "2026-06-15T08:15:19+00:00"
-        },
-        {
-          "title": "aT의 K푸드 마케팅 교육 효과 '톡톡'…수출 길도 열었다 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xMm94N2ZVa3V2cUJwRnIxRGU5WjR1VWZhYktRVHptUFQxVG9sR2lROGlDd0U0T1c5ZS1sZUFyREdRMkluLUxyUk5oQ2lDa0lEQ1U3SHhLRk1RSDkyRDNXX0ZaRXF4RHpHRjJ1NXJhTC0?oc=5",
-          "published_at": "2026-06-15T07:47:50+00:00"
-        },
-        {
-          "title": "에너지공단-무역협회, 수출기업 탄소 규제 대응 지원 - 산경e뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXREJpVF9CbjMxbG1FNUdHWmI4WllaazZsRjR2QzV0c3FYMmhEWXpWUC11ZDZPaGlKRUVnYTFzVTVGNDk2ek8yTURENHZBaFJia3JoOGxQUkh5clpmMDBRZzRZYm8yblU?oc=5",
-          "published_at": "2026-06-15T07:45:14+00:00"
+          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
+          "published_at": "2026-06-16T07:43:00+00:00"
         }
       ]
     }
