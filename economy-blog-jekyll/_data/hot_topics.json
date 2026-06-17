@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-06-16T08:42:55.018573+00:00",
+  "generated_at": "2026-06-17T08:25:40.015118+00:00",
   "source_count": 4,
-  "article_count": 351,
+  "article_count": 372,
   "top_keywords": [
     {
-      "keyword": "기준금리",
-      "score": 413.3
+      "keyword": "한은",
+      "score": 207.63
     },
     {
-      "keyword": "인상",
-      "score": 377.96
-    },
-    {
-      "keyword": "만에",
-      "score": 265.24
-    },
-    {
-      "keyword": "31년",
-      "score": 265.21
-    },
-    {
-      "keyword": "일본은행",
-      "score": 225.83
-    },
-    {
-      "keyword": "1%로",
-      "score": 209.17
-    },
-    {
-      "keyword": "daum",
-      "score": 193.71
-    },
-    {
-      "keyword": "net",
-      "score": 193.71
-    },
-    {
-      "keyword": "최고",
-      "score": 157.78
-    },
-    {
-      "keyword": "금리",
-      "score": 153.09
+      "keyword": "FOMC",
+      "score": 195.68
     },
     {
       "keyword": "수출",
-      "score": 133.96
+      "score": 174.46
     },
     {
-      "keyword": "일본",
-      "score": 99.08
+      "keyword": "daum",
+      "score": 157.06
+    },
+    {
+      "keyword": "net",
+      "score": 157.06
+    },
+    {
+      "keyword": "물가",
+      "score": 143.7
+    },
+    {
+      "keyword": "유가",
+      "score": 140.45
+    },
+    {
+      "keyword": "신현송",
+      "score": 137.46
+    },
+    {
+      "keyword": "코스피",
+      "score": 130.09
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 112.62
+    },
+    {
+      "keyword": "연합뉴스",
+      "score": 112.08
+    },
+    {
+      "keyword": "금리",
+      "score": 106.72
     }
   ],
   "hot_topics": [
     {
-      "keyword": "기준금리",
-      "score": 413.3,
+      "keyword": "한은",
+      "score": 207.63,
       "articles": [
         {
-          "title": "日 기준금리 1%로 올랐지만 비트코인 무반응…\"이미 가격 반영\" - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6ZGNhVXNVNldqTVVUYjN2RHRaMWpFQ0tIeDM4LWxCVzV3LWk1UHZxQlpSZGo0T0h1UlJ1eUw0dzdQSW1LTkRUc041dnB0c0ZF?oc=5",
-          "published_at": "2026-06-16T08:20:46+00:00"
+          "title": "신현송 한은, 국회에 \"기준금리 인상할 필요 있다\" - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZFg2OVc1ZFBFMDRrNnN3c19seE9CREFndUw5LXVMNEU5RHNhcVBNaW1mNWlNS054Tm9MNmJPTVdqdi1zRGFxb1JSMzVaM21CdjE4NWRZOEFhQQ?oc=5",
+          "published_at": "2026-06-17T08:14:33+00:00"
         },
         {
-          "title": "PGIM \"연준, 올해 기준금리 3회 인상 후 내년 3회 인하\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RDktSkExZFBEcV9maC1xLTVWNm1hLUN1NkhWd0VWbzNLSnFBVFFGNWtsUUdMWXhPd04xMnVQWWRUbEVPN0xFcGoyQkRiZU1XNmRVQlljU1JiSUoxZTB4aDBhdzBaWkNIdjBGemdPUjk?oc=5",
-          "published_at": "2026-06-16T08:10:23+00:00"
+          "title": "신현송 한은 총재 “물가 상당 기간 높은 수준”…금리인상 기조 재확인 - 강원도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQnFBNGV2OVBfMExXcm16a3hCV2JOc292YVJTMWFVU1NoWURnV3lIdnV6THJXSjV1RjY1akNKN1RVTWVJZDJYOXV0eGpxMjVfTlotVEhxeGRvdXFhM05TbEpWMmF0SVk?oc=5",
+          "published_at": "2026-06-17T08:06:26+00:00"
         },
         {
-          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
-          "published_at": "2026-06-16T07:49:14+00:00"
+          "title": "“유가보다 무서운 2차 파급”...한은, 인플레 장기전 경고 - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVRmlPRUlteDkycmFtNFkweXN1YjBYTW9QcFFtVlJzMjlFZ1J4T1lGNDVLZDdEYXpMZi1jOTE5ZTlndkZzYmFNcjBWZXpjTGp1RElCQ1ZrSFo0Y00?oc=5",
+          "published_at": "2026-06-17T07:50:41+00:00"
         },
         {
-          "title": "일본, 31년 만에 기준금리 1%…한국도 '7월 인상론' 무게 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVFdxbFJtUGo3Q1JibnVOTXFCekhIQkdCamh2cWpvLXA1S1ZqWjk2QTRnQ2x2ek9EMEhORll4VU5XT21UZnFUbG1TU2VpSFQ0bnc?oc=5",
-          "published_at": "2026-06-16T07:43:47+00:00"
+          "title": "[경제]한은 \"유가 안정 오래 걸려...하반기 물가상승률 3% 내외\" - YTN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEc21oMHdlOTJsSHBzeUFwU29QcGlTcDNwYWsydVlFbGRqejRtWk5oODRMaW5yeWxPMkMtcnFIU0NZNFo4NDVVcnVrcmktYTQwSTdDcUFRV0trUGpQb0REUUQ5c1hSVlFUNGdMRGFldw?oc=5",
+          "published_at": "2026-06-17T07:41:00+00:00"
         },
         {
-          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
-          "published_at": "2026-06-16T07:43:00+00:00"
+          "title": "신현송 한은 총재 \"물가 상당 기간 높은 수준 지속…목표 달성까지 적극 대응“ - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jVGxhaE5HdFRyNnFkZGg1aFRqNm5GNlNVR0ViNGttMGdpZlZrRVdzVGxWX0lndU4yV3ZxU0N3N1Y2b0NSQWZldXdxR0JKZld0by1kUHNHSDR5bWYzbFRyRkZ1ZTliUURaS1FrRlNDS1ZPUQ?oc=5",
+          "published_at": "2026-06-17T07:35:00+00:00"
         }
       ]
     },
     {
-      "keyword": "인상",
-      "score": 377.96,
+      "keyword": "FOMC",
+      "score": 195.68,
       "articles": [
         {
-          "title": "유럽 이어 일본도 금리인상…전 세계 '긴축 도미노' - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DZXY2NHVpb29RTldFeDdDMTFrTEdrVzAtNEZmdi1Tckl2alVIZVRTVnlMNTRxcVVMZTkyQy02RXdjSG00dHRpZ1VDNW1uWHN0TUpZYk5zMzJnSjhqUXR1eg?oc=5",
-          "published_at": "2026-06-16T08:28:05+00:00"
+          "title": "FOMC 경계감 이긴 코스피 8860대로 유가·환율 안정…'250만닉스' 현실화 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84dmdMY0EtT1ZZTnhEeUFmS1B5OFFJSllKWURBbU1sWklkM3dJQUFidFNDOW12d3FkTU82SEprWU1JV2pCaGo3ZmljVDY0cEswaDlzTVNSUWwxOGozM1V5bGxnaFE1emVCcjRpMg?oc=5",
+          "published_at": "2026-06-17T07:52:42+00:00"
         },
         {
-          "title": "일본은행 부총재 \"경제·물가 상황 따라 금리 인상 계속\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ycERXN1NfeUUzdkQ4dmVlTTlqY18wTm5mTmdQQmdiNl90WkZpQUZLSjU4QTNTZUFvempQOW1JU2Fzd3ViMjdIcnVNdUJ4eVBuaExyQjJaWkZXT2Q5OEltONIBeEFVX3lxTFBkSE9QZGlmcVl2dktKcmVwc2o4YTRxTVZFeVQxUWJYYk1OWk00d0NtSm8zaUE4SDFRUjU0bW1mSXZLM2tnLWcxajNfb2oxN3dWanpqaW5KbE96SGszSHhTTTE1bDlEbDFYaTllMDMzNG5lRkFqeU9Yeg?oc=5",
-          "published_at": "2026-06-16T08:20:31+00:00"
+          "title": "코스피, FOMC 경계감에도 사상 최고치 경신…'8860선' 마감 - 뉴스웍스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVYWxDMlpMa0ZfWVdEcjZ3QWowMEt1TGRNcnppRGJYMXRwSTNPT0R6SnUzMGR6a045cGdzb3hqdldURUtQWGU3SU5PaEJ4U0tHX1poek9zZGpfcV9PYTN2OHFLejQzWEQ1YU1kOXV1RdIBc0FVX3lxTE5QM3JYM1JsejRsR200ZTNjYUptNnJDOTBIczdLeHJ6VVltU3pYS3JkcjlDS3hwNkVweTBsX0lzeVdqRVRzQ3FBeG9UQlBmMzBSYzE3UVFKU2VBMkhsRjUzYy1qMmRNYl83ckh0NGxYTXJuMk0?oc=5",
+          "published_at": "2026-06-17T07:38:27+00:00"
         },
         {
-          "title": "PGIM \"연준, 올해 기준금리 3회 인상 후 내년 3회 인하\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RDktSkExZFBEcV9maC1xLTVWNm1hLUN1NkhWd0VWbzNLSnFBVFFGNWtsUUdMWXhPd04xMnVQWWRUbEVPN0xFcGoyQkRiZU1XNmRVQlljU1JiSUoxZTB4aDBhdzBaWkNIdjBGemdPUjk?oc=5",
-          "published_at": "2026-06-16T08:10:23+00:00"
+          "title": "‘첫 FOMC 데뷔전’ 워시, 점도표 빠지나…연준 소통 실험대 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OOUI3Q1d1ZEp4QkJEcWhadjFGeW9TUG04a25ESG5jaUVyUVhCSlY1UVNvY0NRbE43Wko3WU8wQTdDMUpOaUdod3p1Nkx4cldFbDVqVlZn?oc=5",
+          "published_at": "2026-06-17T07:33:26+00:00"
         },
         {
-          "title": "우치다 BOJ 부총재 \"경제·물가 상황에 맞춰 금리 계속 인상\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdDk0cVBPN240Rm5jNTJjYTRNYTFTMWJnM0ZFbVZNVUlqWjNCb0Z5UnFRWV9tVVVYZ1NqR0FHUE9RaTV0NVlocHdRRTVhMWpYVFluRzV0R0E3ODc2?oc=5",
-          "published_at": "2026-06-16T08:07:00+00:00"
+          "title": "코스피, FOMC 경계감 속 종전 타결·유가 하락에 '최고치 경신'…코스닥 1.30%↑ - 프라임경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DNDhKNWZzNUQ5OXdmMXJsUk1uMHFja1VSNUNEV0ZMeTBHNk5ZSHBDQzVGdkZYeUt0eDkxVFVHaXJnbGpNVHAzUmpyaWZsMVJORS1xYXhRRUZYcHpvNnlHVg?oc=5",
+          "published_at": "2026-06-17T07:23:15+00:00"
         },
         {
-          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
-          "published_at": "2026-06-16T07:49:14+00:00"
+          "title": "트럼프 '인하' 시장 '인상 베팅'…첫 FOMC 워시 \"솔로몬의 고민\" - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wWTllV2V1RFB3eFY3WmxHS1FRTzhtR1lFM05HdHM5OE5SX2QtUGJqakVzSTI2MnRPN0doTmtsYzhLbUN1QzR1MlJNaDB3M0paaFBPTlZ0b2U2MjF1b1hNeUxqbzFJVjg?oc=5",
+          "published_at": "2026-06-17T07:10:22+00:00"
         }
       ]
     },
     {
-      "keyword": "만에",
-      "score": 265.24,
+      "keyword": "수출",
+      "score": 174.46,
       "articles": [
         {
-          "title": "국제유가는 3개월 만에 최저…L당 2000원 주유소 기름값은 언제 내릴까 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82bDRwbElBaVh2dFQ3dTNfV254ZnpmS1pVMEpBa2V2LS1jVE4waEFBTlhkbzNoSTFTakxmR2hpQklDdmNBZ096eGtFd21LYlZxbmZTeXFn?oc=5",
-          "published_at": "2026-06-16T08:06:55+00:00"
+          "title": "농식품부, 관광·콘텐츠 연계 K푸드 수출 확대 추진…160억달러 목표 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qUjdkOVp5MXhrLXBtMFEydGlETW1PNHBqcXZuUl95S0NoX1hETnlzUURocnQ4NkgxcEN3U0g2SkFpTHQwbHZ5aEEwSHp2X2pGbFI0WHRxWV9nbGcwXy1jY1lfem8?oc=5",
+          "published_at": "2026-06-17T08:16:04+00:00"
         },
         {
-          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
-          "published_at": "2026-06-16T07:49:14+00:00"
+          "title": "경기 수출 질주…올 2000억달러 돌파하나 - 인천일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91WmMtUlZyQTI5N1ZoMFVwWDVoVmt3aWI2Z3N0T1FGdEFVTDVuaVdqeTZtTnR2MVgtY0JMRkFOSVNrcUNBM2hXSkpyekpfWE04aXhFcE9aYXI3MXpsa0Q2TW5tbDFVejNOTXc?oc=5",
+          "published_at": "2026-06-17T08:02:00+00:00"
         },
         {
-          "title": "일본, 31년 만에 기준금리 1%…한국도 '7월 인상론' 무게 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVFdxbFJtUGo3Q1JibnVOTXFCekhIQkdCamh2cWpvLXA1S1ZqWjk2QTRnQ2x2ek9EMEhORll4VU5XT21UZnFUbG1TU2VpSFQ0bnc?oc=5",
-          "published_at": "2026-06-16T07:43:47+00:00"
+          "title": "정부, 범부처 협력으로 ‘K-푸드’ 수출 160억 달러 달성 위해 총력 - 국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlhYX0gyN3VnaWkzX3hJWmt5ZWhTS0hfcEZ5bl9LRUtGdWxCcGxYTDl2RDh0UGlXUzl2SEdDM185UVR2YjVncTVPVHdPQW82Rzk4Y3Axa2lKOHpFSWRkSnoxa3J6aktiTnlOdzVtMkd3YzZlRlduUE5paFdFX0JIXzJUV29sdzdidTExUi1B?oc=5",
+          "published_at": "2026-06-17T07:49:00+00:00"
         },
         {
-          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
-          "published_at": "2026-06-16T07:43:00+00:00"
+          "title": "정부, K-푸드 수출 160억 달러 정조준…전 부처 지원 총력전 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WalZrNV9rUE5qZVpTVTRES2NfTHFJa2FyMTlYcVMzVzZqcFQzTWZfcTdrUDItdnFxQ05lS0dMTjg3cE0yVTc4QXo0SV9QWlE?oc=5",
+          "published_at": "2026-06-17T07:44:33+00:00"
         },
         {
-          "title": "일본은행, 기준금리 1%로 인상...31년 만에 최고치 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR0JMM3FObXdDLW5yYmxvd2xLTDVRbFZ0YVF3MXd3VFc3SDNEVEJkV1FWVTZ5d21KRUVhMzF4NnB2Ykl3dFY2UXBRbV9UaXNTdFlpQTBmaWJYRU5KVlpra2RIU25EcE1tYkxmTERQQV9JMF94cmc?oc=5",
-          "published_at": "2026-06-16T07:42:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "31년",
-      "score": 265.21,
-      "articles": [
-        {
-          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
-          "published_at": "2026-06-16T07:49:14+00:00"
-        },
-        {
-          "title": "일본, 31년 만에 기준금리 1%…한국도 '7월 인상론' 무게 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVFdxbFJtUGo3Q1JibnVOTXFCekhIQkdCamh2cWpvLXA1S1ZqWjk2QTRnQ2x2ek9EMEhORll4VU5XT21UZnFUbG1TU2VpSFQ0bnc?oc=5",
-          "published_at": "2026-06-16T07:43:47+00:00"
-        },
-        {
-          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
-          "published_at": "2026-06-16T07:43:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 1%로 인상...31년 만에 최고치 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR0JMM3FObXdDLW5yYmxvd2xLTDVRbFZ0YVF3MXd3VFc3SDNEVEJkV1FWVTZ5d21KRUVhMzF4NnB2Ykl3dFY2UXBRbV9UaXNTdFlpQTBmaWJYRU5KVlpra2RIU25EcE1tYkxmTERQQV9JMF94cmc?oc=5",
-          "published_at": "2026-06-16T07:42:00+00:00"
-        },
-        {
-          "title": "'고물가 대응 불가피' 일본, 31년 만에 '1%대 기준금리'...추가 인상도 시사 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTU8xQTA2RzJ3YTNRejEtcE5qMXVqNWhtY0o0dEZaZWZ3MVVsLUpQRWFUNndoc0xrZTJpdDJiX3liVEtHVjVYRHVKVG0tMWoxLUxoY2xFZ3YxU0hZVEk3XzIzVkw?oc=5",
-          "published_at": "2026-06-16T07:41:56+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "일본은행",
-      "score": 225.83,
-      "articles": [
-        {
-          "title": "일본은행 부총재 \"물가 상승폭 확대…인플레 목표치 벗어날 위험\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96eUFhU2dKX09QQU5VbHkyaUJUWlo0dVNSZmJ3SVptekp0ZFRsTnhfTHl3WXZxZ1B6Y2JNdENWSjJJUFNlZ2RUVlNtZUJGTUU?oc=5",
-          "published_at": "2026-06-16T08:24:00+00:00"
-        },
-        {
-          "title": "일본은행 부총재 \"경제·물가 상황 따라 금리 인상 계속\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ycERXN1NfeUUzdkQ4dmVlTTlqY18wTm5mTmdQQmdiNl90WkZpQUZLSjU4QTNTZUFvempQOW1JU2Fzd3ViMjdIcnVNdUJ4eVBuaExyQjJaWkZXT2Q5OEltONIBeEFVX3lxTFBkSE9QZGlmcVl2dktKcmVwc2o4YTRxTVZFeVQxUWJYYk1OWk00d0NtSm8zaUE4SDFRUjU0bW1mSXZLM2tnLWcxajNfb2oxN3dWanpqaW5KbE96SGszSHhTTTE1bDlEbDFYaTllMDMzNG5lRkFqeU9Yeg?oc=5",
-          "published_at": "2026-06-16T08:20:31+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 1%로 인상...31년 만에 최고치 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR0JMM3FObXdDLW5yYmxvd2xLTDVRbFZ0YVF3MXd3VFc3SDNEVEJkV1FWVTZ5d21KRUVhMzF4NnB2Ykl3dFY2UXBRbV9UaXNTdFlpQTBmaWJYRU5KVlpra2RIU25EcE1tYkxmTERQQV9JMF94cmc?oc=5",
-          "published_at": "2026-06-16T07:42:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 0.75→1.0%로 인상···31년 만에 최고치 - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxU3RPX0lMb3d2LS14QUlZcFZVbTgyQzl5b3ZEbDdKbGRpRU5kTVlJSXZMNDMtT2hBOHo1UXQ1dDFGR01TV1UxaVZBQkVHbGVVS1BLY1RaWFZjcVRoNC02emFwaG9EYU0wdmc?oc=5",
-          "published_at": "2026-06-16T07:14:43+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 1.0%로 인상, 31년만에 최고...각국 중앙은행 금리 인상 이어지나 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1NjZ01sMC1IVnJEbTlyVHNSSFczRHRTZEZXSC1fNWFEZ1JkcWFsMUZoeDNxTTNWWXVwVTBnX2wzdDNMUlRKR2o3QmU2SlR3Y0hRaFNkYUhKRGZPM3MzVnVrVk1MY0JZeHBCQXFBTUZVaFBadzVaV0ZacXlUSFVqQms4ZmE4LU100gGcAUFVX3lxTFBTQ0gzakRUT2ZDc1J0ai1KTHBES1VKaS1Pbm9LUzNWWWdSN3d2S05STEUyMUpteDgyUFlvcVZRbjdmZkpjTmxGTFp1cHVuT2pTSExCY2ZRcUFmbFBlbHJNU09COXc2Sjl5NFFsMmlRdnJ4bnQ1cTVyV3EzaUZTcmwzUWhmWWsyVEdKNlZwMnZLa0puVUNVRGIwcnNfTQ?oc=5",
-          "published_at": "2026-06-16T07:08:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "1%로",
-      "score": 209.17,
-      "articles": [
-        {
-          "title": "日 기준금리 1%로 올랐지만 비트코인 무반응…\"이미 가격 반영\" - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6ZGNhVXNVNldqTVVUYjN2RHRaMWpFQ0tIeDM4LWxCVzV3LWk1UHZxQlpSZGo0T0h1UlJ1eUw0dzdQSW1LTkRUc041dnB0c0ZF?oc=5",
-          "published_at": "2026-06-16T08:20:46+00:00"
-        },
-        {
-          "title": "일본 기준금리 31년 만에 연 1%로…BOJ “경제·물가·금융 따라 계속 인상” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZkVSTHlnVkN0S3JLdW0tYjBKVjBJalc0cEdqV0QwSlRLNnVwTUJBcUFjMlQ4Rm9qMG1KSjZJWE1SM3A4cVAtSjl4dXNGaEtDVmFvejVR?oc=5",
-          "published_at": "2026-06-16T07:49:14+00:00"
-        },
-        {
-          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
-          "published_at": "2026-06-16T07:43:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 1%로 인상...31년 만에 최고치 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR0JMM3FObXdDLW5yYmxvd2xLTDVRbFZ0YVF3MXd3VFc3SDNEVEJkV1FWVTZ5d21KRUVhMzF4NnB2Ykl3dFY2UXBRbV9UaXNTdFlpQTBmaWJYRU5KVlpra2RIU25EcE1tYkxmTERQQV9JMF94cmc?oc=5",
-          "published_at": "2026-06-16T07:42:00+00:00"
-        },
-        {
-          "title": "일본 기준금리 31년 만에 1%로 인상…엔 캐리 위축 땐 한국 증시 유탄 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVlJ5OHRwTmtFVkQ2dVVVZU9STFRBaU1ySTNQNDhfWDNQOXJSNGZ2WEpabmxKRGNkM0dRemhnZy1RVkh0MmtvQlVIaFRmeTAyTE1ZNGo4Q3lodjFSd0R0bnpZZ2U3REs2Q0dMZmhTTjg2Z2pOa1dSQ0t3Z1JvSW5JeXN3?oc=5",
-          "published_at": "2026-06-16T06:38:00+00:00"
+          "title": "K푸드 수출 160억불 정조준…정부, 공관·물류·규제 총력 지원 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PbUM1QS1hTXFsQW5VaHBWSE5KZHZfSDFZMDNGWW1NYVA2RFZpQjlWeFE1TWp6NzRVSGIwNXZmeHQ4c2FTeXJ6NTBPVlRtdw?oc=5",
+          "published_at": "2026-06-17T07:30:00+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 193.71,
+      "score": 157.06,
       "articles": [
         {
-          "title": "일본은행 부총재 \"물가 상승폭 확대…인플레 목표치 벗어날 위험\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96eUFhU2dKX09QQU5VbHkyaUJUWlo0dVNSZmJ3SVptekp0ZFRsTnhfTHl3WXZxZ1B6Y2JNdENWSjJJUFNlZ2RUVlNtZUJGTUU?oc=5",
-          "published_at": "2026-06-16T08:24:00+00:00"
+          "title": "정부, K-푸드 수출 160억 달러 정조준…전 부처 지원 총력전 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WalZrNV9rUE5qZVpTVTRES2NfTHFJa2FyMTlYcVMzVzZqcFQzTWZfcTdrUDItdnFxQ05lS0dMTjg3cE0yVTc4QXo0SV9QWlE?oc=5",
+          "published_at": "2026-06-17T07:44:33+00:00"
         },
         {
-          "title": "[仁川動力 인천동력] ② 박주봉 인천상의·대주KC그룹 회장 “앞으로 5년이 인천 경제 좌우할 골든타임” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzZmJTbHhveDJrTTlLN2hCOFJlcnRTel9SdGVSQWZwLWswV3Rwd3lEaTBEbzB6bXVyWkp5NVktLWs5eXdNU1NsSElHaG9PeVU?oc=5",
-          "published_at": "2026-06-16T08:05:02+00:00"
+          "title": "구글 “한국, 사이버위협 표적 세계 3위…AI 수출통제 우려는 에이전트로 해소” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tZzExRE51M254VGZPUTUtdUNWcVdMMjVRV1Q5RkVuVnIyaWI4cTlsUUZLMGg4U0tvZWVVTzVsTHEwT1hWQ2stRXZRVEMtcjg?oc=5",
+          "published_at": "2026-06-17T07:14:16+00:00"
         },
         {
-          "title": "[사사건건] 이 주의 경제 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42UXZsMkNfVHY0MWtsaEdXWlZUNFUxcDBhSXpjSC1PRmd0V0pva2ZJdVJ0ZGUzVzlwSnkzNjhveGRTVFpZTEN5bVFpeWNSam8?oc=5",
-          "published_at": "2026-06-16T08:05:00+00:00"
+          "title": "한은 총재 “단기 유가 하락에 홀리지 말고, 경제 자체를 봐야” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uT29CRjRHVm52ejFxaUdsYUFid2tNeXVCR2gxOU5zWS1qRjg0dDQ4SjBZOXRaTmtWelItUUFCblhNQlpTT1VoM0NUWkJ2RWc?oc=5",
+          "published_at": "2026-06-17T07:12:03+00:00"
         },
         {
-          "title": "조달청-KOTRA. 수출 원팀 구축으로 혁신기업 세계무대 진출 가속 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OWnVFT1ZuTzM4VTI0bUlYT0tsTzI3MGR3NDM4TzFKZWFwdjhCVWFDb3hZTVh6eXh1NGpyZnN4NWxuZmtfcWh1UW5JUzFSUzQ?oc=5",
-          "published_at": "2026-06-16T07:48:09+00:00"
+          "title": "신현송 한은 총재, 초과 세수 대해 “한국 경제가 도약할 수 있는 좋은 기회” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFNWJJMUh4eGFucUZvbU1OOTRYeGZEZ1pvMlV5b1oydW5OZUl6aVNSRkNLSkRJV3k1TERYcXZ3NEtJUXZnRlNfTHZDc2tDYjQ?oc=5",
+          "published_at": "2026-06-17T06:58:00+00:00"
         },
         {
-          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
-          "published_at": "2026-06-16T07:43:00+00:00"
+          "title": "\"K-뷰티·푸드 영토 넓힌다\"…강원경제진흥원, 베트남 VCCI와 수출 동맹 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQX1VKaTY3NzVYQnJ2QTdSWV9KNVNGUnBLcUNJeGJKYXY0bEo3WUIyYVVnbURlSW0zV0hoZHhmTXBrZmlxU0dETXJFZjgxVVk?oc=5",
+          "published_at": "2026-06-17T06:36:07+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 193.71,
+      "score": 157.06,
       "articles": [
         {
-          "title": "일본은행 부총재 \"물가 상승폭 확대…인플레 목표치 벗어날 위험\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96eUFhU2dKX09QQU5VbHkyaUJUWlo0dVNSZmJ3SVptekp0ZFRsTnhfTHl3WXZxZ1B6Y2JNdENWSjJJUFNlZ2RUVlNtZUJGTUU?oc=5",
-          "published_at": "2026-06-16T08:24:00+00:00"
+          "title": "정부, K-푸드 수출 160억 달러 정조준…전 부처 지원 총력전 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WalZrNV9rUE5qZVpTVTRES2NfTHFJa2FyMTlYcVMzVzZqcFQzTWZfcTdrUDItdnFxQ05lS0dMTjg3cE0yVTc4QXo0SV9QWlE?oc=5",
+          "published_at": "2026-06-17T07:44:33+00:00"
         },
         {
-          "title": "[仁川動力 인천동력] ② 박주봉 인천상의·대주KC그룹 회장 “앞으로 5년이 인천 경제 좌우할 골든타임” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzZmJTbHhveDJrTTlLN2hCOFJlcnRTel9SdGVSQWZwLWswV3Rwd3lEaTBEbzB6bXVyWkp5NVktLWs5eXdNU1NsSElHaG9PeVU?oc=5",
-          "published_at": "2026-06-16T08:05:02+00:00"
+          "title": "구글 “한국, 사이버위협 표적 세계 3위…AI 수출통제 우려는 에이전트로 해소” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tZzExRE51M254VGZPUTUtdUNWcVdMMjVRV1Q5RkVuVnIyaWI4cTlsUUZLMGg4U0tvZWVVTzVsTHEwT1hWQ2stRXZRVEMtcjg?oc=5",
+          "published_at": "2026-06-17T07:14:16+00:00"
         },
         {
-          "title": "[사사건건] 이 주의 경제 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42UXZsMkNfVHY0MWtsaEdXWlZUNFUxcDBhSXpjSC1PRmd0V0pva2ZJdVJ0ZGUzVzlwSnkzNjhveGRTVFpZTEN5bVFpeWNSam8?oc=5",
-          "published_at": "2026-06-16T08:05:00+00:00"
+          "title": "한은 총재 “단기 유가 하락에 홀리지 말고, 경제 자체를 봐야” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uT29CRjRHVm52ejFxaUdsYUFid2tNeXVCR2gxOU5zWS1qRjg0dDQ4SjBZOXRaTmtWelItUUFCblhNQlpTT1VoM0NUWkJ2RWc?oc=5",
+          "published_at": "2026-06-17T07:12:03+00:00"
         },
         {
-          "title": "조달청-KOTRA. 수출 원팀 구축으로 혁신기업 세계무대 진출 가속 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OWnVFT1ZuTzM4VTI0bUlYT0tsTzI3MGR3NDM4TzFKZWFwdjhCVWFDb3hZTVh6eXh1NGpyZnN4NWxuZmtfcWh1UW5JUzFSUzQ?oc=5",
-          "published_at": "2026-06-16T07:48:09+00:00"
+          "title": "신현송 한은 총재, 초과 세수 대해 “한국 경제가 도약할 수 있는 좋은 기회” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFNWJJMUh4eGFucUZvbU1OOTRYeGZEZ1pvMlV5b1oydW5OZUl6aVNSRkNLSkRJV3k1TERYcXZ3NEtJUXZnRlNfTHZDc2tDYjQ?oc=5",
+          "published_at": "2026-06-17T06:58:00+00:00"
         },
         {
-          "title": "[증시 인사이트] BOJ, 기준금리 1%로 인상…31년 만에 최고 수준 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTjJHUWxiYVU5bHVkZGcyRkxHY3VSY1Z1T1RxT2RvQzVldTRHeUN2bzctWnhYVXFzWGhwNW1NUjVFcFBtWUF4ckxBVGhrZ2c?oc=5",
-          "published_at": "2026-06-16T07:43:00+00:00"
+          "title": "\"K-뷰티·푸드 영토 넓힌다\"…강원경제진흥원, 베트남 VCCI와 수출 동맹 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQX1VKaTY3NzVYQnJ2QTdSWV9KNVNGUnBLcUNJeGJKYXY0bEo3WUIyYVVnbURlSW0zV0hoZHhmTXBrZmlxU0dETXJFZjgxVVk?oc=5",
+          "published_at": "2026-06-17T06:36:07+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "물가",
+      "score": 143.7,
+      "articles": [
+        {
+          "title": "'7월 금리 인상' 굳히기…신현송 \"물가 안정 때까지 적극 대응\" - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzUDZwenRBQ0gxbGtyUXFDb3NnYU4wVWllSVZDcmp1eXV3ZFE1THc0TXM1VXQ3Y2dBdjVnWjBuSE9RR3kxNHA5NzY3d28xT2tLUW43VjVCZUFQYWlvazFzNQ?oc=5",
+          "published_at": "2026-06-17T08:07:19+00:00"
+        },
+        {
+          "title": "신현송 한은 총재 “물가 상당 기간 높은 수준”…금리인상 기조 재확인 - 강원도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQnFBNGV2OVBfMExXcm16a3hCV2JOc292YVJTMWFVU1NoWURnV3lIdnV6THJXSjV1RjY1akNKN1RVTWVJZDJYOXV0eGpxMjVfTlotVEhxeGRvdXFhM05TbEpWMmF0SVk?oc=5",
+          "published_at": "2026-06-17T08:06:26+00:00"
+        },
+        {
+          "title": "신현송 “유가 내렸다고 물가 걱정 끝난 게 아니다” - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jZUhNa2NBemFjWldYdUlNYThHWXdBLTFjZjJ5NEwxdlBwWE1BUWhFOGtHLW5tNlY5UmxGeTJ1SzVudjR6NHBTcnRJQy12YVpaa3JFTGVNZ3hCUUo0bkE?oc=5",
+          "published_at": "2026-06-17T08:02:00+00:00"
+        },
+        {
+          "title": "신현송 \"물가 악순환 땐 통화정책 늦어\"…7월 금리인상 무게 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZYnVkLXlMTHFYTE52Ry1hV1FfRU9NcFZMd0g1QzhpZTktbU1ad09XbzlZaWZUeWtNNUVHTVBDdVdBVmNqckROZUczb3JqQkgxa2NiNWt0YTJ2SEVj?oc=5",
+          "published_at": "2026-06-17T07:46:00+00:00"
+        },
+        {
+          "title": "[경제]한은 \"유가 안정 오래 걸려...하반기 물가상승률 3% 내외\" - YTN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEc21oMHdlOTJsSHBzeUFwU29QcGlTcDNwYWsydVlFbGRqejRtWk5oODRMaW5yeWxPMkMtcnFIU0NZNFo4NDVVcnVrcmktYTQwSTdDcUFRV0trUGpQb0REUUQ5c1hSVlFUNGdMRGFldw?oc=5",
+          "published_at": "2026-06-17T07:41:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "유가",
+      "score": 140.45,
+      "articles": [
+        {
+          "title": "신현송 “유가 내렸다고 물가 걱정 끝난 게 아니다” - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jZUhNa2NBemFjWldYdUlNYThHWXdBLTFjZjJ5NEwxdlBwWE1BUWhFOGtHLW5tNlY5UmxGeTJ1SzVudjR6NHBTcnRJQy12YVpaa3JFTGVNZ3hCUUo0bkE?oc=5",
+          "published_at": "2026-06-17T08:02:00+00:00"
+        },
+        {
+          "title": "FOMC 경계감 이긴 코스피 8860대로 유가·환율 안정…'250만닉스' 현실화 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84dmdMY0EtT1ZZTnhEeUFmS1B5OFFJSllKWURBbU1sWklkM3dJQUFidFNDOW12d3FkTU82SEprWU1JV2pCaGo3ZmljVDY0cEswaDlzTVNSUWwxOGozM1V5bGxnaFE1emVCcjRpMg?oc=5",
+          "published_at": "2026-06-17T07:52:42+00:00"
+        },
+        {
+          "title": "“유가보다 무서운 2차 파급”...한은, 인플레 장기전 경고 - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVRmlPRUlteDkycmFtNFkweXN1YjBYTW9QcFFtVlJzMjlFZ1J4T1lGNDVLZDdEYXpMZi1jOTE5ZTlndkZzYmFNcjBWZXpjTGp1RElCQ1ZrSFo0Y00?oc=5",
+          "published_at": "2026-06-17T07:50:41+00:00"
+        },
+        {
+          "title": "[도쿄환시] 국제유가 하락 속 달러-엔 낙폭 확대 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVEUzQzNGME4xLUNkWUFqQUJOSm14NDdDbWIxTTNxTGZnMjk0RXFoa1FHX1dCWHBoc1g0WUVscm1WSjJKeHFhLTREdVRpUGJyd0kzNXlKTEdTb2NfWGpFbndoNV9rWDB4eUpRTVV2QWY?oc=5",
+          "published_at": "2026-06-17T07:45:15+00:00"
+        },
+        {
+          "title": "신현송 \"원화 약세, 유가 상승 충격 증폭…달러 강세 땐 이중효과\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtN0NBVTlGUHNTRzJyZ2JMMWpldklBdmhqRGxraXNGRm0yNkJlRjA5Y29YLVRpazVnSUNPYUlraklIdWtyTXNra095Q2RXdVhqSW00LUtJTWRvclBtTFI5dzZRNXVVSy1KdDBlMEZNYVPSAXRBVV95cUxNdF9CNUpsZjZFbC1BUzZfRkd0SGRsTENWVC1VZHNnMUoxZnpHNmV4VGJPNlpTODRxLVd0TXdsMVFrTy1DYWEwX0xxelFVVjE2dzA4bHRFSkJRdk14VnBCM0N6WFU4SG95OE5tWldxcW5FbFIwNA?oc=5",
+          "published_at": "2026-06-17T07:42:20+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "신현송",
+      "score": 137.46,
+      "articles": [
+        {
+          "title": "신현송 한은, 국회에 \"기준금리 인상할 필요 있다\" - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZFg2OVc1ZFBFMDRrNnN3c19seE9CREFndUw5LXVMNEU5RHNhcVBNaW1mNWlNS054Tm9MNmJPTVdqdi1zRGFxb1JSMzVaM21CdjE4NWRZOEFhQQ?oc=5",
+          "published_at": "2026-06-17T08:14:33+00:00"
+        },
+        {
+          "title": "신현송 \"환율 항상 기초가치 있는 것 잊어선 안 돼\"(상보) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5S3JOeTJuS3Y2dWEwV2lyQTA2alZJOUlCRE9VbzJRQ1VLa0xXQlZxanZOcFdKQkNwc3hjOTNfamYwY0VEcUI2dzU0Y0ZTYTZEY1FMMGFwYVZWZ3FQLUd4ay0xUmpwbGluV0RKMUFZQ2I?oc=5",
+          "published_at": "2026-06-17T08:10:54+00:00"
+        },
+        {
+          "title": "'7월 금리 인상' 굳히기…신현송 \"물가 안정 때까지 적극 대응\" - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzUDZwenRBQ0gxbGtyUXFDb3NnYU4wVWllSVZDcmp1eXV3ZFE1THc0TXM1VXQ3Y2dBdjVnWjBuSE9RR3kxNHA5NzY3d28xT2tLUW43VjVCZUFQYWlvazFzNQ?oc=5",
+          "published_at": "2026-06-17T08:07:19+00:00"
+        },
+        {
+          "title": "신현송 한은 총재 “물가 상당 기간 높은 수준”…금리인상 기조 재확인 - 강원도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQnFBNGV2OVBfMExXcm16a3hCV2JOc292YVJTMWFVU1NoWURnV3lIdnV6THJXSjV1RjY1akNKN1RVTWVJZDJYOXV0eGpxMjVfTlotVEhxeGRvdXFhM05TbEpWMmF0SVk?oc=5",
+          "published_at": "2026-06-17T08:06:26+00:00"
+        },
+        {
+          "title": "신현송 \"환율 항상 기초가치 있는 것 잊어선 안 돼\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ca0JMby10QURQbnhWcU1ZY2pwdkRIQXdXRFZSLUgza1ZYUkZvZlhSdFJZUThCTHdaN05KRkw2ODYtMWZmSDlidUVSN3dYY2pBY1hEMXBxajM0NGtXSVF3QzdsZjV5NjNKRkExZGZpeGzSAXRBVV95cUxPRld4QU5idGsxV2NTbGl1RDNuZUZRNnZ6N0Z1cDBHc0NiWnRyVS1UUXk3dzlvVzJYWmtvMDhtc3NabDZlS0VRUnFxaE4wbnUtb05UNEQ5Z1JqY1c2c2dqeHZ3OEhSbUFOSkdqVXJEV2VZX2dQYg?oc=5",
+          "published_at": "2026-06-17T08:03:41+00:00"
         }
       ]
     }
