@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-07-06T07:08:43.232266+00:00",
+  "generated_at": "2026-07-07T06:42:17.402483+00:00",
   "source_count": 4,
-  "article_count": 387,
+  "article_count": 386,
   "top_keywords": [
     {
-      "keyword": "daum",
-      "score": 152.3
-    },
-    {
-      "keyword": "net",
-      "score": 152.3
-    },
-    {
-      "keyword": "환율",
-      "score": 118.07
-    },
-    {
-      "keyword": "금리",
-      "score": 111.94
-    },
-    {
-      "keyword": "유가",
-      "score": 107.4
-    },
-    {
-      "keyword": "FOMC",
-      "score": 103.41
-    },
-    {
       "keyword": "수출",
-      "score": 98.55
-    },
-    {
-      "keyword": "담합",
-      "score": 91.09
-    },
-    {
-      "keyword": "24시간",
-      "score": 90.69
+      "score": 171.09
     },
     {
       "keyword": "달러",
-      "score": 89.76
+      "score": 138.35
     },
     {
-      "keyword": "기소",
-      "score": 78.61
+      "keyword": "daum",
+      "score": 121.3
     },
     {
-      "keyword": "의사록",
-      "score": 58.96
+      "keyword": "net",
+      "score": 121.3
+    },
+    {
+      "keyword": "환율",
+      "score": 120.91
+    },
+    {
+      "keyword": "금리",
+      "score": 100.98
+    },
+    {
+      "keyword": "지원",
+      "score": 64.8
+    },
+    {
+      "keyword": "FOMC",
+      "score": 63.82
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 59.97
+    },
+    {
+      "keyword": "연합뉴스",
+      "score": 50.08
+    },
+    {
+      "keyword": "Think",
+      "score": 48.47
+    },
+    {
+      "keyword": "마라탕",
+      "score": 48.03
     }
   ],
   "hot_topics": [
     {
-      "keyword": "daum",
-      "score": 152.3,
+      "keyword": "수출",
+      "score": 171.09,
       "articles": [
         {
-          "title": "조상호 세종시장 \"행정수도 완성·경제 자족도시 실현\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oV1MtbGdqUHZfZmY0d2l2cWZUdzlqVlkyYVVCRTNPd1d3TGx6cGNkd0RUMm94Qkk5TXBxTk1sSzdmYnY2R1MyUTluQnowRlE?oc=5",
-          "published_at": "2026-07-06T07:04:38+00:00"
+          "title": "\"수출 넘어 플립까지\"…K스타트업 해외진출 해법 찾는다 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mT2pGWThaQTJPRG5LUzRvTTRvQmlHNl83cTlNUGxqbXJhdDJTaVpQWERlOXQ1b1ZJd0d0LVNTSFRlekpDSGZBSnhOUmVqLXpnb3JfX1Q2ZHNPNDhGRi1IbDhCZGtIc2xtTzVyMzE1ai1WQQ?oc=5",
+          "published_at": "2026-07-07T06:23:22+00:00"
         },
         {
-          "title": "은행권, '인력 충원·시스템 개편' 외환시장 24시간 개방 대응 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TQTQ5ZzdhbmZUU29FbHQtRWVhN2NNQ0VvZGN5YXZacG5fU2ZmdWpnVEx0VkZ3TFZiSVE5X0ZHSFkxbE5RVnBwVS1sZWRqM1E?oc=5",
-          "published_at": "2026-07-06T07:02:00+00:00"
+          "title": "이종욱 관세청장 \"수출대금 원화로 안 바꾸면 기획수사\" - MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tR2pFNjBkd0h0Q0g0UHVWYjhrZ2YyZ3hwZFgzZmlrbDFJTjNyczEwUUIxZ2N5ZkJfS3NNS21GVVliZ3MtcWZEaVZHYzhvRk1GbUhIWEZNU2h2RlVuVWRCbC12QTg?oc=5",
+          "published_at": "2026-07-07T06:13:28+00:00"
         },
         {
-          "title": "“주가는 오르는데 내 삶은 왜…” 서울시장 선거 흔든 부동산 민심 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XRThFRXZMV19ScksyNEo5cDczMW5tTXc0djcxUVMtTGNKZXdvdmJ4MXNCMEV3aWxwakZSSnVUdlc2c3dWY3ZTX0hYczdNZFU?oc=5",
-          "published_at": "2026-07-06T06:52:18+00:00"
+          "title": "광주상의, 인도네시아 시장개척단 운영…30만 달러 수출 MOU 체결 - BBS불교방송",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJWGZ5Mm43T3RGVlVuTTNBWmVMaklwdUFYcjA0dklvNzJIV3duUEFHaWZQTTh4clZKYjZYUEdnMVBFQjBXdHhrVm1DdFgxRGQ3NUY1dHNUcUp2VW1HWWFPU1pVTi1lenBGbVBR?oc=5",
+          "published_at": "2026-07-07T06:01:25+00:00"
         },
         {
-          "title": "KT가 'AI 토큰 경제'에 자신있게 뛰어든 이유 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56d1QwS3ZkaEczUm8xX0FRRHNpY1U2WWF2a0Fic0J2dWJFaU8tMFVkUlFCS2lsenZGdG9BSnJJZkNERUxoeUtLV3p1R20zNFk?oc=5",
-          "published_at": "2026-07-06T06:49:51+00:00"
+          "title": "포항시, 농식품 수출정책 평가 2년 연속 대상 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HMmlvc0h3QkdxRUYtNWFNak9aREY4elNuaFZUcFZkdXd5SWdTS1l2ZldqcHJzRl8zZmhTSTZSQTVKWWlqa2syNUdyQWtaZ1RUdnNZWE1aSnFsZjJuMmNxNktxUUZWYkNuZE9GdEdjMW0?oc=5",
+          "published_at": "2026-07-07T06:00:34+00:00"
         },
         {
-          "title": "'7703억' 역대 최대 무역안보 범죄 적발한 관세청 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44RXVGamV2bko3dzBkTVJUeFNrRFB0TEtTN0JDSDBUNXRtdVBPWjFhYjV4ZDYzaTFjTlRPMC15LWIzdFMzV04weU5CSGQ3NlE?oc=5",
-          "published_at": "2026-07-06T06:24:11+00:00"
+          "title": "충남FTA센터, 인니 시장개척단 327만달러 수출상담 성과 - 대전일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhTFYxbUVMZDhtOFV6eGVzdmpUR2VSMFlRZW51RlEtaEVFTHpxRGlUbC1RRXFCX0tzcDNiU1pNNzBVa0xNR3FrMkxxR1VYckFqeFRQYUtxRGE1VmR2eWx6dGlaU0ZHSlhyT2pjZTdKNNIBc0FVX3lxTE9ZMzh6Z1Z4OEdkZTlzMDQ0elFvNmV3di1mU2NiLVBrbzA4WmtxaGhPR1JmQnBka3BzRGpNVDhHOFdiZTBMQVY1bTJWeXgteFZDUlEyeUpmX2RPN0l1YlZWbVo4LUFObWw4NDlzQ1loNmpsQ1U?oc=5",
+          "published_at": "2026-07-07T05:59:41+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "달러",
+      "score": 138.35,
+      "articles": [
+        {
+          "title": "[속보] 원·달러 환율, 2.1원 내린 1528.2원 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXhPVVUtYUZhRURGbzdoeGN1c1k0SzEwZmk3aE1TT3ZXZ3pIRnIwbmtWR0J5cXp1NTlMZHg5M09jejZpbEhBUVNrakEtNjF1MGxfMy1RdHE5UmhEbGt4TjFabFdjNUxVM3FYWUxvYUdjU0d0ZmtvbWRmVlhzVU44TTU3eXhhd9IBmgFBVV95cUxPRjc4MGdWMTRJZEFMYk9fSUZYY1kwNXQtLVV1M0tMZzlibUMxcV9KY25oeWRjVHp4T2tiektyNk9kY3RnTjJTN0lpY3F2VnlxUjJGLWZjckJBLTdKSzVnQ1B3NkRkVmRaQnluNG05WWhCQk1IX1lab3VmYVl3a29zV2pGaEVEblZ3SHhFZHR4SU9MbW92bEtCYU9B?oc=5",
+          "published_at": "2026-07-07T06:35:00+00:00"
+        },
+        {
+          "title": "[속보]원·달러 환율, 2.1원 내린 1528.2원 마감 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyR0w5Wm9ZMlpwazBsMlAwLUMwcEN3SFg1ZldSa044T3Mzbk4xWFAtOVZFN0NDUlh3VHNURlEydG1KRTVCNmtqcy1ULVJicVBtNjc2NXZxNWdLNzA4QWs3a9IBeEFVX3lxTE52SE00X1lVUEM3THY0S2E0bnh5c01DT1IxcXozdERieVlwaFdZUGVhMFMxbjNtUkhSU2RoTG83SkhJa2FpejR1UjNoeUhwRDIxczlDeGlHd0laY3pDWmpHS0QyVkpUYS1zclNvN3dTdm1aMGNmTXZlUw?oc=5",
+          "published_at": "2026-07-07T06:32:33+00:00"
+        },
+        {
+          "title": "광주상의, 인도네시아 시장개척단 운영…30만 달러 수출 MOU 체결 - BBS불교방송",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJWGZ5Mm43T3RGVlVuTTNBWmVMaklwdUFYcjA0dklvNzJIV3duUEFHaWZQTTh4clZKYjZYUEdnMVBFQjBXdHhrVm1DdFgxRGQ3NUY1dHNUcUp2VW1HWWFPU1pVTi1lenBGbVBR?oc=5",
+          "published_at": "2026-07-07T06:01:25+00:00"
+        },
+        {
+          "title": "충남FTA센터, 인니 시장개척단 327만달러 수출상담 성과 - 대전일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhTFYxbUVMZDhtOFV6eGVzdmpUR2VSMFlRZW51RlEtaEVFTHpxRGlUbC1RRXFCX0tzcDNiU1pNNzBVa0xNR3FrMkxxR1VYckFqeFRQYUtxRGE1VmR2eWx6dGlaU0ZHSlhyT2pjZTdKNNIBc0FVX3lxTE9ZMzh6Z1Z4OEdkZTlzMDQ0elFvNmV3di1mU2NiLVBrbzA4WmtxaGhPR1JmQnBka3BzRGpNVDhHOFdiZTBMQVY1bTJWeXgteFZDUlEyeUpmX2RPN0l1YlZWbVo4LUFObWw4NDlzQ1loNmpsQ1U?oc=5",
+          "published_at": "2026-07-07T05:59:41+00:00"
+        },
+        {
+          "title": "[도쿄환시] 달러-엔, 장중 수직낙하 후 161엔대 유지 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNGppNXF4UHNXaUNfVjFvNVdLR0doclVsSUMwOWdtU3N4WGZueEc1VUhFTW40dzBNUHY3NHFpTUs0cndlWHRhZVpIVjZseHYwMTJjQU5Wb0NmeURGUlBlSDFQMnB0cmZIRkREMkNnQXB2dw?oc=5",
+          "published_at": "2026-07-07T05:46:03+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "daum",
+      "score": 121.3,
+      "articles": [
+        {
+          "title": "대한상의 \"국민 70%가 한일 경제공동체 추진 긍정적\" ... 日도 60% '찬성' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhcVZmRS1BcC1YeUV4c0ZiRUFmNVZsLWJrald1T3dNdkVqNmNaNlpUQlhMczhVN3BBbkNxNUFDX09Ka3NxWkxQNEwzcDdYZ1U?oc=5",
+          "published_at": "2026-07-07T06:03:50+00:00"
+        },
+        {
+          "title": "60조 잠수함 결국 실패…한화오션, 이제는 태국·사우디로 [배창학의 방산인사이드] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuUkFSUmlHbF9tTU1fZW9QTkk5cVc5cWtLREs5d1V5WjVSRUZFT1RmWFN5UmFiYlo5V1RfVnVrTlVidWp2aDVnZTdMa0RGcTA?oc=5",
+          "published_at": "2026-07-07T05:51:50+00:00"
+        },
+        {
+          "title": "소비자물가에 클라우드·마라탕 반영…국산 돈육과 수입산 구분 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OUVVFejhrcnBiRlZrelpyWDY0MHlzMHc0RUdPckp5OFBkc0NiZU1FcHBoVnZfSWlOYUV5ZFRUclk2Mjk5bHdkVDg0UkNUT2s?oc=5",
+          "published_at": "2026-07-07T05:43:17+00:00"
+        },
+        {
+          "title": "‘한일 경제공동체’에 한국 10명 중 7명 긍정적…일본도 60% 찬성 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YWUxUUlpKLTcwVXFPV3NicFVQRkhlSUdwYUI3bWtsWkkwcHZXcUtCMjhsQTQ5bXdqUTBweUM0eFYyTmR4UlR5U2VDc1RhN1U?oc=5",
+          "published_at": "2026-07-07T05:38:51+00:00"
+        },
+        {
+          "title": "경기 제조업 생산 4.8% 감소…수출은 116.1% 증가 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYV83RkJ0bkhkalJiS2JyY2k3VFJSRVlCUXYycTFXNHNTVlFSSmV0S0xDXy1jOUNWY0ctRnV5dkJ1ZDhFVzNIYzNsS3laWE0?oc=5",
+          "published_at": "2026-07-07T05:33:28+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 152.3,
+      "score": 121.3,
       "articles": [
         {
-          "title": "조상호 세종시장 \"행정수도 완성·경제 자족도시 실현\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oV1MtbGdqUHZfZmY0d2l2cWZUdzlqVlkyYVVCRTNPd1d3TGx6cGNkd0RUMm94Qkk5TXBxTk1sSzdmYnY2R1MyUTluQnowRlE?oc=5",
-          "published_at": "2026-07-06T07:04:38+00:00"
+          "title": "대한상의 \"국민 70%가 한일 경제공동체 추진 긍정적\" ... 日도 60% '찬성' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhcVZmRS1BcC1YeUV4c0ZiRUFmNVZsLWJrald1T3dNdkVqNmNaNlpUQlhMczhVN3BBbkNxNUFDX09Ka3NxWkxQNEwzcDdYZ1U?oc=5",
+          "published_at": "2026-07-07T06:03:50+00:00"
         },
         {
-          "title": "은행권, '인력 충원·시스템 개편' 외환시장 24시간 개방 대응 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TQTQ5ZzdhbmZUU29FbHQtRWVhN2NNQ0VvZGN5YXZacG5fU2ZmdWpnVEx0VkZ3TFZiSVE5X0ZHSFkxbE5RVnBwVS1sZWRqM1E?oc=5",
-          "published_at": "2026-07-06T07:02:00+00:00"
+          "title": "60조 잠수함 결국 실패…한화오션, 이제는 태국·사우디로 [배창학의 방산인사이드] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuUkFSUmlHbF9tTU1fZW9QTkk5cVc5cWtLREs5d1V5WjVSRUZFT1RmWFN5UmFiYlo5V1RfVnVrTlVidWp2aDVnZTdMa0RGcTA?oc=5",
+          "published_at": "2026-07-07T05:51:50+00:00"
         },
         {
-          "title": "“주가는 오르는데 내 삶은 왜…” 서울시장 선거 흔든 부동산 민심 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XRThFRXZMV19ScksyNEo5cDczMW5tTXc0djcxUVMtTGNKZXdvdmJ4MXNCMEV3aWxwakZSSnVUdlc2c3dWY3ZTX0hYczdNZFU?oc=5",
-          "published_at": "2026-07-06T06:52:18+00:00"
+          "title": "소비자물가에 클라우드·마라탕 반영…국산 돈육과 수입산 구분 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OUVVFejhrcnBiRlZrelpyWDY0MHlzMHc0RUdPckp5OFBkc0NiZU1FcHBoVnZfSWlOYUV5ZFRUclk2Mjk5bHdkVDg0UkNUT2s?oc=5",
+          "published_at": "2026-07-07T05:43:17+00:00"
         },
         {
-          "title": "KT가 'AI 토큰 경제'에 자신있게 뛰어든 이유 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56d1QwS3ZkaEczUm8xX0FRRHNpY1U2WWF2a0Fic0J2dWJFaU8tMFVkUlFCS2lsenZGdG9BSnJJZkNERUxoeUtLV3p1R20zNFk?oc=5",
-          "published_at": "2026-07-06T06:49:51+00:00"
+          "title": "‘한일 경제공동체’에 한국 10명 중 7명 긍정적…일본도 60% 찬성 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YWUxUUlpKLTcwVXFPV3NicFVQRkhlSUdwYUI3bWtsWkkwcHZXcUtCMjhsQTQ5bXdqUTBweUM0eFYyTmR4UlR5U2VDc1RhN1U?oc=5",
+          "published_at": "2026-07-07T05:38:51+00:00"
         },
         {
-          "title": "'7703억' 역대 최대 무역안보 범죄 적발한 관세청 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44RXVGamV2bko3dzBkTVJUeFNrRFB0TEtTN0JDSDBUNXRtdVBPWjFhYjV4ZDYzaTFjTlRPMC15LWIzdFMzV04weU5CSGQ3NlE?oc=5",
-          "published_at": "2026-07-06T06:24:11+00:00"
+          "title": "경기 제조업 생산 4.8% 감소…수출은 116.1% 증가 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYV83RkJ0bkhkalJiS2JyY2k3VFJSRVlCUXYycTFXNHNTVlFSSmV0S0xDXy1jOUNWY0ctRnV5dkJ1ZDhFVzNIYzNsS3laWE0?oc=5",
+          "published_at": "2026-07-07T05:33:28+00:00"
         }
       ]
     },
     {
       "keyword": "환율",
-      "score": 118.07,
+      "score": 120.91,
       "articles": [
         {
-          "title": "24시간 거래 첫날…달러·원 환율 4.7원 오른 1530.3원 마감(종합) - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xQ0tOd3hkbXBPWmszaUx6bEhOOUFzRG85VHU4bEQ2U3JwN1JaQjI0VzFqQzUwZmppWkdOQ0lGdzVKNmVhSGtLUUZnWXNEYnJGR2taVVJLMm9mWl9VUmFR?oc=5",
-          "published_at": "2026-07-06T06:55:33+00:00"
+          "title": "[속보] 원·달러 환율, 2.1원 내린 1528.2원 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXhPVVUtYUZhRURGbzdoeGN1c1k0SzEwZmk3aE1TT3ZXZ3pIRnIwbmtWR0J5cXp1NTlMZHg5M09jejZpbEhBUVNrakEtNjF1MGxfMy1RdHE5UmhEbGt4TjFabFdjNUxVM3FYWUxvYUdjU0d0ZmtvbWRmVlhzVU44TTU3eXhhd9IBmgFBVV95cUxPRjc4MGdWMTRJZEFMYk9fSUZYY1kwNXQtLVV1M0tMZzlibUMxcV9KY25oeWRjVHp4T2tiektyNk9kY3RnTjJTN0lpY3F2VnlxUjJGLWZjckJBLTdKSzVnQ1B3NkRkVmRaQnluNG05WWhCQk1IX1lab3VmYVl3a29zV2pGaEVEblZ3SHhFZHR4SU9MbW92bEtCYU9B?oc=5",
+          "published_at": "2026-07-07T06:35:00+00:00"
         },
         {
-          "title": "코스피 8천선 턱걸이…원·달러 환율 1,530원대 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBESHFNSjRYVDVEc0E2ZWJYVkFJem9Oa3pRUVBZOGp2LWdiaU1WdGd0OU9Na3gwbEwzMXpORk5XTkpQUGs2cVI4Mk1hZ0JBNW5McmxVdGZ5VTU5S1U?oc=5",
-          "published_at": "2026-07-06T06:53:00+00:00"
+          "title": "[속보]원·달러 환율, 2.1원 내린 1528.2원 마감 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyR0w5Wm9ZMlpwazBsMlAwLUMwcEN3SFg1ZldSa044T3Mzbk4xWFAtOVZFN0NDUlh3VHNURlEydG1KRTVCNmtqcy1ULVJicVBtNjc2NXZxNWdLNzA4QWs3a9IBeEFVX3lxTE52SE00X1lVUEM3THY0S2E0bnh5c01DT1IxcXozdERieVlwaFdZUGVhMFMxbjNtUkhSU2RoTG83SkhJa2FpejR1UjNoeUhwRDIxczlDeGlHd0laY3pDWmpHS0QyVkpUYS1zclNvN3dTdm1aMGNmTXZlUw?oc=5",
+          "published_at": "2026-07-07T06:32:33+00:00"
         },
         {
-          "title": "최대 300억달러 들어온다…SK하이닉스 ADR, 환율 변수될까 - 아주경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZUFETkNVZW5JRWVSMW9nSEx0YktlVmhVRE1ieC1SR0Y1SzhNWl9mWmtEcVhxWmdQUUc0bU1vb2NjcWlYLXV2Nkt5a2k1OHhtNGJDMklzNGxnd9IBWEFVX3lxTE1qUDg1aXRoazBZWWZfSlQtOExMSDNMWmYyUEh3cmw2M1Z2NDFxaUZvdEF4YUFQTU5zMlpBRHFvVUlkWUltUDZiTm5kTUxBbXlPSlNSXzczMkY?oc=5",
-          "published_at": "2026-07-06T06:33:54+00:00"
+          "title": "면세업계, 기준환율 1천500원으로 상향…판매가 3% 인하 효과 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84LUViQ1lXYWpLVzhzWlBMaTVJMlJXUlJMNkctX1lPWVVmVGQzSjEyUjc4LTZEbHloaHVKYmszcVRvRER3QXVFeVRjUzlreUtKR2NjZ0RTY3M2eTDSAWBBVV95cUxOcmpCWnB3cElMTW1zWFFVSk1mUHVYZzVnOF9TVkJYSWEwQk02ZWQ4bEREUG0xWnoyWTJUVGZDcFpocTRtSnFGc3lYZkw1Q29WVEh2VjM4N0ZOUktSQmVqZmw?oc=5",
+          "published_at": "2026-07-07T06:19:34+00:00"
         },
         {
-          "title": "[속보] 코스피 8,051.33(▼37.01p, 0.46%), 원·달러 환율 1,530.3원 마감 - mbn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GblNDUWxFdUxMSE1WcXFzVUdvMGdwQmR4SE5idlBjeFZ4Zk9TTkE3bkN3Y2FXQVFjNG80VEhZckpZazdUMzRUNXFmcnVzaDE0djhrTtIBTEFVX3lxTFBSTzVCTlc2WE0yNXZvNmZQZnZHM2NwQ3hST3RIVklaQ2ZSemQ4RHhiTVdNenBwcGhRbE84Sm02SjhLN0FTYlhDT1kwUjY?oc=5",
-          "published_at": "2026-07-06T06:33:49+00:00"
+          "title": "중기부, 고환율 피해 수출기업 지원…올해 마지막 수출바우처 모집 - 페로타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGdmYkwxSmV3c3VYdC1jWXdTbWoyc0ZhNEpIaGFXSFZScWlLYjk1cDVpOU01REZCOERsOV95RVRHM2VJb3RGLW0wQ3BRNWNKbEtXQzU4VjIyNnlGcmNZTTZkQ1ppZGN4VmRwbg?oc=5",
+          "published_at": "2026-07-07T05:45:05+00:00"
         },
         {
-          "title": "[속보] 원·달러 환율, 4.7원 오른 1530.3원 마감 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFJvN2FmRDU3bE8wYkNWdnNSaVFEUFd2Ri1xeUZPc2hBY2dkdTRjdVJta2p0WGxpR1RzYzhPWWhPMG16X2dzZ3Brc3MySnpHVVRDMVMzcDdvaFBXeEhvMFpTM3hXMjF5N3FyRXd0R0xycXFrU0pISkZwaF9Pa1k3RW1XSjVrUdIBmgFBVV95cUxNaXN6U00yay1VSkRYSm5aZVdTbWdPaU1waVRZSmo3NU9GS2ZlS2JvOTgxWkI4Ri04UFJWejZQZ0pDc0hjMWQtS0xEMzg5Z19YVmJyYmM2azBXc1RyZ3hUNTYxRk9qb0NiQTVIYVF2U05OdDFlWjVvOExmU25kLVdtbXBRSXJRU2V0Z1BMb2I4d0o2Zlc1elo5RjRn?oc=5",
-          "published_at": "2026-07-06T06:33:00+00:00"
+          "title": "고환율 속 정부발 물가대책 먹힐까...美고금리 기조에 원화 정상화 '난망' - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4bTVXWXhmd2tzLXpfbGhTeGxyQUZxbVdESWVLSGtIb0JOcE5pdnN2S18wMDRfQ0I0WXFqdF9ta0RKdl9XeExHRnI4YlM1eWVDUm5NV1NPYTBlZnY5WFR4Ug?oc=5",
+          "published_at": "2026-07-07T05:43:57+00:00"
         }
       ]
     },
     {
       "keyword": "금리",
-      "score": 111.94,
+      "score": 100.98,
       "articles": [
         {
-          "title": "맞춤형 재무상담 받고 청년미래적금 우대금리 0.2%p도 챙기고 - 대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IY2dFY0VLU2hVNnFheFRUV0VyeUFLS2VtTDhJVGUzZ2xHclNHbDUtRzVRYi1uZXpPdDBXUDF4NktIMU81Qkc4YklIVkdiVDRfUzg3YXRHamtQMGFOTzdkSnpZbnozSzZrNkJocQ?oc=5",
-          "published_at": "2026-07-06T06:56:15+00:00"
+          "title": "[셀럽의 한 수] 6월 FOMC 회의록에 쏠린 눈 워시의 연준, 금리 향방은? - SBS Biz",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84MUZmQ2V6NXpJWnhnRlVnX2M4YUxISnU1OExqTlhXQ2xxd1pPN3VRWGx0bUY0RjgtYlphTElWZW41X0ZPOEpqTHB3LVVCeDhwVmww?oc=5",
+          "published_at": "2026-07-07T06:31:00+00:00"
         },
         {
-          "title": "[부동산돋보기] 규제·금리·유동성 ‘3중 변수’…하반기 집값 향방은 - 한국부동산뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sRUFadU9IN3NYQW13eFJDY1ZqTW45RmlUVWNkcmlBY2Y4dXk2VWNhWU1WZTVMbHNxeVo4V1dsSGFuQ2xEVWNxS2xnY1lYMzRKX01wY2oydGFTeko2RkZHV3llUFRodXEzVVMw?oc=5",
-          "published_at": "2026-07-06T06:49:30+00:00"
+          "title": "금융위, 중저신용자 '금리단층' 해소 시동…건전성 규제까지 손질 - 녹색경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWTEpkLXJmV25PR2phcWRBTDI2SkUtOWxRREZEVkpuQ3dkMnNvUVZySGc1Sk9qV1R3U0kzWDhJd2VycnI4aU85amx6Z1d3WnVkS0RpNFZfRjc1cVROOEZzei1YNjBKSTIz?oc=5",
+          "published_at": "2026-07-07T06:23:06+00:00"
         },
         {
-          "title": "[EBN 칼럼]\"’K자형 호황’을 경계한다\"…기준금리 3.5% 전망에 대한 반론 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ta0FsXzVhT3E1S2o5S2hTV0RDX3NPYm5sbnRPRDhpRGhaZDBLNjR6NTVXNWNsM3lyWUlxWmgxNHRYMThDUGZCX0s1RXFHN1dmVzF2bU1hWUFXOC0xQTJCYXVFSC1oekJjZzVsRHpuQ3A?oc=5",
-          "published_at": "2026-07-06T06:41:00+00:00"
+          "title": "증권사들, 현대건설에 '제로금리' CB 청약…미래 먹거리에 '베팅' - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEpjYnRrdkRlSS1kc3RldXJzdXVxTmk3bzBwWUtMTnRsNzVPTUdTZjBaSmhXN0U2VFlzR20tVHZLZVJyQWdkeW9qUkp0S2FEbTNuWFo1QnJZN3lkdHZiNnRTYUJOWl9VYTlENUUyc25Tb1JyV09RQTJmUlF3UnFpTEtEZTlYUUNI?oc=5",
+          "published_at": "2026-07-07T06:14:32+00:00"
         },
         {
-          "title": "전쟁 끝났지만 금리 인상은 안 끝난다...“세계 금리 전망 0.5%P 높아져” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hdWNzeEdBckxRM3hvbDlBekZXTGRRS19peGc2WDRMT01xcllvSWNTNUFmdWdvaVAyOHZvcmQ0UnZkdFVYRmxFLUVfby1uOXJteXdEazBn?oc=5",
-          "published_at": "2026-07-06T06:31:57+00:00"
+          "title": "당국, 중저신용자 '금리 단층' 해소 착수···은행·2금융 협업 추진 - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbnMzOUYwTk1qMW80QnkzdFVXcTFCS2hUa3RNdWRFSFZTZFRMRDlQajdmWXBNRVRQM2lsNlR3VEZfaDRyV1RDNkx4YWREdUU1QUt3YjFPOTNVM2J6Qm9EWVFjN05FUk5uQlE?oc=5",
+          "published_at": "2026-07-07T05:47:14+00:00"
         },
         {
-          "title": "미래에셋, 매도담보대출 금리 낮춘다...\"9.0% → 7.95% 인하\" - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11b1BFR1FMRllzNDdfdEZ3RE9hQXlmdlBydjV6ZXYwcHA4MXVNVDc3TW9Mb0pRQmtWV1E0V3NKN2R3UTdidW9pMkMtLWU4NDh0TEJaWll0czdDZmUwSkJBVjdB?oc=5",
-          "published_at": "2026-07-06T06:10:00+00:00"
+          "title": "고환율 속 정부발 물가대책 먹힐까...美고금리 기조에 원화 정상화 '난망' - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4bTVXWXhmd2tzLXpfbGhTeGxyQUZxbVdESWVLSGtIb0JOcE5pdnN2S18wMDRfQ0I0WXFqdF9ta0RKdl9XeExHRnI4YlM1eWVDUm5NV1NPYTBlZnY5WFR4Ug?oc=5",
+          "published_at": "2026-07-07T05:43:57+00:00"
         }
       ]
     },
     {
-      "keyword": "유가",
-      "score": 107.4,
+      "keyword": "지원",
+      "score": 64.8,
       "articles": [
         {
-          "title": "‘화물차 유가보조금’ 부정수급… AI로 막는다 - 매일건설신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXX2FZZDVId3hSdHV1R3hVbnJ5aDYtcDVPVkRBazJ4VzdLVFd4R2N6ZnZtR0ViSElZbGt0V3BaeGczYkE?oc=5",
-          "published_at": "2026-07-06T07:02:00+00:00"
+          "title": "한국마사회, 사회적경제기업 성장 지원사업 지원금 전달 - nocutnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04bVlGdmRBdTFIQ1c3dFVQUGtETjhsaXpqM0V4TzVNZEN3MXNCRHpSanZvNlI4YmtIRDVfN0JiZE5iSkRMVktzR1EwZzNDeHZEM0E?oc=5",
+          "published_at": "2026-07-07T05:53:00+00:00"
         },
         {
-          "title": "검찰 \"정유4사 26조 원대 유가담합\" - 매일경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55Ynd3Ymhkcng4MS1wWDNTN2N0bWxNUkRvOElBSF9HUC1IZUszT1Fpa2VRSHYzcDhxbGFDdklzVWRuc0JBSk50S1pPU3hQOWlpaHAzUmhSVEpTUHJ0SDAtWF9jTEkxTlZY?oc=5",
-          "published_at": "2026-07-06T06:35:00+00:00"
+          "title": "인천TP, ‘중동 상황 위기 대응 긴급 수출바우처’ 지원 기업 모집 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NLUU3YmNlb21idEtoS0RZWGZMcjVvTkwyMUtCWXJqMEl5QnM5TEtFeXV1N08wVjV4LVcxVDlYSWlWN2V1MEYtRERNOVFxaUg3MWRSSjJDUjZzdW8?oc=5",
+          "published_at": "2026-07-07T05:49:01+00:00"
         },
         {
-          "title": "OPEC+, 8월 또 증산…국제유가 안정세 - 녹색경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XaUoxdHpqblF1MTNFZWVZTG1hY3hraUNia0syWFBLNFU1YTVOUGtBbmhzNHV6UFlwUTk0enZfaExDTEJGWUdKWUZBcDBEelRSZE14TVB4Q2hqSW1Pa1pqVERKX1hsVlp3?oc=5",
-          "published_at": "2026-07-06T06:21:45+00:00"
+          "title": "한국마사회, 사회적경제기업 성장 지원금 전달…6개 우수기업 선정 - BBS불교방송",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USTYwNWVzeExPSHpsbzhkb0ZJUzdnb2NsSDFhZUk5dzlhZnhXcWZzVzd3U3Faa215ZXlBUTdONW9vNm5VSm5WY2RLSThibWFBUW40SktOWVJ6SDN2bEVQMjFRdnZad18ycGlF?oc=5",
+          "published_at": "2026-07-07T05:45:52+00:00"
         },
         {
-          "title": "“국제유가 안정화에”…전국 휘발윳값 석 달 만에 1800원대로 - mstoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoTVlZVktMQWp4dWNtSVJQaWhqc25RenJYTnNHamRqTEs0SmdBM2ZIWE5NdVU5QUhWdlZpZXFBSmxnZ3pYSG9WcFRNVUN6SUhqTlVwNHhKQnRBRE54bmFYRTlXS3ZIZGE2X2pFWnJn?oc=5",
-          "published_at": "2026-07-06T06:19:19+00:00"
+          "title": "중기부, 고환율 피해 수출기업 지원…올해 마지막 수출바우처 모집 - 페로타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGdmYkwxSmV3c3VYdC1jWXdTbWoyc0ZhNEpIaGFXSFZScWlLYjk1cDVpOU01REZCOERsOV95RVRHM2VJb3RGLW0wQ3BRNWNKbEtXQzU4VjIyNnlGcmNZTTZkQ1ppZGN4VmRwbg?oc=5",
+          "published_at": "2026-07-07T05:45:05+00:00"
         },
         {
-          "title": "검찰 \"정유4사 26조원대 유가담합\"...HD현대오일뱅크 재판 넘겨져 - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4MlJ5aTFlbGUxd1lNbE9PQlpnNlc1Z3JEY1pyVjZjcV9JNWtEbkJGZ1IyNGQxWlltSG8xMW1qcFlZVzZvYVF4NjJYdUlyeDRNRDRTdGxIV3NPY25SNl9QdjV1Ykx5Y1dlUzZB?oc=5",
-          "published_at": "2026-07-06T05:59:54+00:00"
+          "title": "송영길 1호 법안 ‘중고차수출진흥법’ 발의…수출지원특구 지정 등 담아 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GWkhyVjhhVWY2YzNOQllwWFIyZGktWURneENQUFYwVEtuZFhqWVBQenNYWXoxNGhnYlVZMTFNLUdpRkJONkpMRDIxX09RVHFSMDNSWWVPRUI1OHc?oc=5",
+          "published_at": "2026-07-07T05:17:56+00:00"
         }
       ]
     },
     {
       "keyword": "FOMC",
-      "score": 103.41,
+      "score": 63.82,
       "articles": [
         {
-          "title": "7월, FOMC보다 중요한건 바로! - 네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZDAxM0tSRnRTZHJ3M3M5Qk5qT3lUUDQxd052a3p2VHBZWVdPR0ppRDRuTGtEV2RhYzJKd1ZsWmtTYnFqWUl5TG00UmFiWE44NUpNSmFFN3N4VWYyTkdSa1VDWEpOVE5nLS1IMWVWcGpOVldOUVdSZmdYWGh6MFpxZkZ4UQ?oc=5",
-          "published_at": "2026-07-06T06:31:00+00:00"
+          "title": "[셀럽의 한 수] 6월 FOMC 회의록에 쏠린 눈 워시의 연준, 금리 향방은? - SBS Biz",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84MUZmQ2V6NXpJWnhnRlVnX2M4YUxISnU1OExqTlhXQ2xxd1pPN3VRWGx0bUY0RjgtYlphTElWZW41X0ZPOEpqTHB3LVVCeDhwVmww?oc=5",
+          "published_at": "2026-07-07T06:31:00+00:00"
         },
         {
-          "title": "[뉴욕 주간 프리뷰] 금리 우려 덜어줄까…FOMC 의사록 초점 - 네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYN21tdzhkMjc2Z3FON1lsaVBGUUE4SXRIdl9WOEptbnhzV00tMUdCOVo1Vnp4RlVmVzdWTWZpb1ppMWVvQlZqTHZzZ0ZRRkZUQmNxRmtZQzl2N2dMMWN6UWwySmNheFFybFA0STAwLXVZWndPeWdiM3Nzbw?oc=5",
-          "published_at": "2026-07-06T01:56:00+00:00"
+          "title": "비트코인, FOMC 의사록 공개 앞두고 6만3000달러선 [크립토브리핑] - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aUGc4NU1wMmNnbVpHZmQzNVdxQWhCNUY5MGhDc20xWllWWXg2XzVENVAwcWxLLVBoZzIzOThxdkViZVk2dHJxQXpDcTl3YjViWmEyVm82WTh4UQ?oc=5",
+          "published_at": "2026-07-07T02:23:22+00:00"
         },
         {
-          "title": "[뉴욕 주간 프리뷰] 금리 우려 덜어줄까…FOMC 의사록 초점 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OcGNsYlZoQTR0bmVPVXJNb3FLYllENi11cjViWlFPRElKTnBCTk5YcUNiU3dNZUZ0aEl3Vkt3bkd4WDNiNTNLU2J0MzJwN0J4MVpyZWJYMjYzREZG?oc=5",
-          "published_at": "2026-07-06T01:52:00+00:00"
+          "title": "FOMC는 끝났지만, 이번 주 의사록이 남았습니다 - 네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByeE5uUDZOSDdUQ1E1TXlGem5saHRma0t5S1hPTGRnVzZSanVidmZhUjcwX3pnYjlfYnNsUU4zdERGenFTNzZ5Znc4TmNXdzZhRjQ0MkpmNU5kUV9HaHBnMmRKd1pQSVVZTTk4NEk5WjZDYTJvNTFZdGNldVJtUQ?oc=5",
+          "published_at": "2026-07-07T01:25:00+00:00"
         },
         {
-          "title": "[크립토하나] 8일 연준 FOMC 의사록 공개…비트코인 가격 변수 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CM0xYV0N2TFpUejdFRkkyeFNpc1hxVHRHc0Z6R3Vsc0xUckVlX1BjMXJQWXFPYXctd29PbFJUSWpVQ20wNEt6OEpPczg2S28?oc=5",
-          "published_at": "2026-07-06T01:47:53+00:00"
+          "title": "[굿모닝! 글로벌 뉴욕증시] FOMC 의사록 공개 앞두고 반도체 섹터 저가 매수에 유입으로 재부각 - 뉴스퀘스트",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCeGJDUWpnUW93V1NjNWZiaElrSW55eTR3VjlCSElXOWM5ZUwxeG90UXpWNFROZ1l5ang5cHFFMGlmUlhEWmxocl82TE1HYk9uRktoUzVRRzJ2TDdrMTRLY1JJRDhLbnQwbWM4YXgzRdIBc0FVX3lxTE5EQXdsVHNMaTNOZEQ4bWhwalRYRmRXM3lmVGpMRFU4NVFwWVlZNnZ5T28zeklpNjFKdUZQMVVJb19KanhONHA0Q3RMZDRYWmNDUkZzYlllTXcwNHYwXzlvRW1wQ0F5aDRPcGlpeFdYTWd4T3c?oc=5",
+          "published_at": "2026-07-06T23:13:51+00:00"
         },
         {
-          "title": "[크립토하나] 8일 연준 FOMC 의사록 공개…비트코인 가격 변수 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2NTgwTHJDNDFaTWZsazFjOV9mbG5WV2drdHNFbUtac0FqMFNHeEdzeVVDa21MTkVfMTA2eVkyUVpRNmZZYUl4Yy1mdVR3U1gzcS0tenNR?oc=5",
-          "published_at": "2026-07-06T01:46:13+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "수출",
-      "score": 98.55,
-      "articles": [
-        {
-          "title": "中 1~5월 산업용 로봇 수출량, 전년 대비 40% ↑ - 로봇신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xVTQ0MHdUd2V6c3NlQU04d3BGNVlTQmNxRjhUby1keDE4UmVzOGZKYW9tSExwVzR4NTVSRGNzb1E2a1lsTGxJYThYeDZJSXZqaDZxSHhSeGJZb3g4SVpQSEZMSFRsbDRwQkRMWg?oc=5",
-          "published_at": "2026-07-06T06:55:01+00:00"
-        },
-        {
-          "title": "정부조달수출진흥협회, ‘AI 융합 전문가 과정’ 오픈 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RUDRwZ2FaaVNBeURvQ2NNTjhiQzdtc0dhQVljYzd3dUlNaDNSSDhKSkdybmtjR2V0eXBzbnU2SEFNRGlLVkRZSmVJNFVPRmtGSEF2cHNR?oc=5",
-          "published_at": "2026-07-06T06:54:59+00:00"
-        },
-        {
-          "title": "한국무역보험공사, '수출성장 플래닛' 기업 20곳 신규 모집... 오는 24일까지 - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuYzRmSk50U1RGQVBGVWhJTG5kT2RrMktXb3RaSzBBcFdQcDlQRENOdVppQ21aeFZfb0I5NERvVTVmbkdPUEdjR3lLWi1fUnc5NnhXQURUMWpMNUMtRDJkb3ljSUhkaU9OaEww?oc=5",
-          "published_at": "2026-07-06T06:45:21+00:00"
-        },
-        {
-          "title": "안방-해외 '희비'…K-푸드,내수 한파 뚫고 역대 최대 수출 - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oenVmNUlJRXdXQklQNzlPdDBTZGEyejhlY1ppZ1pfTExuME1jSTJxQVZvOTBnTHFQRXFXa1RLTWxGM05QdUQ2alJHeHVQc00zbTNiMzBERE44UGpxNF90Zg?oc=5",
-          "published_at": "2026-07-06T06:38:58+00:00"
-        },
-        {
-          "title": "KOADMEX 2026, 수출 계약부터 글로벌 의료 교육까지 한번에 - 매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZbnNHTXV2Smxtal8xdC1nbFVEbGdsQzlVd0ZudUpvWHJwWXRxM2xHVGFsamxEdEdkdzJZUW9nRU5fSHM2X2F0Qk12S0dtQzZGLVY4eTdPUF9aaTZ0aU16RGhn?oc=5",
-          "published_at": "2026-07-06T06:35:47+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "담합",
-      "score": 91.09,
-      "articles": [
-        {
-          "title": "검찰 \"정유4사 26조 원대 유가담합\" - 매일경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55Ynd3Ymhkcng4MS1wWDNTN2N0bWxNUkRvOElBSF9HUC1IZUszT1Fpa2VRSHYzcDhxbGFDdklzVWRuc0JBSk50S1pPU3hQOWlpaHAzUmhSVEpTUHJ0SDAtWF9jTEkxTlZY?oc=5",
-          "published_at": "2026-07-06T06:35:00+00:00"
-        },
-        {
-          "title": "비축 원유 있었는데 담합 적발… '스왑 거래'가 뭐기에 - 녹색경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80MkNBR1lQUFQwNTJQT1NOUFZVbTZGLUg1bUJKUkhwV2tsU0w0R25LS3dzS19kOGVNRmJ6LURyQ3ZJenJtc3BZMW5WUHpJU0ZiZHo2bkNCNGdoNUlGS0NGZEprdkNPb2Vo?oc=5",
-          "published_at": "2026-07-06T06:20:57+00:00"
-        },
-        {
-          "title": "검찰 \"정유4사 26조원대 유가담합\"...HD현대오일뱅크 재판 넘겨져 - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4MlJ5aTFlbGUxd1lNbE9PQlpnNlc1Z3JEY1pyVjZjcV9JNWtEbkJGZ1IyNGQxWlltSG8xMW1qcFlZVzZvYVF4NjJYdUlyeDRNRDRTdGxIV3NPY25SNl9QdjV1Ykx5Y1dlUzZB?oc=5",
-          "published_at": "2026-07-06T05:59:54+00:00"
-        },
-        {
-          "title": "공정위, 제주 주유소 유가 담합 적발...과징금 20억5천만원 부과 - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtNXcxcXBZRzdOZVdxU04wZ0RsQkIxWFpETHlVTjdMZVk3ZURQdWk0Q0NTSk5HMGYtdmtCTGpDX1F0RG9wUi1RTmtNYjhtQUFJWER1OU90SXFZOGdsRlRBSktHM3Q0THhra3ZyaTRkaTFmakE?oc=5",
-          "published_at": "2026-07-06T05:57:53+00:00"
-        },
-        {
-          "title": "檢, ‘26조 유가 담합’ 4대 정유사 법인·임직원 기소 - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XUy1zbExNc1FvRUdOOVQtT00tOWpta3lHb1lxOG16bDZPbzlnc0E3ZGYxc0RTai1pYW91WGdqSXJjSWFocHEwWmtMNjhkekxNWFM1REd3SkpHd1FZdV9lbzJiM1ZDeWdZZ0HSAW5BVV95cUxOeDI5T1g5ZGpwb1BtN2stTUtXX2g3cE93V2tOck5xNzVBaF95OTBtSzhYXzBTUUpsbWJjM25sLXJjd3BOWWk1VG43Z1ctcTF6R2tXRGVuZTFkMjFlQ3pqSXY4ZXd3YTZpb1RrR01oQQ?oc=5",
-          "published_at": "2026-07-06T05:53:49+00:00"
+          "title": "[뉴욕 금·채권·달러] 달러·금리 내리고 금값 랠리…시선은 FOMC 의사록으로 - 블록미디어",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vTE04aG1jUlVKeDd5NVRWZXdHOVBjRkJnZkdGQm9Cc1lmQWVPN0RKVTlWY1pVd3d1bG11dUhRLWhMUmVHZ3pmZThQUldhUmJ5YTRUanlKZU8?oc=5",
+          "published_at": "2026-07-06T22:01:00+00:00"
         }
       ]
     }
