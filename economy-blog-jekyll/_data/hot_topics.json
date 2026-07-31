@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-07-30T05:35:53.183168+00:00",
+  "generated_at": "2026-07-31T06:07:47.444517+00:00",
   "source_count": 4,
-  "article_count": 367,
+  "article_count": 362,
   "top_keywords": [
     {
-      "keyword": "금리",
-      "score": 266.04
+      "keyword": "기준금리",
+      "score": 235.91
     },
     {
       "keyword": "동결",
-      "score": 259.56
-    },
-    {
-      "keyword": "연준",
-      "score": 240.51
-    },
-    {
-      "keyword": "기준금리",
-      "score": 187.86
-    },
-    {
-      "keyword": "daum",
-      "score": 132.17
-    },
-    {
-      "keyword": "net",
-      "score": 132.17
+      "score": 222.37
     },
     {
       "keyword": "수출",
-      "score": 125.7
+      "score": 168.56
     },
     {
-      "keyword": "FOMC",
-      "score": 124.0
+      "keyword": "일본은행",
+      "score": 160.55
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 117.34
+      "keyword": "daum",
+      "score": 118.34
     },
     {
-      "keyword": "인상",
-      "score": 113.25
+      "keyword": "net",
+      "score": 118.34
     },
     {
-      "keyword": "5연속",
-      "score": 102.9
+      "keyword": "환율",
+      "score": 116.62
+    },
+    {
+      "keyword": "유지",
+      "score": 114.16
     },
     {
       "keyword": "달러",
-      "score": 88.57
+      "score": 100.04
+    },
+    {
+      "keyword": "금리",
+      "score": 91.96
+    },
+    {
+      "keyword": "성장",
+      "score": 82.95
+    },
+    {
+      "keyword": "인상",
+      "score": 81.73
     }
   ],
   "hot_topics": [
     {
-      "keyword": "금리",
-      "score": 266.04,
+      "keyword": "기준금리",
+      "score": 235.91,
       "articles": [
         {
-          "title": "[오후장 체크포인트] 미국채 30년물 금리 2007년 이후 최고치 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVVRRbFp5dnQzT3pBdkxqMXg5MkFBN3dkRTRqUzRhUGg1aTNxbWtSMzQzZ29QVFMxdmtOS2RSNl9KMEhJbjF0a1VjWXptZjQ?oc=5",
-          "published_at": "2026-07-30T05:31:21+00:00"
+          "title": "일본은행, 기준금리 ‘1%’로 동결 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbjZKMGtZUkZIdWs0R3U4bkFCSDZoV2Fwck5zY0xacUlHVUFtQ3M1dzhSd3hCSHlOLWZ4X1I0OWl5T3FIaVpabklrT19PdGI1RVprTW9R?oc=5",
+          "published_at": "2026-07-31T05:51:03+00:00"
         },
         {
-          "title": "미 연준 매파적 동결…한은 금리인상 속도 내나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xa292N1VzV1JBR1FIb1I4VGNvMENHQWFMS2F3eTQ3d3ZxMkVHSW9YYTlLVlF0QWpnUkZpaWlWYU14ajhESjBzY0xydFNSNW8?oc=5",
-          "published_at": "2026-07-30T05:31:15+00:00"
+          "title": "[영상] 美 연준, 기준금리 동결…워시 의장 “물가 2% 목표 타협 없어” - 더리브스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCd1dUSm5XN0ZFNEdUWTBXaWl1M0pMUTBiZmdZMV9ST2pPeS1LdnAwU0h5eV9tV3djdDFSQ295YjNBRlJaWEtFbWpjbWNxV2t6dXg5YkJSWVRXVkNwakdCZVFhak90ZmF3X1E?oc=5",
+          "published_at": "2026-07-31T05:39:55+00:00"
         },
         {
-          "title": "연준 금리 유지…시장은 인상 우려 계속되나? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTm9NaDZsNmxGX2xoVUNNU3NVWENwc0NoZEdBTTFVeEdNR2RFbXhGcUh0VXR5bXp6NWh1TmR0VmVCU0JZYWlhLVhkZ1JuRTg?oc=5",
-          "published_at": "2026-07-30T05:30:16+00:00"
+          "title": "일본은행, 기준금리 1% 동결…성장률 전망은 상향 - ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vRGRWem8xRm9yR0NoQ3ZENFdfcFZaelVDY0lzOHI0d21jR3QwVmQyTzBVYjQxMk84VGhzTkRtYUpxVWt3dTYtMlFkNmtyZmVfYTMxYXR6Wmc1T1N0ZFhfaTBhVjQzblhE?oc=5",
+          "published_at": "2026-07-31T05:26:27+00:00"
         },
         {
-          "title": "미국 기준금리 ‘동결했지만...’ 인상 가능성 열어둬 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNUNSRGNzcy1va0FjSXhUZVNJdm5jSzFmRzk1N052cWV5bHdrMzJtLXAtUmdwRUFSUmFrajlndHo0SE84YjExT0NwcUlWV3BwRjVjRHlrNW1tbG5YeGZWMjdqcGs?oc=5",
-          "published_at": "2026-07-30T05:26:29+00:00"
+          "title": "BOJ, 기준금리 1%로 동결…다카타 위원 인상 의견(상보) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WSWl3d202VUFSTWFzVXhTSzhMZ09rT3U0WWpNcWEyODdwMGtfQ3RLYXF2OUxOMThBTW1nRy1ONlRRT3ZxdUtldi0tVzNjaERGOW5TeFVMV01WT19BYXdZZXI4NGMyRU9PSEhLSHhFNHg?oc=5",
+          "published_at": "2026-07-31T05:24:52+00:00"
         },
         {
-          "title": "“영끌족 진짜 큰일났다” 주담대 금리 8% 현실화 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQkUxOTdncTlyeVBGdUdaOVdnbUZNSTFaYnZyUlMxelY4RjZWRzE4bS1weDRma1JQa0hCSmptMlRKTk1BOHh5QmhUS25MUWs?oc=5",
-          "published_at": "2026-07-30T05:25:09+00:00"
+          "title": "日, 금리 동결 '숨 고르기'…일본은행, 기준금리 1% 유지 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qcEdxT1owNWduem83aDRVQkZyNHdjcExPZ2ZweWx5N2tRc21NVDdTcDYtU1VaMGl2dXVQSUFkN081akJvNk0ybnhIX3NTeV9KOWc?oc=5",
+          "published_at": "2026-07-31T05:23:00+00:00"
         }
       ]
     },
     {
       "keyword": "동결",
-      "score": 259.56,
+      "score": 222.37,
       "articles": [
         {
-          "title": "미 연준 매파적 동결…한은 금리인상 속도 내나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xa292N1VzV1JBR1FIb1I4VGNvMENHQWFMS2F3eTQ3d3ZxMkVHSW9YYTlLVlF0QWpnUkZpaWlWYU14ajhESjBzY0xydFNSNW8?oc=5",
-          "published_at": "2026-07-30T05:31:15+00:00"
+          "title": "일본은행, 기준금리 ‘1%’로 동결 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbjZKMGtZUkZIdWs0R3U4bkFCSDZoV2Fwck5zY0xacUlHVUFtQ3M1dzhSd3hCSHlOLWZ4X1I0OWl5T3FIaVpabklrT19PdGI1RVprTW9R?oc=5",
+          "published_at": "2026-07-31T05:51:03+00:00"
         },
         {
-          "title": "미국 기준금리 ‘동결했지만...’ 인상 가능성 열어둬 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNUNSRGNzcy1va0FjSXhUZVNJdm5jSzFmRzk1N052cWV5bHdrMzJtLXAtUmdwRUFSUmFrajlndHo0SE84YjExT0NwcUlWV3BwRjVjRHlrNW1tbG5YeGZWMjdqcGs?oc=5",
-          "published_at": "2026-07-30T05:26:29+00:00"
+          "title": "[영상] 美 연준, 기준금리 동결…워시 의장 “물가 2% 목표 타협 없어” - 더리브스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCd1dUSm5XN0ZFNEdUWTBXaWl1M0pMUTBiZmdZMV9ST2pPeS1LdnAwU0h5eV9tV3djdDFSQ295YjNBRlJaWEtFbWpjbWNxV2t6dXg5YkJSWVRXVkNwakdCZVFhak90ZmF3X1E?oc=5",
+          "published_at": "2026-07-31T05:39:55+00:00"
         },
         {
-          "title": "美 FOMC 기준금리 동결에도 한은 추가 긴축 가능성 커진 이유 - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FSnR5UzZlTDlWNTFORHBCU1RuZENmNkZITzlST0NmcFdkYmdHYlIzZzRTUU1tbkxaR3k1NjFJay1yRW9JRDRuc1BIOTZ4YUNQaU5sTG1GVi14dHZ3aXhscDhB?oc=5",
-          "published_at": "2026-07-30T05:00:00+00:00"
+          "title": "일본은행, 기준금리 1% 동결…성장률 전망은 상향 - ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vRGRWem8xRm9yR0NoQ3ZENFdfcFZaelVDY0lzOHI0d21jR3QwVmQyTzBVYjQxMk84VGhzTkRtYUpxVWt3dTYtMlFkNmtyZmVfYTMxYXR6Wmc1T1N0ZFhfaTBhVjQzblhE?oc=5",
+          "published_at": "2026-07-31T05:26:27+00:00"
         },
         {
-          "title": "원-엔화 환율, 3원 이상 하락하면서 881원 초반대 나타내…달러-엔화 환율은 미국 기준금리 동결에 163엔 대로 상승 - 산업일보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0zQzRzYnZIMGNsNURpWmtGejVNRmlfeHduMWw0MlZ6d1Q5a1VPbU8xZ0M3ZVdTV18yVkdodVMtU3laWnJQ?oc=5",
-          "published_at": "2026-07-30T04:57:24+00:00"
+          "title": "BOJ, 기준금리 1%로 동결…다카타 위원 인상 의견(상보) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WSWl3d202VUFSTWFzVXhTSzhMZ09rT3U0WWpNcWEyODdwMGtfQ3RLYXF2OUxOMThBTW1nRy1ONlRRT3ZxdUtldi0tVzNjaERGOW5TeFVMV01WT19BYXdZZXI4NGMyRU9PSEhLSHhFNHg?oc=5",
+          "published_at": "2026-07-31T05:24:52+00:00"
         },
         {
-          "title": "Market Comment : 예상된 매파적 동결, 행동을 요구하는 시장 | KB의 생각 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0cVpRejVlOFdVTDdQeXRUTUdZOGt3RjBOd0dmNEVCZE1haktDMTBFTk5OTU1YOGxIYjJBS2xCYlFUOWtQSUVrQW9UT3VFY3FnMnJ5X3JQR3NERXNjT2NRNFYxVQ?oc=5",
-          "published_at": "2026-07-30T04:55:49+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "연준",
-      "score": 240.51,
-      "articles": [
-        {
-          "title": "미 연준 매파적 동결…한은 금리인상 속도 내나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xa292N1VzV1JBR1FIb1I4VGNvMENHQWFMS2F3eTQ3d3ZxMkVHSW9YYTlLVlF0QWpnUkZpaWlWYU14ajhESjBzY0xydFNSNW8?oc=5",
-          "published_at": "2026-07-30T05:31:15+00:00"
-        },
-        {
-          "title": "연준 금리 유지…시장은 인상 우려 계속되나? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTm9NaDZsNmxGX2xoVUNNU3NVWENwc0NoZEdBTTFVeEdNR2RFbXhGcUh0VXR5bXp6NWh1TmR0VmVCU0JZYWlhLVhkZ1JuRTg?oc=5",
-          "published_at": "2026-07-30T05:30:16+00:00"
-        },
-        {
-          "title": "정부, 연준 동결 결정에 국내 경제·금융시장 영향 면밀 점검 - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ybmxZZkQzS3NZRWp2NE5TcTFxV1BNcHo2OThIR1hVTk5udEJxS3BrZi11aWM2dzRFcVNEbUZ6bzc0aWk2cnFyZXl6NE5qd0JEVXJNUzJCVmN4dXNRVXhDdW5MUG5IdmN3eGc?oc=5",
-          "published_at": "2026-07-30T04:36:36+00:00"
-        },
-        {
-          "title": "미국 기준금리 연 3.5∼3.75% 5연속 동결...연준 의장“단 하나의 목표는 물가상승률 2%” - 시사뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0YzZ2MDJxQ0FBdHEwd0p3VjhmM2Vfc2J3anpCZzNZWk04ZXU1ZGtPZllCVVpKVU8yYXEzTi02Mnljc1hNU0dsbk1MSm56ZGtUVDVtTFl0QWJFOTBvZ2VUbXNiZw?oc=5",
-          "published_at": "2026-07-30T04:14:55+00:00"
-        },
-        {
-          "title": "“워시 못 믿겠다”…채권자경단, 연준 9월 금리인상 밀어붙이나 [이슈+] - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JN0tuNFp3YloyMGw5bzk5WjRtMlZiYnVIT2xsX1JoT2RYdzdqSEwxb3Nya1hDU01TbzZmb1ZYT0pMbDZnMHZ5ZFU4bnB5eHpMVDBuNzBQd1hxVy1BVVE?oc=5",
-          "published_at": "2026-07-30T03:30:38+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "기준금리",
-      "score": 187.86,
-      "articles": [
-        {
-          "title": "미국 기준금리 ‘동결했지만...’ 인상 가능성 열어둬 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNUNSRGNzcy1va0FjSXhUZVNJdm5jSzFmRzk1N052cWV5bHdrMzJtLXAtUmdwRUFSUmFrajlndHo0SE84YjExT0NwcUlWV3BwRjVjRHlrNW1tbG5YeGZWMjdqcGs?oc=5",
-          "published_at": "2026-07-30T05:26:29+00:00"
-        },
-        {
-          "title": "美 FOMC 기준금리 동결에도 한은 추가 긴축 가능성 커진 이유 - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FSnR5UzZlTDlWNTFORHBCU1RuZENmNkZITzlST0NmcFdkYmdHYlIzZzRTUU1tbkxaR3k1NjFJay1yRW9JRDRuc1BIOTZ4YUNQaU5sTG1GVi14dHZ3aXhscDhB?oc=5",
-          "published_at": "2026-07-30T05:00:00+00:00"
-        },
-        {
-          "title": "원-엔화 환율, 3원 이상 하락하면서 881원 초반대 나타내…달러-엔화 환율은 미국 기준금리 동결에 163엔 대로 상승 - 산업일보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0zQzRzYnZIMGNsNURpWmtGejVNRmlfeHduMWw0MlZ6d1Q5a1VPbU8xZ0M3ZVdTV18yVkdodVMtU3laWnJQ?oc=5",
-          "published_at": "2026-07-30T04:57:24+00:00"
-        },
-        {
-          "title": "미국 기준금리 연 3.5∼3.75% 5연속 동결...연준 의장“단 하나의 목표는 물가상승률 2%” - 시사뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0YzZ2MDJxQ0FBdHEwd0p3VjhmM2Vfc2J3anpCZzNZWk04ZXU1ZGtPZllCVVpKVU8yYXEzTi02Mnljc1hNU0dsbk1MSm56ZGtUVDVtTFl0QWJFOTBvZ2VUbXNiZw?oc=5",
-          "published_at": "2026-07-30T04:14:55+00:00"
-        },
-        {
-          "title": "\"기준금리 인하해야\" 42%·\"부동산 정책 잘못\" 56%[NBS] - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RNXRVNU1rdUhSX1BoemFScFhMVTBPSVZQMlZ3dDVSSmdPNUZad0FhMWZLNXhxVjktcnpfem5CdjY3OEJRWWJsX0RaZFo0YTRQVmJwSTc2SnFBRWUzTU0tN1VUc0thazZiMFdHU1B2VnU?oc=5",
-          "published_at": "2026-07-30T03:43:39+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "daum",
-      "score": 132.17,
-      "articles": [
-        {
-          "title": "[오후장 체크포인트] 미국채 30년물 금리 2007년 이후 최고치 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVVRRbFp5dnQzT3pBdkxqMXg5MkFBN3dkRTRqUzRhUGg1aTNxbWtSMzQzZ29QVFMxdmtOS2RSNl9KMEhJbjF0a1VjWXptZjQ?oc=5",
-          "published_at": "2026-07-30T05:31:21+00:00"
-        },
-        {
-          "title": "미 연준 매파적 동결…한은 금리인상 속도 내나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xa292N1VzV1JBR1FIb1I4VGNvMENHQWFMS2F3eTQ3d3ZxMkVHSW9YYTlLVlF0QWpnUkZpaWlWYU14ajhESjBzY0xydFNSNW8?oc=5",
-          "published_at": "2026-07-30T05:31:15+00:00"
-        },
-        {
-          "title": "연준 금리 유지…시장은 인상 우려 계속되나? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTm9NaDZsNmxGX2xoVUNNU3NVWENwc0NoZEdBTTFVeEdNR2RFbXhGcUh0VXR5bXp6NWh1TmR0VmVCU0JZYWlhLVhkZ1JuRTg?oc=5",
-          "published_at": "2026-07-30T05:30:16+00:00"
-        },
-        {
-          "title": "“영끌족 진짜 큰일났다” 주담대 금리 8% 현실화 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQkUxOTdncTlyeVBGdUdaOVdnbUZNSTFaYnZyUlMxelY4RjZWRzE4bS1weDRma1JQa0hCSmptMlRKTk1BOHh5QmhUS25MUWs?oc=5",
-          "published_at": "2026-07-30T05:25:09+00:00"
-        },
-        {
-          "title": "日, 올해 성장률 0.9%로 하향…\"유가 상승으로 인한 내수 부진 우려\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSmxyMG0wVGw1YjhDUnJ4TFY0NjV5dEpsd0JDN09tQjh5ZmJ0N3BSRlh0eENFeHlNZWNCTjFSZy1TY2hHWU9EVlExMWNFcXc?oc=5",
-          "published_at": "2026-07-30T05:12:52+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "net",
-      "score": 132.17,
-      "articles": [
-        {
-          "title": "[오후장 체크포인트] 미국채 30년물 금리 2007년 이후 최고치 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVVRRbFp5dnQzT3pBdkxqMXg5MkFBN3dkRTRqUzRhUGg1aTNxbWtSMzQzZ29QVFMxdmtOS2RSNl9KMEhJbjF0a1VjWXptZjQ?oc=5",
-          "published_at": "2026-07-30T05:31:21+00:00"
-        },
-        {
-          "title": "미 연준 매파적 동결…한은 금리인상 속도 내나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xa292N1VzV1JBR1FIb1I4VGNvMENHQWFMS2F3eTQ3d3ZxMkVHSW9YYTlLVlF0QWpnUkZpaWlWYU14ajhESjBzY0xydFNSNW8?oc=5",
-          "published_at": "2026-07-30T05:31:15+00:00"
-        },
-        {
-          "title": "연준 금리 유지…시장은 인상 우려 계속되나? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTm9NaDZsNmxGX2xoVUNNU3NVWENwc0NoZEdBTTFVeEdNR2RFbXhGcUh0VXR5bXp6NWh1TmR0VmVCU0JZYWlhLVhkZ1JuRTg?oc=5",
-          "published_at": "2026-07-30T05:30:16+00:00"
-        },
-        {
-          "title": "“영끌족 진짜 큰일났다” 주담대 금리 8% 현실화 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQkUxOTdncTlyeVBGdUdaOVdnbUZNSTFaYnZyUlMxelY4RjZWRzE4bS1weDRma1JQa0hCSmptMlRKTk1BOHh5QmhUS25MUWs?oc=5",
-          "published_at": "2026-07-30T05:25:09+00:00"
-        },
-        {
-          "title": "日, 올해 성장률 0.9%로 하향…\"유가 상승으로 인한 내수 부진 우려\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSmxyMG0wVGw1YjhDUnJ4TFY0NjV5dEpsd0JDN09tQjh5ZmJ0N3BSRlh0eENFeHlNZWNCTjFSZy1TY2hHWU9EVlExMWNFcXc?oc=5",
-          "published_at": "2026-07-30T05:12:52+00:00"
+          "title": "日, 금리 동결 '숨 고르기'…일본은행, 기준금리 1% 유지 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qcEdxT1owNWduem83aDRVQkZyNHdjcExPZ2ZweWx5N2tRc21NVDdTcDYtU1VaMGl2dXVQSUFkN081akJvNk0ybnhIX3NTeV9KOWc?oc=5",
+          "published_at": "2026-07-31T05:23:00+00:00"
         }
       ]
     },
     {
       "keyword": "수출",
-      "score": 125.7,
+      "score": 168.56,
       "articles": [
         {
-          "title": "올 상반기 인천 수출 310억 달러…5.9% 증가 ‘반기 역대 최다’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Y3psdjFwY2NtNnV4eURxU2VxRy1nNm1WcmFuVGRWU1dULWpQQkxTa3dKYkZqRXU3X2EtQW9qdHlGRGpkUU5XVlQtdmlQdndiLVVxci1zTFdrQzg?oc=5",
-          "published_at": "2026-07-30T05:13:00+00:00"
+          "title": "삼성전자-SK하이닉스 반도체 수출 현장 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tRkJvdS1LR0YwYzFBTXdMUUlSdzFraEVnQWlhWDE3bWcxRlZfWlpBMDFDazROY18tazhXclNZTVhJMGhyRy12aHQxRlU0Vlp3aUlQTHFnZkdGQ09a?oc=5",
+          "published_at": "2026-07-31T06:03:00+00:00"
         },
         {
-          "title": "인천 수출, 상반기 첫 300억 달러 돌파… 반기 기준 역대 최대 - 중부일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KaVVDU1QyYmtKbEVfZmJsU3JjNUZhMDZXYUp5Z3I0SU0weEFkcnEtR0d5TUdheU1ESmw1LVFkOENic3RjcnpyMlBuSEgxQUt3UWVPUE1yR0xXMnFRNEJOOTc0YWRXNDNyUFlUUTdn?oc=5",
-          "published_at": "2026-07-30T05:05:00+00:00"
+          "title": "케이엠제약, 구강케어 제품 북미 수출 본격…美 FDA 시설 인증 유지 완료 - 시사캐스트",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrN2R1VlJQUWVpdElRYURiMjV6R0pwYTRQX0JXUzVyLU14S09UM1M5MlpRZHJkMURhejBuVy0tR0ZtRUxUTDJNa0YtbjNTRUphVE4yVFA5Z2NxZGtULXl2am4tNXI0b0U?oc=5",
+          "published_at": "2026-07-31T06:02:53+00:00"
         },
         {
-          "title": "전북경진원, 전략 수출컨소시엄 주관단체 선정 - 전북투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQmxqaVdCcXBBWnJLOFBHbzJFZU82ajZ6a1hFa0dITlhfX2lYendiNGMteGI0QjZPNlF0NXRVRWVqamg1QWRvMjI1aW5mY2xJNVByNmMzbjQwa1ZkYzlVa25reXQ?oc=5",
-          "published_at": "2026-07-30T04:57:50+00:00"
+          "title": "사상 첫 국민소득 4만달러 눈앞…반도체 수출 '효자' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1INDAxb0NRLUdsS0FpdDB1b0VZLWZBLXNXT19QSDBlZ0U5N25sZWU2TWI0Ulp2OHRHb0o1cGk0TlJ3SVBBUkw2QkFNdnZ1YWlZUnFKaHM4SXZ4UQ?oc=5",
+          "published_at": "2026-07-31T05:33:27+00:00"
         },
         {
-          "title": "KG스틸, '비우호적 환경에도 불구 수출 선방' 증권사 발표에 강세 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zUkRESXlOUS0yV3dpLVRlZFV6S3BGNTZZVlhVcXBQQzRqdklLZ3BmTGFybi1SQ2FSVl9WRjV1Sm1hdWdxNlRFcFpFX0paWE00cVE?oc=5",
-          "published_at": "2026-07-30T04:05:20+00:00"
+          "title": "짝퉁은 못막고 수출은 묶고...K톡신 '국가핵심기술'의 역설 - ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QVXEzTlZFSkh4OVVoSWlNbHE0MHY0d1E5Vkw5RGZWUFhVTERWX21LS21TdkIxenViNlFXSDBwM3NsU2tKYjZQUk9fN1FpdVB5dVExVzJBRldWbXIyU1EwLW0wLWIyY2Fw?oc=5",
+          "published_at": "2026-07-31T05:28:15+00:00"
         },
         {
-          "title": "2026년 상반기 인천 경기, \"수출·생산 소폭 개선…주거용 건설 등 일부 지표는 숙제\" - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ObXFkMnZqZ014RThra3Z4S291SXZMTlAxd2hLOWtBeldZQWZYRGVxY1VGaFhqODRpemFGZEhoTFdad09OSER6ZERWemJWVXFPUmJycGdrUVBGNDJwbnVxLWJR?oc=5",
-          "published_at": "2026-07-30T04:04:36+00:00"
+          "title": "[리포트 브리핑]유한양행, '라즈클루즈 침투 가속화와 기술수출 기대' 목표가 145,000원 - 미래에셋증권 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3eVptbDlhbnVxMVQySGFGU0ZBdzI2Vl84UEZVaHlYZGVRZmJaTW9DRmgyNmhSQWpnVEZPNTFCYXRjR0Y3WEQtaDRNN28wSHZWSUZGQUhUZnJlckN4?oc=5",
+          "published_at": "2026-07-31T05:10:00+00:00"
         }
       ]
     },
     {
-      "keyword": "FOMC",
-      "score": 124.0,
+      "keyword": "일본은행",
+      "score": 160.55,
       "articles": [
         {
-          "title": "美 FOMC 기준금리 동결에도 한은 추가 긴축 가능성 커진 이유 - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FSnR5UzZlTDlWNTFORHBCU1RuZENmNkZITzlST0NmcFdkYmdHYlIzZzRTUU1tbkxaR3k1NjFJay1yRW9JRDRuc1BIOTZ4YUNQaU5sTG1GVi14dHZ3aXhscDhB?oc=5",
-          "published_at": "2026-07-30T05:00:00+00:00"
+          "title": "'긴축 기조 유지' 일본은행 \"추가 금리인상, '중동·AI·환율'로 판단\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHbVo4RTVFR1pMOTE1UXFlQTFkeHdZYm5BSlZWV0tQcjc0cXpzQ2xrc0lQN0QwVHB1LVVsYkg2andpYV9uS0pmaXB3RUk0emNTQ0o3SkNGbjc5RUh1cFFQZ05LalVIVndY0gFuQVVfeXFMTldieGlxS1JaV1lrWHRoamZicUF0dWJhZG1scmhvdnc5Zjdod3hQTWU4a0x3TGU4NkNDTHU5cmRLTWl6MWJFUGpGVTYxNFRnV2I2TGJRbmRvTzl2SXB1YnRQbjVsc0hDR2hmX3FEUlE?oc=5",
+          "published_at": "2026-07-31T06:03:09+00:00"
         },
         {
-          "title": "같은 동결, 다른 해석···이번 FOMC가 비둘기로 읽힌 이유 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uaWk3M0pQTjFuVGVkMmgwYlBHZ2c0anJUa1ZxMHZOUlRiUDRyTVpDWTAyb2lYM1VwTlNXVFdhZnUtMXl0VU1TNzBPRVZkSzRseV9PemNuX2EzQQ?oc=5",
-          "published_at": "2026-07-30T04:43:58+00:00"
+          "title": "일본은행, 기준금리 ‘1%’로 동결 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbjZKMGtZUkZIdWs0R3U4bkFCSDZoV2Fwck5zY0xacUlHVUFtQ3M1dzhSd3hCSHlOLWZ4X1I0OWl5T3FIaVpabklrT19PdGI1RVprTW9R?oc=5",
+          "published_at": "2026-07-31T05:51:03+00:00"
         },
         {
-          "title": "S&P500 선물, FOMC 이후 MS 호실적에 반등…美 국채금리↑ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wV25TVzl3QTFvTmV6TFlBRGY1Z1BwZVpZaDZFVHNzempEWmM1WWZMY2tIOUNzLS1fQ0Z0NHNsMW9QSFgxaU1xMFVqakliX0hzQjJ4NThJOVNJMnVCTHFkTjNuVjZieHNUV0hfV1JPRlE?oc=5",
-          "published_at": "2026-07-30T03:06:26+00:00"
+          "title": "일본은행, 기준금리 1% 동결…성장률 전망은 상향 - ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vRGRWem8xRm9yR0NoQ3ZENFdfcFZaelVDY0lzOHI0d21jR3QwVmQyTzBVYjQxMk84VGhzTkRtYUpxVWt3dTYtMlFkNmtyZmVfYTMxYXR6Wmc1T1N0ZFhfaTBhVjQzblhE?oc=5",
+          "published_at": "2026-07-31T05:26:27+00:00"
         },
         {
-          "title": "[외환] 달러 매도 우위·도비시 FOMC에 2월 후 최저로…8.10원↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlb1ZtbWp6azlxTVBhUG5XME80TDdZcno1LUFPRDZyU0cwRV83RTd5ZjNCdXJfR1JUaGZJMzFCQWFrelVMdUYxOEkxd0ktTGk0TkNyNE9BYWlpdHQxY3IxOEtRLXBoMUs4SDJKeWhrQ2w?oc=5",
-          "published_at": "2026-07-30T02:33:18+00:00"
+          "title": "日, 금리 동결 '숨 고르기'…일본은행, 기준금리 1% 유지 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qcEdxT1owNWduem83aDRVQkZyNHdjcExPZ2ZweWx5N2tRc21NVDdTcDYtU1VaMGl2dXVQSUFkN081akJvNk0ybnhIX3NTeV9KOWc?oc=5",
+          "published_at": "2026-07-31T05:23:00+00:00"
         },
         {
-          "title": "[ICYMI] 말만 매파였나…워시의 두번째 FOMC, 달라진 '기대 인플레' 반응 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HOFUwN3VaclNBRHVBa0lGZnVLZ3Nyel96LXc0cklnQmpVOTFSRk5qSWhVblZkbTlqREt5VDdmVmE1eTMzUng2SHk4dUpPWmpHbkxSOVpaSVpfSS0wYTBkX192RmNWNGRWZWhOcTZDRHI?oc=5",
-          "published_at": "2026-07-30T02:24:49+00:00"
+          "title": "일본은행, 기준금리 1% 동결 … 성장률 전망 높이고 추가 인상 여지는 유지 - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdDFvSXVFUkhWZC1GdDZYTEttaEpEQjJ1U3NMcGNCYmRRaFMzT21GTHY0RGE5QWUyT3Yxc3ZZN2R2VFA3ai1zcFRMQWd4RHZiTUFnbDFRVk9wMmdIb1VnZ2VnbkI4VWNLQ1prTENxa3lRUVZZQTE3RHZkTdIBgAFBVV95cUxOTXJra19tWExDY0ZvNFBfa196TXFwbDJIcnRGOTNMMDdvSmZ6SEhuTkI2bldpUTh1dHBCZ05iUUt1NnhQbXpNWk5SbGF3RldGMU9tT1JHMFpSdkJTc3JneGtrYUhZbDJZb3NudUlGbmF5VXd0Wk81RWxJRnpPMjdDcw?oc=5",
+          "published_at": "2026-07-31T05:21:29+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "daum",
+      "score": 118.34,
+      "articles": [
+        {
+          "title": "제주도, 기후경제부지사 이창흠·제주시장 이상봉 지명 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OeGliSng2RFFFWHRDOGFXMHVPR0JEbFNoRG5JU2o4ZEk4RFN0RWZmRlRRY3BOVUh5Y3BMUGRsaWxhVkRoeVp5OEFVYnIzX00?oc=5",
+          "published_at": "2026-07-31T05:49:10+00:00"
+        },
+        {
+          "title": "제주도, 기후경제부지사 이창흠, 제주시장 이상봉 지명 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kWlVJM3BlcnpNUTZ4TFhtSE9ieTM4Z3FVeEF1Tm83WUt1NnVMYTdKT2l6NkFvR2NVQ3cwbDRRcllIRWRTOWtQZVNaQ1g5Rk0?oc=5",
+          "published_at": "2026-07-31T05:47:28+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 연 1.0% 동결···성장률 전망은 상향 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YOUszSWRCZ0dBUzhLN2ZMOXdWaUVfMnZwZWx4SDdxZC14UWdjcHhkTGVqcVVfal9wdUdzLURLU3R0M2xUYWJEaEJGU0szZzg?oc=5",
+          "published_at": "2026-07-31T05:15:07+00:00"
+        },
+        {
+          "title": "제주도 기후경제부지사 이창흠, 제주시장 이상봉 지명 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wcDlnWnZQRkZ1SXp6MHVqd1dUMUtaVUplYWVGQmppTUlpTUZrTHRHdFltOUZwNmZGRTBZOEdSVGl0VXRWS3dYOXFZcHY3Mkk?oc=5",
+          "published_at": "2026-07-31T05:01:58+00:00"
+        },
+        {
+          "title": "한화 방산 3사 모두 분기 최대 실적…수출 호조에 “하반기도 견조” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZNEI0R3pRaWt4NldCNW1SSjVNS0p0NllNZWQ0RUJmeHJYeVVRLW9fNDJiLVdBcldaUU5vQkFFbElXV0JTYjF4djdydG52Mms?oc=5",
+          "published_at": "2026-07-31T05:00:07+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 118.34,
+      "articles": [
+        {
+          "title": "제주도, 기후경제부지사 이창흠·제주시장 이상봉 지명 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OeGliSng2RFFFWHRDOGFXMHVPR0JEbFNoRG5JU2o4ZEk4RFN0RWZmRlRRY3BOVUh5Y3BMUGRsaWxhVkRoeVp5OEFVYnIzX00?oc=5",
+          "published_at": "2026-07-31T05:49:10+00:00"
+        },
+        {
+          "title": "제주도, 기후경제부지사 이창흠, 제주시장 이상봉 지명 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kWlVJM3BlcnpNUTZ4TFhtSE9ieTM4Z3FVeEF1Tm83WUt1NnVMYTdKT2l6NkFvR2NVQ3cwbDRRcllIRWRTOWtQZVNaQ1g5Rk0?oc=5",
+          "published_at": "2026-07-31T05:47:28+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 연 1.0% 동결···성장률 전망은 상향 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YOUszSWRCZ0dBUzhLN2ZMOXdWaUVfMnZwZWx4SDdxZC14UWdjcHhkTGVqcVVfal9wdUdzLURLU3R0M2xUYWJEaEJGU0szZzg?oc=5",
+          "published_at": "2026-07-31T05:15:07+00:00"
+        },
+        {
+          "title": "제주도 기후경제부지사 이창흠, 제주시장 이상봉 지명 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wcDlnWnZQRkZ1SXp6MHVqd1dUMUtaVUplYWVGQmppTUlpTUZrTHRHdFltOUZwNmZGRTBZOEdSVGl0VXRWS3dYOXFZcHY3Mkk?oc=5",
+          "published_at": "2026-07-31T05:01:58+00:00"
+        },
+        {
+          "title": "한화 방산 3사 모두 분기 최대 실적…수출 호조에 “하반기도 견조” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZNEI0R3pRaWt4NldCNW1SSjVNS0p0NllNZWQ0RUJmeHJYeVVRLW9fNDJiLVdBcldaUU5vQkFFbElXV0JTYjF4djdydG52Mms?oc=5",
+          "published_at": "2026-07-31T05:00:07+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "환율",
+      "score": 116.62,
+      "articles": [
+        {
+          "title": "'긴축 기조 유지' 일본은행 \"추가 금리인상, '중동·AI·환율'로 판단\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHbVo4RTVFR1pMOTE1UXFlQTFkeHdZYm5BSlZWV0tQcjc0cXpzQ2xrc0lQN0QwVHB1LVVsYkg2andpYV9uS0pmaXB3RUk0emNTQ0o3SkNGbjc5RUh1cFFQZ05LalVIVndY0gFuQVVfeXFMTldieGlxS1JaV1lrWHRoamZicUF0dWJhZG1scmhvdnc5Zjdod3hQTWU4a0x3TGU4NkNDTHU5cmRLTWl6MWJFUGpGVTYxNFRnV2I2TGJRbmRvTzl2SXB1YnRQbjVsc0hDR2hmX3FEUlE?oc=5",
+          "published_at": "2026-07-31T06:03:09+00:00"
+        },
+        {
+          "title": "외국인 증권투자·환율 변동성…외환거래액, 2분기 일평균 1214억4000만달러 역대 최대 - g-enews.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0RtVXQ1bS1KeUxwbExYMHNwOU1WRUpjWXpsLVhOaC1aS3pfV05BZXQwM1J0NUpIVDNVakxtak0yTnFDeGlfdXRsb0FDaFB1UnJqMVYwTEtWVDlrWE1NWHNFREhwQThCUDBSMDZsRFllOEJBaWcyRnNyZ1NRaWtJN0Z0bTk?oc=5",
+          "published_at": "2026-07-31T05:39:45+00:00"
+        },
+        {
+          "title": "로이터 \"한·일, 이례적 동시 환율개입…美도 '레이트체크' 공조\" - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UTGF5bTFkRXo3Q0hfYzczZ1BjQlYzaThyeUMtRHdPWTgzVWtURHAzMUhaX21LSEFPRjE0YWNFT3Yzc2QxV0w3Smg4QzdlNm1GWFJFYTFGMWh5VFhqM0Y2d2ptU0RuWGc?oc=5",
+          "published_at": "2026-07-31T05:38:48+00:00"
+        },
+        {
+          "title": "원·달러 환율 한 달 새 130원 급락… 증권가 “당분간 안정세” 전망 - 이코리아",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4S0hjRmpKRkdUeHcwa3BHX2tOYWRvZ2otcWZVZHlWVFdnS0NBRWFHaHNYMnZQTkVYemo3b0dLdkpZTVRSWjFIVjFNTzBPNnp6UnU1Q05vU3NzTTNtLVJYSXB4bXpXQWtkcEtVczJPWQ?oc=5",
+          "published_at": "2026-07-31T05:09:51+00:00"
+        },
+        {
+          "title": "엔·달러 환율 급락...미일, 이례적 '동시 시장개입' - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82WHRaVVZNODFyOERlWHJuTmhURmdYWXlFVzkxU0hRZm5vUGxUdEtNVlBvTDNsV3M5QnJ2SlU1RnU1ZHNqSzNVbEFiekFaaHpUWmFoc1RqSmRlRWxIN1E?oc=5",
+          "published_at": "2026-07-31T04:54:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "유지",
+      "score": 114.16,
+      "articles": [
+        {
+          "title": "'긴축 기조 유지' 일본은행 \"추가 금리인상, '중동·AI·환율'로 판단\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHbVo4RTVFR1pMOTE1UXFlQTFkeHdZYm5BSlZWV0tQcjc0cXpzQ2xrc0lQN0QwVHB1LVVsYkg2andpYV9uS0pmaXB3RUk0emNTQ0o3SkNGbjc5RUh1cFFQZ05LalVIVndY0gFuQVVfeXFMTldieGlxS1JaV1lrWHRoamZicUF0dWJhZG1scmhvdnc5Zjdod3hQTWU4a0x3TGU4NkNDTHU5cmRLTWl6MWJFUGpGVTYxNFRnV2I2TGJRbmRvTzl2SXB1YnRQbjVsc0hDR2hmX3FEUlE?oc=5",
+          "published_at": "2026-07-31T06:03:09+00:00"
+        },
+        {
+          "title": "케이엠제약, 구강케어 제품 북미 수출 본격…美 FDA 시설 인증 유지 완료 - 시사캐스트",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrN2R1VlJQUWVpdElRYURiMjV6R0pwYTRQX0JXUzVyLU14S09UM1M5MlpRZHJkMURhejBuVy0tR0ZtRUxUTDJNa0YtbjNTRUphVE4yVFA5Z2NxZGtULXl2am4tNXI0b0U?oc=5",
+          "published_at": "2026-07-31T06:02:53+00:00"
+        },
+        {
+          "title": "日, 금리 동결 '숨 고르기'…일본은행, 기준금리 1% 유지 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qcEdxT1owNWduem83aDRVQkZyNHdjcExPZ2ZweWx5N2tRc21NVDdTcDYtU1VaMGl2dXVQSUFkN081akJvNk0ybnhIX3NTeV9KOWc?oc=5",
+          "published_at": "2026-07-31T05:23:00+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 1% 동결 … 성장률 전망 높이고 추가 인상 여지는 유지 - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdDFvSXVFUkhWZC1GdDZYTEttaEpEQjJ1U3NMcGNCYmRRaFMzT21GTHY0RGE5QWUyT3Yxc3ZZN2R2VFA3ai1zcFRMQWd4RHZiTUFnbDFRVk9wMmdIb1VnZ2VnbkI4VWNLQ1prTENxa3lRUVZZQTE3RHZkTdIBgAFBVV95cUxOTXJra19tWExDY0ZvNFBfa196TXFwbDJIcnRGOTNMMDdvSmZ6SEhuTkI2bldpUTh1dHBCZ05iUUt1NnhQbXpNWk5SbGF3RldGMU9tT1JHMFpSdkJTc3JneGtrYUhZbDJZb3NudUlGbmF5VXd0Wk81RWxJRnpPMjdDcw?oc=5",
+          "published_at": "2026-07-31T05:21:29+00:00"
+        },
+        {
+          "title": "[파이낸셜 워치(177)] 일본은행, 기준금리 1% 동결⋯엔화 약세 속 추가 인상 신호는 유지 - 포커스온경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PVVFoc01FT3ZlLU5mS2Y1QnNTU2h4N01zbEF5NldLcWJmOV9JZWdXYTV0S28xSWtZbzFIN0plWXV4eEc2N3hjbGh5UnpXN2VldHFDWDAxSDZUM3VTemc?oc=5",
+          "published_at": "2026-07-31T04:59:10+00:00"
         }
       ]
     }
