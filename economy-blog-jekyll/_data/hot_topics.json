@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-07-31T06:07:47.444517+00:00",
+  "generated_at": "2026-08-01T05:51:26.998029+00:00",
   "source_count": 4,
-  "article_count": 362,
+  "article_count": 376,
   "top_keywords": [
     {
-      "keyword": "기준금리",
-      "score": 235.91
-    },
-    {
-      "keyword": "동결",
-      "score": 222.37
+      "keyword": "7월",
+      "score": 375.52
     },
     {
       "keyword": "수출",
-      "score": 168.56
+      "score": 349.8
     },
     {
-      "keyword": "일본은행",
-      "score": 160.55
+      "keyword": "역대",
+      "score": 256.04
     },
     {
-      "keyword": "daum",
-      "score": 118.34
+      "keyword": "2위",
+      "score": 231.49
     },
     {
-      "keyword": "net",
-      "score": 118.34
+      "keyword": "반도체",
+      "score": 226.47
     },
     {
-      "keyword": "환율",
-      "score": 116.62
-    },
-    {
-      "keyword": "유지",
-      "score": 114.16
+      "keyword": "연속",
+      "score": 143.36
     },
     {
       "keyword": "달러",
-      "score": 100.04
+      "score": 142.78
     },
     {
-      "keyword": "금리",
-      "score": 91.96
+      "keyword": "daum",
+      "score": 126.51
     },
     {
-      "keyword": "성장",
-      "score": 82.95
+      "keyword": "net",
+      "score": 126.51
     },
     {
-      "keyword": "인상",
-      "score": 81.73
+      "keyword": "돌파",
+      "score": 82.91
+    },
+    {
+      "keyword": "989억달러",
+      "score": 72.92
+    },
+    {
+      "keyword": "기준금리",
+      "score": 72.6
     }
   ],
   "hot_topics": [
     {
-      "keyword": "기준금리",
-      "score": 235.91,
+      "keyword": "7월",
+      "score": 375.52,
       "articles": [
         {
-          "title": "일본은행, 기준금리 ‘1%’로 동결 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbjZKMGtZUkZIdWs0R3U4bkFCSDZoV2Fwck5zY0xacUlHVUFtQ3M1dzhSd3hCSHlOLWZ4X1I0OWl5T3FIaVpabklrT19PdGI1RVprTW9R?oc=5",
-          "published_at": "2026-07-31T05:51:03+00:00"
+          "title": "[정책 교차로 7월 5주차] 신설공사 공고 3년 새 35.8% 급감… 유지보수만 홀로 늘었다 - 조달경제신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ISk1GWWpSY0VtVlNySElPb1dQd1pxZHg0SEE4VzI2a2ltUFIyTVF3akV5TVhFQUIyY0xZSUhmMWVRMDBKVHNQTmpKSUIxMFJETjV5SDNzTmM4WE8zT3M3bE5CazlUeW9mYzBWVHZ3?oc=5",
+          "published_at": "2026-08-01T05:30:49+00:00"
         },
         {
-          "title": "[영상] 美 연준, 기준금리 동결…워시 의장 “물가 2% 목표 타협 없어” - 더리브스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCd1dUSm5XN0ZFNEdUWTBXaWl1M0pMUTBiZmdZMV9ST2pPeS1LdnAwU0h5eV9tV3djdDFSQ295YjNBRlJaWEtFbWpjbWNxV2t6dXg5YkJSWVRXVkNwakdCZVFhak90ZmF3X1E?oc=5",
-          "published_at": "2026-07-31T05:39:55+00:00"
+          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+          "published_at": "2026-08-01T05:12:55+00:00"
         },
         {
-          "title": "일본은행, 기준금리 1% 동결…성장률 전망은 상향 - ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vRGRWem8xRm9yR0NoQ3ZENFdfcFZaelVDY0lzOHI0d21jR3QwVmQyTzBVYjQxMk84VGhzTkRtYUpxVWt3dTYtMlFkNmtyZmVfYTMxYXR6Wmc1T1N0ZFhfaTBhVjQzblhE?oc=5",
-          "published_at": "2026-07-31T05:26:27+00:00"
+          "title": "7월 화장품수출 13.5억달러 38%↑... 9개월 연속 증가, 미국·EU 실적 견인 - cncnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMGk3Y0R3Znluem10RWltTFpzRDM4Vm5RQjFraTJTeHdLYWt2VWZYZ2VhTWZkRXhCRGhES0ZvX0xpLTN0RmNZZUpabE83RE1mVGdaNFMyYjB5UG9LUkN4N1Z3?oc=5",
+          "published_at": "2026-08-01T05:02:37+00:00"
         },
         {
-          "title": "BOJ, 기준금리 1%로 동결…다카타 위원 인상 의견(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WSWl3d202VUFSTWFzVXhTSzhMZ09rT3U0WWpNcWEyODdwMGtfQ3RLYXF2OUxOMThBTW1nRy1ONlRRT3ZxdUtldi0tVzNjaERGOW5TeFVMV01WT19BYXdZZXI4NGMyRU9PSEhLSHhFNHg?oc=5",
-          "published_at": "2026-07-31T05:24:52+00:00"
+          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
+          "published_at": "2026-08-01T05:02:05+00:00"
         },
         {
-          "title": "日, 금리 동결 '숨 고르기'…일본은행, 기준금리 1% 유지 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qcEdxT1owNWduem83aDRVQkZyNHdjcExPZ2ZweWx5N2tRc21NVDdTcDYtU1VaMGl2dXVQSUFkN081akJvNk0ybnhIX3NTeV9KOWc?oc=5",
-          "published_at": "2026-07-31T05:23:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "동결",
-      "score": 222.37,
-      "articles": [
-        {
-          "title": "일본은행, 기준금리 ‘1%’로 동결 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbjZKMGtZUkZIdWs0R3U4bkFCSDZoV2Fwck5zY0xacUlHVUFtQ3M1dzhSd3hCSHlOLWZ4X1I0OWl5T3FIaVpabklrT19PdGI1RVprTW9R?oc=5",
-          "published_at": "2026-07-31T05:51:03+00:00"
-        },
-        {
-          "title": "[영상] 美 연준, 기준금리 동결…워시 의장 “물가 2% 목표 타협 없어” - 더리브스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCd1dUSm5XN0ZFNEdUWTBXaWl1M0pMUTBiZmdZMV9ST2pPeS1LdnAwU0h5eV9tV3djdDFSQ295YjNBRlJaWEtFbWpjbWNxV2t6dXg5YkJSWVRXVkNwakdCZVFhak90ZmF3X1E?oc=5",
-          "published_at": "2026-07-31T05:39:55+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 1% 동결…성장률 전망은 상향 - ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vRGRWem8xRm9yR0NoQ3ZENFdfcFZaelVDY0lzOHI0d21jR3QwVmQyTzBVYjQxMk84VGhzTkRtYUpxVWt3dTYtMlFkNmtyZmVfYTMxYXR6Wmc1T1N0ZFhfaTBhVjQzblhE?oc=5",
-          "published_at": "2026-07-31T05:26:27+00:00"
-        },
-        {
-          "title": "BOJ, 기준금리 1%로 동결…다카타 위원 인상 의견(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WSWl3d202VUFSTWFzVXhTSzhMZ09rT3U0WWpNcWEyODdwMGtfQ3RLYXF2OUxOMThBTW1nRy1ONlRRT3ZxdUtldi0tVzNjaERGOW5TeFVMV01WT19BYXdZZXI4NGMyRU9PSEhLSHhFNHg?oc=5",
-          "published_at": "2026-07-31T05:24:52+00:00"
-        },
-        {
-          "title": "日, 금리 동결 '숨 고르기'…일본은행, 기준금리 1% 유지 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qcEdxT1owNWduem83aDRVQkZyNHdjcExPZ2ZweWx5N2tRc21NVDdTcDYtU1VaMGl2dXVQSUFkN081akJvNk0ybnhIX3NTeV9KOWc?oc=5",
-          "published_at": "2026-07-31T05:23:00+00:00"
+          "title": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbDlKZy11aEZxamRGMGJmMjQ0U2FCYzRLTy1CUjZDazVuZHV5dUQtNHQ1T1FhLUxqQVYyZVF5UF9TaU5Ia25jYUpEbEZ1TlU?oc=5",
+          "published_at": "2026-08-01T03:53:43+00:00"
         }
       ]
     },
     {
       "keyword": "수출",
-      "score": 168.56,
+      "score": 349.8,
       "articles": [
         {
-          "title": "삼성전자-SK하이닉스 반도체 수출 현장 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tRkJvdS1LR0YwYzFBTXdMUUlSdzFraEVnQWlhWDE3bWcxRlZfWlpBMDFDazROY18tazhXclNZTVhJMGhyRy12aHQxRlU0Vlp3aUlQTHFnZkdGQ09a?oc=5",
-          "published_at": "2026-07-31T06:03:00+00:00"
+          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+          "published_at": "2026-08-01T05:12:55+00:00"
         },
         {
-          "title": "케이엠제약, 구강케어 제품 북미 수출 본격…美 FDA 시설 인증 유지 완료 - 시사캐스트",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrN2R1VlJQUWVpdElRYURiMjV6R0pwYTRQX0JXUzVyLU14S09UM1M5MlpRZHJkMURhejBuVy0tR0ZtRUxUTDJNa0YtbjNTRUphVE4yVFA5Z2NxZGtULXl2am4tNXI0b0U?oc=5",
-          "published_at": "2026-07-31T06:02:53+00:00"
+          "title": "반도체 수출, 정점 도달했나 - 아틀라스뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11MGpXY3RRUV9mRnRlNUJWc1BCeFpEZlBESTJPTW9WQ3M2eVRqSmZHZkQxU2R2bThoX3hXQ3FZcDFSSVJ0Z2V5VUtCLU1DdUk2WVEwWXRaNFdWcnpCLWRCSm1Ja0ZTel95Rk9PUw?oc=5",
+          "published_at": "2026-08-01T05:07:19+00:00"
         },
         {
-          "title": "사상 첫 국민소득 4만달러 눈앞…반도체 수출 '효자' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1INDAxb0NRLUdsS0FpdDB1b0VZLWZBLXNXT19QSDBlZ0U5N25sZWU2TWI0Ulp2OHRHb0o1cGk0TlJ3SVBBUkw2QkFNdnZ1YWlZUnFKaHM4SXZ4UQ?oc=5",
-          "published_at": "2026-07-31T05:33:27+00:00"
+          "title": "7월 화장품수출 13.5억달러 38%↑... 9개월 연속 증가, 미국·EU 실적 견인 - cncnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMGk3Y0R3Znluem10RWltTFpzRDM4Vm5RQjFraTJTeHdLYWt2VWZYZ2VhTWZkRXhCRGhES0ZvX0xpLTN0RmNZZUpabE83RE1mVGdaNFMyYjB5UG9LUkN4N1Z3?oc=5",
+          "published_at": "2026-08-01T05:02:37+00:00"
         },
         {
-          "title": "짝퉁은 못막고 수출은 묶고...K톡신 '국가핵심기술'의 역설 - ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QVXEzTlZFSkh4OVVoSWlNbHE0MHY0d1E5Vkw5RGZWUFhVTERWX21LS21TdkIxenViNlFXSDBwM3NsU2tKYjZQUk9fN1FpdVB5dVExVzJBRldWbXIyU1EwLW0wLWIyY2Fw?oc=5",
-          "published_at": "2026-07-31T05:28:15+00:00"
+          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
+          "published_at": "2026-08-01T05:02:05+00:00"
         },
         {
-          "title": "[리포트 브리핑]유한양행, '라즈클루즈 침투 가속화와 기술수출 기대' 목표가 145,000원 - 미래에셋증권 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3eVptbDlhbnVxMVQySGFGU0ZBdzI2Vl84UEZVaHlYZGVRZmJaTW9DRmgyNmhSQWpnVEZPNTFCYXRjR0Y3WEQtaDRNN28wSHZWSUZGQUhUZnJlckN4?oc=5",
-          "published_at": "2026-07-31T05:10:00+00:00"
+          "title": "7월 수출 $989억...반도체 2달 연속 $400억 초과 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
+          "published_at": "2026-08-01T03:47:00+00:00"
         }
       ]
     },
     {
-      "keyword": "일본은행",
-      "score": 160.55,
+      "keyword": "역대",
+      "score": 256.04,
       "articles": [
         {
-          "title": "'긴축 기조 유지' 일본은행 \"추가 금리인상, '중동·AI·환율'로 판단\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHbVo4RTVFR1pMOTE1UXFlQTFkeHdZYm5BSlZWV0tQcjc0cXpzQ2xrc0lQN0QwVHB1LVVsYkg2andpYV9uS0pmaXB3RUk0emNTQ0o3SkNGbjc5RUh1cFFQZ05LalVIVndY0gFuQVVfeXFMTldieGlxS1JaV1lrWHRoamZicUF0dWJhZG1scmhvdnc5Zjdod3hQTWU4a0x3TGU4NkNDTHU5cmRLTWl6MWJFUGpGVTYxNFRnV2I2TGJRbmRvTzl2SXB1YnRQbjVsc0hDR2hmX3FEUlE?oc=5",
-          "published_at": "2026-07-31T06:03:09+00:00"
+          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+          "published_at": "2026-08-01T05:12:55+00:00"
         },
         {
-          "title": "일본은행, 기준금리 ‘1%’로 동결 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbjZKMGtZUkZIdWs0R3U4bkFCSDZoV2Fwck5zY0xacUlHVUFtQ3M1dzhSd3hCSHlOLWZ4X1I0OWl5T3FIaVpabklrT19PdGI1RVprTW9R?oc=5",
-          "published_at": "2026-07-31T05:51:03+00:00"
+          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
+          "published_at": "2026-08-01T05:02:05+00:00"
         },
         {
-          "title": "일본은행, 기준금리 1% 동결…성장률 전망은 상향 - ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vRGRWem8xRm9yR0NoQ3ZENFdfcFZaelVDY0lzOHI0d21jR3QwVmQyTzBVYjQxMk84VGhzTkRtYUpxVWt3dTYtMlFkNmtyZmVfYTMxYXR6Wmc1T1N0ZFhfaTBhVjQzblhE?oc=5",
-          "published_at": "2026-07-31T05:26:27+00:00"
+          "title": "7월 수출 '989억 달러' 역대 2위…두 달 연속 400억 달러 - news.sbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhRZXl0dHhjaFRLSWdIVFdzWkZudGhkSEJnc19IYzB2cDBic0lMeGs4ZGlUZ29rVTZCaFlaWWF1QV9DRERVQ0xydEdqQXE3OGtsVWdxZldSbldFVnpkcHZFRGNCLVBxemg4eXVYMWlxdndCWGk1S2tjZlNIMXIwNlhQYjlnSHJvTldJaThyc9IBZkFVX3lxTE1sS09PSmdXZmhtOE1lRFBUTThTQnd2NjBCSmdLSkhua05NaUFUSUpxYmt2a0l0REdidmhFLWdORnptU2JjUnEweUthT0dOVUtKUG44NGctejNXa0VPd2FqSG01QTFqdw?oc=5",
+          "published_at": "2026-08-01T03:28:00+00:00"
         },
         {
-          "title": "日, 금리 동결 '숨 고르기'…일본은행, 기준금리 1% 유지 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qcEdxT1owNWduem83aDRVQkZyNHdjcExPZ2ZweWx5N2tRc21NVDdTcDYtU1VaMGl2dXVQSUFkN081akJvNk0ybnhIX3NTeV9KOWc?oc=5",
-          "published_at": "2026-07-31T05:23:00+00:00"
+          "title": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
+          "published_at": "2026-08-01T03:17:23+00:00"
         },
         {
-          "title": "일본은행, 기준금리 1% 동결 … 성장률 전망 높이고 추가 인상 여지는 유지 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdDFvSXVFUkhWZC1GdDZYTEttaEpEQjJ1U3NMcGNCYmRRaFMzT21GTHY0RGE5QWUyT3Yxc3ZZN2R2VFA3ai1zcFRMQWd4RHZiTUFnbDFRVk9wMmdIb1VnZ2VnbkI4VWNLQ1prTENxa3lRUVZZQTE3RHZkTdIBgAFBVV95cUxOTXJra19tWExDY0ZvNFBfa196TXFwbDJIcnRGOTNMMDdvSmZ6SEhuTkI2bldpUTh1dHBCZ05iUUt1NnhQbXpNWk5SbGF3RldGMU9tT1JHMFpSdkJTc3JneGtrYUhZbDJZb3NudUlGbmF5VXd0Wk81RWxJRnpPMjdDcw?oc=5",
-          "published_at": "2026-07-31T05:21:29+00:00"
+          "title": "7월 수출 989억달러 '역대 2위'…반도체 두 달 연속 400억달러 돌파 - 위메이크뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DWDM3WEdPX21fRmVlQVRybzdGMjRpYkdVNEdTdmdiWXBBZ3NPb2Eyb2pOV0NrVGRLQ1FaM290UWR5X05GRUVOYkNmb0Zacjc5ZWs2OWI0emtGNUE?oc=5",
+          "published_at": "2026-08-01T03:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "2위",
+      "score": 231.49,
+      "articles": [
+        {
+          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+          "published_at": "2026-08-01T05:12:55+00:00"
+        },
+        {
+          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
+          "published_at": "2026-08-01T05:02:05+00:00"
+        },
+        {
+          "title": "7월 수출 '989억 달러' 역대 2위…두 달 연속 400억 달러 - news.sbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhRZXl0dHhjaFRLSWdIVFdzWkZudGhkSEJnc19IYzB2cDBic0lMeGs4ZGlUZ29rVTZCaFlaWWF1QV9DRERVQ0xydEdqQXE3OGtsVWdxZldSbldFVnpkcHZFRGNCLVBxemg4eXVYMWlxdndCWGk1S2tjZlNIMXIwNlhQYjlnSHJvTldJaThyc9IBZkFVX3lxTE1sS09PSmdXZmhtOE1lRFBUTThTQnd2NjBCSmdLSkhua05NaUFUSUpxYmt2a0l0REdidmhFLWdORnptU2JjUnEweUthT0dOVUtKUG44NGctejNXa0VPd2FqSG01QTFqdw?oc=5",
+          "published_at": "2026-08-01T03:28:00+00:00"
+        },
+        {
+          "title": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
+          "published_at": "2026-08-01T03:17:23+00:00"
+        },
+        {
+          "title": "7월 수출 989억달러 '역대 2위'…반도체 두 달 연속 400억달러 돌파 - 위메이크뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DWDM3WEdPX21fRmVlQVRybzdGMjRpYkdVNEdTdmdiWXBBZ3NPb2Eyb2pOV0NrVGRLQ1FaM290UWR5X05GRUVOYkNmb0Zacjc5ZWs2OWI0emtGNUE?oc=5",
+          "published_at": "2026-08-01T03:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "score": 226.47,
+      "articles": [
+        {
+          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+          "published_at": "2026-08-01T05:12:55+00:00"
+        },
+        {
+          "title": "반도체 수출, 정점 도달했나 - 아틀라스뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11MGpXY3RRUV9mRnRlNUJWc1BCeFpEZlBESTJPTW9WQ3M2eVRqSmZHZkQxU2R2bThoX3hXQ3FZcDFSSVJ0Z2V5VUtCLU1DdUk2WVEwWXRaNFdWcnpCLWRCSm1Ja0ZTel95Rk9PUw?oc=5",
+          "published_at": "2026-08-01T05:07:19+00:00"
+        },
+        {
+          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
+          "published_at": "2026-08-01T05:02:05+00:00"
+        },
+        {
+          "title": "7월 수출 $989억...반도체 2달 연속 $400억 초과 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
+          "published_at": "2026-08-01T03:47:00+00:00"
+        },
+        {
+          "title": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
+          "published_at": "2026-08-01T03:17:23+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "연속",
+      "score": 143.36,
+      "articles": [
+        {
+          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+          "published_at": "2026-08-01T05:12:55+00:00"
+        },
+        {
+          "title": "7월 화장품수출 13.5억달러 38%↑... 9개월 연속 증가, 미국·EU 실적 견인 - cncnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMGk3Y0R3Znluem10RWltTFpzRDM4Vm5RQjFraTJTeHdLYWt2VWZYZ2VhTWZkRXhCRGhES0ZvX0xpLTN0RmNZZUpabE83RE1mVGdaNFMyYjB5UG9LUkN4N1Z3?oc=5",
+          "published_at": "2026-08-01T05:02:37+00:00"
+        },
+        {
+          "title": "美·日, 이틀 연속 엔화 방어 총력전...157엔대 진입 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fZ0hkU3FvOHNqZW9CWjVFMTMzeWVwaklKR2EyTlRrSjFNT1BOUl9rMXZwZDJkTGlCdDN1SjFHb2JPYXhnd1B5THFVYUJxVmRrNHJxVEJRbzdGZw?oc=5",
+          "published_at": "2026-08-01T04:28:30+00:00"
+        },
+        {
+          "title": "7월 수출 $989억...반도체 2달 연속 $400억 초과 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
+          "published_at": "2026-08-01T03:47:00+00:00"
+        },
+        {
+          "title": "7월 수출 '989억 달러' 역대 2위…두 달 연속 400억 달러 - news.sbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhRZXl0dHhjaFRLSWdIVFdzWkZudGhkSEJnc19IYzB2cDBic0lMeGs4ZGlUZ29rVTZCaFlaWWF1QV9DRERVQ0xydEdqQXE3OGtsVWdxZldSbldFVnpkcHZFRGNCLVBxemg4eXVYMWlxdndCWGk1S2tjZlNIMXIwNlhQYjlnSHJvTldJaThyc9IBZkFVX3lxTE1sS09PSmdXZmhtOE1lRFBUTThTQnd2NjBCSmdLSkhua05NaUFUSUpxYmt2a0l0REdidmhFLWdORnptU2JjUnEweUthT0dOVUtKUG44NGctejNXa0VPd2FqSG01QTFqdw?oc=5",
+          "published_at": "2026-08-01T03:28:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "달러",
+      "score": 142.78,
+      "articles": [
+        {
+          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+          "published_at": "2026-08-01T05:12:55+00:00"
+        },
+        {
+          "title": "7월 화장품수출 13.5억달러 38%↑... 9개월 연속 증가, 미국·EU 실적 견인 - cncnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMGk3Y0R3Znluem10RWltTFpzRDM4Vm5RQjFraTJTeHdLYWt2VWZYZ2VhTWZkRXhCRGhES0ZvX0xpLTN0RmNZZUpabE83RE1mVGdaNFMyYjB5UG9LUkN4N1Z3?oc=5",
+          "published_at": "2026-08-01T05:02:37+00:00"
+        },
+        {
+          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
+          "published_at": "2026-08-01T05:02:05+00:00"
+        },
+        {
+          "title": "7월 수출 '989억 달러' 역대 2위…두 달 연속 400억 달러 - news.sbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhRZXl0dHhjaFRLSWdIVFdzWkZudGhkSEJnc19IYzB2cDBic0lMeGs4ZGlUZ29rVTZCaFlaWWF1QV9DRERVQ0xydEdqQXE3OGtsVWdxZldSbldFVnpkcHZFRGNCLVBxemg4eXVYMWlxdndCWGk1S2tjZlNIMXIwNlhQYjlnSHJvTldJaThyc9IBZkFVX3lxTE1sS09PSmdXZmhtOE1lRFBUTThTQnd2NjBCSmdLSkhua05NaUFUSUpxYmt2a0l0REdidmhFLWdORnptU2JjUnEweUthT0dOVUtKUG44NGctejNXa0VPd2FqSG01QTFqdw?oc=5",
+          "published_at": "2026-08-01T03:28:00+00:00"
+        },
+        {
+          "title": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
+          "published_at": "2026-08-01T03:17:23+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 118.34,
+      "score": 126.51,
       "articles": [
         {
-          "title": "제주도, 기후경제부지사 이창흠·제주시장 이상봉 지명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OeGliSng2RFFFWHRDOGFXMHVPR0JEbFNoRG5JU2o4ZEk4RFN0RWZmRlRRY3BOVUh5Y3BMUGRsaWxhVkRoeVp5OEFVYnIzX00?oc=5",
-          "published_at": "2026-07-31T05:49:10+00:00"
+          "title": "중국, 미국 신장 강제노동제재 반발‥\"경제대화 하루 만에 악의적 조치\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zcDIwMEl4alZwZXRnNmlfYjdBdm1rR2hjaTA3c21ZWTZNRzBudzl3ci1RZTJCd3ZJdE1nMUd5SFlSWkdESTlkVjU4QmhaaFk?oc=5",
+          "published_at": "2026-08-01T05:13:13+00:00"
         },
         {
-          "title": "제주도, 기후경제부지사 이창흠, 제주시장 이상봉 지명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kWlVJM3BlcnpNUTZ4TFhtSE9ieTM4Z3FVeEF1Tm83WUt1NnVMYTdKT2l6NkFvR2NVQ3cwbDRRcllIRWRTOWtQZVNaQ1g5Rk0?oc=5",
-          "published_at": "2026-07-31T05:47:28+00:00"
+          "title": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbDlKZy11aEZxamRGMGJmMjQ0U2FCYzRLTy1CUjZDazVuZHV5dUQtNHQ1T1FhLUxqQVYyZVF5UF9TaU5Ia25jYUpEbEZ1TlU?oc=5",
+          "published_at": "2026-08-01T03:53:43+00:00"
         },
         {
-          "title": "일본은행, 기준금리 연 1.0% 동결···성장률 전망은 상향 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YOUszSWRCZ0dBUzhLN2ZMOXdWaUVfMnZwZWx4SDdxZC14UWdjcHhkTGVqcVVfal9wdUdzLURLU3R0M2xUYWJEaEJGU0szZzg?oc=5",
-          "published_at": "2026-07-31T05:15:07+00:00"
+          "title": "7월 수출 988.9억 달러 역대 2위…반도체 두 달 연속 400억 달러 넘어 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtS1RzVUtuelJiaGVUQzh0cm11UUVVX0FOeVZXQTNPZ2F3OWhLX2VxamN1QXBlVFk0MGE5OS1GN3BwSUxkLWZrcFc0dmQ5dUk?oc=5",
+          "published_at": "2026-08-01T03:13:08+00:00"
         },
         {
-          "title": "제주도 기후경제부지사 이창흠, 제주시장 이상봉 지명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wcDlnWnZQRkZ1SXp6MHVqd1dUMUtaVUplYWVGQmppTUlpTUZrTHRHdFltOUZwNmZGRTBZOEdSVGl0VXRWS3dYOXFZcHY3Mkk?oc=5",
-          "published_at": "2026-07-31T05:01:58+00:00"
+          "title": "7월 수출 988억9000만달러 ‘역대 2위’…반도체 410억달러 돌파 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMmlVdnNxaFJ5aHBzdGl6V2RGNGFPRHVELW16Wlo4QzQ1cWJyQWNSSWhfLXpnY2kySU1ET2R2djNMTHVMY3hKZWR3VEtUM2M?oc=5",
+          "published_at": "2026-08-01T02:28:54+00:00"
         },
         {
-          "title": "한화 방산 3사 모두 분기 최대 실적…수출 호조에 “하반기도 견조” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZNEI0R3pRaWt4NldCNW1SSjVNS0p0NllNZWQ0RUJmeHJYeVVRLW9fNDJiLVdBcldaUU5vQkFFbElXV0JTYjF4djdydG52Mms?oc=5",
-          "published_at": "2026-07-31T05:00:07+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "net",
-      "score": 118.34,
-      "articles": [
-        {
-          "title": "제주도, 기후경제부지사 이창흠·제주시장 이상봉 지명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OeGliSng2RFFFWHRDOGFXMHVPR0JEbFNoRG5JU2o4ZEk4RFN0RWZmRlRRY3BOVUh5Y3BMUGRsaWxhVkRoeVp5OEFVYnIzX00?oc=5",
-          "published_at": "2026-07-31T05:49:10+00:00"
-        },
-        {
-          "title": "제주도, 기후경제부지사 이창흠, 제주시장 이상봉 지명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kWlVJM3BlcnpNUTZ4TFhtSE9ieTM4Z3FVeEF1Tm83WUt1NnVMYTdKT2l6NkFvR2NVQ3cwbDRRcllIRWRTOWtQZVNaQ1g5Rk0?oc=5",
-          "published_at": "2026-07-31T05:47:28+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 연 1.0% 동결···성장률 전망은 상향 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YOUszSWRCZ0dBUzhLN2ZMOXdWaUVfMnZwZWx4SDdxZC14UWdjcHhkTGVqcVVfal9wdUdzLURLU3R0M2xUYWJEaEJGU0szZzg?oc=5",
-          "published_at": "2026-07-31T05:15:07+00:00"
-        },
-        {
-          "title": "제주도 기후경제부지사 이창흠, 제주시장 이상봉 지명 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wcDlnWnZQRkZ1SXp6MHVqd1dUMUtaVUplYWVGQmppTUlpTUZrTHRHdFltOUZwNmZGRTBZOEdSVGl0VXRWS3dYOXFZcHY3Mkk?oc=5",
-          "published_at": "2026-07-31T05:01:58+00:00"
-        },
-        {
-          "title": "한화 방산 3사 모두 분기 최대 실적…수출 호조에 “하반기도 견조” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZNEI0R3pRaWt4NldCNW1SSjVNS0p0NllNZWQ0RUJmeHJYeVVRLW9fNDJiLVdBcldaUU5vQkFFbElXV0JTYjF4djdydG52Mms?oc=5",
-          "published_at": "2026-07-31T05:00:07+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "환율",
-      "score": 116.62,
-      "articles": [
-        {
-          "title": "'긴축 기조 유지' 일본은행 \"추가 금리인상, '중동·AI·환율'로 판단\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHbVo4RTVFR1pMOTE1UXFlQTFkeHdZYm5BSlZWV0tQcjc0cXpzQ2xrc0lQN0QwVHB1LVVsYkg2andpYV9uS0pmaXB3RUk0emNTQ0o3SkNGbjc5RUh1cFFQZ05LalVIVndY0gFuQVVfeXFMTldieGlxS1JaV1lrWHRoamZicUF0dWJhZG1scmhvdnc5Zjdod3hQTWU4a0x3TGU4NkNDTHU5cmRLTWl6MWJFUGpGVTYxNFRnV2I2TGJRbmRvTzl2SXB1YnRQbjVsc0hDR2hmX3FEUlE?oc=5",
-          "published_at": "2026-07-31T06:03:09+00:00"
-        },
-        {
-          "title": "외국인 증권투자·환율 변동성…외환거래액, 2분기 일평균 1214억4000만달러 역대 최대 - g-enews.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0RtVXQ1bS1KeUxwbExYMHNwOU1WRUpjWXpsLVhOaC1aS3pfV05BZXQwM1J0NUpIVDNVakxtak0yTnFDeGlfdXRsb0FDaFB1UnJqMVYwTEtWVDlrWE1NWHNFREhwQThCUDBSMDZsRFllOEJBaWcyRnNyZ1NRaWtJN0Z0bTk?oc=5",
-          "published_at": "2026-07-31T05:39:45+00:00"
-        },
-        {
-          "title": "로이터 \"한·일, 이례적 동시 환율개입…美도 '레이트체크' 공조\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UTGF5bTFkRXo3Q0hfYzczZ1BjQlYzaThyeUMtRHdPWTgzVWtURHAzMUhaX21LSEFPRjE0YWNFT3Yzc2QxV0w3Smg4QzdlNm1GWFJFYTFGMWh5VFhqM0Y2d2ptU0RuWGc?oc=5",
-          "published_at": "2026-07-31T05:38:48+00:00"
-        },
-        {
-          "title": "원·달러 환율 한 달 새 130원 급락… 증권가 “당분간 안정세” 전망 - 이코리아",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4S0hjRmpKRkdUeHcwa3BHX2tOYWRvZ2otcWZVZHlWVFdnS0NBRWFHaHNYMnZQTkVYemo3b0dLdkpZTVRSWjFIVjFNTzBPNnp6UnU1Q05vU3NzTTNtLVJYSXB4bXpXQWtkcEtVczJPWQ?oc=5",
-          "published_at": "2026-07-31T05:09:51+00:00"
-        },
-        {
-          "title": "엔·달러 환율 급락...미일, 이례적 '동시 시장개입' - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82WHRaVVZNODFyOERlWHJuTmhURmdYWXlFVzkxU0hRZm5vUGxUdEtNVlBvTDNsV3M5QnJ2SlU1RnU1ZHNqSzNVbEFiekFaaHpUWmFoc1RqSmRlRWxIN1E?oc=5",
-          "published_at": "2026-07-31T04:54:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "유지",
-      "score": 114.16,
-      "articles": [
-        {
-          "title": "'긴축 기조 유지' 일본은행 \"추가 금리인상, '중동·AI·환율'로 판단\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHbVo4RTVFR1pMOTE1UXFlQTFkeHdZYm5BSlZWV0tQcjc0cXpzQ2xrc0lQN0QwVHB1LVVsYkg2andpYV9uS0pmaXB3RUk0emNTQ0o3SkNGbjc5RUh1cFFQZ05LalVIVndY0gFuQVVfeXFMTldieGlxS1JaV1lrWHRoamZicUF0dWJhZG1scmhvdnc5Zjdod3hQTWU4a0x3TGU4NkNDTHU5cmRLTWl6MWJFUGpGVTYxNFRnV2I2TGJRbmRvTzl2SXB1YnRQbjVsc0hDR2hmX3FEUlE?oc=5",
-          "published_at": "2026-07-31T06:03:09+00:00"
-        },
-        {
-          "title": "케이엠제약, 구강케어 제품 북미 수출 본격…美 FDA 시설 인증 유지 완료 - 시사캐스트",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrN2R1VlJQUWVpdElRYURiMjV6R0pwYTRQX0JXUzVyLU14S09UM1M5MlpRZHJkMURhejBuVy0tR0ZtRUxUTDJNa0YtbjNTRUphVE4yVFA5Z2NxZGtULXl2am4tNXI0b0U?oc=5",
-          "published_at": "2026-07-31T06:02:53+00:00"
-        },
-        {
-          "title": "日, 금리 동결 '숨 고르기'…일본은행, 기준금리 1% 유지 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qcEdxT1owNWduem83aDRVQkZyNHdjcExPZ2ZweWx5N2tRc21NVDdTcDYtU1VaMGl2dXVQSUFkN081akJvNk0ybnhIX3NTeV9KOWc?oc=5",
-          "published_at": "2026-07-31T05:23:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 1% 동결 … 성장률 전망 높이고 추가 인상 여지는 유지 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdDFvSXVFUkhWZC1GdDZYTEttaEpEQjJ1U3NMcGNCYmRRaFMzT21GTHY0RGE5QWUyT3Yxc3ZZN2R2VFA3ai1zcFRMQWd4RHZiTUFnbDFRVk9wMmdIb1VnZ2VnbkI4VWNLQ1prTENxa3lRUVZZQTE3RHZkTdIBgAFBVV95cUxOTXJra19tWExDY0ZvNFBfa196TXFwbDJIcnRGOTNMMDdvSmZ6SEhuTkI2bldpUTh1dHBCZ05iUUt1NnhQbXpNWk5SbGF3RldGMU9tT1JHMFpSdkJTc3JneGtrYUhZbDJZb3NudUlGbmF5VXd0Wk81RWxJRnpPMjdDcw?oc=5",
-          "published_at": "2026-07-31T05:21:29+00:00"
-        },
-        {
-          "title": "[파이낸셜 워치(177)] 일본은행, 기준금리 1% 동결⋯엔화 약세 속 추가 인상 신호는 유지 - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PVVFoc01FT3ZlLU5mS2Y1QnNTU2h4N01zbEF5NldLcWJmOV9JZWdXYTV0S28xSWtZbzFIN0plWXV4eEc2N3hjbGh5UnpXN2VldHFDWDAxSDZUM3VTemc?oc=5",
-          "published_at": "2026-07-31T04:59:10+00:00"
+          "title": "반도체 호황에 수출 질주…7월 989억달러 '역대 7월 최대' (종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3bFdSZ0E5RGI2eXZIRFc0SUxrR3k3RDIyVUJkbTdxcHFINjJ6dEF3OEg0QnV4Q0VUUlFwTjRyOWFMclRHck1NRW8zc2lrS3c?oc=5",
+          "published_at": "2026-08-01T01:54:49+00:00"
         }
       ]
     }
