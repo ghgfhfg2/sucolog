@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-08-01T05:51:26.998029+00:00",
+  "generated_at": "2026-08-02T05:52:37.063295+00:00",
   "source_count": 4,
-  "article_count": 376,
+  "article_count": 377,
   "top_keywords": [
     {
-      "keyword": "7월",
-      "score": 375.52
-    },
-    {
       "keyword": "수출",
-      "score": 349.8
+      "score": 144.23
     },
     {
-      "keyword": "역대",
-      "score": 256.04
-    },
-    {
-      "keyword": "2위",
-      "score": 231.49
-    },
-    {
-      "keyword": "반도체",
-      "score": 226.47
-    },
-    {
-      "keyword": "연속",
-      "score": 143.36
-    },
-    {
-      "keyword": "달러",
-      "score": 142.78
+      "keyword": "7월",
+      "score": 108.03
     },
     {
       "keyword": "daum",
-      "score": 126.51
+      "score": 86.44
     },
     {
       "keyword": "net",
-      "score": 126.51
+      "score": 86.44
     },
     {
-      "keyword": "돌파",
-      "score": 82.91
+      "keyword": "반도체",
+      "score": 67.05
     },
     {
-      "keyword": "989억달러",
-      "score": 72.92
+      "keyword": "달러",
+      "score": 62.11
+    },
+    {
+      "keyword": "환율",
+      "score": 60.22
+    },
+    {
+      "keyword": "물가",
+      "score": 57.79
+    },
+    {
+      "keyword": "금리",
+      "score": 56.28
     },
     {
       "keyword": "기준금리",
-      "score": 72.6
+      "score": 50.72
+    },
+    {
+      "keyword": "동결",
+      "score": 46.72
+    },
+    {
+      "keyword": "역대",
+      "score": 43.67
     }
   ],
   "hot_topics": [
     {
-      "keyword": "7월",
-      "score": 375.52,
-      "articles": [
-        {
-          "title": "[정책 교차로 7월 5주차] 신설공사 공고 3년 새 35.8% 급감… 유지보수만 홀로 늘었다 - 조달경제신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ISk1GWWpSY0VtVlNySElPb1dQd1pxZHg0SEE4VzI2a2ltUFIyTVF3akV5TVhFQUIyY0xZSUhmMWVRMDBKVHNQTmpKSUIxMFJETjV5SDNzTmM4WE8zT3M3bE5CazlUeW9mYzBWVHZ3?oc=5",
-          "published_at": "2026-08-01T05:30:49+00:00"
-        },
-        {
-          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
-          "published_at": "2026-08-01T05:12:55+00:00"
-        },
-        {
-          "title": "7월 화장품수출 13.5억달러 38%↑... 9개월 연속 증가, 미국·EU 실적 견인 - cncnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMGk3Y0R3Znluem10RWltTFpzRDM4Vm5RQjFraTJTeHdLYWt2VWZYZ2VhTWZkRXhCRGhES0ZvX0xpLTN0RmNZZUpabE83RE1mVGdaNFMyYjB5UG9LUkN4N1Z3?oc=5",
-          "published_at": "2026-08-01T05:02:37+00:00"
-        },
-        {
-          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
-          "published_at": "2026-08-01T05:02:05+00:00"
-        },
-        {
-          "title": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbDlKZy11aEZxamRGMGJmMjQ0U2FCYzRLTy1CUjZDazVuZHV5dUQtNHQ1T1FhLUxqQVYyZVF5UF9TaU5Ia25jYUpEbEZ1TlU?oc=5",
-          "published_at": "2026-08-01T03:53:43+00:00"
-        }
-      ]
-    },
-    {
       "keyword": "수출",
-      "score": 349.8,
+      "score": 144.23,
       "articles": [
         {
-          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
-          "published_at": "2026-08-01T05:12:55+00:00"
+          "title": "누보, 日시장 중심 하반기 수출 물량 크게 늘었다 - 영농자재신문",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZTF6VEdtTHdLd0dEVEJpM2Z2aEotVjZFeUhETDFhX0tnbkVSRjA5RVZ3cnBkY2hNaXRnR0Q1cnJ4YUlHanI2bzdvU3R4SHpQTmd6emhwczBaQWN3?oc=5",
+          "published_at": "2026-08-02T05:43:23+00:00"
         },
         {
-          "title": "반도체 수출, 정점 도달했나 - 아틀라스뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11MGpXY3RRUV9mRnRlNUJWc1BCeFpEZlBESTJPTW9WQ3M2eVRqSmZHZkQxU2R2bThoX3hXQ3FZcDFSSVJ0Z2V5VUtCLU1DdUk2WVEwWXRaNFdWcnpCLWRCSm1Ja0ZTel95Rk9PUw?oc=5",
-          "published_at": "2026-08-01T05:07:19+00:00"
+          "title": "하반기 첫 수출 1000억弗 육박… 반도체 힘입어 1조 달러 청신호 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VmItaVoxTFRIcnM4dmk5ck9TQmVEenF6aEpjNHItVnRmdG1uVUh2S09qWnJobFlKaUR1VVdLbEo2Y2YwZXRkbjVTOV9ONjN0bDdORA?oc=5",
+          "published_at": "2026-08-02T05:34:00+00:00"
         },
         {
-          "title": "7월 화장품수출 13.5억달러 38%↑... 9개월 연속 증가, 미국·EU 실적 견인 - cncnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMGk3Y0R3Znluem10RWltTFpzRDM4Vm5RQjFraTJTeHdLYWt2VWZYZ2VhTWZkRXhCRGhES0ZvX0xpLTN0RmNZZUpabE83RE1mVGdaNFMyYjB5UG9LUkN4N1Z3?oc=5",
-          "published_at": "2026-08-01T05:02:37+00:00"
+          "title": "의성군, 공동영농으로 농업 대전환 가속…생산부터 수출까지 연계 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbVRDZ3NEUUZPY2hRbzhiTG1LVkpRa0paM3NabTBLbHJjTzdNVjY2UVEtaDhIYlJENU5LbzhJTFR4bmZDTFo1X3ZYNmp2LWFXNTVJczhpTTZfZW5YTnpTS3FHV3pHWk95T3c?oc=5",
+          "published_at": "2026-08-02T05:15:45+00:00"
         },
         {
-          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
-          "published_at": "2026-08-01T05:02:05+00:00"
+          "title": "7월 수출 988억달러 ‘역대 2위’…반도체 두 달 연속 400억달러 돌파 - 서울STV뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uV0w0RFdJbWVZT3RNYVN6MzdQUnVRVG41QXNtMzdwNkdtQU1NQ1hfaXVZVXZVdkotUzBXbVJaOXRMdTRybzRGVHVUZTBXLTZCYm9jSlhBNHJ4UXJzMEdDZ0ZsMkhXSUU?oc=5",
+          "published_at": "2026-08-02T04:57:42+00:00"
         },
         {
-          "title": "7월 수출 $989억...반도체 2달 연속 $400억 초과 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
-          "published_at": "2026-08-01T03:47:00+00:00"
+          "title": "안동시, 수출기업 역량강화 지원사업 참여기업 모집 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wQmdfLWFUMXE2QnVHYWFBb1l4Ym5xTmhZTnRlTUxsck1CdjRaOG1IVTdDbE5MMlJtRlNNeTlaNTRhUC1rN2hfaF8xWS1nd01YZGpfV1l5ZGV5NWc4ZGhWZE1nWERDWkNjTlE?oc=5",
+          "published_at": "2026-08-02T03:54:09+00:00"
         }
       ]
     },
     {
-      "keyword": "역대",
-      "score": 256.04,
+      "keyword": "7월",
+      "score": 108.03,
       "articles": [
         {
-          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
-          "published_at": "2026-08-01T05:12:55+00:00"
+          "title": "7월 수출 988억달러 ‘역대 2위’…반도체 두 달 연속 400억달러 돌파 - 서울STV뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uV0w0RFdJbWVZT3RNYVN6MzdQUnVRVG41QXNtMzdwNkdtQU1NQ1hfaXVZVXZVdkotUzBXbVJaOXRMdTRybzRGVHVUZTBXLTZCYm9jSlhBNHJ4UXJzMEdDZ0ZsMkhXSUU?oc=5",
+          "published_at": "2026-08-02T04:57:42+00:00"
         },
         {
-          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
-          "published_at": "2026-08-01T05:02:05+00:00"
+          "title": "춘천시농어업회의소·춘천시의회 경제도시위원, 지난 7월 31일 간담회 개최 - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4R1QtdjBIZUtHZ3RPR3MwYXE0dXJBdXhFVHdJTmNsdnZ0VU40SE16bXptWE5WOHY4UG5FVjJ5aXhTRVo1M0Q5WFg3eG5teWJWUVhyOE0tcFk?oc=5",
+          "published_at": "2026-08-02T04:08:40+00:00"
         },
         {
-          "title": "7월 수출 '989억 달러' 역대 2위…두 달 연속 400억 달러 - news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhRZXl0dHhjaFRLSWdIVFdzWkZudGhkSEJnc19IYzB2cDBic0lMeGs4ZGlUZ29rVTZCaFlaWWF1QV9DRERVQ0xydEdqQXE3OGtsVWdxZldSbldFVnpkcHZFRGNCLVBxemg4eXVYMWlxdndCWGk1S2tjZlNIMXIwNlhQYjlnSHJvTldJaThyc9IBZkFVX3lxTE1sS09PSmdXZmhtOE1lRFBUTThTQnd2NjBCSmdLSkhua05NaUFUSUpxYmt2a0l0REdidmhFLWdORnptU2JjUnEweUthT0dOVUtKUG44NGctejNXa0VPd2FqSG01QTFqdw?oc=5",
-          "published_at": "2026-08-01T03:28:00+00:00"
+          "title": "[채권-주간] 7월 물가·중동 사태 주시…백투백 전망 약해지나 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TN2xneC15aG9BSVlmR1c2Zmt6WGQ5YXhDTEljMFVCLW5mS3JPZGs1V1hLY3RIZXFEUk92ZzJHQUpxRVZnUklHUDd6Wnp1dFQxcFRHRUhqSVpzb0hWM3YySDdrZERjM0xuYnJxMmlNa0o?oc=5",
+          "published_at": "2026-08-02T04:00:10+00:00"
         },
         {
-          "title": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
-          "published_at": "2026-08-01T03:17:23+00:00"
+          "title": "애플 몽니에도 끄떡없는 K반도체… 7월 수출 989억불 '훨훨' - etnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fV1E0bEhUekYwVDY0SHZSWXRVLUJLZU5Xal9YZlp6anM2TUpucE9nSWxlN1E2NHRoZVh4NFNQSWZ2ZElCdFZIaGpTeWxZdw?oc=5",
+          "published_at": "2026-08-02T03:23:34+00:00"
         },
         {
-          "title": "7월 수출 989억달러 '역대 2위'…반도체 두 달 연속 400억달러 돌파 - 위메이크뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DWDM3WEdPX21fRmVlQVRybzdGMjRpYkdVNEdTdmdiWXBBZ3NPb2Eyb2pOV0NrVGRLQ1FaM290UWR5X05GRUVOYkNmb0Zacjc5ZWs2OWI0emtGNUE?oc=5",
-          "published_at": "2026-08-01T03:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "2위",
-      "score": 231.49,
-      "articles": [
-        {
-          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
-          "published_at": "2026-08-01T05:12:55+00:00"
-        },
-        {
-          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
-          "published_at": "2026-08-01T05:02:05+00:00"
-        },
-        {
-          "title": "7월 수출 '989억 달러' 역대 2위…두 달 연속 400억 달러 - news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhRZXl0dHhjaFRLSWdIVFdzWkZudGhkSEJnc19IYzB2cDBic0lMeGs4ZGlUZ29rVTZCaFlaWWF1QV9DRERVQ0xydEdqQXE3OGtsVWdxZldSbldFVnpkcHZFRGNCLVBxemg4eXVYMWlxdndCWGk1S2tjZlNIMXIwNlhQYjlnSHJvTldJaThyc9IBZkFVX3lxTE1sS09PSmdXZmhtOE1lRFBUTThTQnd2NjBCSmdLSkhua05NaUFUSUpxYmt2a0l0REdidmhFLWdORnptU2JjUnEweUthT0dOVUtKUG44NGctejNXa0VPd2FqSG01QTFqdw?oc=5",
-          "published_at": "2026-08-01T03:28:00+00:00"
-        },
-        {
-          "title": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
-          "published_at": "2026-08-01T03:17:23+00:00"
-        },
-        {
-          "title": "7월 수출 989억달러 '역대 2위'…반도체 두 달 연속 400억달러 돌파 - 위메이크뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DWDM3WEdPX21fRmVlQVRybzdGMjRpYkdVNEdTdmdiWXBBZ3NPb2Eyb2pOV0NrVGRLQ1FaM290UWR5X05GRUVOYkNmb0Zacjc5ZWs2OWI0emtGNUE?oc=5",
-          "published_at": "2026-08-01T03:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "반도체",
-      "score": 226.47,
-      "articles": [
-        {
-          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
-          "published_at": "2026-08-01T05:12:55+00:00"
-        },
-        {
-          "title": "반도체 수출, 정점 도달했나 - 아틀라스뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11MGpXY3RRUV9mRnRlNUJWc1BCeFpEZlBESTJPTW9WQ3M2eVRqSmZHZkQxU2R2bThoX3hXQ3FZcDFSSVJ0Z2V5VUtCLU1DdUk2WVEwWXRaNFdWcnpCLWRCSm1Ja0ZTel95Rk9PUw?oc=5",
-          "published_at": "2026-08-01T05:07:19+00:00"
-        },
-        {
-          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
-          "published_at": "2026-08-01T05:02:05+00:00"
-        },
-        {
-          "title": "7월 수출 $989억...반도체 2달 연속 $400억 초과 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
-          "published_at": "2026-08-01T03:47:00+00:00"
-        },
-        {
-          "title": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
-          "published_at": "2026-08-01T03:17:23+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "연속",
-      "score": 143.36,
-      "articles": [
-        {
-          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
-          "published_at": "2026-08-01T05:12:55+00:00"
-        },
-        {
-          "title": "7월 화장품수출 13.5억달러 38%↑... 9개월 연속 증가, 미국·EU 실적 견인 - cncnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMGk3Y0R3Znluem10RWltTFpzRDM4Vm5RQjFraTJTeHdLYWt2VWZYZ2VhTWZkRXhCRGhES0ZvX0xpLTN0RmNZZUpabE83RE1mVGdaNFMyYjB5UG9LUkN4N1Z3?oc=5",
-          "published_at": "2026-08-01T05:02:37+00:00"
-        },
-        {
-          "title": "美·日, 이틀 연속 엔화 방어 총력전...157엔대 진입 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fZ0hkU3FvOHNqZW9CWjVFMTMzeWVwaklKR2EyTlRrSjFNT1BOUl9rMXZwZDJkTGlCdDN1SjFHb2JPYXhnd1B5THFVYUJxVmRrNHJxVEJRbzdGZw?oc=5",
-          "published_at": "2026-08-01T04:28:30+00:00"
-        },
-        {
-          "title": "7월 수출 $989억...반도체 2달 연속 $400억 초과 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
-          "published_at": "2026-08-01T03:47:00+00:00"
-        },
-        {
-          "title": "7월 수출 '989억 달러' 역대 2위…두 달 연속 400억 달러 - news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhRZXl0dHhjaFRLSWdIVFdzWkZudGhkSEJnc19IYzB2cDBic0lMeGs4ZGlUZ29rVTZCaFlaWWF1QV9DRERVQ0xydEdqQXE3OGtsVWdxZldSbldFVnpkcHZFRGNCLVBxemg4eXVYMWlxdndCWGk1S2tjZlNIMXIwNlhQYjlnSHJvTldJaThyc9IBZkFVX3lxTE1sS09PSmdXZmhtOE1lRFBUTThTQnd2NjBCSmdLSkhua05NaUFUSUpxYmt2a0l0REdidmhFLWdORnptU2JjUnEweUthT0dOVUtKUG44NGctejNXa0VPd2FqSG01QTFqdw?oc=5",
-          "published_at": "2026-08-01T03:28:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "달러",
-      "score": 142.78,
-      "articles": [
-        {
-          "title": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
-          "published_at": "2026-08-01T05:12:55+00:00"
-        },
-        {
-          "title": "7월 화장품수출 13.5억달러 38%↑... 9개월 연속 증가, 미국·EU 실적 견인 - cncnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMGk3Y0R3Znluem10RWltTFpzRDM4Vm5RQjFraTJTeHdLYWt2VWZYZ2VhTWZkRXhCRGhES0ZvX0xpLTN0RmNZZUpabE83RE1mVGdaNFMyYjB5UG9LUkN4N1Z3?oc=5",
-          "published_at": "2026-08-01T05:02:37+00:00"
-        },
-        {
-          "title": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’ - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
-          "published_at": "2026-08-01T05:02:05+00:00"
-        },
-        {
-          "title": "7월 수출 '989억 달러' 역대 2위…두 달 연속 400억 달러 - news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhRZXl0dHhjaFRLSWdIVFdzWkZudGhkSEJnc19IYzB2cDBic0lMeGs4ZGlUZ29rVTZCaFlaWWF1QV9DRERVQ0xydEdqQXE3OGtsVWdxZldSbldFVnpkcHZFRGNCLVBxemg4eXVYMWlxdndCWGk1S2tjZlNIMXIwNlhQYjlnSHJvTldJaThyc9IBZkFVX3lxTE1sS09PSmdXZmhtOE1lRFBUTThTQnd2NjBCSmdLSkhua05NaUFUSUpxYmt2a0l0REdidmhFLWdORnptU2JjUnEweUthT0dOVUtKUG44NGctejNXa0VPd2FqSG01QTFqdw?oc=5",
-          "published_at": "2026-08-01T03:28:00+00:00"
-        },
-        {
-          "title": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
-          "published_at": "2026-08-01T03:17:23+00:00"
+          "title": "7월 원화 절상률, 금융위기 후 최고…1,400원선 깨질까 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxRS1EZnZiT2Z4MGtVajRHRlNKSXI2aU9zQl9wZEJ0VDRTLWk1Ym1URkJ0ajM0bDBCTF92SGczTE5lQ001ZGtsaTlvZlcwcG9GNS1DMlIxRDNHRkZsRmdLbWltSVhnWlk?oc=5",
+          "published_at": "2026-08-02T02:01:00+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 126.51,
+      "score": 86.44,
       "articles": [
         {
-          "title": "중국, 미국 신장 강제노동제재 반발‥\"경제대화 하루 만에 악의적 조치\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zcDIwMEl4alZwZXRnNmlfYjdBdm1rR2hjaTA3c21ZWTZNRzBudzl3ci1RZTJCd3ZJdE1nMUd5SFlSWkdESTlkVjU4QmhaaFk?oc=5",
-          "published_at": "2026-08-01T05:13:13+00:00"
+          "title": "30년 만의 미·일 공조 개입… 월요일 증시, 엔캐리트레이드 청산 경계령 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13OVBLa0VleTJGS2xPdFZaTFlDU19PSFhSOWVaWE9ibk9jYjVod3Y3ckhHNTNfRk4tV1ZPQXhpRTBqRVpLMlhtYVBxY0NQUFE?oc=5",
+          "published_at": "2026-08-02T04:20:50+00:00"
         },
         {
-          "title": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbDlKZy11aEZxamRGMGJmMjQ0U2FCYzRLTy1CUjZDazVuZHV5dUQtNHQ1T1FhLUxqQVYyZVF5UF9TaU5Ia25jYUpEbEZ1TlU?oc=5",
-          "published_at": "2026-08-01T03:53:43+00:00"
+          "title": "'변동성 지옥' 겪은 코스피…8월엔 '반전 드라마' 쓸까 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QX2Z2d3B1azlYUFFUNGdaT3lRUDNpODhvTzV6NkdCTVhldjdMVkdneEhwOW0yekhVc3BZTnBWclhOSG01dktXckZNSjdpVVE?oc=5",
+          "published_at": "2026-08-02T04:10:50+00:00"
         },
         {
-          "title": "7월 수출 988.9억 달러 역대 2위…반도체 두 달 연속 400억 달러 넘어 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtS1RzVUtuelJiaGVUQzh0cm11UUVVX0FOeVZXQTNPZ2F3OWhLX2VxamN1QXBlVFk0MGE5OS1GN3BwSUxkLWZrcFc0dmQ5dUk?oc=5",
-          "published_at": "2026-08-01T03:13:08+00:00"
+          "title": "[이번주 경제] 추가 금리인상 단서 나올까…금통위 의사록 공개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QbHI1T0RBMm8zc0N2Mmk1eEVrT0h5QUZ5UmpnZTkzNmhDTHB6ZVRudjNEeGsxOGVTSm52SkxjalNaWl9TWlVJbFZNUjdWXzQ?oc=5",
+          "published_at": "2026-08-02T03:57:28+00:00"
         },
         {
-          "title": "7월 수출 988억9000만달러 ‘역대 2위’…반도체 410억달러 돌파 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMmlVdnNxaFJ5aHBzdGl6V2RGNGFPRHVELW16Wlo4QzQ1cWJyQWNSSWhfLXpnY2kySU1ET2R2djNMTHVMY3hKZWR3VEtUM2M?oc=5",
-          "published_at": "2026-08-01T02:28:54+00:00"
+          "title": "FIU, APG 연차총회 참석…\"불법자금 차단 위한 국제공조 강화\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42N29GbDNHVWd6RHRfSl9mNFY2NFZSWEQ1TXdWRjU5akJwdjl0eTZoeWJnR0FDdi1tMDNUMTllWUVPb0FPMTdCM1VkeC1DX0U?oc=5",
+          "published_at": "2026-08-02T03:02:40+00:00"
         },
         {
-          "title": "반도체 호황에 수출 질주…7월 989억달러 '역대 7월 최대' (종합) - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3bFdSZ0E5RGI2eXZIRFc0SUxrR3k3RDIyVUJkbTdxcHFINjJ6dEF3OEg0QnV4Q0VUUlFwTjRyOWFMclRHck1NRW8zc2lrS3c?oc=5",
-          "published_at": "2026-08-01T01:54:49+00:00"
+          "title": "금리·전쟁·지갑 결함에 눌린 비트코인…美 고용보고서 촉각 [가상자산 나침반] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13d3ZlcUs1azBnajJQVm9oaWtMU3NMRVZDb0hzTE9IeW1PUm9Yd2ZnSktDY1dDaDRMSi1CVzFScUhZcTV0enBmSFk0WW93TFU?oc=5",
+          "published_at": "2026-08-02T02:10:09+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 86.44,
+      "articles": [
+        {
+          "title": "30년 만의 미·일 공조 개입… 월요일 증시, 엔캐리트레이드 청산 경계령 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13OVBLa0VleTJGS2xPdFZaTFlDU19PSFhSOWVaWE9ibk9jYjVod3Y3ckhHNTNfRk4tV1ZPQXhpRTBqRVpLMlhtYVBxY0NQUFE?oc=5",
+          "published_at": "2026-08-02T04:20:50+00:00"
+        },
+        {
+          "title": "'변동성 지옥' 겪은 코스피…8월엔 '반전 드라마' 쓸까 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QX2Z2d3B1azlYUFFUNGdaT3lRUDNpODhvTzV6NkdCTVhldjdMVkdneEhwOW0yekhVc3BZTnBWclhOSG01dktXckZNSjdpVVE?oc=5",
+          "published_at": "2026-08-02T04:10:50+00:00"
+        },
+        {
+          "title": "[이번주 경제] 추가 금리인상 단서 나올까…금통위 의사록 공개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QbHI1T0RBMm8zc0N2Mmk1eEVrT0h5QUZ5UmpnZTkzNmhDTHB6ZVRudjNEeGsxOGVTSm52SkxjalNaWl9TWlVJbFZNUjdWXzQ?oc=5",
+          "published_at": "2026-08-02T03:57:28+00:00"
+        },
+        {
+          "title": "FIU, APG 연차총회 참석…\"불법자금 차단 위한 국제공조 강화\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42N29GbDNHVWd6RHRfSl9mNFY2NFZSWEQ1TXdWRjU5akJwdjl0eTZoeWJnR0FDdi1tMDNUMTllWUVPb0FPMTdCM1VkeC1DX0U?oc=5",
+          "published_at": "2026-08-02T03:02:40+00:00"
+        },
+        {
+          "title": "금리·전쟁·지갑 결함에 눌린 비트코인…美 고용보고서 촉각 [가상자산 나침반] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13d3ZlcUs1azBnajJQVm9oaWtMU3NMRVZDb0hzTE9IeW1PUm9Yd2ZnSktDY1dDaDRMSi1CVzFScUhZcTV0enBmSFk0WW93TFU?oc=5",
+          "published_at": "2026-08-02T02:10:09+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "반도체",
+      "score": 67.05,
+      "articles": [
+        {
+          "title": "하반기 첫 수출 1000억弗 육박… 반도체 힘입어 1조 달러 청신호 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VmItaVoxTFRIcnM4dmk5ck9TQmVEenF6aEpjNHItVnRmdG1uVUh2S09qWnJobFlKaUR1VVdLbEo2Y2YwZXRkbjVTOV9ONjN0bDdORA?oc=5",
+          "published_at": "2026-08-02T05:34:00+00:00"
+        },
+        {
+          "title": "7월 수출 988억달러 ‘역대 2위’…반도체 두 달 연속 400억달러 돌파 - 서울STV뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uV0w0RFdJbWVZT3RNYVN6MzdQUnVRVG41QXNtMzdwNkdtQU1NQ1hfaXVZVXZVdkotUzBXbVJaOXRMdTRybzRGVHVUZTBXLTZCYm9jSlhBNHJ4UXJzMEdDZ0ZsMkhXSUU?oc=5",
+          "published_at": "2026-08-02T04:57:42+00:00"
+        },
+        {
+          "title": "애플 몽니에도 끄떡없는 K반도체… 7월 수출 989억불 '훨훨' - etnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fV1E0bEhUekYwVDY0SHZSWXRVLUJLZU5Xal9YZlp6anM2TUpucE9nSWxlN1E2NHRoZVh4NFNQSWZ2ZElCdFZIaGpTeWxZdw?oc=5",
+          "published_at": "2026-08-02T03:23:34+00:00"
+        },
+        {
+          "title": "[AI로 읽는 경제] 미·중 반도체 전쟁 2.0…한국의 무기는 '공정 데이터' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KeWxYTW8xRm1Pd3Y5QWkwUEkyR1Z4cnFoNUtXak8yZUZGczV6QjNkcU1CYWZlb2VKYm03NkJudHBXSVh0TXFBaTJwbXd2Z1FuU250RU9xU2JpSWgz?oc=5",
+          "published_at": "2026-08-02T02:00:00+00:00"
+        },
+        {
+          "title": "7월 코스피 22% 폭락…8월 반등 열쇠는 반도체·금리·외국인 수급 - 산경투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3amtMWVh0OFhvUDVaeHd0eFFCMF8xMENOYVNoVGRpbGJyMDBnNDJfUnJRdk9mb0pYVzNGTWtGYUQ1QlJnM2F4YlR5SWJUQXcxbU8tbkI4Mk8wT2dKMGYxUXA5T1dyaFBIcHR2NWd5c1bSAXRBVV95cUxNZWI5TjNrNWY0dzllZk5mcV9zU0dxSjZyM1Z6N2V3amxLcU0xMTVRUGpnNGllWnJwSzRVbHBJQjQxZ3VkanpTNGhnMHU5UGEzWTBLZzFvaVZ5R3h0elZtdjhvNkM3a2tHV0JIS2swQ2RHRVdWeQ?oc=5",
+          "published_at": "2026-08-02T01:34:52+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "달러",
+      "score": 62.11,
+      "articles": [
+        {
+          "title": "하반기 첫 수출 1000억弗 육박… 반도체 힘입어 1조 달러 청신호 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VmItaVoxTFRIcnM4dmk5ck9TQmVEenF6aEpjNHItVnRmdG1uVUh2S09qWnJobFlKaUR1VVdLbEo2Y2YwZXRkbjVTOV9ONjN0bDdORA?oc=5",
+          "published_at": "2026-08-02T05:34:00+00:00"
+        },
+        {
+          "title": "“SK하이닉스 달러 쏟아졌다”…환율 한달새 125원 ‘뚝’ 1400원도 깨지나 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xOFFlek01VWNGRFFWWHBsNkZ3NENWX2N3RzZQck5nRXdpNC0yR1RQeWEweEZ1NGRUei1tTDdWTWpaaXZoV3k1OWhIakc3Z0NKQ1ZYbWpB?oc=5",
+          "published_at": "2026-08-02T05:13:53+00:00"
+        },
+        {
+          "title": "7월 수출 988억달러 ‘역대 2위’…반도체 두 달 연속 400억달러 돌파 - 서울STV뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uV0w0RFdJbWVZT3RNYVN6MzdQUnVRVG41QXNtMzdwNkdtQU1NQ1hfaXVZVXZVdkotUzBXbVJaOXRMdTRybzRGVHVUZTBXLTZCYm9jSlhBNHJ4UXJzMEdDZ0ZsMkhXSUU?oc=5",
+          "published_at": "2026-08-02T04:57:42+00:00"
+        },
+        {
+          "title": "대구TP, 베트남 뷰티 전시회서 2,500만 달러 수출 상담 달성 - BBS불교방송",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRFJDRU5ldVEyZlFSZ3ZXY2doNEYwQ2ZDZkdKZlI3ZEFYM0tzN05UOWpTMFJ4Y0hzTGh1ZHAtYmpYenkybVhLSWxXWjY3azhVWDE4a1ZKNVJJU1ZlWER1b2JOTkROOHdtQi1V?oc=5",
+          "published_at": "2026-08-02T03:27:49+00:00"
+        },
+        {
+          "title": "미 경제 성장률 1.5%로 둔화…모기지 6.66%·휘발유 4.11달러 ‘이중 부담’ - 아시아투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6em05U0ROMllRNnJVM0NuVEI1dzVWZW0yeDlMRkxvaTN1TFdOZVRCVkZObGNNb2tHMlpMbWFkOXM3UzBJaEF5STVuQXlEZlhla2lZY1FTLXd3MTdReTZEZ19laS1qSlF2Q1pZLXRR?oc=5",
+          "published_at": "2026-08-02T02:23:12+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "환율",
+      "score": 60.22,
+      "articles": [
+        {
+          "title": "“SK하이닉스 달러 쏟아졌다”…환율 한달새 125원 ‘뚝’ 1400원도 깨지나 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xOFFlek01VWNGRFFWWHBsNkZ3NENWX2N3RzZQck5nRXdpNC0yR1RQeWEweEZ1NGRUei1tTDdWTWpaaXZoV3k1OWhIakc3Z0NKQ1ZYbWpB?oc=5",
+          "published_at": "2026-08-02T05:13:53+00:00"
+        },
+        {
+          "title": "미·일 외환당국, 28년 만에 환율 공조…엔화값 4% 급등 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HOFNDWndPalF4RlIyY1V5YUdIdHZGOXBhSDMyNGR5RmZjMEUzRGxlNnVxQ1hTNlp3dmkydVJRUlFJNHRsMmpqMU5UNEZUdDl2RVFOS20xZlEtQXNnOXFLbQ?oc=5",
+          "published_at": "2026-08-02T05:12:33+00:00"
+        },
+        {
+          "title": "“美까지 나섰다”…15년 만의 공동 환율개입, 엔화 157엔대로 급반등 - 경북매일",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUEQyMTdEemtnSFBHWmxvNi1IZUM4enN3WVQyX0pUcUFJX3BQLTIwVnhDWnZoQnBXZUdFeHBURS1SNHpxYW5OdEdxX2pvenNLeDM1STM4UVA1dw?oc=5",
+          "published_at": "2026-08-02T04:20:00+00:00"
+        },
+        {
+          "title": "[속보] 환율 한 달 새 125원 급락…금융위기 후 가장 빠른 속도 - 한국경제TV",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Yb0dtbXhDQlVmajJKNTJWQzc0WGRCVzN5X3poeFRFa2paSms1RjYyZ1pNS3FBaG8xX2EyS0lyMzZPRHBhb0JtOTBPdEVwaHBsMTlwUENPall0YTl1QkhhTmk4MEE2QU1oTzFXemw4emFXSmNUZW52RF81SW02UQ?oc=5",
+          "published_at": "2026-08-02T04:12:00+00:00"
+        },
+        {
+          "title": "[주간환율전망] 이제는 원화의 시간···1300원대 진입 시도 - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CZGhJeEppVXhkSFlVX2twY3lOdXk0OEl6Wk5hbHZKOWNZSEl2Vk1TRmpLdENHODE0aU0zOTZzdkQ1eGh5UUZCNnVXRENQMFdBekU1S2EwQkpmcGU5ZzNOSW43SjlhUURPQUE?oc=5",
+          "published_at": "2026-08-02T03:59:06+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "물가",
+      "score": 57.79,
+      "articles": [
+        {
+          "title": "[채권-주간] 7월 물가·중동 사태 주시…백투백 전망 약해지나 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TN2xneC15aG9BSVlmR1c2Zmt6WGQ5YXhDTEljMFVCLW5mS3JPZGs1V1hLY3RIZXFEUk92ZzJHQUpxRVZnUklHUDd6Wnp1dFQxcFRHRUhqSVpzb0hWM3YySDdrZERjM0xuYnJxMmlNa0o?oc=5",
+          "published_at": "2026-08-02T04:00:10+00:00"
+        },
+        {
+          "title": "\"물가 다시 뛴다\"…현대硏, 하반기 물가 최대 3% 전망 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQ1R6TGlBeE5UVW1LMzZJbmdVSTJ2NUtPNzdnM0pTbkh1bnV3MHo3ZVF0YlFyNmNuV2RaaFlEN01PajhnQ0ZOMGpINkdhVUY2OTc3enVIckxXT3g2VXQyMnE0U24?oc=5",
+          "published_at": "2026-08-02T02:53:47+00:00"
+        },
+        {
+          "title": "“유가 다음은 집세·농축수산물”…현대경제연구원, 하반기 물가 상승률 2.5~3.0% 전망 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FbHRPRXR2SlNLNTFYUUdWOWJTa01xNjFTcXJzMkxsaXJ2WFluTkFGMHRfWjlzaDFoV3U3TWJOTmlVRzZNa2VMSGZUSTd6TlF3WldnNWhn?oc=5",
+          "published_at": "2026-08-02T02:40:02+00:00"
+        },
+        {
+          "title": "\"기름값 가니 밥상·집세가 뛴다\"…현대硏, 하반기 물가 최대 3.0% 전망 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TU3IzZEkwaEJ3OXdNTnlZV1RLQ0R2VW52WkRsMlNaWFlKbzZXaTA0Z2VTZ3RsSGpESnBrWUFRdGEtaWF3RDlPS0ctZ1lFZ3l0b1N3S2Yxbk5OWmZsbW96WA?oc=5",
+          "published_at": "2026-08-02T02:10:53+00:00"
+        },
+        {
+          "title": "[주간증시전망] 극심한 변동성 딛고 6500선 회복…美 물가지표 촉각 - 브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rSWlEV3RzdzJuZ0pVNE50bzg0Rk54RG9jQ0JuWkpGellTY0pDM0s5Mk1tRGJVQ0JZcTVRR1JLWkFPS0xPek42dXY4T01oM1VNdEc5SlVVcXUxUQ?oc=5",
+          "published_at": "2026-08-02T02:02:00+00:00"
         }
       ]
     }
