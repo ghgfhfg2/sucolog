@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-08-02T05:52:37.063295+00:00",
+  "generated_at": "2026-08-03T06:17:26.522708+00:00",
   "source_count": 4,
-  "article_count": 377,
+  "article_count": 388,
   "top_keywords": [
     {
       "keyword": "수출",
-      "score": 144.23
-    },
-    {
-      "keyword": "7월",
-      "score": 108.03
-    },
-    {
-      "keyword": "daum",
-      "score": 86.44
-    },
-    {
-      "keyword": "net",
-      "score": 86.44
-    },
-    {
-      "keyword": "반도체",
-      "score": 67.05
-    },
-    {
-      "keyword": "달러",
-      "score": 62.11
+      "score": 249.03
     },
     {
       "keyword": "환율",
-      "score": 60.22
+      "score": 144.01
     },
     {
-      "keyword": "물가",
-      "score": 57.79
+      "keyword": "달러",
+      "score": 107.1
+    },
+    {
+      "keyword": "net",
+      "score": 102.15
+    },
+    {
+      "keyword": "필랑트",
+      "score": 95.33
+    },
+    {
+      "keyword": "최대",
+      "score": 94.87
+    },
+    {
+      "keyword": "daum",
+      "score": 94.24
+    },
+    {
+      "keyword": "르노코리아",
+      "score": 91.06
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 69.99
+    },
+    {
+      "keyword": "수출기업",
+      "score": 65.15
     },
     {
       "keyword": "금리",
-      "score": 56.28
+      "score": 64.7
     },
     {
-      "keyword": "기준금리",
-      "score": 50.72
-    },
-    {
-      "keyword": "동결",
-      "score": 46.72
-    },
-    {
-      "keyword": "역대",
-      "score": 43.67
+      "keyword": "7월",
+      "score": 62.4
     }
   ],
   "hot_topics": [
     {
       "keyword": "수출",
-      "score": 144.23,
+      "score": 249.03,
       "articles": [
         {
-          "title": "누보, 日시장 중심 하반기 수출 물량 크게 늘었다 - 영농자재신문",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZTF6VEdtTHdLd0dEVEJpM2Z2aEotVjZFeUhETDFhX0tnbkVSRjA5RVZ3cnBkY2hNaXRnR0Q1cnJ4YUlHanI2bzdvU3R4SHpQTmd6emhwczBaQWN3?oc=5",
-          "published_at": "2026-08-02T05:43:23+00:00"
+          "title": "르노코리아, '필랑트' 첫 수출 선적…부산공장 생산 모델 글로벌 공략 확대 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kYVBhLVc2RTdRMzlhOHdZZTVHYmt3bzRqeWZfdzVsdGFRR3FKRllldF9yOXlZZ3RqN0Z5aGExNm1na3IzNXhzOUg0LXJQb2pSdXJJOThWUkd3VnNycW94VDBMeG41T19uM3hrVXk0QTk?oc=5",
+          "published_at": "2026-08-03T06:06:41+00:00"
         },
         {
-          "title": "하반기 첫 수출 1000억弗 육박… 반도체 힘입어 1조 달러 청신호 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VmItaVoxTFRIcnM4dmk5ck9TQmVEenF6aEpjNHItVnRmdG1uVUh2S09qWnJobFlKaUR1VVdLbEo2Y2YwZXRkbjVTOV9ONjN0bDdORA?oc=5",
-          "published_at": "2026-08-02T05:34:00+00:00"
+          "title": "[버핏 리포트] 한화에어로스페이스, 우호적 영업환경 지속... 추가 수출 유력 품목이 가장 많은 회사 – IBK - 버핏연구소",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tdnU0WUxSOHBhNmEyU2ZuR055Sm1WSmVSYjdkNXVOVHRCdDVtUjBjdEJRUTNNVHJVRTFOYThtWVpYenlsbzQ0MkFUcWYxUmJDSUlVX2VUVlFLcjN4SDVjNUNn?oc=5",
+          "published_at": "2026-08-03T06:01:48+00:00"
         },
         {
-          "title": "의성군, 공동영농으로 농업 대전환 가속…생산부터 수출까지 연계 - hidomin.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbVRDZ3NEUUZPY2hRbzhiTG1LVkpRa0paM3NabTBLbHJjTzdNVjY2UVEtaDhIYlJENU5LbzhJTFR4bmZDTFo1X3ZYNmp2LWFXNTVJczhpTTZfZW5YTnpTS3FHV3pHWk95T3c?oc=5",
-          "published_at": "2026-08-02T05:15:45+00:00"
+          "title": "르노코리아, '필랑트' 중남미향 첫 수출…\"부산공장 글로벌 생산거점 강화\" - 팍스경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fQWFOUVlLVVBiT01GM2FaYlQ3REZxUVBEZ1ZJQWJwZVBrVlNFVkY1aGRUNDE5ZzZLY0g2NVFBZW5QUGh6cDJkd2N5Zmt5WGExSk1xRGk1V1JEemxDeV9tdTlUY01JWmM?oc=5",
+          "published_at": "2026-08-03T05:59:49+00:00"
         },
         {
-          "title": "7월 수출 988억달러 ‘역대 2위’…반도체 두 달 연속 400억달러 돌파 - 서울STV뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uV0w0RFdJbWVZT3RNYVN6MzdQUnVRVG41QXNtMzdwNkdtQU1NQ1hfaXVZVXZVdkotUzBXbVJaOXRMdTRybzRGVHVUZTBXLTZCYm9jSlhBNHJ4UXJzMEdDZ0ZsMkhXSUU?oc=5",
-          "published_at": "2026-08-02T04:57:42+00:00"
+          "title": "르노코리아 '필랑트' 중남미 첫 수출…출시 6개월만 - newsworks.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DazFTWklVUndjY05OT0VDX2l6NldoVi1TRktYM28yaG5uTEluSFFxUllHX05ndWZrWUsxYkRZQUl1Y1NOVk9hZFJBR2E0Y3BVVHEwS2dHU0NSVXZESmNTOF9Rc2xxZlZrYnMxQ1Zzb9IBc0FVX3lxTE5Eekt6c2xHc3hnTWY2UzBhSnZEOTFrdVRIaEpXZmc1ekxTNGdiT3Qwc2VMNXNxa2c1NXpub3FEbjdiSDh4QjQ2X1BudzlQWWZsQ1pnYUZIV29XQ3Q2dVNzUldNTGVBWWc1WTZCeVUtVUs4NEU?oc=5",
+          "published_at": "2026-08-03T05:58:43+00:00"
         },
         {
-          "title": "안동시, 수출기업 역량강화 지원사업 참여기업 모집 - hidomin.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wQmdfLWFUMXE2QnVHYWFBb1l4Ym5xTmhZTnRlTUxsck1CdjRaOG1IVTdDbE5MMlJtRlNNeTlaNTRhUC1rN2hfaF8xWS1nd01YZGpfV1l5ZGV5NWc4ZGhWZE1nWERDWkNjTlE?oc=5",
-          "published_at": "2026-08-02T03:54:09+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "7월",
-      "score": 108.03,
-      "articles": [
-        {
-          "title": "7월 수출 988억달러 ‘역대 2위’…반도체 두 달 연속 400억달러 돌파 - 서울STV뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uV0w0RFdJbWVZT3RNYVN6MzdQUnVRVG41QXNtMzdwNkdtQU1NQ1hfaXVZVXZVdkotUzBXbVJaOXRMdTRybzRGVHVUZTBXLTZCYm9jSlhBNHJ4UXJzMEdDZ0ZsMkhXSUU?oc=5",
-          "published_at": "2026-08-02T04:57:42+00:00"
-        },
-        {
-          "title": "춘천시농어업회의소·춘천시의회 경제도시위원, 지난 7월 31일 간담회 개최 - 강원일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4R1QtdjBIZUtHZ3RPR3MwYXE0dXJBdXhFVHdJTmNsdnZ0VU40SE16bXptWE5WOHY4UG5FVjJ5aXhTRVo1M0Q5WFg3eG5teWJWUVhyOE0tcFk?oc=5",
-          "published_at": "2026-08-02T04:08:40+00:00"
-        },
-        {
-          "title": "[채권-주간] 7월 물가·중동 사태 주시…백투백 전망 약해지나 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TN2xneC15aG9BSVlmR1c2Zmt6WGQ5YXhDTEljMFVCLW5mS3JPZGs1V1hLY3RIZXFEUk92ZzJHQUpxRVZnUklHUDd6Wnp1dFQxcFRHRUhqSVpzb0hWM3YySDdrZERjM0xuYnJxMmlNa0o?oc=5",
-          "published_at": "2026-08-02T04:00:10+00:00"
-        },
-        {
-          "title": "애플 몽니에도 끄떡없는 K반도체… 7월 수출 989억불 '훨훨' - etnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fV1E0bEhUekYwVDY0SHZSWXRVLUJLZU5Xal9YZlp6anM2TUpucE9nSWxlN1E2NHRoZVh4NFNQSWZ2ZElCdFZIaGpTeWxZdw?oc=5",
-          "published_at": "2026-08-02T03:23:34+00:00"
-        },
-        {
-          "title": "7월 원화 절상률, 금융위기 후 최고…1,400원선 깨질까 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxRS1EZnZiT2Z4MGtVajRHRlNKSXI2aU9zQl9wZEJ0VDRTLWk1Ym1URkJ0ajM0bDBCTF92SGczTE5lQ001ZGtsaTlvZlcwcG9GNS1DMlIxRDNHRkZsRmdLbWltSVhnWlk?oc=5",
-          "published_at": "2026-08-02T02:01:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "daum",
-      "score": 86.44,
-      "articles": [
-        {
-          "title": "30년 만의 미·일 공조 개입… 월요일 증시, 엔캐리트레이드 청산 경계령 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13OVBLa0VleTJGS2xPdFZaTFlDU19PSFhSOWVaWE9ibk9jYjVod3Y3ckhHNTNfRk4tV1ZPQXhpRTBqRVpLMlhtYVBxY0NQUFE?oc=5",
-          "published_at": "2026-08-02T04:20:50+00:00"
-        },
-        {
-          "title": "'변동성 지옥' 겪은 코스피…8월엔 '반전 드라마' 쓸까 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QX2Z2d3B1azlYUFFUNGdaT3lRUDNpODhvTzV6NkdCTVhldjdMVkdneEhwOW0yekhVc3BZTnBWclhOSG01dktXckZNSjdpVVE?oc=5",
-          "published_at": "2026-08-02T04:10:50+00:00"
-        },
-        {
-          "title": "[이번주 경제] 추가 금리인상 단서 나올까…금통위 의사록 공개 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QbHI1T0RBMm8zc0N2Mmk1eEVrT0h5QUZ5UmpnZTkzNmhDTHB6ZVRudjNEeGsxOGVTSm52SkxjalNaWl9TWlVJbFZNUjdWXzQ?oc=5",
-          "published_at": "2026-08-02T03:57:28+00:00"
-        },
-        {
-          "title": "FIU, APG 연차총회 참석…\"불법자금 차단 위한 국제공조 강화\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42N29GbDNHVWd6RHRfSl9mNFY2NFZSWEQ1TXdWRjU5akJwdjl0eTZoeWJnR0FDdi1tMDNUMTllWUVPb0FPMTdCM1VkeC1DX0U?oc=5",
-          "published_at": "2026-08-02T03:02:40+00:00"
-        },
-        {
-          "title": "금리·전쟁·지갑 결함에 눌린 비트코인…美 고용보고서 촉각 [가상자산 나침반] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13d3ZlcUs1azBnajJQVm9oaWtMU3NMRVZDb0hzTE9IeW1PUm9Yd2ZnSktDY1dDaDRMSi1CVzFScUhZcTV0enBmSFk0WW93TFU?oc=5",
-          "published_at": "2026-08-02T02:10:09+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "net",
-      "score": 86.44,
-      "articles": [
-        {
-          "title": "30년 만의 미·일 공조 개입… 월요일 증시, 엔캐리트레이드 청산 경계령 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13OVBLa0VleTJGS2xPdFZaTFlDU19PSFhSOWVaWE9ibk9jYjVod3Y3ckhHNTNfRk4tV1ZPQXhpRTBqRVpLMlhtYVBxY0NQUFE?oc=5",
-          "published_at": "2026-08-02T04:20:50+00:00"
-        },
-        {
-          "title": "'변동성 지옥' 겪은 코스피…8월엔 '반전 드라마' 쓸까 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QX2Z2d3B1azlYUFFUNGdaT3lRUDNpODhvTzV6NkdCTVhldjdMVkdneEhwOW0yekhVc3BZTnBWclhOSG01dktXckZNSjdpVVE?oc=5",
-          "published_at": "2026-08-02T04:10:50+00:00"
-        },
-        {
-          "title": "[이번주 경제] 추가 금리인상 단서 나올까…금통위 의사록 공개 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QbHI1T0RBMm8zc0N2Mmk1eEVrT0h5QUZ5UmpnZTkzNmhDTHB6ZVRudjNEeGsxOGVTSm52SkxjalNaWl9TWlVJbFZNUjdWXzQ?oc=5",
-          "published_at": "2026-08-02T03:57:28+00:00"
-        },
-        {
-          "title": "FIU, APG 연차총회 참석…\"불법자금 차단 위한 국제공조 강화\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42N29GbDNHVWd6RHRfSl9mNFY2NFZSWEQ1TXdWRjU5akJwdjl0eTZoeWJnR0FDdi1tMDNUMTllWUVPb0FPMTdCM1VkeC1DX0U?oc=5",
-          "published_at": "2026-08-02T03:02:40+00:00"
-        },
-        {
-          "title": "금리·전쟁·지갑 결함에 눌린 비트코인…美 고용보고서 촉각 [가상자산 나침반] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13d3ZlcUs1azBnajJQVm9oaWtMU3NMRVZDb0hzTE9IeW1PUm9Yd2ZnSktDY1dDaDRMSi1CVzFScUhZcTV0enBmSFk0WW93TFU?oc=5",
-          "published_at": "2026-08-02T02:10:09+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "반도체",
-      "score": 67.05,
-      "articles": [
-        {
-          "title": "하반기 첫 수출 1000억弗 육박… 반도체 힘입어 1조 달러 청신호 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VmItaVoxTFRIcnM4dmk5ck9TQmVEenF6aEpjNHItVnRmdG1uVUh2S09qWnJobFlKaUR1VVdLbEo2Y2YwZXRkbjVTOV9ONjN0bDdORA?oc=5",
-          "published_at": "2026-08-02T05:34:00+00:00"
-        },
-        {
-          "title": "7월 수출 988억달러 ‘역대 2위’…반도체 두 달 연속 400억달러 돌파 - 서울STV뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uV0w0RFdJbWVZT3RNYVN6MzdQUnVRVG41QXNtMzdwNkdtQU1NQ1hfaXVZVXZVdkotUzBXbVJaOXRMdTRybzRGVHVUZTBXLTZCYm9jSlhBNHJ4UXJzMEdDZ0ZsMkhXSUU?oc=5",
-          "published_at": "2026-08-02T04:57:42+00:00"
-        },
-        {
-          "title": "애플 몽니에도 끄떡없는 K반도체… 7월 수출 989억불 '훨훨' - etnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fV1E0bEhUekYwVDY0SHZSWXRVLUJLZU5Xal9YZlp6anM2TUpucE9nSWxlN1E2NHRoZVh4NFNQSWZ2ZElCdFZIaGpTeWxZdw?oc=5",
-          "published_at": "2026-08-02T03:23:34+00:00"
-        },
-        {
-          "title": "[AI로 읽는 경제] 미·중 반도체 전쟁 2.0…한국의 무기는 '공정 데이터' - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KeWxYTW8xRm1Pd3Y5QWkwUEkyR1Z4cnFoNUtXak8yZUZGczV6QjNkcU1CYWZlb2VKYm03NkJudHBXSVh0TXFBaTJwbXd2Z1FuU250RU9xU2JpSWgz?oc=5",
-          "published_at": "2026-08-02T02:00:00+00:00"
-        },
-        {
-          "title": "7월 코스피 22% 폭락…8월 반등 열쇠는 반도체·금리·외국인 수급 - 산경투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3amtMWVh0OFhvUDVaeHd0eFFCMF8xMENOYVNoVGRpbGJyMDBnNDJfUnJRdk9mb0pYVzNGTWtGYUQ1QlJnM2F4YlR5SWJUQXcxbU8tbkI4Mk8wT2dKMGYxUXA5T1dyaFBIcHR2NWd5c1bSAXRBVV95cUxNZWI5TjNrNWY0dzllZk5mcV9zU0dxSjZyM1Z6N2V3amxLcU0xMTVRUGpnNGllWnJwSzRVbHBJQjQxZ3VkanpTNGhnMHU5UGEzWTBLZzFvaVZ5R3h0elZtdjhvNkM3a2tHV0JIS2swQ2RHRVdWeQ?oc=5",
-          "published_at": "2026-08-02T01:34:52+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "달러",
-      "score": 62.11,
-      "articles": [
-        {
-          "title": "하반기 첫 수출 1000억弗 육박… 반도체 힘입어 1조 달러 청신호 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VmItaVoxTFRIcnM4dmk5ck9TQmVEenF6aEpjNHItVnRmdG1uVUh2S09qWnJobFlKaUR1VVdLbEo2Y2YwZXRkbjVTOV9ONjN0bDdORA?oc=5",
-          "published_at": "2026-08-02T05:34:00+00:00"
-        },
-        {
-          "title": "“SK하이닉스 달러 쏟아졌다”…환율 한달새 125원 ‘뚝’ 1400원도 깨지나 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xOFFlek01VWNGRFFWWHBsNkZ3NENWX2N3RzZQck5nRXdpNC0yR1RQeWEweEZ1NGRUei1tTDdWTWpaaXZoV3k1OWhIakc3Z0NKQ1ZYbWpB?oc=5",
-          "published_at": "2026-08-02T05:13:53+00:00"
-        },
-        {
-          "title": "7월 수출 988억달러 ‘역대 2위’…반도체 두 달 연속 400억달러 돌파 - 서울STV뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uV0w0RFdJbWVZT3RNYVN6MzdQUnVRVG41QXNtMzdwNkdtQU1NQ1hfaXVZVXZVdkotUzBXbVJaOXRMdTRybzRGVHVUZTBXLTZCYm9jSlhBNHJ4UXJzMEdDZ0ZsMkhXSUU?oc=5",
-          "published_at": "2026-08-02T04:57:42+00:00"
-        },
-        {
-          "title": "대구TP, 베트남 뷰티 전시회서 2,500만 달러 수출 상담 달성 - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRFJDRU5ldVEyZlFSZ3ZXY2doNEYwQ2ZDZkdKZlI3ZEFYM0tzN05UOWpTMFJ4Y0hzTGh1ZHAtYmpYenkybVhLSWxXWjY3azhVWDE4a1ZKNVJJU1ZlWER1b2JOTkROOHdtQi1V?oc=5",
-          "published_at": "2026-08-02T03:27:49+00:00"
-        },
-        {
-          "title": "미 경제 성장률 1.5%로 둔화…모기지 6.66%·휘발유 4.11달러 ‘이중 부담’ - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6em05U0ROMllRNnJVM0NuVEI1dzVWZW0yeDlMRkxvaTN1TFdOZVRCVkZObGNNb2tHMlpMbWFkOXM3UzBJaEF5STVuQXlEZlhla2lZY1FTLXd3MTdReTZEZ19laS1qSlF2Q1pZLXRR?oc=5",
-          "published_at": "2026-08-02T02:23:12+00:00"
+          "title": "멕시코, 미국 AI '하드웨어 생산 기지' 부상...AI 서버 수출, 자동차 첫 추월 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQQkxGQWxCWnJPUjdRS3Z3c0VDTGhiOW1JWFdyaXEyZGJRVEx1aDdoMnRaZHN0Q1ZBX2VLUlVYc05KS3FHc1R6Y1hraXFBR0Y4WXpHZGNocU5aNS1vWmFveW9pczV0VlZFWlE?oc=5",
+          "published_at": "2026-08-03T05:53:39+00:00"
         }
       ]
     },
     {
       "keyword": "환율",
-      "score": 60.22,
+      "score": 144.01,
       "articles": [
         {
-          "title": "“SK하이닉스 달러 쏟아졌다”…환율 한달새 125원 ‘뚝’ 1400원도 깨지나 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xOFFlek01VWNGRFFWWHBsNkZ3NENWX2N3RzZQck5nRXdpNC0yR1RQeWEweEZ1NGRUei1tTDdWTWpaaXZoV3k1OWhIakc3Z0NKQ1ZYbWpB?oc=5",
-          "published_at": "2026-08-02T05:13:53+00:00"
+          "title": "환율 7월 한 달간 125원 급락…TK 수출 채산성 시험대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZTUUwMnZmYTRfN0JLbXEwS0JkakRhck9tbkIza2I2ekpYTUZOYm9Tb3Y0d3ZmU1c1NFk1QlJ0bW0yY1JjVU4zbXE4ODJuNUU?oc=5",
+          "published_at": "2026-08-03T05:45:03+00:00"
         },
         {
-          "title": "미·일 외환당국, 28년 만에 환율 공조…엔화값 4% 급등 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HOFNDWndPalF4RlIyY1V5YUdIdHZGOXBhSDMyNGR5RmZjMEUzRGxlNnVxQ1hTNlp3dmkydVJRUlFJNHRsMmpqMU5UNEZUdDl2RVFOS20xZlEtQXNnOXFLbQ?oc=5",
-          "published_at": "2026-08-02T05:12:33+00:00"
+          "title": "환율 1400원 시대... 항공·수입기업 '수혜' - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1heE5UWEVBNk5XZy1vRFQxN2hxa2JqS29MZW13TGZvSGlqR28zcF9lNmRxRTYyX29NREpiNjhFVTd2OG50Si13RDFyRTBGVEVaQUN5ekQ3Y1pvVzRfMVNkUGMwVHk?oc=5",
+          "published_at": "2026-08-03T05:33:57+00:00"
         },
         {
-          "title": "“美까지 나섰다”…15년 만의 공동 환율개입, 엔화 157엔대로 급반등 - 경북매일",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUEQyMTdEemtnSFBHWmxvNi1IZUM4enN3WVQyX0pUcUFJX3BQLTIwVnhDWnZoQnBXZUdFeHBURS1SNHpxYW5OdEdxX2pvenNLeDM1STM4UVA1dw?oc=5",
-          "published_at": "2026-08-02T04:20:00+00:00"
+          "title": "\"환율 1430원대로 내려왔는데\"…외국인은 코스피로 돌아올까 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCbjNBMnBCdDZrdmYtalBBNU5ZQ2FmZWNyMGR6OE5kNlZHRmxRWms3QkktYU9fOTNCeUJZbDhPV2FNLUdDZkRtazBmcGF3R1U?oc=5",
+          "published_at": "2026-08-03T05:30:56+00:00"
         },
         {
-          "title": "[속보] 환율 한 달 새 125원 급락…금융위기 후 가장 빠른 속도 - 한국경제TV",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Yb0dtbXhDQlVmajJKNTJWQzc0WGRCVzN5X3poeFRFa2paSms1RjYyZ1pNS3FBaG8xX2EyS0lyMzZPRHBhb0JtOTBPdEVwaHBsMTlwUENPall0YTl1QkhhTmk4MEE2QU1oTzFXemw4emFXSmNUZW52RF81SW02UQ?oc=5",
-          "published_at": "2026-08-02T04:12:00+00:00"
+          "title": "“환율은 국회 거치지 않는 세금”…윤상현, 한미 통화공조 재정비 촉구 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fTGpWM3ZPblMxUG1CVGlVbkNNcFdEYnVTbnc3QjdJMmtTa2p5eDFBVWRoT2VGMlJzMmo4VldVaVRmVGp3c3h2WEx5UEJWWTA?oc=5",
+          "published_at": "2026-08-03T05:20:02+00:00"
         },
         {
-          "title": "[주간환율전망] 이제는 원화의 시간···1300원대 진입 시도 - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CZGhJeEppVXhkSFlVX2twY3lOdXk0OEl6Wk5hbHZKOWNZSEl2Vk1TRmpLdENHODE0aU0zOTZzdkQ1eGh5UUZCNnVXRENQMFdBekU1S2EwQkpmcGU5ZzNOSW43SjlhUURPQUE?oc=5",
-          "published_at": "2026-08-02T03:59:06+00:00"
+          "title": "환율 월평균 39.1원 끌어내린 수급 개선…8월 1400원 밑돌까 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYjZySy03LXdWVldtWldpdnNaWm5yUVdSWk4zdndOSzVCVWx6emFiZXJNOW5JOU1mdG1NVmhhVzRtc3k1X0JIV3BZTDZjUnZYMXprUmNZUnFsZHhzclI0OA?oc=5",
+          "published_at": "2026-08-03T04:40:36+00:00"
         }
       ]
     },
     {
-      "keyword": "물가",
-      "score": 57.79,
+      "keyword": "달러",
+      "score": 107.1,
       "articles": [
         {
-          "title": "[채권-주간] 7월 물가·중동 사태 주시…백투백 전망 약해지나 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TN2xneC15aG9BSVlmR1c2Zmt6WGQ5YXhDTEljMFVCLW5mS3JPZGs1V1hLY3RIZXFEUk92ZzJHQUpxRVZnUklHUDd6Wnp1dFQxcFRHRUhqSVpzb0hWM3YySDdrZERjM0xuYnJxMmlNa0o?oc=5",
-          "published_at": "2026-08-02T04:00:10+00:00"
+          "title": "작년 첫 수출기업 5년 내 최대…기업당 평균 35만달러 - thepowernews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13T1RNUEtoX0lfMmI3bzlabThldWhCVjl4eW5vYnZDN0xxVEM4TmIwY2p5WktCYmgwLXRvdmpLZVVBckZRUVdvVTVwSUZCaVlwRXVUV1FQUU1CTnhCZ0loX1JqYl94aVVxdnVRUEdabGVweEJacHh6X0VOdjFYdw?oc=5",
+          "published_at": "2026-08-03T05:28:21+00:00"
         },
         {
-          "title": "\"물가 다시 뛴다\"…현대硏, 하반기 물가 최대 3% 전망 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQ1R6TGlBeE5UVW1LMzZJbmdVSTJ2NUtPNzdnM0pTbkh1bnV3MHo3ZVF0YlFyNmNuV2RaaFlEN01PajhnQ0ZOMGpINkdhVUY2OTc3enVIckxXT3g2VXQyMnE0U24?oc=5",
-          "published_at": "2026-08-02T02:53:47+00:00"
+          "title": "미·일 15년 만에 공동 외환 개입…달러당 157엔대로 - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qQS0yZVhSNFFRR2Z6UjdiamEtSWIzcUNFZEdPX3Q4cVQ0QTZsTXo0bW9ZWVoyNGR0dEVhcm9uaURDNEdQZUhNZTlyYmExRkVTbEsxNVZKbkpHZ1dyajRMYnFySWxmOXBaejEw?oc=5",
+          "published_at": "2026-08-03T05:08:02+00:00"
         },
         {
-          "title": "“유가 다음은 집세·농축수산물”…현대경제연구원, 하반기 물가 상승률 2.5~3.0% 전망 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FbHRPRXR2SlNLNTFYUUdWOWJTa01xNjFTcXJzMkxsaXJ2WFluTkFGMHRfWjlzaDFoV3U3TWJOTmlVRzZNa2VMSGZUSTd6TlF3WldnNWhn?oc=5",
-          "published_at": "2026-08-02T02:40:02+00:00"
+          "title": "7월 화장품 수출 13.5억 달러 ‘역대 최고’ - 주간신문씨엠엔",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5heTFteDhBMEFxZkN4SDM3Nzg2NmhQYTZEemRBZklrbzRudkY1WmJ5QkQ2NkduQ0ptQnVpN3RGa0lEeGp0V05OdTFQUlgxUTUzUkhpbklFczRRclJTbVRZSy1JY2lXdUdkVERscmpneER4SzNwYVJr?oc=5",
+          "published_at": "2026-08-03T04:22:53+00:00"
         },
         {
-          "title": "\"기름값 가니 밥상·집세가 뛴다\"…현대硏, 하반기 물가 최대 3.0% 전망 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TU3IzZEkwaEJ3OXdNTnlZV1RLQ0R2VW52WkRsMlNaWFlKbzZXaTA0Z2VTZ3RsSGpESnBrWUFRdGEtaWF3RDlPS0ctZ1lFZ3l0b1N3S2Yxbk5OWmZsbW96WA?oc=5",
-          "published_at": "2026-08-02T02:10:53+00:00"
+          "title": "베트남, 대외무역 큰 폭 증가세…7월 기준 6,595.8억 달러 전년동기比 28.1%↑ - 인사이드비나",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xcW51N1JvdUJTbEdUYUZlZ1RNdC1iY3pDNlExc2VManRuNmloV3Y2NnF2ZklhSVBOeHVsaVR3UTM3RlNxUFpEc25aaUx1b25PUHg0ZDg5VEM3aWxWY3VhSUNLeUdlMXRXUkdHMw?oc=5",
+          "published_at": "2026-08-03T04:20:36+00:00"
         },
         {
-          "title": "[주간증시전망] 극심한 변동성 딛고 6500선 회복…美 물가지표 촉각 - 브릿지경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rSWlEV3RzdzJuZ0pVNE50bzg0Rk54RG9jQ0JuWkpGellTY0pDM0s5Mk1tRGJVQ0JZcTVRR1JLWkFPS0xPek42dXY4T01oM1VNdEc5SlVVcXUxUQ?oc=5",
-          "published_at": "2026-08-02T02:02:00+00:00"
+          "title": "코리아넷뉴스 - 7월 수출 989억 달러 ‘역대 2위’···반도체 두 달 연속 400억 달러 돌파 - korean-culture.org",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOUtFRVRaandiT1ZQZVZRcDFLVWFKWFN4bTBKYTZIclNGS3ZNcjc3X0xGSDJlRnp4MHI4Z3BmSGZkMS12OVM5V3NSWV9GOHUwSFRQaERCS19vSHhGRXJCaF9GNm5vcVdVbUdMMWtmbE1hZmtYTTZWc2huMHMwVDJqTzBORlc1VlliaVNQSGN2V2FqRnRXSU1xcHRZR3VyejJRVTJ5ZVhBZDRBTEZBNnVnOGVCeHpFeE1mYzdRdXFMb2JlWGU3czRYb1lzZVFjWHdna3RUc1BYeS1fb1U0Zks4RDJpNTUwOHNoUjhxbWVMRm9oUXN0TlE?oc=5",
+          "published_at": "2026-08-03T04:10:46+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 102.15,
+      "articles": [
+        {
+          "title": "환율 7월 한 달간 125원 급락…TK 수출 채산성 시험대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZTUUwMnZmYTRfN0JLbXEwS0JkakRhck9tbkIza2I2ekpYTUZOYm9Tb3Y0d3ZmU1c1NFk1QlJ0bW0yY1JjVU4zbXE4ODJuNUU?oc=5",
+          "published_at": "2026-08-03T05:45:03+00:00"
+        },
+        {
+          "title": "르노코리아, 부산공장 '필랑트' 첫 수출…중남미 공략 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZbkVDZ2otY0l4VjFJS0M0VFJTOWdiUHFuN1JYbnN1QjhqdTlIaG5rYzFYY0l0bDJBRVRmcGx6MTl2b2FXNG1OZmVSRUh2SUk?oc=5",
+          "published_at": "2026-08-03T05:45:03+00:00"
+        },
+        {
+          "title": "\"환율 1430원대로 내려왔는데\"…외국인은 코스피로 돌아올까 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCbjNBMnBCdDZrdmYtalBBNU5ZQ2FmZWNyMGR6OE5kNlZHRmxRWms3QkktYU9fOTNCeUJZbDhPV2FNLUdDZkRtazBmcGF3R1U?oc=5",
+          "published_at": "2026-08-03T05:30:56+00:00"
+        },
+        {
+          "title": "“환율은 국회 거치지 않는 세금”…윤상현, 한미 통화공조 재정비 촉구 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fTGpWM3ZPblMxUG1CVGlVbkNNcFdEYnVTbnc3QjdJMmtTa2p5eDFBVWRoT2VGMlJzMmo4VldVaVRmVGp3c3h2WEx5UEJWWTA?oc=5",
+          "published_at": "2026-08-03T05:20:02+00:00"
+        },
+        {
+          "title": "中 \"하반기 완화적 통화정책\"…판다본드 발행 촉진 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xckJfRWViUjlRaTJ1RmNVOVdKQnRQZkZFdUtDTnU2SHVBV3RSa3drLUtDdk50TmFBUmtFUTRNWk5KNEZDM2txU3NwLU9uTjA?oc=5",
+          "published_at": "2026-08-03T05:16:51+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "필랑트",
+      "score": 95.33,
+      "articles": [
+        {
+          "title": "르노코리아, '필랑트' 첫 수출 선적…부산공장 생산 모델 글로벌 공략 확대 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kYVBhLVc2RTdRMzlhOHdZZTVHYmt3bzRqeWZfdzVsdGFRR3FKRllldF9yOXlZZ3RqN0Z5aGExNm1na3IzNXhzOUg0LXJQb2pSdXJJOThWUkd3VnNycW94VDBMeG41T19uM3hrVXk0QTk?oc=5",
+          "published_at": "2026-08-03T06:06:41+00:00"
+        },
+        {
+          "title": "르노코리아, '필랑트' 중남미향 첫 수출…\"부산공장 글로벌 생산거점 강화\" - 팍스경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fQWFOUVlLVVBiT01GM2FaYlQ3REZxUVBEZ1ZJQWJwZVBrVlNFVkY1aGRUNDE5ZzZLY0g2NVFBZW5QUGh6cDJkd2N5Zmt5WGExSk1xRGk1V1JEemxDeV9tdTlUY01JWmM?oc=5",
+          "published_at": "2026-08-03T05:59:49+00:00"
+        },
+        {
+          "title": "르노코리아 '필랑트' 중남미 첫 수출…출시 6개월만 - newsworks.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DazFTWklVUndjY05OT0VDX2l6NldoVi1TRktYM28yaG5uTEluSFFxUllHX05ndWZrWUsxYkRZQUl1Y1NOVk9hZFJBR2E0Y3BVVHEwS2dHU0NSVXZESmNTOF9Rc2xxZlZrYnMxQ1Zzb9IBc0FVX3lxTE5Eekt6c2xHc3hnTWY2UzBhSnZEOTFrdVRIaEpXZmc1ekxTNGdiT3Qwc2VMNXNxa2c1NXpub3FEbjdiSDh4QjQ2X1BudzlQWWZsQ1pnYUZIV29XQ3Q2dVNzUldNTGVBWWc1WTZCeVUtVUs4NEU?oc=5",
+          "published_at": "2026-08-03T05:58:43+00:00"
+        },
+        {
+          "title": "르노코리아, 필랑트 중남미향 첫 수출 外 - 톱데일리",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRc0tpMmowRkJ1b1ZUeWpfX2dFMnRKVHBKTW1iakNFbXgzVmFxb1dpUV9UZ1VFSS1UaWh0M1RmeDdZRzItR1VIWXljVVhIcXNu?oc=5",
+          "published_at": "2026-08-03T05:52:00+00:00"
+        },
+        {
+          "title": "르노코리아, 부산공장 '필랑트' 첫 수출…중남미 공략 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZbkVDZ2otY0l4VjFJS0M0VFJTOWdiUHFuN1JYbnN1QjhqdTlIaG5rYzFYY0l0bDJBRVRmcGx6MTl2b2FXNG1OZmVSRUh2SUk?oc=5",
+          "published_at": "2026-08-03T05:45:03+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "최대",
+      "score": 94.87,
+      "articles": [
+        {
+          "title": "베트남 최대 차량호출社 GSM, 덴마크 진출…’유럽 첫 번째’ - 인사이드비나",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BS19weUFTRm1PTEx5Q3BOTVdoODd2WU5HYmpfN0t0bTM5VVVxNTg3V3cyanZmNVZISVNJdFM3dnVIdVcxWU9kTGZSMWNiVHB4RjRyLWhMc3RqNWRsdkdBcWczSk5NOFRSbllPNQ?oc=5",
+          "published_at": "2026-08-03T06:02:01+00:00"
+        },
+        {
+          "title": "첫 수출기업 2만개 육박… 5년 만에 최대 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Pc2FzdDFSbERaVGFNZ2pzUldTdHhRc0gzbmE5Yjdoblp4TVc1LUlmOUdTYzZoQlU4NGdFaHdYMTBRdlFZSUlVd1lDS1ZKeWh0aWVBM25VRHdMelF6Tk9sYW80MUg4Q2ZySGc?oc=5",
+          "published_at": "2026-08-03T05:41:34+00:00"
+        },
+        {
+          "title": "작년 첫 수출기업 5년 내 최대…기업당 평균 35만달러 - thepowernews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13T1RNUEtoX0lfMmI3bzlabThldWhCVjl4eW5vYnZDN0xxVEM4TmIwY2p5WktCYmgwLXRvdmpLZVVBckZRUVdvVTVwSUZCaVlwRXVUV1FQUU1CTnhCZ0loX1JqYl94aVVxdnVRUEdabGVweEJacHh6X0VOdjFYdw?oc=5",
+          "published_at": "2026-08-03T05:28:21+00:00"
+        },
+        {
+          "title": "신한카드, 뮤지컬·전시 티켓 최대 40% 할인 - 안전신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94R2ZnTjM3Vzg0UHNtR1hmOUNJeUhZVkNuMzU0WWJOM1NpaUMyVGt5NXlPMkd1RGtUS1Z6UEZTRlFHa3NBWnZDVkExbFlVTHZoNno5NUtPQ3ZoN05DNUVaa0xlUjNtNWNwWVpOQ09qOA?oc=5",
+          "published_at": "2026-08-03T05:13:37+00:00"
+        },
+        {
+          "title": "2025년 첫 수출기업 2만개사, 5년내 최대 - 쉬핑뉴스넷",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRDdZUHoyU1dkd3VWNWZ3LVQ3U1FmSjZBMlJxeEE4S3RXLXJQbW55TFp0OHhsRTJNVDFUeE1Nd0xfNE1JdksxUGhjTmNKMkJkRnZqclVUMUY5c3VMU1ZnS0dMVEhSY0ZQSlNKbEpjV0JFcm8?oc=5",
+          "published_at": "2026-08-03T04:59:40+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "daum",
+      "score": 94.24,
+      "articles": [
+        {
+          "title": "환율 7월 한 달간 125원 급락…TK 수출 채산성 시험대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZTUUwMnZmYTRfN0JLbXEwS0JkakRhck9tbkIza2I2ekpYTUZOYm9Tb3Y0d3ZmU1c1NFk1QlJ0bW0yY1JjVU4zbXE4ODJuNUU?oc=5",
+          "published_at": "2026-08-03T05:45:03+00:00"
+        },
+        {
+          "title": "르노코리아, 부산공장 '필랑트' 첫 수출…중남미 공략 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZbkVDZ2otY0l4VjFJS0M0VFJTOWdiUHFuN1JYbnN1QjhqdTlIaG5rYzFYY0l0bDJBRVRmcGx6MTl2b2FXNG1OZmVSRUh2SUk?oc=5",
+          "published_at": "2026-08-03T05:45:03+00:00"
+        },
+        {
+          "title": "\"환율 1430원대로 내려왔는데\"…외국인은 코스피로 돌아올까 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCbjNBMnBCdDZrdmYtalBBNU5ZQ2FmZWNyMGR6OE5kNlZHRmxRWms3QkktYU9fOTNCeUJZbDhPV2FNLUdDZkRtazBmcGF3R1U?oc=5",
+          "published_at": "2026-08-03T05:30:56+00:00"
+        },
+        {
+          "title": "“환율은 국회 거치지 않는 세금”…윤상현, 한미 통화공조 재정비 촉구 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fTGpWM3ZPblMxUG1CVGlVbkNNcFdEYnVTbnc3QjdJMmtTa2p5eDFBVWRoT2VGMlJzMmo4VldVaVRmVGp3c3h2WEx5UEJWWTA?oc=5",
+          "published_at": "2026-08-03T05:20:02+00:00"
+        },
+        {
+          "title": "中 \"하반기 완화적 통화정책\"…판다본드 발행 촉진 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xckJfRWViUjlRaTJ1RmNVOVdKQnRQZkZFdUtDTnU2SHVBV3RSa3drLUtDdk50TmFBUmtFUTRNWk5KNEZDM2txU3NwLU9uTjA?oc=5",
+          "published_at": "2026-08-03T05:16:51+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "르노코리아",
+      "score": 91.06,
+      "articles": [
+        {
+          "title": "르노코리아, '필랑트' 첫 수출 선적…부산공장 생산 모델 글로벌 공략 확대 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kYVBhLVc2RTdRMzlhOHdZZTVHYmt3bzRqeWZfdzVsdGFRR3FKRllldF9yOXlZZ3RqN0Z5aGExNm1na3IzNXhzOUg0LXJQb2pSdXJJOThWUkd3VnNycW94VDBMeG41T19uM3hrVXk0QTk?oc=5",
+          "published_at": "2026-08-03T06:06:41+00:00"
+        },
+        {
+          "title": "르노코리아, '필랑트' 중남미향 첫 수출…\"부산공장 글로벌 생산거점 강화\" - 팍스경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fQWFOUVlLVVBiT01GM2FaYlQ3REZxUVBEZ1ZJQWJwZVBrVlNFVkY1aGRUNDE5ZzZLY0g2NVFBZW5QUGh6cDJkd2N5Zmt5WGExSk1xRGk1V1JEemxDeV9tdTlUY01JWmM?oc=5",
+          "published_at": "2026-08-03T05:59:49+00:00"
+        },
+        {
+          "title": "르노코리아 '필랑트' 중남미 첫 수출…출시 6개월만 - newsworks.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DazFTWklVUndjY05OT0VDX2l6NldoVi1TRktYM28yaG5uTEluSFFxUllHX05ndWZrWUsxYkRZQUl1Y1NOVk9hZFJBR2E0Y3BVVHEwS2dHU0NSVXZESmNTOF9Rc2xxZlZrYnMxQ1Zzb9IBc0FVX3lxTE5Eekt6c2xHc3hnTWY2UzBhSnZEOTFrdVRIaEpXZmc1ekxTNGdiT3Qwc2VMNXNxa2c1NXpub3FEbjdiSDh4QjQ2X1BudzlQWWZsQ1pnYUZIV29XQ3Q2dVNzUldNTGVBWWc1WTZCeVUtVUs4NEU?oc=5",
+          "published_at": "2026-08-03T05:58:43+00:00"
+        },
+        {
+          "title": "르노코리아, 필랑트 중남미향 첫 수출 外 - 톱데일리",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRc0tpMmowRkJ1b1ZUeWpfX2dFMnRKVHBKTW1iakNFbXgzVmFxb1dpUV9UZ1VFSS1UaWh0M1RmeDdZRzItR1VIWXljVVhIcXNu?oc=5",
+          "published_at": "2026-08-03T05:52:00+00:00"
+        },
+        {
+          "title": "르노코리아, 부산공장 '필랑트' 첫 수출…중남미 공략 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZbkVDZ2otY0l4VjFJS0M0VFJTOWdiUHFuN1JYbnN1QjhqdTlIaG5rYzFYY0l0bDJBRVRmcGx6MTl2b2FXNG1OZmVSRUh2SUk?oc=5",
+          "published_at": "2026-08-03T05:45:03+00:00"
         }
       ]
     }
