@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-08-04T05:43:10.628896+00:00",
+  "generated_at": "2026-08-05T05:42:16.426168+00:00",
   "source_count": 4,
-  "article_count": 399,
+  "article_count": 389,
   "top_keywords": [
     {
-      "keyword": "물가",
-      "score": 216.59
-    },
-    {
-      "keyword": "7월",
-      "score": 212.12
-    },
-    {
-      "keyword": "만에",
-      "score": 145.64
-    },
-    {
       "keyword": "수출",
-      "score": 120.72
-    },
-    {
-      "keyword": "소비자물가",
-      "score": 114.28
-    },
-    {
-      "keyword": "상승",
-      "score": 104.57
-    },
-    {
-      "keyword": "한국경제",
-      "score": 100.92
+      "score": 116.44
     },
     {
       "keyword": "유가",
-      "score": 95.34
+      "score": 86.96
     },
     {
-      "keyword": "2%대로",
-      "score": 85.8
+      "keyword": "급락",
+      "score": 83.03
     },
     {
-      "keyword": "net",
-      "score": 85.44
+      "keyword": "금리",
+      "score": 72.28
+    },
+    {
+      "keyword": "환율",
+      "score": 68.32
+    },
+    {
+      "keyword": "기준금리",
+      "score": 65.42
+    },
+    {
+      "keyword": "국제유가",
+      "score": 64.89
+    },
+    {
+      "keyword": "협상",
+      "score": 63.81
+    },
+    {
+      "keyword": "호르무즈",
+      "score": 59.46
+    },
+    {
+      "keyword": "뉴스핌",
+      "score": 57.32
     },
     {
       "keyword": "daum",
-      "score": 80.85
+      "score": 52.88
     },
     {
-      "keyword": "8월",
-      "score": 79.45
+      "keyword": "net",
+      "score": 52.88
     }
   ],
   "hot_topics": [
     {
-      "keyword": "물가",
-      "score": 216.59,
-      "articles": [
-        {
-          "title": "중동발 유가 충격 잦아드나…경남 물가 상승세 둔화 - 경남도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZmRYZnA1VWsxNlRNdy1YRXE3Sk1ZeXhVS3VyQWlhTlljWGh3eHFlVWEtbm1WS0ZGVFE0OTZtVFhjYzRuN0ljRWZNc2pGQi0wOUQ3N1pJMGZmeEcxRm5HSTBVRldsVXgtVHc?oc=5",
-          "published_at": "2026-08-04T05:32:59+00:00"
-        },
-        {
-          "title": "한은 “7월 물가 상승률 2.8%, 8월엔 지난해 통신비 기저효과로 더 오를것” - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNEt1ZTBYdGEzbktmVFlmLXpqRUhLQkdDZ3lGcHBsd290c0NWQW9MalNzalBoaUQwVmNHblljaVRHU3NPX3pRS2lSaXpWX19tMXA2a0FFOFMzT0xLNTZvYkx3?oc=5",
-          "published_at": "2026-08-04T05:14:00+00:00"
-        },
-        {
-          "title": "7월 농산물 물가 2.2% 하락했지만…폭염 장기화에 피해 '우려' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fd3JZbEppNjdmSjJRQm1HR2xoVjRZalFsUnc4VVhma2tQdUlGOE5Ua29Kdm1pNG9HNXhkQ0xMeTRTdXd2amtPVWN3ZnJyTkE?oc=5",
-          "published_at": "2026-08-04T05:03:05+00:00"
-        },
-        {
-          "title": "농산물이 끌어내린 7월 물가…축산물·근원물가는 상승세 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iYjVGdm5tMVpqeGhEbDdTUTZ3SkVsNE5QaUlJUjZOMEV1eW84UGIycHZrNHQ0QlVRTFRQaVhfRXZHOVRGaUJJU0gyRlZ5SEhPaEowYVExUkJxNjF0YjduU21JNUY?oc=5",
-          "published_at": "2026-08-04T05:00:47+00:00"
-        },
-        {
-          "title": "2분기 깜짝 성장·근원물가 고공행진…기준금리 연속 인상될까(종합) - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzQjdUYnNsVWxzUFlZa21IZkwyMTJHV0hJVlpMa0dFTnhpcHcwSGJGbzZFNjZ5Z3FUVkZnbVRaM1N1SG1fRGFyQWZkcmFtbVB2Rldnay00M1haV1VEdlpJQg?oc=5",
-          "published_at": "2026-08-04T04:42:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "7월",
-      "score": 212.12,
-      "articles": [
-        {
-          "title": "한은 “7월 물가 상승률 2.8%, 8월엔 지난해 통신비 기저효과로 더 오를것” - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNEt1ZTBYdGEzbktmVFlmLXpqRUhLQkdDZ3lGcHBsd290c0NWQW9MalNzalBoaUQwVmNHblljaVRHU3NPX3pRS2lSaXpWX19tMXA2a0FFOFMzT0xLNTZvYkx3?oc=5",
-          "published_at": "2026-08-04T05:14:00+00:00"
-        },
-        {
-          "title": "7월 농산물 물가 2.2% 하락했지만…폭염 장기화에 피해 '우려' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fd3JZbEppNjdmSjJRQm1HR2xoVjRZalFsUnc4VVhma2tQdUlGOE5Ua29Kdm1pNG9HNXhkQ0xMeTRTdXd2amtPVWN3ZnJyTkE?oc=5",
-          "published_at": "2026-08-04T05:03:05+00:00"
-        },
-        {
-          "title": "농산물이 끌어내린 7월 물가…축산물·근원물가는 상승세 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iYjVGdm5tMVpqeGhEbDdTUTZ3SkVsNE5QaUlJUjZOMEV1eW84UGIycHZrNHQ0QlVRTFRQaVhfRXZHOVRGaUJJU0gyRlZ5SEhPaEowYVExUkJxNjF0YjduU21JNUY?oc=5",
-          "published_at": "2026-08-04T05:00:47+00:00"
-        },
-        {
-          "title": "섬유 수출 9.3억 달러…7월 3.5% 반등 - tinnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1FUGp0V19venRSM2h2SUJJMHFwRV9xQ0dFVlhmNkl0TWlTeWZ5ZEc0bFE4bWJ2NVN4YXVCRldyMnNteWZI?oc=5",
-          "published_at": "2026-08-04T04:36:00+00:00"
-        },
-        {
-          "title": "7월 소비자물가 2.8%로 둔화…근원물가는 2년 반 만에 최고 - 자본시장뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SLU8xQzNzMWNzRlRDRndjYUZ4T0E1YjBZLWZrR1FMbnJXb0E5YkdUcERVakZwMkI2cE5iejZha2pMRl9pcFU2QUdzWnRtVFhrOHdhdVZWVExldTV4aWRXc1laYW0zVzQ?oc=5",
-          "published_at": "2026-08-04T04:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "만에",
-      "score": 145.64,
-      "articles": [
-        {
-          "title": "美, 28년만에 외환시장 개입…美국채금리 잡으려 엔화 샀다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EeHdhOXFKNl9LOHI1NGktWFNCVVBNUjcxX2JaZ0RRYzdhQWxyWmVxRnRIc0RDV3pVaG1jellVSnY5a0ZlZko5dWZhQk9hSTBqUEhPWWhsRkhKQlltaW1tdVkwM2c1TGpYeXpaT250ZlBhVUlOVUHSAWZBVV95cUxNZE10c2d6YzJNYlFabkZoLW9oWnY5bmExV0VBQWxRQVExN0V5ZjV2RnZGTi1BQlQzaEFfMnFLT1AzaUVDNVBtM25aa2l6aUpCOFIzNWY5RlpGVVhTdHFxUl91UE1pbUE?oc=5",
-          "published_at": "2026-08-04T05:09:00+00:00"
-        },
-        {
-          "title": "7월 소비자물가 2.8%로 둔화…근원물가는 2년 반 만에 최고 - 자본시장뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SLU8xQzNzMWNzRlRDRndjYUZ4T0E1YjBZLWZrR1FMbnJXb0E5YkdUcERVakZwMkI2cE5iejZha2pMRl9pcFU2QUdzWnRtVFhrOHdhdVZWVExldTV4aWRXc1laYW0zVzQ?oc=5",
-          "published_at": "2026-08-04T04:00:00+00:00"
-        },
-        {
-          "title": "7월 물가 2%대로… 기름값 주춤하자 3개월만에 꺾였다 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GS1A4V3NtSVdidjNCQW1vcnhLQzZtT19SdTJKN2FjZ3Y2c0U1aGlFMHU4ZkVMUHpZZlprQUtYN3g2d2w5SGZLcDNQNmI5bWlY?oc=5",
-          "published_at": "2026-08-04T03:03:05+00:00"
-        },
-        {
-          "title": "“경제는 민주당이 낫다” 미 여론 10년 만에 뒤집혀…트럼프 지지율 35% - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lWE5QdG1zTTAtNk9kOHRTWUl1V2xtczBkZnFVN3oydkVhX085d2V2LXlpampZY0pMQWpjSTktdjlFOVJyY09XaDZteElIVDVjQ3FzaXdYSW9DcmY3eUxmcEQzNEROMzZnQ0Zma3cwMA?oc=5",
-          "published_at": "2026-08-04T02:47:00+00:00"
-        },
-        {
-          "title": "7월 소비자물가 2.8% 상승…석 달 만에 2%대로 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lUlhVSmh4T2lJdWJXbGFIeUxyMThaNF8zREhweTZNQjE2V19PeWpvVkUtclZaRC0xMGd1RXo2cFpvZUZsVEwzNlZDUEJzZw?oc=5",
-          "published_at": "2026-08-04T02:31:03+00:00"
-        }
-      ]
-    },
-    {
       "keyword": "수출",
-      "score": 120.72,
+      "score": 116.44,
       "articles": [
         {
-          "title": "부광약품, 태국 퍼시픽 헬스케어와 덱시드 수출 계약 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95am05SnVfWXl6ZGFkSlFWUHo5WEhOWFV0aExrMzB5R3FWNmd5aVJlWXBVSk9zUUZDY2RzdFc1UEh4OHpuNU5JQ0JtSEc1V2xOb3lHX2tyTkdmQ3dVUXpYNQ?oc=5",
-          "published_at": "2026-08-04T05:22:45+00:00"
+          "title": "김천 복숭아 홍콩 수출 선적식 진행 - 김천내일신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jcm82RUVhMkZiYk0yZk9kcExYUHZaNC1PZGZLQTBLQkxpS25qY3BCZjRnMjlodXlpdHR5VVh2dmVvN1FNM3ZtYjgxdFFIeXZBX0ZsQUkzbW4zb2ZJc0c4TGd0em9GU2d5eWV1dVR5a2RLeTBCMGRWVTBubzRMZw?oc=5",
+          "published_at": "2026-08-05T05:38:30+00:00"
         },
         {
-          "title": "부광약품, 태국에 당뇨약 '덱시드' 수출…동남아 사업 확대 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2NEdybnc0MUgwbTN3aWo2MURiR0VDSGFrRzJWZS1iRGhVaDR2UmZ1X1huZ1dFcko5N2w1ZUNycERhdGZrZEdnSkh3anIyUU9QbnhBUWpfSWQzNExPbE5fRmxZTW9sNHlIZ0w4b0Jn?oc=5",
-          "published_at": "2026-08-04T05:09:03+00:00"
+          "title": "\"숫자보다 체류·지출\"…日 수준 관광수출 땐 부가가치 6.3조 - 금융소비자뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vdTB0djk2SnR1ei1saW1EWTk4VkU2anJRZjNmdEFKN2R4cW0xSUw1ZDJxS3FqNFlNa3dfNnRKS2duNkRMNGxKUmhxNDVSLVRqbnhpVTBxclg2UFlMZktrdVhSZVlvRGo1RHc?oc=5",
+          "published_at": "2026-08-05T05:37:35+00:00"
         },
         {
-          "title": "광양 매실로 빚은 ‘섬진강의별’ 첫 해외 수출 - 전남인뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUWZObGRpZWgwVWxYcWRaVDhSeGNHaWMyeGRjQlRvWlRCcVFiSU91SDIzZVVCZ1hTY01XMjl4SmVSS0ZzQ3pEX3U5cTY5NVhqOUhJY2I5T2tSZEhsUUE0c1V5NWNCRzNQQ3c?oc=5",
-          "published_at": "2026-08-04T04:58:18+00:00"
+          "title": "두산퓨얼셀, SOFC 핵심부품 첫 해외 수출 - 뉴스타운",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZV1A1ckRzRlBRSTdOdkNvejJxMVVhZmM3WDJscWk5V0hWSmpWa3lGanQwYjJ1QlJUbEJjaGV4V1hIWWdIQ1cwSW1MVGY5X1I3VW5WVmtBdnhpS2M3RXc5cHhqN05PXzVtVjkwLXR3?oc=5",
+          "published_at": "2026-08-05T05:35:24+00:00"
         },
         {
-          "title": "[카드] 오토노머스에이투지·Space42, 자율주행 수출 계약 - 프라임경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56UmZCTURFOXpYUk1peEMzZGZYdDRaUmtTcVFkbERNaU9vZFl6TXBHWUZzOHJRSktGQk1jLUZ2U3kxbVJUNy1jTlhDLW94YU13R2FBbVR5VnpHcU14Qko1WA?oc=5",
-          "published_at": "2026-08-04T04:57:44+00:00"
+          "title": "두산퓨얼셀, ‘연료전지 심장’ 유럽 첫 수출…1087억원 규모 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qMkhXdzNkbFNsQlpwVzRxUFJVaUJNMW1abThPY2FiNnU0LUVYNnMwUzhhVnVTaWczdm5Sc2ZIbWs3QlBZOEtQZ1hiM1RPRlhzS2h3MVRR?oc=5",
+          "published_at": "2026-08-05T05:26:01+00:00"
         },
         {
-          "title": "부광약품, 태국 퍼시픽 헬스케어와 덱시드 수출 계약…동남아 공략 가속 - PRESS9",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2YnJIX1F3STc0LVctUjhpWGVQSjN6dGloZk5Pc0FSMDl4c0lyS24yVzVkUXNnbkx2a2lRRk1zajhQdDhLUkJndzk5Z2l6Y0tJV21sR0VGS3ozOFZmWTFaX0x3ZTY?oc=5",
-          "published_at": "2026-08-04T04:56:10+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "소비자물가",
-      "score": 114.28,
-      "articles": [
-        {
-          "title": "7월 소비자물가 2.8%로 둔화…근원물가는 2년 반 만에 최고 - 자본시장뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SLU8xQzNzMWNzRlRDRndjYUZ4T0E1YjBZLWZrR1FMbnJXb0E5YkdUcERVakZwMkI2cE5iejZha2pMRl9pcFU2QUdzWnRtVFhrOHdhdVZWVExldTV4aWRXc1laYW0zVzQ?oc=5",
-          "published_at": "2026-08-04T04:00:00+00:00"
-        },
-        {
-          "title": "7월 지역 소비자물가 상승...상승폭은 꺾여 - tbc.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdfSDZ0bjJSbGt1UG1temtXaXEzRGhCMUJoUnVoS00xZ3J5ajRfajM0MndyWUxleVo2TWotVHlqRHpOVzk3QU4xZkxWOXVBU3VramdtMFEzZndVU2hweUEydDlVTUNFUTFHNk9mdHU2aFBhWlk3TlJhcXZkcmpfTg?oc=5",
-          "published_at": "2026-08-04T02:37:24+00:00"
-        },
-        {
-          "title": "7월 소비자물가 2.8% 상승…석 달 만에 2%대로 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lUlhVSmh4T2lJdWJXbGFIeUxyMThaNF8zREhweTZNQjE2V19PeWpvVkUtclZaRC0xMGd1RXo2cFpvZUZsVEwzNlZDUEJzZw?oc=5",
-          "published_at": "2026-08-04T02:31:03+00:00"
-        },
-        {
-          "title": "[종합] 7월 소비자물가 2.8%…석유류·농축수산물 둔화에 3개월 만에 2%대 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55VTd4bVF5WnhIekRRNEs4ODBSLWtJT0djV0hvR2M4RnQyZEpvQWdNdHZOQWhVWkpUclhLLTlwalpqRE5uMWdhbDRpN3BIUFowdXdINGI2VllUY2FW?oc=5",
-          "published_at": "2026-08-04T01:56:00+00:00"
-        },
-        {
-          "title": "7월 소비자물가 2.8%↑, 국제 유가 상승세 둔화에 3개월 만에 2%대 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHpxN0VnRExBSHNSU1ZSR0JjdjJfUVk0WkwyTnZxMFdqWG9wNDJlU0dMN3M0SkdwM1g2SUFHOFBGZkJjYUUxZkliOU9Manl2M0V0bFBvdHhIQmt2Mkw1X2J4b2RQNkI5RGViVXhVQVVGN2NoNExaeHZvOFY1N2FYQUwyZWk?oc=5",
-          "published_at": "2026-08-04T01:53:07+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "상승",
-      "score": 104.57,
-      "articles": [
-        {
-          "title": "중동발 유가 충격 잦아드나…경남 물가 상승세 둔화 - 경남도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZmRYZnA1VWsxNlRNdy1YRXE3Sk1ZeXhVS3VyQWlhTlljWGh3eHFlVWEtbm1WS0ZGVFE0OTZtVFhjYzRuN0ljRWZNc2pGQi0wOUQ3N1pJMGZmeEcxRm5HSTBVRldsVXgtVHc?oc=5",
-          "published_at": "2026-08-04T05:32:59+00:00"
-        },
-        {
-          "title": "한은 “7월 물가 상승률 2.8%, 8월엔 지난해 통신비 기저효과로 더 오를것” - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNEt1ZTBYdGEzbktmVFlmLXpqRUhLQkdDZ3lGcHBsd290c0NWQW9MalNzalBoaUQwVmNHblljaVRHU3NPX3pRS2lSaXpWX19tMXA2a0FFOFMzT0xLNTZvYkx3?oc=5",
-          "published_at": "2026-08-04T05:14:00+00:00"
-        },
-        {
-          "title": "농산물이 끌어내린 7월 물가…축산물·근원물가는 상승세 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iYjVGdm5tMVpqeGhEbDdTUTZ3SkVsNE5QaUlJUjZOMEV1eW84UGIycHZrNHQ0QlVRTFRQaVhfRXZHOVRGaUJJU0gyRlZ5SEhPaEowYVExUkJxNjF0YjduU21JNUY?oc=5",
-          "published_at": "2026-08-04T05:00:47+00:00"
-        },
-        {
-          "title": "7월 지역 소비자물가 상승...상승폭은 꺾여 - tbc.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdfSDZ0bjJSbGt1UG1temtXaXEzRGhCMUJoUnVoS00xZ3J5ajRfajM0MndyWUxleVo2TWotVHlqRHpOVzk3QU4xZkxWOXVBU3VramdtMFEzZndVU2hweUEydDlVTUNFUTFHNk9mdHU2aFBhWlk3TlJhcXZkcmpfTg?oc=5",
-          "published_at": "2026-08-04T02:37:24+00:00"
-        },
-        {
-          "title": "7월 소비자물가 2.8% 상승…석 달 만에 2%대로 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lUlhVSmh4T2lJdWJXbGFIeUxyMThaNF8zREhweTZNQjE2V19PeWpvVkUtclZaRC0xMGd1RXo2cFpvZUZsVEwzNlZDUEJzZw?oc=5",
-          "published_at": "2026-08-04T02:31:03+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "한국경제",
-      "score": 100.92,
-      "articles": [
-        {
-          "title": "\"한국경제 연구 비중 8%대 추락…평가 체계 개편 시급\" - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3bGdOX2twWC04WUZaZ1JRVEx1S01DbF9lMnpyZG5JTTNJck9HRFo2UHBENlZibjhxN21WYTZ0T2FBN3VEMG1YZGJiUi0tNlpOYXQyM2M1VXIxa3A3RzVxSFZ3?oc=5",
-          "published_at": "2026-08-04T04:42:00+00:00"
-        },
-        {
-          "title": "[속보] 코스닥 5%대 급등…3거래일째 매수 사이드카 발동 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMmphMVRCUnRDZlUxUXViWHQ3cDJTQTc0b1pBaDJfSk8xN1BnMXBXQlc2ZkR2N1hibFZKRFhRNTNrdHEwSGI0LTdXbThZODdaNEw3VXpXVHhMQQ?oc=5",
-          "published_at": "2026-08-04T04:42:00+00:00"
-        },
-        {
-          "title": "'한국경제' 연구는 내리막... \"연구 생태계 구조 개선 시급\" - 파이낸셜신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iN2Q2bVY4Qk1pejFORlh5UG82dmtJLXpaWE5LSWNmWXFrVk5sZFh3a0lBb2w4U1RDNkttMkpGbTRoSnRyZjhzTzlpM292bldfWklvQkRLaGdMMkN5N2I1cWs1UGF3MmZ1N1k0?oc=5",
-          "published_at": "2026-08-04T04:34:43+00:00"
-        },
-        {
-          "title": "SSCI급 해외 저널 좇다 ‘한국경제’ 연구 비중 26년래 최저 - kyosu.net",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YTWdWNTA1QzVhSTNqQ1BqQ3FqZWtjcDlDNXJtV0lsM1BYLUZGWmcxdEVWVVl2aUlrWlRycTZvT3ZTc0Z2TnFIYXA2UXhQMXlMQ0hHb0pSY1FrSk83VGR2YzQ0TTQydjQ?oc=5",
-          "published_at": "2026-08-04T04:28:56+00:00"
-        },
-        {
-          "title": "[단독] ‘나보타’ 키운 대웅, 필러·스킨부스터로 영토 확장 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mVWQtY3ZqaEcySGtNTlBIeVE4aTZheFVWMGZ5ZHptSmc1VnNZcUVUWUhtdXRtSFVDZmxjQ0QyakZZWTA0UE1sUTAxUzkxaWZRd2tnakFlTlVYUQ?oc=5",
-          "published_at": "2026-08-04T04:27:49+00:00"
+          "title": "인천공항, 폭염 속 국가 수출 최일선 물류단지 근무자 격려 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XUFBMaE9xWEtpNUpHY0pGVDVMRTE3dElIbDN4QkZlZ2R2V01DRnRUWC16aXhoWktHWk1xeDNnNU5held6RTE4Mm9HRVIxX3A3TGRoZHR3RnhqVWc?oc=5",
+          "published_at": "2026-08-05T05:24:13+00:00"
         }
       ]
     },
     {
       "keyword": "유가",
-      "score": 95.34,
+      "score": 86.96,
       "articles": [
         {
-          "title": "중동발 유가 충격 잦아드나…경남 물가 상승세 둔화 - 경남도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZmRYZnA1VWsxNlRNdy1YRXE3Sk1ZeXhVS3VyQWlhTlljWGh3eHFlVWEtbm1WS0ZGVFE0OTZtVFhjYzRuN0ljRWZNc2pGQi0wOUQ3N1pJMGZmeEcxRm5HSTBVRldsVXgtVHc?oc=5",
-          "published_at": "2026-08-04T05:32:59+00:00"
+          "title": "美 유가 들썩…트럼프 '존스법' 또 유예한다는데[경제키워드] - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jem5IenpxbHI3QWowdzdYcWhkQVUtRTlfNnI5ZkhIbXJyZW1Xd2xsWGs2SkRQZVBCUjZ6NEdxS1VmTUxGUWx5d1d0eWtfdnFCcXFvalN0NHEzZ0JwOGZDYmZJUEp6TFd20gFuQVVfeXFMUDdySlJZTS10UkdCZllxNk4xbHZLRmdZMXAyNEwzSF9yZ1dyRk5TM25GLUdzS283ZXRLOWZ1RGMxaGNmOUh6d1R3MXJJbG93QTJ6MXpBMVBaeU4wV3lybVlkOUxmc1k2SlhPb3RBcnc?oc=5",
+          "published_at": "2026-08-05T04:58:48+00:00"
         },
         {
-          "title": "7월 소비자물가 2.8%↑, 국제 유가 상승세 둔화에 3개월 만에 2%대 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHpxN0VnRExBSHNSU1ZSR0JjdjJfUVk0WkwyTnZxMFdqWG9wNDJlU0dMN3M0SkdwM1g2SUFHOFBGZkJjYUUxZkliOU9Manl2M0V0bFBvdHhIQmt2Mkw1X2J4b2RQNkI5RGViVXhVQVVGN2NoNExaeHZvOFY1N2FYQUwyZWk?oc=5",
-          "published_at": "2026-08-04T01:53:07+00:00"
+          "title": "美 \"호르무즈 통항 곧 합의\"…국제유가 70달러대로 급락(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XU0w2S1VqVmg4TC1pUkREMm8wcWptUXhFdmJoY19udk15VUZLWDhObm1faWtVbVZGNXFsalI3b2tORkZrNnNLOE9rV3JjVm8?oc=5",
+          "published_at": "2026-08-05T02:17:56+00:00"
         },
         {
-          "title": "트럼프 한마디에 유가 출렁…협상 기대 속 불확실성 지속 - mstoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SR1YtSHZ5c0NKNXhNZXJlSk91cXBwTkFjOXExSGR2cUZSaUlQbkVKNndZajN0dlVzVlVPeTJ6S1ZEM19BTkl5TmRvMEtuclpTMnIxMTZSU3FsNE8xcUttNVJyaThPOEdUd2Iydw?oc=5",
-          "published_at": "2026-08-04T01:20:50+00:00"
+          "title": "美 S&P500 두달 만에 최고치…국제유가 80달러 아래로 - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ek84Wl9Mclpad2hqRjJYNmhLbUVhSnp5M1BOLWJmTlc5dk5QbVRQM1NsU19RTUstUWh5SXlVRngwbHppLXl1bzlnUGZ5V1preHlJNjVBeXo5UQ?oc=5",
+          "published_at": "2026-08-05T01:29:00+00:00"
         },
         {
-          "title": "고유가·전쟁 싫은 美 유권자 10년만에 \"경제, 민주당이 공화당보다 낫네\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMzJXOGZZd0oxTjk0Slg1NmNrV2R1MlhaRlU1bnRBYk4wVV8tMU1ING1Da21MeVRTQ3RWb1JrXzlpYW13OTRKMWhSYnJKd1hkaWRZZWhseU1PZU9LRmJ6d0RpTWQzblU40gFuQVVfeXFMUDE4RVd3TkUwWmxqMHExX2dNM0h3cDBfVUVzNVptZHdJOWJ3eXB1YlhJa053U1Vib3RWS3J0cWZJRVFpWFpkS1QyVm1Ubzl0ZDlTR3RjMVd5bUVENGN0RmJHeFFtVElDZ3AyVzctQ1E?oc=5",
-          "published_at": "2026-08-04T01:15:44+00:00"
+          "title": "호르무즈 협상 타결 기대감에 국제유가 80달러 아래로 - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vS0NtN1dLbzBfUWZZZDc4SmdLVWhnV2UweUNXb3l6bUpCMkxRWXZwXzZSTUF2MDkwOWtWMGlnTlc4SDhTMVZJWDI4RWZrZ19MUzRFYzhOdjdfZnV4MkotZWJhLXExMXBhenVj?oc=5",
+          "published_at": "2026-08-05T01:21:51+00:00"
         },
         {
-          "title": "[리포트 브리핑]S-Oil, '유가 변동성보다 shortage 장기화에 집중' 목표가 190,000원 - DB증권 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0za1FYalhvd3dET0xDQUUzRERkc2R6Y0Q3TGhuODVOWTl5X1hXXzlfbDRrRGVzOHF1aXhUYV9Sdi1uXzFpRjljWXVfemdkdjZuS3R2ZnVibUtNaE90?oc=5",
-          "published_at": "2026-08-04T01:05:00+00:00"
+          "title": "[위클리오늘] 유가 내렸는데 근원물가는 꿈틀…7월 물가 2.8% 상승 - weeklytoday.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKY2EwNWpVaDladjdZY0dKNk9aOEhLYjZxSlEtZWpFazRENUxoSmN3VExUWVVjcVNNRFA1SGVmRmd6bU1iRWx4UUN0OUpwck1kWms2aS1jbDFyX1lIT0pjRGRnZzd3d0prRUJ6VGVR?oc=5",
+          "published_at": "2026-08-05T01:10:47+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "급락",
+      "score": 83.03,
+      "articles": [
+        {
+          "title": "[이슈] 원·달러 한 달 새 130원 급락…\"일시적\" vs \"추세 시작\" 갈렸다 - 자본시장뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xY2VZNWZKZUZmakRuNXFHeHptS2JXZW44MEMtNzVHVHZzWHZSLWF3YXU3eDdZSVhwVnExNDdUS0lvSmw2QmhoZHM5eUp4bFlzQnJQa1l0SFROenl6UGY1TWVqSVNqcFk?oc=5",
+          "published_at": "2026-08-05T03:00:00+00:00"
+        },
+        {
+          "title": "美 \"호르무즈 통항 곧 합의\"…국제유가 70달러대로 급락(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XU0w2S1VqVmg4TC1pUkREMm8wcWptUXhFdmJoY19udk15VUZLWDhObm1faWtVbVZGNXFsalI3b2tORkZrNnNLOE9rV3JjVm8?oc=5",
+          "published_at": "2026-08-05T02:17:56+00:00"
+        },
+        {
+          "title": "유가 급락·美 증시 호재에 코스피 3.7% 급등…코스닥도 상승 출발[개장시황] - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Hb1BvWXBtXzlVeTA1dnB0aFFBcncyYjlJUzNZTDZmS05vaHRDRDBTRldFM3luNElFWkNXVGgzREF5bGc4Z0k5TGNMUTg5SHB6bTBfUzVFeW5VeWJkM0Z6VUZGTQ?oc=5",
+          "published_at": "2026-08-05T00:30:49+00:00"
+        },
+        {
+          "title": "국제유가, 미·이란 협상 기대에 이틀째 급락…브렌트유 79달러대 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41TkV4S2ZMR29neVJmWXlKVW9OT3VhbHNlV1NQdnpEU3JEZU9xVklsb1N6Skl4eE1jM0U0MVNxWE5HZ2x2SUVXdGxNb1JrdFFKSlo2amVxZ25KMHRJTVFzN3QyblQ?oc=5",
+          "published_at": "2026-08-05T00:01:50+00:00"
+        },
+        {
+          "title": "미 \"조만간 호르무즈 합의 기대\"...국제유가 이틀째 급락 - YTN 사이언스",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjI0Mkp3Y0xEaTg5aWtDUFV2R3JZOWNrcUdPNXhZYzNNdWNmUWd3cjFZM2ZnTTl1Ym1kQVBIS3NraWtIX3oyZF9EaWppdW42dVVVaU82bDhmeVlYNjNxajNDbmJmaEMxcm1qZ3BGdTZ2QVk4TUFvbUdTdmF6bGV3YlN1N1ZhWHFCZk5Zbg?oc=5",
+          "published_at": "2026-08-05T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 72.28,
+      "articles": [
+        {
+          "title": "인도 RBI 이달 금리 동결 전망...\"중립 기조 유지할 것\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XS3dWR2IzMWFHQUo4bXRrMUhUTy1Nalo4aGpscV8zX2FEbDVqbms4a2VCRFV6ZHQwdUUxYXlCelRXWHFHN2VoSFFFVzBka29lamRraHdKeXIxSXFn?oc=5",
+          "published_at": "2026-08-05T05:28:00+00:00"
+        },
+        {
+          "title": "“짧게 맡기는 게 이득”…정기예금 ‘장·단기 금리 역전’ - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNVY4YTBpRU12UGNpVUthSUhhZEJ4b2ZaWUJqVW5adkw2NWp1TTdXWFhieTZabk1DNVR5XzJqR1F5WWtIbXFhd2ozTndwZ2FuR3gxdkNLWkNZZ3NNdzgyVg?oc=5",
+          "published_at": "2026-08-05T05:23:35+00:00"
+        },
+        {
+          "title": "다카이치, 日銀 총재에 \"국채 더 사달라\"…미국은 \"금리 올려라\" 압박 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GS0dGRG85RGFYV1hMUndVNndqMWFpRUoxdlBxazRrTU54Z2c4R2FOV19Rc0pzTVZBUWZpTFh6UzBkYUxYNUxZV3RxZ1ROUGVQUzYyd2g4SXM4UQ?oc=5",
+          "published_at": "2026-08-05T04:54:16+00:00"
+        },
+        {
+          "title": "日 다카이치 총리, 일본은행 국채 매입 요청…장기금리 안정 위한 대응 강조 - 재팬코리아데일리",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2NjQ1Sno3UFhmUXQxRmk4QVBYdjJIcS1PbWZodGFpaENabnZhejJ2bm9hcXVkMTJCTFdJMjlwaGxCOW5IQi1UMk1QeXF6bU5CRlNjUkV6SW9tUzhib0NSeEZoaDNRa0h5R2RhOQ?oc=5",
+          "published_at": "2026-08-05T04:19:24+00:00"
+        },
+        {
+          "title": "[금융家] 신현송 한국은행 총재 ④ㅣ 환율·금리 변수 겹쳤다…긴축 기조 향방은 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbV85cUpUY1JJTDM0bzFwazk2Q1JEYlBXVEVua1prYTdwN2c3cHhOWm5DUGl6MDJ2SkhPajZrM1hvVHJGWk1WODRzdHRRaWpXN3Nfa29NN3ZBNXA5YVRZUlhEZ3p6LXlv?oc=5",
+          "published_at": "2026-08-05T03:47:49+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "환율",
+      "score": 68.32,
+      "articles": [
+        {
+          "title": "환율 안정됐지만.. 폭염·원가상승에 식품업계 이달들어 줄줄이 인상 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55T0Y5TE5MazNURktwbTJvSG41YnBmTTJBSGxXU05lQlJqV3owU2tfcEJ3Y2lWWmdUMlkyLVI4Rm9CTWMwQjBXS1c2RUpqSW0xMTlqYXlqeXM1Zw?oc=5",
+          "published_at": "2026-08-05T05:33:38+00:00"
+        },
+        {
+          "title": "[금융家] 신현송 한국은행 총재 ④ㅣ 환율·금리 변수 겹쳤다…긴축 기조 향방은 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbV85cUpUY1JJTDM0bzFwazk2Q1JEYlBXVEVua1prYTdwN2c3cHhOWm5DUGl6MDJ2SkhPajZrM1hvVHJGWk1WODRzdHRRaWpXN3Nfa29NN3ZBNXA5YVRZUlhEZ3p6LXlv?oc=5",
+          "published_at": "2026-08-05T03:47:49+00:00"
+        },
+        {
+          "title": "美, 한국과도 ‘환율공조’ 채비… 대미투자 촉진 포석 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91ZkwtWUZMX3U3cWVSeGxIS2tqT3ZfRzJfNFFlTWpaMzJ2NDc0Y2tsMy1kQ2tpRVZXSFNGbnJPV3VaaVd4N1NKRjNWZkw1eDk1?oc=5",
+          "published_at": "2026-08-05T02:56:55+00:00"
+        },
+        {
+          "title": "美 \"원화도 흔들리면 안 된다\"…환율정책, 엔화 넘어 아시아로 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aaGFkQnZ3OWwydVBXSlRDQS1icjlZeTJKcU9mZW9MQjBCb1ltM3ZvRFpOUkNHMGFtdWgwdXI4Q25PN2ZKbk1SdGR0dW1odHpUZjNXYVBYZURWUQ?oc=5",
+          "published_at": "2026-08-05T01:44:00+00:00"
+        },
+        {
+          "title": "환율, 1420원대 후반으로 하락…호르무즈 협상 기대에 원화 강세 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnSmNESGNGMWJVT3Y1V0RxdUpBUnM1c1hicG1iV0pmZ0NiLXhQQ3hVa3pYbWlETzF5Y1NkOXpjZXFfWTdZdVZBaGU2SkpqMXhLa0hfcmd4WFR2SmU1R3c?oc=5",
+          "published_at": "2026-08-05T00:47:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "기준금리",
+      "score": 65.42,
+      "articles": [
+        {
+          "title": "카카오뱅크 상반기 순익 3280억 원 …\"기준금리 인상에 연간 NIM 10bp 이상 개선“ - 소비자가 만드는 신문",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAteEUwZXNQRTlldURyODBtbHdkQ3daQ01DZmMweFRLZVNYc2hNNHZQSnEyZ3kwTjltcGhfRXJUZUdVU0RWVVlQYjdoZDBlYzgxd3BUOW5ieVdDUlRrREtmVXRPLU50blZKZ0R1RzRlbkQ4azQ?oc=5",
+          "published_at": "2026-08-05T02:33:00+00:00"
+        },
+        {
+          "title": "기준금리 0.25%p 오르면 기업 연간 금융비용 연 3.2조원 증가 - intn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjR5ZmF0TEpWc1V4OXloMjUxWFBiNFJKNk5TbW12TUE1ckNkT2JSRTJrdFRXaDQtR2ZHcVlybzRhNjJxLTE5S3E2bHdlTDhyOTlYT2FnM3RlUUhRUllHWTEzWEdFTmZBMUE?oc=5",
+          "published_at": "2026-08-05T00:44:10+00:00"
+        },
+        {
+          "title": "이종욱 의원 \"기업 금융비용, 기준금리 인상에 따른 부담 확대\" - 경남뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVEYzdGVLWWRCUm1XWFVNbXdaeWFaVzlDd3Z5SU5oenlUQ3duN25ZTnY3MjNkZ25zR21fSmpXM25WMnlkeGNjUDA0YU1XTWtaQnlhdlBMdnVaaVlqT1puajNZb3NXQi1s?oc=5",
+          "published_at": "2026-08-05T00:38:32+00:00"
+        },
+        {
+          "title": "한은 금통위 \"기준금리 인상, 필요성 커지고 부담은 줄어\" - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zUzlvenA1LTA0OFVGTklWU3ZxNHREYVlzTlpWVEd4UzNlSVpkbk5RWVBTazNYMVJncXFGZnZVWGQzaThIX3VQRi12V1V6TEs4eXBR?oc=5",
+          "published_at": "2026-08-04T15:31:00+00:00"
+        },
+        {
+          "title": "한은 금통위 \"기준금리 인상, 필요성 커지고 부담은 줄어\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SMTJmRk1FZ1JGVzlicnZMV1hCYkppbkRNNlMzcWNXcno0c0VURkRpVkIzOHdFcHlsUVNiTHpUTGlTejJHNzMtTU9GYzF4NkxyanVDYzNuMTd2RmZfY0pnY2VPemNmMjQ?oc=5",
+          "published_at": "2026-08-04T15:29:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "국제유가",
+      "score": 64.89,
+      "articles": [
+        {
+          "title": "美 \"호르무즈 통항 곧 합의\"…국제유가 70달러대로 급락(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XU0w2S1VqVmg4TC1pUkREMm8wcWptUXhFdmJoY19udk15VUZLWDhObm1faWtVbVZGNXFsalI3b2tORkZrNnNLOE9rV3JjVm8?oc=5",
+          "published_at": "2026-08-05T02:17:56+00:00"
+        },
+        {
+          "title": "美 S&P500 두달 만에 최고치…국제유가 80달러 아래로 - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ek84Wl9Mclpad2hqRjJYNmhLbUVhSnp5M1BOLWJmTlc5dk5QbVRQM1NsU19RTUstUWh5SXlVRngwbHppLXl1bzlnUGZ5V1preHlJNjVBeXo5UQ?oc=5",
+          "published_at": "2026-08-05T01:29:00+00:00"
+        },
+        {
+          "title": "호르무즈 협상 타결 기대감에 국제유가 80달러 아래로 - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vS0NtN1dLbzBfUWZZZDc4SmdLVWhnV2UweUNXb3l6bUpCMkxRWXZwXzZSTUF2MDkwOWtWMGlnTlc4SDhTMVZJWDI4RWZrZ19MUzRFYzhOdjdfZnV4MkotZWJhLXExMXBhenVj?oc=5",
+          "published_at": "2026-08-05T01:21:51+00:00"
+        },
+        {
+          "title": "국제유가, 미·이란 협상 기대에 이틀째 급락…브렌트유 79달러대 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41TkV4S2ZMR29neVJmWXlKVW9OT3VhbHNlV1NQdnpEU3JEZU9xVklsb1N6Skl4eE1jM0U0MVNxWE5HZ2x2SUVXdGxNb1JrdFFKSlo2amVxZ25KMHRJTVFzN3QyblQ?oc=5",
+          "published_at": "2026-08-05T00:01:50+00:00"
+        },
+        {
+          "title": "미 \"조만간 호르무즈 합의 기대\"...국제유가 이틀째 급락 - YTN 사이언스",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjI0Mkp3Y0xEaTg5aWtDUFV2R3JZOWNrcUdPNXhZYzNNdWNmUWd3cjFZM2ZnTTl1Ym1kQVBIS3NraWtIX3oyZF9EaWppdW42dVVVaU82bDhmeVlYNjNxajNDbmJmaEMxcm1qZ3BGdTZ2QVk4TUFvbUdTdmF6bGV3YlN1N1ZhWHFCZk5Zbg?oc=5",
+          "published_at": "2026-08-05T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "협상",
+      "score": 63.81,
+      "articles": [
+        {
+          "title": "호르무즈 협상 타결 기대감에 국제유가 80달러 아래로 - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vS0NtN1dLbzBfUWZZZDc4SmdLVWhnV2UweUNXb3l6bUpCMkxRWXZwXzZSTUF2MDkwOWtWMGlnTlc4SDhTMVZJWDI4RWZrZ19MUzRFYzhOdjdfZnV4MkotZWJhLXExMXBhenVj?oc=5",
+          "published_at": "2026-08-05T01:21:51+00:00"
+        },
+        {
+          "title": "호르무즈 협상 진전에 유가 80달러 아래로…美 S&P500 최고치 경신 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QTkZWMWJLUVl2OVRoY0o5Qm11eEJpMm0yQzl1VTZhR0g2VnAtMGhBVTdtUUlJMWNLTUxvZGdwN1JiWlY0V05qMkk2dWtWSkNGSlVLUzZFbWhYV0RibXB1eExhYjYxQlBBbFE?oc=5",
+          "published_at": "2026-08-05T01:03:51+00:00"
+        },
+        {
+          "title": "환율, 1420원대 후반으로 하락…호르무즈 협상 기대에 원화 강세 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnSmNESGNGMWJVT3Y1V0RxdUpBUnM1c1hicG1iV0pmZ0NiLXhQQ3hVa3pYbWlETzF5Y1NkOXpjZXFfWTdZdVZBaGU2SkpqMXhLa0hfcmd4WFR2SmU1R3c?oc=5",
+          "published_at": "2026-08-05T00:47:00+00:00"
+        },
+        {
+          "title": "국제유가, 미·이란 협상 기대에 이틀째 급락…브렌트유 79달러대 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41TkV4S2ZMR29neVJmWXlKVW9OT3VhbHNlV1NQdnpEU3JEZU9xVklsb1N6Skl4eE1jM0U0MVNxWE5HZ2x2SUVXdGxNb1JrdFFKSlo2amVxZ25KMHRJTVFzN3QyblQ?oc=5",
+          "published_at": "2026-08-05T00:01:50+00:00"
+        },
+        {
+          "title": "[해외시황] 뉴욕증시, 호르무즈 협상 기대·유가 급락에 '다우·S&P500 최고치 경신' - 프라임경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlRmw0Ui0zMFJvd0piVHdHeE1lQS13ZEMweUQ5LTlwSmZZZG5sNGNGczZWU20tclNZN3lNcDdMdmw2NE1RcWltMnBvWGtROVdqeUlVN0l5cnRfbW5wMXV1MA?oc=5",
+          "published_at": "2026-08-04T23:53:18+00:00"
         }
       ]
     }
