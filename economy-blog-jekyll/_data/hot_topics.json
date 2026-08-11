@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-08-10T04:25:56.976527+00:00",
+  "generated_at": "2026-08-11T04:16:05.004571+00:00",
   "source_count": 4,
-  "article_count": 390,
+  "article_count": 389,
   "top_keywords": [
     {
-      "keyword": "금리",
-      "score": 193.66
-    },
-    {
-      "keyword": "net",
-      "score": 174.69
-    },
-    {
-      "keyword": "daum",
-      "score": 170.47
-    },
-    {
       "keyword": "수출",
-      "score": 128.37
+      "score": 324.47
     },
     {
-      "keyword": "환율",
-      "score": 117.11
-    },
-    {
-      "keyword": "고용",
-      "score": 110.08
+      "keyword": "8월",
+      "score": 222.25
     },
     {
       "keyword": "반도체",
-      "score": 104.54
+      "score": 181.57
     },
     {
-      "keyword": "트럼프",
-      "score": 99.4
+      "keyword": "달러",
+      "score": 151.14
     },
     {
-      "keyword": "상승",
-      "score": 98.14
+      "keyword": "금리",
+      "score": 140.37
     },
     {
-      "keyword": "인상",
-      "score": 91.33
+      "keyword": "daum",
+      "score": 135.54
     },
     {
-      "keyword": "확대",
-      "score": 89.05
+      "keyword": "net",
+      "score": 135.54
+    },
+    {
+      "keyword": "최대",
+      "score": 133.32
+    },
+    {
+      "keyword": "역대",
+      "score": 131.68
     },
     {
       "keyword": "CPI",
-      "score": 83.52
+      "score": 125.6
+    },
+    {
+      "keyword": "환율",
+      "score": 123.97
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 109.18
     }
   ],
   "hot_topics": [
     {
-      "keyword": "금리",
-      "score": 193.66,
-      "articles": [
-        {
-          "title": "[뉴스프레소] 금리 인상 후퇴에 S&P500 최고치… 모건스탠리 \"메모리 재진입 기회\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fbXZQWjZwXzZ1aHJoZ0lfeDZETl9FSUJHeEVVMEZid1NkYmFBSVNzOXZwNDdMd1RSY0wwbjBBWnJSQm1vZjVBb1d1NXVBdl9yVDdabU93RUxydzNlZWxaRWY5bHIwWHRf0gFuQVVfeXFMUDBUclJYaXFpZEZTM3JoazhLMHUxVkRfTWdHV3g3UFNnTFVYenlmM01lbTZvdjh4SElQeGI2WGVaalJZRkNaNV82VnNQYmFDel9GcDFXSFhSTmdLVUdiVF9JVVNtZmlEdklsVFpSRFE?oc=5",
-          "published_at": "2026-08-10T04:08:00+00:00"
-        },
-        {
-          "title": "지방 건설사 덮친 PF 이중고, 공사비 폭등에 금리까지 악재 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEay0xaGxXVHEwMU85NDcwbTJCY2JZTzQwWWdXc3VSZl9mYVFaQWN0VVZoTkVjc1dITXpKMHI4ckJEY1R5Nm9fdlAwZ1c2cDdzY2dTYVo4bUdXbFIwbjZ2UGgtd0xwRlI2?oc=5",
-          "published_at": "2026-08-10T03:56:00+00:00"
-        },
-        {
-          "title": "월가 \"美 고용 부진에 연준 금리 동결 가능성 커져…증시엔 추가 상승 여력\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVTYza0pqQ2JHemk4ZVBGX096LWZOSUVVTW1xOEZDTl8teHl1TFJCUXBnb09ieDc3a0dTNFVDWVMwMmh0aE1IY1RxX3ZjN2lSQlEtMVZERmttaFdlTmNkOHBuQVdKcjJRT0pEUjYySUQ?oc=5",
-          "published_at": "2026-08-10T03:53:34+00:00"
-        },
-        {
-          "title": "[올댓차이나] 홍콩 증시, 美 금리인상 전망 후퇴에 상승세…H주 0.68%↑ - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sWmFmbGF4YlFmUDZzUDdtdk03V0tmOUpEa0pxeUU1Vk1ZRVVITVVoTWVPVmZKVW9tY0lqdmJGX2hCRjFpTmtzbFVGYjNjb2tVWWhLTjVhTnpqRFRBV2ctR9IBeEFVX3lxTFBXVk5XenZVb25ZT3d1YTZYTE9NNmNiZmtvQi1MSXViSHY0VlNHTW5nRXRGbS1jdHEtVTlZNGF4QnhLQVZGQjFJMzhkd1ZyRDhLR0hRRnZJSmg0djk1THkwU2FuZFRLZGg1TF9ZdGVoVU1yem1zSGVFaw?oc=5",
-          "published_at": "2026-08-10T03:29:40+00:00"
-        },
-        {
-          "title": "ING \"美 고용, 연준 금리 인상에 심각한 의문 제기\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iLW50TGlhVjZubmRpNVlUc3lqdHJia1BheHY3b3BrMDhCN1U0NDlOT3FDbFJ0TjZlVjE5QjRtZUFVb2dfaGhDeHVPRmNSTlE4NXFmTjNHNUJiRWFqcllCRGpfOGtTWFQzQmxWRkhtTWc?oc=5",
-          "published_at": "2026-08-10T03:17:42+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "net",
-      "score": 174.69,
-      "articles": [
-        {
-          "title": "\"추석 전 30만원씩\"…지원금 지급 놓고 시의회 격돌 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40c01TWHk2cGRJdS1mQnB5RFl6d2JxZ0Mzc09ZUEk4ZmVGR2E3SWtneGx0X1M4aG9tSHRBTjBXaFNBdlNNZG9YVVdDUmVrbkU?oc=5",
-          "published_at": "2026-08-10T03:59:29+00:00"
-        },
-        {
-          "title": "트럼프 \"이란에 로우키 대응\"…美 언론 \"경제압박 강화 시사\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JMTNSUlhiWC1DX0dZZW1INzU1Z29PRHl2NUdSRnRoa0hqMHl2UlFuTDZaalctX0FXS29YTUhtbzRuRVFtTG9BY0t5NlZEamc?oc=5",
-          "published_at": "2026-08-10T03:03:24+00:00"
-        },
-        {
-          "title": "제조업 전반 반등에 KDI \"개선세 확대\"…관세·물가 등 '변수' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nNUZESzdnd2djZm00d0o1WTg0dUxPc0p3dE9SektJMzJpWnowQWxuWkczWXZUZ3JLakpXUGVhLUJ0NHhmc1lyOF9iRHJicFE?oc=5",
-          "published_at": "2026-08-10T03:03:13+00:00"
-        },
-        {
-          "title": "KDI “반도체 중심으로 경제 개선세…대외 불확실성 재차 확대” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00dVQzbDhpV2xxZjhqY1dhajY5ZDZNamZJTFpWSFRWV2xxakprUmFTelpsZkY4Z0piX0h4YlVCZjk0YVdheXM4OUxuYkVkUTA?oc=5",
-          "published_at": "2026-08-10T03:01:37+00:00"
-        },
-        {
-          "title": "[증시타임] 美 고용 쇼크에 금리 변수 부각…코스피 훈풍 이어갈까 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBua1ZvbkNWb1VVeDlVdEh4aUxQeWtXd2dNbjU2c043aGxCNnRaMjlxNUhSMERWVTlaOTlVeTdHVldhZWJjVUJOSFhrSDhJaTA?oc=5",
-          "published_at": "2026-08-10T02:19:30+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "daum",
-      "score": 170.47,
-      "articles": [
-        {
-          "title": "\"추석 전 30만원씩\"…지원금 지급 놓고 시의회 격돌 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40c01TWHk2cGRJdS1mQnB5RFl6d2JxZ0Mzc09ZUEk4ZmVGR2E3SWtneGx0X1M4aG9tSHRBTjBXaFNBdlNNZG9YVVdDUmVrbkU?oc=5",
-          "published_at": "2026-08-10T03:59:29+00:00"
-        },
-        {
-          "title": "트럼프 \"이란에 로우키 대응\"…美 언론 \"경제압박 강화 시사\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JMTNSUlhiWC1DX0dZZW1INzU1Z29PRHl2NUdSRnRoa0hqMHl2UlFuTDZaalctX0FXS29YTUhtbzRuRVFtTG9BY0t5NlZEamc?oc=5",
-          "published_at": "2026-08-10T03:03:24+00:00"
-        },
-        {
-          "title": "제조업 전반 반등에 KDI \"개선세 확대\"…관세·물가 등 '변수' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nNUZESzdnd2djZm00d0o1WTg0dUxPc0p3dE9SektJMzJpWnowQWxuWkczWXZUZ3JLakpXUGVhLUJ0NHhmc1lyOF9iRHJicFE?oc=5",
-          "published_at": "2026-08-10T03:03:13+00:00"
-        },
-        {
-          "title": "KDI “반도체 중심으로 경제 개선세…대외 불확실성 재차 확대” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00dVQzbDhpV2xxZjhqY1dhajY5ZDZNamZJTFpWSFRWV2xxakprUmFTelpsZkY4Z0piX0h4YlVCZjk0YVdheXM4OUxuYkVkUTA?oc=5",
-          "published_at": "2026-08-10T03:01:37+00:00"
-        },
-        {
-          "title": "[증시타임] 美 고용 쇼크에 금리 변수 부각…코스피 훈풍 이어갈까 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBua1ZvbkNWb1VVeDlVdEh4aUxQeWtXd2dNbjU2c043aGxCNnRaMjlxNUhSMERWVTlaOTlVeTdHVldhZWJjVUJOSFhrSDhJaTA?oc=5",
-          "published_at": "2026-08-10T02:19:30+00:00"
-        }
-      ]
-    },
-    {
       "keyword": "수출",
-      "score": 128.37,
+      "score": 324.47,
       "articles": [
         {
-          "title": "수출바우처, 지정학 폭풍 속 중소기업 ‘방탄조끼’ 되다 - 신동아",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzbjdMUmNxdnVqLUxBcmg1bzhydXN5blZNakdnTlpsZGoxcHZXa0N6ci1fQmhBMEVyMHhkZk4ta21QWUtzcUpuNWlLS0gyaENhLVJ1cDVEZUpfaUl2ZzhQeXFSb080LWhD?oc=5",
-          "published_at": "2026-08-10T04:00:02+00:00"
+          "title": "[테마시황] 오프라인 확장·수출 다변화... K-뷰티 테마 강세 - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQmVpLWxZM3p6b25QeVRkOXB6LXl2MktlWnFLcERVVHRJcm9oNDhsOWotUDljaEI0WVN2a2JabGVRTWJLSTVHd21TVG15aWJ5TTFueUdZZHAybGhlUlZka0N1TVlvV2lOVnFFOTFkTWVRZ0FFeGc?oc=5",
+          "published_at": "2026-08-11T04:04:59+00:00"
         },
         {
-          "title": "반도체 중심 수출 호조에 경제 회복세 확대 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90bktFblRtRWwtSndqM1I3bC1JZUM3ZzVxWWg4Z1kwbEFKckFfWEhPbFVNRUM2UTlzVHFJejRxVjlGaXRZaVE2ekZZTUEwTzVYd0ZVa25ZTDRsMVVMZ1gxVnBrMVRidU5x?oc=5",
-          "published_at": "2026-08-10T03:07:00+00:00"
+          "title": "“반도체가 견인했다”…8월 초순 수출 45.3% 급증 - 경제타임스",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DQWltQndBTEFDYTdvWjFDS0EtcFoxX1J2cF80UktlUnBaS1VPSGlPTGk0d296QVRQckJ1cU1LQjc4dUhFZFZQdkUzUEhLV045ZjFj?oc=5",
+          "published_at": "2026-08-11T04:00:09+00:00"
         },
         {
-          "title": "증권가 파마리서치 '수출' 주목…2분기 넘어 하반기도 성장 지속 - 약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwR3lMT0daZlpzWTR4TmdNRGdxVFB4YmJoZW1zVUNYTjFPR1k2c2FIci0wTjVqSFFEcHFnRml0RnItazV6ckt5akFYaWNvYzZUN1k3X3hXYTVDNkJvYklWOVRkU0RvWTdNeGwtdQ?oc=5",
-          "published_at": "2026-08-10T03:00:00+00:00"
+          "title": "반도체·미중 의존 낮춘다…코트라, 수출 다변화 총력 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tcEd1U2ZxalZBVUR2Y1RCeGdJMS1Sb3B5VFdzZGJlWHZEZlRfMnYwakk4LXZCdU9zaERUTjFpMFo3Z2l0T1c1X05rdFFOR0FTZlE?oc=5",
+          "published_at": "2026-08-11T04:00:00+00:00"
         },
         {
-          "title": "KDI \"반도체·수출 견인에 경기 개선세 확대... 건설·고용 부진은 부담\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85ck1XdmhKc1BWQzNOV2tuUFJtX3p5T3Vkc29qaWVBUDdGekdjRHVSU182ZFR5bVRaM2FlZm5tNEh5aDJmQUpJbkh5MEpXMzFYVUlJRktqTThha210?oc=5",
-          "published_at": "2026-08-10T03:00:00+00:00"
+          "title": "8월 초 반도체 수출 호조에 메모리 슈퍼사이클 지속 기대감 ’활활’ By 인포스탁데일리 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ibm5QWV83N3Y0RzJOdVpDVkw3TWZzNll4Z19DMDhTdGw3a2ZVWGtlZk5Kc3pMRWR3OGVNTXlWMWdkT1dfWFVSaFJLeVFqRTk4Y05RY3hCSGpkYW9oZk1QbzBjSklfOVBFOGF4bzN0Z3U?oc=5",
+          "published_at": "2026-08-11T03:47:00+00:00"
         },
         {
-          "title": "KDI \"반도체 중심 경기 개선세 확대\"…수출·설비투자 두 자릿수 증가 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80UU1nZURxMHMwWDhObHJHUHE2akV1c1dEZDhjcDM5ZnRXOHJibUhiWElwUkdSSHFQVFJqSzd3clc3MFZ3R2hpclE1eWRvSWZwanVacg?oc=5",
-          "published_at": "2026-08-10T03:00:00+00:00"
+          "title": "UAE, 호르무즈 해협 막히자 우회 LNG 수출시설 검토 - 더구루",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPbmxHeUctRU1iTENLQVppMUN4OXVZN056b25KZDVjUzZmaHRhUUhNZWRhQWdYY0dFMnJaV1lyVURWRmVGLVRweE1BQWVlUDBWdjYwM3V6RjdtbzFrbkdOMGF3aw?oc=5",
+          "published_at": "2026-08-11T03:43:46+00:00"
         }
       ]
     },
     {
-      "keyword": "환율",
-      "score": 117.11,
+      "keyword": "8월",
+      "score": 222.25,
       "articles": [
         {
-          "title": "“외환보유액 아껴라”…한국 등 아시아, ‘환율 방어’ 공식 바꿨다 [이슈+] - ekn.kr",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY3AwLUxVbExLRVVTWnYyTXYwdm45UUU4SzBsY1ZGSDZoUF9yOVd3M1VqZFZtMlp1TDJia19vQmtlZEhpZFhKZGVyOU5nelNLU0JHd2d0X0ZSSFk?oc=5",
-          "published_at": "2026-08-10T02:51:45+00:00"
+          "title": "“반도체가 견인했다”…8월 초순 수출 45.3% 급증 - 경제타임스",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DQWltQndBTEFDYTdvWjFDS0EtcFoxX1J2cF80UktlUnBaS1VPSGlPTGk0d296QVRQckJ1cU1LQjc4dUhFZFZQdkUzUEhLV045ZjFj?oc=5",
+          "published_at": "2026-08-11T04:00:09+00:00"
         },
         {
-          "title": "7월 국고채 금리 상승⋯중동 리스크·환율·외국인 매도 겹쳐 - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRTZoVnI3NXh4UzRVSGJ6YjNBQXNyaEw2a2t4OERIZkFqakVqcXJRM3hOdlgxSm1ma0dUaEdoTjF0aFlqQUtkZFB1eTRJU2NoYzFsOWxlNEkyZFlCaGc?oc=5",
-          "published_at": "2026-08-10T02:49:40+00:00"
+          "title": "8월 초 반도체 수출 호조에 메모리 슈퍼사이클 지속 기대감 ’활활’ By 인포스탁데일리 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ibm5QWV83N3Y0RzJOdVpDVkw3TWZzNll4Z19DMDhTdGw3a2ZVWGtlZk5Kc3pMRWR3OGVNTXlWMWdkT1dfWFVSaFJLeVFqRTk4Y05RY3hCSGpkYW9oZk1QbzBjSklfOVBFOGF4bzN0Z3U?oc=5",
+          "published_at": "2026-08-11T03:47:00+00:00"
         },
         {
-          "title": "'롤러코스터' 환율 도움될까…제약바이오, 사업 전략 고심 - 데일리팜",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53SFBVS1BRalk3TkZKNU4zbERMSDBubEZtZllRejZTT3VoSjFUOEJaWF9LcDd0UUlBRVFOTzh4ZVptSHdXalE5X1E5S0RNVkhJVUttS25n?oc=5",
-          "published_at": "2026-08-10T02:42:58+00:00"
+          "title": "8월 초 수출 213억 달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzV1QyRnlva2JrVmZabGc0SElRSkdMM3Q0dnEwbXNXb1RpOW9qc3FDUWNSTHk2c0JCOUE4NFFMM1YxdWdoZEZpb1pwZ3F6UXc?oc=5",
+          "published_at": "2026-08-11T03:22:11+00:00"
         },
         {
-          "title": "원-엔화 환율, 보합세 보이면서 895원 중반대 기록…달러-엔화 환율은 미국 금리인상 전망 희석되면서 157엔 후반대로 올라 - 산업일보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1wVjdpNFVlSmZTMTFDaVJLM25TYm03eURJanJybWZnbzhpSjBuOUFmVXhOSEg0dzNXY0RTS3NFR1hEeUc1?oc=5",
-          "published_at": "2026-08-10T02:10:08+00:00"
+          "title": "8월 1~10일 수출 213억 달러…역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RGt6d21PWllzTFpUTG1FaGswTklOUGwwaHpBdm9ZT0RrQlNsUU9WVzg1R0VNQURDUFhvby13ZzZkVUI3aE10ZkRHS0g4THc?oc=5",
+          "published_at": "2026-08-11T03:17:45+00:00"
         },
         {
-          "title": "[헤럴드pic] 1300원대 앞둔 원달러 환율 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16amp1MzR3X0lSelJLRFhHSVg2aWxfVGVnRGpzdG4zLXh5bVFITXhLTTIxRVdSSE5EQlFaUmZnX3RnMzYxZVBMWl9jY3hQR00?oc=5",
-          "published_at": "2026-08-10T02:03:39+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "고용",
-      "score": 110.08,
-      "articles": [
-        {
-          "title": "월가 \"美 고용 부진에 연준 금리 동결 가능성 커져…증시엔 추가 상승 여력\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVTYza0pqQ2JHemk4ZVBGX096LWZOSUVVTW1xOEZDTl8teHl1TFJCUXBnb09ieDc3a0dTNFVDWVMwMmh0aE1IY1RxX3ZjN2lSQlEtMVZERmttaFdlTmNkOHBuQVdKcjJRT0pEUjYySUQ?oc=5",
-          "published_at": "2026-08-10T03:53:34+00:00"
-        },
-        {
-          "title": "ING \"美 고용, 연준 금리 인상에 심각한 의문 제기\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iLW50TGlhVjZubmRpNVlUc3lqdHJia1BheHY3b3BrMDhCN1U0NDlOT3FDbFJ0TjZlVjE5QjRtZUFVb2dfaGhDeHVPRmNSTlE4NXFmTjNHNUJiRWFqcllCRGpfOGtTWFQzQmxWRkhtTWc?oc=5",
-          "published_at": "2026-08-10T03:17:42+00:00"
-        },
-        {
-          "title": "KDI “반도체 중심으로 韓 경제 개선세 확대… 물가·고용 불확실성 상존” - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczd6N3ZLS09BQ0FXalhpR3M4RzZ1YmdLRDdya2k0TmhtSTVtVTNuaG4zaXc3YnZiaHQ4eFRPSzUtT0NNMWlUYXByUW9lbko5QTlDWUo0UlNWTkxVRnFMTXVoNmRsaWRXem4xY1hfSVU1UWs4Z0VhQTB4cEtWUzE1SEpMWGFPd9IBmgFBVV95cUxPWHNYb3pYWDNpZ1NRMy1aM1FzTGw5R3JsbUY0ODViZ2RyVkNoTEo0WHFDcEJ2YUlkTlBCSk85QTB6WEg3ZTBjMXBNX05veloxLXJ0RHNuVnBLcTF3bktjQldkOWtGSzRjd3lrR0JfcmZaUWhsd1dKeWZ4VGtubEF4b1o1clp3eU9SWHl6aU1qS3M1SGtYZnhUcTdn?oc=5",
-          "published_at": "2026-08-10T03:03:19+00:00"
-        },
-        {
-          "title": "KDI \"반도체 중심으로 경기 개선세 확대\"…물가·고용은 변수 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aWThCNGRDNWFhS0lrUU1neng5Q2MwZVg0MmpVMmxpSS11emlZX204NU80SzV4MVFWaU9sQ0xmanE1c04xcm81Y1dzeG5Ec0NGU2dIb3NCT2o0SFnSAWBBVV95cUxOSDctc1RpRW0xaEJfeHlGQm5fTmd1b2xka0lUWUhWcmF1Q2g5MWRRNUVaY2pGVlRKUW1kY2RMVXRSUFNFX2RHZndCTkhseFY2VzVPYTMzQUZKV2xUajJzbnM?oc=5",
-          "published_at": "2026-08-10T03:00:05+00:00"
-        },
-        {
-          "title": "KDI \"반도체 중심 경제 개선세 확대..물가·고용 불안 지속\" - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ySXhDTEw4bF91QXlhZjA2Z1BfaTdkX0V5X2poaHptZU9Tc3FtMFZkT0kwa0paY2ZXaVRVMEZxNkFoUkkwR0hCdVhpelhRUE1qN2lTbEVXbEt1dw?oc=5",
-          "published_at": "2026-08-10T03:00:00+00:00"
+          "title": "8월 초 수출 213억 달러 역대 최대 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aeEx1SWpkVDlWRk1BZHdPSDM3UVY3dFhyNENlT0dGSGtDX2poV0FjYWFzLTdaNG4yRUJiU1FjdWhPWjVIbEF5c1VnUHBnQmtXRU5WRFFid0U4OWw5alo3MmdzdUJMckFjbzk1Q0JNbFlaR2FVbGhZcw?oc=5",
+          "published_at": "2026-08-11T03:10:34+00:00"
         }
       ]
     },
     {
       "keyword": "반도체",
-      "score": 104.54,
+      "score": 181.57,
       "articles": [
         {
-          "title": "반도체·AI로 확대되는 미·중 경쟁…한국의 탈출구는? - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZS1STEt3dXkwX082NHIwcHhydnNURWRvUEFSc05jWUtCV3E5Q2h4SU9HRXV3WHNJU2xQRS1PeTJ0T0V3TWZEZGpvNFVBQlFlNlRYQkV0M0g2MFY2OFdnbndfbU1BMzBhZWphWlJfdWFXMlV5NGprQnhVMWpJTUJjXzVEak90bjczMTFzMk5n?oc=5",
-          "published_at": "2026-08-10T04:10:00+00:00"
+          "title": "“반도체가 견인했다”…8월 초순 수출 45.3% 급증 - 경제타임스",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DQWltQndBTEFDYTdvWjFDS0EtcFoxX1J2cF80UktlUnBaS1VPSGlPTGk0d296QVRQckJ1cU1LQjc4dUhFZFZQdkUzUEhLV045ZjFj?oc=5",
+          "published_at": "2026-08-11T04:00:09+00:00"
         },
         {
-          "title": "KDI, 경기 판단 한 단계 올렸다…“반도체 중심 개선세 확대” - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yQlBkR1BEcmRmVmZMbWhWQXV2cEtRNmVfWTMtTjJoRDNJQUl2RXBOOGFxR0JwaWNFR3Bhb2NoMkxWdDBlX1B0RHVlTlVsR3B0UTYzOHRUcw?oc=5",
-          "published_at": "2026-08-10T03:55:16+00:00"
+          "title": "반도체·미중 의존 낮춘다…코트라, 수출 다변화 총력 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tcEd1U2ZxalZBVUR2Y1RCeGdJMS1Sb3B5VFdzZGJlWHZEZlRfMnYwakk4LXZCdU9zaERUTjFpMFo3Z2l0T1c1X05rdFFOR0FTZlE?oc=5",
+          "published_at": "2026-08-11T04:00:00+00:00"
         },
         {
-          "title": "KDI \"한국 경제 개선세 확대…반도체·투자 주도\" - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nYzZ6R1gwYi1RcWZvcWk3X3lJVzl0cEdkWjhQZFpoVXpPTTlCRl9HMXo0Y2NySHh1RExPS05hS3hkQ1R0YnFxbTQxdTFpUmNRTk5seW9kalJYN2FoUzFTVmN5czR4ZXNITGVjNWRXS0Y?oc=5",
-          "published_at": "2026-08-10T03:26:44+00:00"
+          "title": "8월 초 반도체 수출 호조에 메모리 슈퍼사이클 지속 기대감 ’활활’ By 인포스탁데일리 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ibm5QWV83N3Y0RzJOdVpDVkw3TWZzNll4Z19DMDhTdGw3a2ZVWGtlZk5Kc3pMRWR3OGVNTXlWMWdkT1dfWFVSaFJLeVFqRTk4Y05RY3hCSGpkYW9oZk1QbzBjSklfOVBFOGF4bzN0Z3U?oc=5",
+          "published_at": "2026-08-11T03:47:00+00:00"
         },
         {
-          "title": "반도체 중심 수출 호조에 경제 회복세 확대 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90bktFblRtRWwtSndqM1I3bC1JZUM3ZzVxWWg4Z1kwbEFKckFfWEhPbFVNRUM2UTlzVHFJejRxVjlGaXRZaVE2ekZZTUEwTzVYd0ZVa25ZTDRsMVVMZ1gxVnBrMVRidU5x?oc=5",
-          "published_at": "2026-08-10T03:07:00+00:00"
+          "title": "반도체 호황에 2분기 수출 10대 기업 무역집중도 55.3%...전년 대비 17%포인트 급증 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0E2ckdNb05qbTRkN0VPaFFZRWJwWk0zblV2ZkRYY2FDbVpvelJ4RGVUZUhwbU1RTm0xNmRLMFJGcy04em83Njd2Ymh2VVJiOHd2MkQ4UVNhTGJiZ3lNVHJkYVo1UjNuSmhIU0I4ZkU1TVlObHBHNUlnZlJjYm43NVFUZHdsNS04SzIyQ29R?oc=5",
+          "published_at": "2026-08-11T03:04:19+00:00"
         },
         {
-          "title": "KDI “반도체 중심으로 韓 경제 개선세 확대… 물가·고용 불확실성 상존” - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczd6N3ZLS09BQ0FXalhpR3M4RzZ1YmdLRDdya2k0TmhtSTVtVTNuaG4zaXc3YnZiaHQ4eFRPSzUtT0NNMWlUYXByUW9lbko5QTlDWUo0UlNWTkxVRnFMTXVoNmRsaWRXem4xY1hfSVU1UWs4Z0VhQTB4cEtWUzE1SEpMWGFPd9IBmgFBVV95cUxPWHNYb3pYWDNpZ1NRMy1aM1FzTGw5R3JsbUY0ODViZ2RyVkNoTEo0WHFDcEJ2YUlkTlBCSk85QTB6WEg3ZTBjMXBNX05veloxLXJ0RHNuVnBLcTF3bktjQldkOWtGSzRjd3lrR0JfcmZaUWhsd1dKeWZ4VGtubEF4b1o1clp3eU9SWHl6aU1qS3M1SGtYZnhUcTdn?oc=5",
-          "published_at": "2026-08-10T03:03:19+00:00"
+          "title": "2026년 2분기 수출 57.3% 증가…대기업·반도체 호조 견인 - news.bbsi.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UbDNnd2FyVjZBSFUyNDJETnVKVU1CMzBvWDdvdEN6aWpRVTRJRW9aekh3LU9hY183WjB3YkZxXzk3RUZoSHJJNnd1Mms0ZkNNOUtsVzktUlI4N0VKaktHUUdnZmdrQktfcnBR?oc=5",
+          "published_at": "2026-08-11T03:00:00+00:00"
         }
       ]
     },
     {
-      "keyword": "트럼프",
-      "score": 99.4,
+      "keyword": "달러",
+      "score": 151.14,
       "articles": [
         {
-          "title": "트럼프 \"이란에 로우키 대응\"…美 언론 \"경제압박 강화 시사\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JMTNSUlhiWC1DX0dZZW1INzU1Z29PRHl2NUdSRnRoa0hqMHl2UlFuTDZaalctX0FXS29YTUhtbzRuRVFtTG9BY0t5NlZEamc?oc=5",
-          "published_at": "2026-08-10T03:03:24+00:00"
+          "title": "금값 4400달러 돌파 2개월래 최고…12일 美 CPI가 분수령 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nNTRnY19FUGRCYkwwSVBJM0UzNXdBN1ZHb0daREIzYjVyZE12VjRYOXpUazcyT0RJa0J3RWRJMFlqQkgtSW5PYTZQTVN3MkIyV2M4?oc=5",
+          "published_at": "2026-08-11T03:58:00+00:00"
         },
         {
-          "title": "경고 톤 낮춘 트럼프 “로키 대응”…이란에 군사행동 대신 경제압박 시사 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXY0FJWGwycTRYUlBvYUNaSlh1V2gwaGdIWjh2NGg2TzZneXFWWnZLQXZSTnRCdFpCUmthTnhaVjl1dU9oTHNrc3ZsUnhGTUlIUFJmeUE5M1lTeWhRTkJCZ2c0Z2pscm92S3k4b2RUNA?oc=5",
-          "published_at": "2026-08-10T02:03:00+00:00"
+          "title": "금값 4400달러 돌파 2개월래 최고…12일 美 CPI가 분수령 - marketin.edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnYk43UTJIWkhyWTFJWkhXZkUwMDlRd2E4NTk1emN4YjlldHM4NmdqT1JFakJHUDVfX1dWaVJKNUlseXBsVWk1anBDeFlPVjl5bE5XSGlnNnpIWFFFU3ZPcXBXQ1B2VzJtblpXZjVJZjA4VTQ?oc=5",
+          "published_at": "2026-08-11T03:56:41+00:00"
         },
         {
-          "title": "트럼프, 이란에 군사행동 대신 '경제 옥죄기'…호르무즈 협상 장기전 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42Zy1hSUUzSjZqeVJhQ0dONXJWdjgyaUtXYTdGTlJ2OEVSWnp1YVhIaEx6SEJlZ1RoYUNEUmZYci1oOHoxYmtxRTlEcE9WT1JKWXRuNWNPU19VbzB0cy12VGpsRmI?oc=5",
-          "published_at": "2026-08-10T01:59:24+00:00"
+          "title": "8월 초 수출 213억 달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzV1QyRnlva2JrVmZabGc0SElRSkdMM3Q0dnEwbXNXb1RpOW9qc3FDUWNSTHk2c0JCOUE4NFFMM1YxdWdoZEZpb1pwZ3F6UXc?oc=5",
+          "published_at": "2026-08-11T03:22:11+00:00"
         },
         {
-          "title": "트럼프 \"경제 압박 강화\"...이란, '초강경파' 레자이 임명 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xc1dNQUJzYWlpVzlNMmsxWGcyRDZGeC1VSGx6ejRBMTRWLUt3MElNZlZoX0I1MTlvLUJKOWthc3lXcFBkd2RFMC1BenAzTW1aTDJ6RDNKYjJUcmgxaXc?oc=5",
-          "published_at": "2026-08-10T01:36:00+00:00"
+          "title": "8월 1~10일 수출 213억 달러…역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RGt6d21PWllzTFpUTG1FaGswTklOUGwwaHpBdm9ZT0RrQlNsUU9WVzg1R0VNQURDUFhvby13ZzZkVUI3aE10ZkRHS0g4THc?oc=5",
+          "published_at": "2026-08-11T03:17:45+00:00"
         },
         {
-          "title": "트럼프 \"이란에 신중 대응\"…공격보다 경제압박? - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5naThJUk9MUjdZMXAzaTJpYWxHaTd6SUVKSGxMaFVqRjVMNXF0Y0VsUHl6blo3WjFoaUZyQWdzeklVQXAtWUVjR09wOWNOYldZRHNYVVNFeDlfNUJNdER5bURKNHA4Zzg?oc=5",
-          "published_at": "2026-08-10T01:13:00+00:00"
+          "title": "8월 초 수출 213억 달러 역대 최대 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aeEx1SWpkVDlWRk1BZHdPSDM3UVY3dFhyNENlT0dGSGtDX2poV0FjYWFzLTdaNG4yRUJiU1FjdWhPWjVIbEF5c1VnUHBnQmtXRU5WRFFid0U4OWw5alo3MmdzdUJMckFjbzk1Q0JNbFlaR2FVbGhZcw?oc=5",
+          "published_at": "2026-08-11T03:10:34+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 140.37,
+      "articles": [
+        {
+          "title": "국고채 금리 일제히 상승…부총재 간담회·RBA 결과 대기 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHeGFZZDVqOTMxTWJzaWFBTTRmZTR2dUlKWlhJNlNtQWw5LWlSSnpFV0ZQd2pJYWc2SkpxMmd5a3JrUThPeENLWDYwZ3BVenc3TUhJd1pMN2ZCRnZDcFVaYS1JV0FDTmJQSWZxQV9iOTk?oc=5",
+          "published_at": "2026-08-11T04:09:15+00:00"
+        },
+        {
+          "title": "역머니무브에 꺾인 저축銀 예금금리…웰컴·애큐온도 3%대로↓ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSG5FbVBrbTgyVkRZNHpyeTRESVJ3S1p2aWhzQnM5cFF5czJEZmRmOXo2S1BfdWdubHdRczQzODdVM3pYdWdYSWs3aWh1bUE?oc=5",
+          "published_at": "2026-08-11T04:04:03+00:00"
+        },
+        {
+          "title": "“美·日 개입에도” 엔화 재추락…日 금리인상 빨라지나 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JamdlYm5VcGd0MmgweVdTazVTdTRZWGRaelJqVmZKSXNBTXBybi1qN3BFdnY0UHhfMjVwRDFfSFNwS0RxRnJTalNGbVZhVHNjQjRxTk1R?oc=5",
+          "published_at": "2026-08-11T03:48:23+00:00"
+        },
+        {
+          "title": "골드만 \"美주식시장 떠나지 말아라…금리·유가·AI가 낙관론 뒷받침\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wV0VmSXpkUV9mbm5OSHdzSEtja005V2d5N2lrQzFKbnAwTkJBOFpZVHl2dXluR3N6YnRXVHdBWVVENEgxcW9zd25xVHVLc0owUlEtNm53N0RzY3JmZTRVa28tWF8tX3JuR3VJbWhITjY?oc=5",
+          "published_at": "2026-08-11T03:35:53+00:00"
+        },
+        {
+          "title": "NH농협은행, ‘농심천심’ 예·적금 출시…최고 연 8.15% 금리 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxMUdJdEpjckVvdVg3bDNXTXZTR25HRHdNV1JhUllvZzNBQ0dQSHpEbVZRUlRoQ3FjWXJWRHRyZEZVU0pCYjlQd2Nfd3FDMW1HWi1Felpoa2djX0dtMmNaNENpOURvSVdCQ0hZdVJ2N0pIUQ?oc=5",
+          "published_at": "2026-08-11T02:28:53+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "daum",
+      "score": 135.54,
+      "articles": [
+        {
+          "title": "역머니무브에 꺾인 저축銀 예금금리…웰컴·애큐온도 3%대로↓ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSG5FbVBrbTgyVkRZNHpyeTRESVJ3S1p2aWhzQnM5cFF5czJEZmRmOXo2S1BfdWdubHdRczQzODdVM3pYdWdYSWs3aWh1bUE?oc=5",
+          "published_at": "2026-08-11T04:04:03+00:00"
+        },
+        {
+          "title": "8월 초 수출 213억 달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzV1QyRnlva2JrVmZabGc0SElRSkdMM3Q0dnEwbXNXb1RpOW9qc3FDUWNSTHk2c0JCOUE4NFFMM1YxdWdoZEZpb1pwZ3F6UXc?oc=5",
+          "published_at": "2026-08-11T03:22:11+00:00"
+        },
+        {
+          "title": "8월 1~10일 수출 213억 달러…역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RGt6d21PWllzTFpUTG1FaGswTklOUGwwaHpBdm9ZT0RrQlNsUU9WVzg1R0VNQURDUFhvby13ZzZkVUI3aE10ZkRHS0g4THc?oc=5",
+          "published_at": "2026-08-11T03:17:45+00:00"
+        },
+        {
+          "title": "단양포럼, “체류형 관광이 지역경제를 살린다”… 지역경제 활성화 해법 모색 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaDhJZ0pBMG1YbUttVTlWTGJFVXVPQkNRZU42bXNBclhyTG9WM25yczEyY0JfMVNnaXlVdGpBX2ZRYThBY3h4LWVzRERGbjA?oc=5",
+          "published_at": "2026-08-11T02:50:14+00:00"
+        },
+        {
+          "title": "반도체 수출 155% ‘껑충’…8월 초 수출 213억 달러 ‘역대 최대’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VRl9kUEhEZjJQaXhDY21PS1pnUlc2ZGhkRXgyZF9kQjIwTkZQZlNsMURxNTBEMWZzOUhBVW13OUZBYktZQzZNa0duUUlTSTQ?oc=5",
+          "published_at": "2026-08-11T02:23:36+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 135.54,
+      "articles": [
+        {
+          "title": "역머니무브에 꺾인 저축銀 예금금리…웰컴·애큐온도 3%대로↓ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSG5FbVBrbTgyVkRZNHpyeTRESVJ3S1p2aWhzQnM5cFF5czJEZmRmOXo2S1BfdWdubHdRczQzODdVM3pYdWdYSWs3aWh1bUE?oc=5",
+          "published_at": "2026-08-11T04:04:03+00:00"
+        },
+        {
+          "title": "8월 초 수출 213억 달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzV1QyRnlva2JrVmZabGc0SElRSkdMM3Q0dnEwbXNXb1RpOW9qc3FDUWNSTHk2c0JCOUE4NFFMM1YxdWdoZEZpb1pwZ3F6UXc?oc=5",
+          "published_at": "2026-08-11T03:22:11+00:00"
+        },
+        {
+          "title": "8월 1~10일 수출 213억 달러…역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RGt6d21PWllzTFpUTG1FaGswTklOUGwwaHpBdm9ZT0RrQlNsUU9WVzg1R0VNQURDUFhvby13ZzZkVUI3aE10ZkRHS0g4THc?oc=5",
+          "published_at": "2026-08-11T03:17:45+00:00"
+        },
+        {
+          "title": "단양포럼, “체류형 관광이 지역경제를 살린다”… 지역경제 활성화 해법 모색 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaDhJZ0pBMG1YbUttVTlWTGJFVXVPQkNRZU42bXNBclhyTG9WM25yczEyY0JfMVNnaXlVdGpBX2ZRYThBY3h4LWVzRERGbjA?oc=5",
+          "published_at": "2026-08-11T02:50:14+00:00"
+        },
+        {
+          "title": "반도체 수출 155% ‘껑충’…8월 초 수출 213억 달러 ‘역대 최대’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VRl9kUEhEZjJQaXhDY21PS1pnUlc2ZGhkRXgyZF9kQjIwTkZQZlNsMURxNTBEMWZzOUhBVW13OUZBYktZQzZNa0duUUlTSTQ?oc=5",
+          "published_at": "2026-08-11T02:23:36+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "최대",
+      "score": 133.32,
+      "articles": [
+        {
+          "title": "8월 초 수출 213억 달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzV1QyRnlva2JrVmZabGc0SElRSkdMM3Q0dnEwbXNXb1RpOW9qc3FDUWNSTHk2c0JCOUE4NFFMM1YxdWdoZEZpb1pwZ3F6UXc?oc=5",
+          "published_at": "2026-08-11T03:22:11+00:00"
+        },
+        {
+          "title": "8월 1~10일 수출 213억 달러…역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RGt6d21PWllzTFpUTG1FaGswTklOUGwwaHpBdm9ZT0RrQlNsUU9WVzg1R0VNQURDUFhvby13ZzZkVUI3aE10ZkRHS0g4THc?oc=5",
+          "published_at": "2026-08-11T03:17:45+00:00"
+        },
+        {
+          "title": "8월 초 수출 213억 달러 역대 최대 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aeEx1SWpkVDlWRk1BZHdPSDM3UVY3dFhyNENlT0dGSGtDX2poV0FjYWFzLTdaNG4yRUJiU1FjdWhPWjVIbEF5c1VnUHBnQmtXRU5WRFFid0U4OWw5alo3MmdzdUJMckFjbzk1Q0JNbFlaR2FVbGhZcw?oc=5",
+          "published_at": "2026-08-11T03:10:34+00:00"
+        },
+        {
+          "title": "반도체 호황에 상위 10대 기업 무역집중도 55%…역대 최대 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oc1A0dlJDQk5Pd0J5WFpSSnk5MHZsdy16MkUwQWJrTVJZTXU0ZDl0T3BnU2ZQZjRhLU1zTG9JeU9UdUFmT1FiNEtUbG1hcHBnVmxQWi1ZRHBTdWdWRC1iM3llRGRneHY4eGV1X0NJSGlhdw?oc=5",
+          "published_at": "2026-08-11T03:00:00+00:00"
+        },
+        {
+          "title": "'반도체 초호황' 10대 기업 무역집중도 55%..'수출 쏠림' 역대 최대 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hLW5EMmJPMVIwQWVlV3lfVWE4QmxRdTJpb3VuWl9EZkhKVmFCRzdORHBOM1dBWHh3RzR0d3dUaGJRaGs2N1lzUDA1clZwYmRNa0ZiYnAxT1EwZw?oc=5",
+          "published_at": "2026-08-11T03:00:00+00:00"
         }
       ]
     }
