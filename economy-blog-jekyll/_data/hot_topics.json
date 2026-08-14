@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-08-13T04:47:22.715505+00:00",
+  "generated_at": "2026-08-14T04:44:59.202398+00:00",
   "source_count": 4,
-  "article_count": 380,
+  "article_count": 362,
   "top_keywords": [
     {
-      "keyword": "CPI",
-      "score": 293.5
+      "keyword": "7월",
+      "score": 183.73
     },
     {
       "keyword": "수출",
-      "score": 267.19
-    },
-    {
-      "keyword": "7월",
-      "score": 254.58
-    },
-    {
-      "keyword": "금리",
-      "score": 134.95
-    },
-    {
-      "keyword": "einfomax",
-      "score": 126.3
-    },
-    {
-      "keyword": "daum",
-      "score": 117.51
-    },
-    {
-      "keyword": "net",
-      "score": 117.51
-    },
-    {
-      "keyword": "상승",
-      "score": 111.53
+      "score": 183.14
     },
     {
       "keyword": "물가",
-      "score": 103.22
+      "score": 147.64
     },
     {
-      "keyword": "역대",
-      "score": 90.34
+      "keyword": "유가",
+      "score": 126.22
     },
     {
-      "keyword": "뉴욕증시",
-      "score": 90.34
+      "keyword": "연합인포맥스",
+      "score": 120.96
     },
     {
-      "keyword": "9월",
-      "score": 89.87
+      "keyword": "daum",
+      "score": 111.54
+    },
+    {
+      "keyword": "net",
+      "score": 111.54
+    },
+    {
+      "keyword": "하락",
+      "score": 106.98
+    },
+    {
+      "keyword": "환율",
+      "score": 100.87
+    },
+    {
+      "keyword": "상승",
+      "score": 83.97
+    },
+    {
+      "keyword": "최고",
+      "score": 78.79
+    },
+    {
+      "keyword": "정부",
+      "score": 78.01
     }
   ],
   "hot_topics": [
     {
-      "keyword": "CPI",
-      "score": 293.5,
+      "keyword": "7월",
+      "score": 183.73,
       "articles": [
         {
-          "title": "BofA \"美 7월 CPI 둔화에도 연준 3차례 금리 인상 전망 유지\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQkVvLVQ1T0g2bzh0eE9lRmxCSU00S3ZpRnpSejVnSVkyOHNpbmRQMkdXZlEzUl92V09wd1dnTjVzMzZLTmhpNWxjdWdsZmItaHB2T0Y3NTAzaV9keUVzbFlYeFZna2wtRWNGaU0zeTg?oc=5",
-          "published_at": "2026-08-13T03:33:59+00:00"
+          "title": "AI 열풍에 ICT 수출 고공행진…7월 534억弗 '역대 최대' - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeHFIY3hJT0VTNG9HWERwQzZ5M0FrRWVMX1hIY1hOLWJic25HYzRuZGdaTjJlQmliWlNoZ0JDSE9TVU5pajhtWTdLaXpfM2JrSWpnVVZrMWgwSVVaVXlYcmxxOUh4X3lISGlR?oc=5",
+          "published_at": "2026-08-14T03:42:52+00:00"
         },
         {
-          "title": "미국 7월 CPI 둔화…9월 연준 금리 동결되나 - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwYzhVSVl6bDVFMi1Fb0c2R3ROUjhHa0I3NkxLQmVKcjUwU3Vvem95cUhSbkRXR25RcV93YVRCYnowd3RwOTV2X1RiSHZqcDJ6dWNsWjR1T3AzVVo0SHNtRnl2Y09HczFlbnJ2QmVJVdIBc0FVX3lxTE5sU3V2VXQtSy1FaTh2M2dpRUNQMWJRdjNZVUZBWUtiVldpa1FtblRDNEo3Vmhnam5lOWVQd0RDZlNicXhLNUIwd2Zha3JUSTBTNFdlVG9GaHdLMGVsR19valpma2pKNUg5T2tobTNRMVFTU3c?oc=5",
-          "published_at": "2026-08-13T02:36:57+00:00"
+          "title": "미국 7월 생산자물가 보합…9월 연준 금리 인상 가능성 크게 낮아져 By The Guru - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBocUdidnRSQnEtemV0OU5wTjNfUnlrVlUta1Y0aDEwTkFDQkdpVGRzUExEdzZHYWJWa2RsZ29UYnRpMnBpejZlcUlqOW11eHF6bEFXN1ZGam1nXy1kOC1ac0lvU01aWE1HSFFLemY3dVI?oc=5",
+          "published_at": "2026-08-14T03:21:00+00:00"
         },
         {
-          "title": "다이와 \"美 7월 CPI로 연준 9월 동결 가능성 커져…주거비가 관건\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdHBUSHd4U0ttdTF1RlNlUHlvTU5LNFY5NjYyREpZUkdkMXZvQkhkVmNxMGJBaHBGa3JNSzZYSFdBQ0daTl9tY2ctM0NRUEFMMWs3ZFR1Z1dZZC1UZDhmMkhMdjVKNlZyOWNHdno2SjY?oc=5",
-          "published_at": "2026-08-13T02:30:37+00:00"
+          "title": "ICT 7월 수출, 두달째 500억달러 돌파...AI 수출 온기가 HBM 넘어 SSD로 - seouleconews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54ZVFQZVotRTZZbjE3RFlGQlpoYjRUc295eUU5QTRTT2RlWnUtU1FfR3k2NEFhbUZKT3F4dkdqVEVKa0tsaEo5WHhaaTBZYzVCbkhFVlZPczNxOW5ZWDAtZ2dPb0JKR3l1SjEtRzBn?oc=5",
+          "published_at": "2026-08-14T02:38:33+00:00"
         },
         {
-          "title": "CPI 완화로 금값 $4,400 유지…연준·호르무즈 해협 주목 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Qam5QckZpQVBmcUxQRGdCeUZSYUhISlVXMWRuYnVHUlk2ZGhsZGsybmg3YVdUXy1OSjJuXy1uWkZiVEN3cTQ5aUREdlZsYkpzUk56eGJUMXdvV1JjVjhJdU8yNHFscnZnNkFoNDhhYw?oc=5",
-          "published_at": "2026-08-13T02:25:00+00:00"
+          "title": "7월 수출물가 49.1%↑…28년 4개월 만에 최고 - 경제타임스",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rVlB3Y205TjE4aFJKTmFsX0x3V29RdHYyMW9SZHZwZFJtQjYxLTdCc2JkdFN2dDNxbVpJV29ZcTVQZk83SlRMT1ZMUE1UaGY5RXFN?oc=5",
+          "published_at": "2026-08-14T02:30:48+00:00"
         },
         {
-          "title": "日증시, 美 CPI 둔화에 상승 개장 - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45MkpOWi14Y2kxcTlmdkxiaC1wY1ZicUtuekRCWUFHRjAxY1Rac1pRLWxhaGwyU25yTmZBZ1FrdXBZVWYxS05iR0JBQWZSaDdFQnJIaExEb29ZelF5UVRqbkxuRXZvWklyZzF4RjY0UHY?oc=5",
-          "published_at": "2026-08-13T02:12:52+00:00"
+          "title": "7월 수출물가 1.0% 상승 ... 교역조건 개선 - efnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44dF9ISHJYQm5mdEpUb3hiT3JoTktRWVpFc19iTUFsTU9BX2RmSmlBRHNTcGpRa3BlNXNyNDkxZGZHa2E4bExEQnZlODl2MlhNNVpfaWx2dVRFTnVlVlFuaG14N2w1bUhqcVRB?oc=5",
+          "published_at": "2026-08-14T02:30:00+00:00"
         }
       ]
     },
     {
       "keyword": "수출",
-      "score": 267.19,
+      "score": 183.14,
       "articles": [
         {
-          "title": "지난달 자동차 수출 62억 달러 넘어…역대 7월 중 최대 - news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcU9NdWRpMURWdm1tYVNDY1ZoYmtoX21ERVFRekFfUUU3Ym85dDRHaUc4SzI2RmtqNTJvZm82aWw5b213cGJDejV4ZnVMenN0c1FxTDNvSVlDVnVvTlJUZTl3WER2MVB6aDNGQllYdlNfcnpoWFZOZkplVFNTcThETGRIQ1JKQQ?oc=5",
-          "published_at": "2026-08-13T04:36:00+00:00"
+          "title": "AI 열풍에 ICT 수출 고공행진…7월 534억弗 '역대 최대' - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeHFIY3hJT0VTNG9HWERwQzZ5M0FrRWVMX1hIY1hOLWJic25HYzRuZGdaTjJlQmliWlNoZ0JDSE9TVU5pajhtWTdLaXpfM2JrSWpnVVZrMWgwSVVaVXlYcmxxOUh4X3lISGlR?oc=5",
+          "published_at": "2026-08-14T03:42:52+00:00"
         },
         {
-          "title": "7월 자동차 수출 62.4억달러 ‘역대 최대’…친환경차가 견인 - 더테크",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRVc4bGdwdjFoV0dCakFBU1BZb0Y0ek9oRHNDWlJKNU9lQS1mSHVKNUZDSHZjSlI3cTc5QmQzQWVMNUhHTS1WT2dkWllFMU9acGJBUl9EZXhuTFB6Sl9uOFl4NA?oc=5",
-          "published_at": "2026-08-13T04:32:14+00:00"
+          "title": "수출·소비 회복에 경기 ‘강화’…청년·제조업 고용과 물가는 여전히 부담 - 산업종합저널",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ycDJLVG9XcU9OTzZ3TVhLOFFWUld0V3I4NzhvVm1LWjdjdklYNVBMY2o0aHhGUVlQM211ZFlQUEtBV2RsRXl6OEhsRnAwYnN4a2Nn?oc=5",
+          "published_at": "2026-08-14T03:09:13+00:00"
         },
         {
-          "title": "7월 자동차 수출 62억달러 넘어…역대 최대 썼다 - 매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQVRmSmJSUnQzUUFQUUNMM3NXNWt1MmFIYS0wQzdYWE42bS1WdnhheGVmUUFQbFd6ZHBhM0dLOWNFc3Y0TzFaV3RONVdxTTEtdllWS3hPWDh1bVRZbkJUT0h3?oc=5",
-          "published_at": "2026-08-13T04:31:27+00:00"
+          "title": "수입물가 두달 연속 하락… 반도체 호황에 수출물가는 상승 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLOVJ1NkRIaVNOamtNbDc1VzBQMThRMkRnQ0dJU3VJUHkyTy1ic0ZqajJ1V1MtNDlMQjJnV1pibEZkZVRFeFVFeDhZU2VGVm1Q?oc=5",
+          "published_at": "2026-08-14T03:02:51+00:00"
         },
         {
-          "title": "7월 車 수출 62.4억불 '역대 최대'…민관, 미래차 전환·상생협력에 한뜻 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhR3Vnblk2SndlSGkwaG5SZG54eXA5ZXQtb1pnOFZCbExWTU5ydml4NUk2bXZQemt0YU9QX0d6ZkRXX3dYQWFSTDZBbmpEUQ?oc=5",
-          "published_at": "2026-08-13T04:25:15+00:00"
+          "title": "수출 62.8% 급증 및 생산·소비·투자 개선…민생 부담은 ‘여전’ - kidd.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE01bnBEaHVoWDJFQkNxZm1zdGZwckF4d3FnRjB3MXRveXhOalNwQTMxaFR1R1F2bFlucmhMUXUtcFNWRmRs?oc=5",
+          "published_at": "2026-08-14T02:59:20+00:00"
         },
         {
-          "title": "한국형 원전 해외 진출할 때 ‘규제 시스템’도 패키지 수출 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93OTdDZnowVEc0T0JMTU9UWVBOYWlDNFpTNm9UOFljSVY4WXY2b2JaTkN1Z3FfZW5uakE5OHVhZU1BRDY3WWNHTFloR3JWTHl6?oc=5",
-          "published_at": "2026-08-13T04:20:49+00:00"
+          "title": "온코닉 신약 '자큐보' 누적 수출 421억…매출 31% 기여 - 데일리팜",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcGJiZUhQdmZKa3hfeS1qeU1UdEoteXoyLXNCNkY5emtjSzItbmhaVmlsMk13T2tQWGJ4ZDhtbVcyUkJhbFVFMG4tMFFudXNCSFUyTnhR?oc=5",
+          "published_at": "2026-08-14T02:56:43+00:00"
         }
       ]
     },
     {
-      "keyword": "7월",
-      "score": 254.58,
+      "keyword": "물가",
+      "score": 147.64,
       "articles": [
         {
-          "title": "지난달 자동차 수출 62억 달러 넘어…역대 7월 중 최대 - news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcU9NdWRpMURWdm1tYVNDY1ZoYmtoX21ERVFRekFfUUU3Ym85dDRHaUc4SzI2RmtqNTJvZm82aWw5b213cGJDejV4ZnVMenN0c1FxTDNvSVlDVnVvTlJUZTl3WER2MVB6aDNGQllYdlNfcnpoWFZOZkplVFNTcThETGRIQ1JKQQ?oc=5",
-          "published_at": "2026-08-13T04:36:00+00:00"
+          "title": "[외환] 美 물가 안도·외인 주식 매수로 하락…6.10원↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1obGpsN3JrM2RKdWg1YlkwT2dJNWF3VEUxNU5QRmVTeGpreU9nMUZzOG9ETW5VNjVaSTltc1g5aDAxLVlyenAxa3JMUkdlYkRNU25nNTdVZVRWUEVHYVZSWnhUWTJHMldfT0dMTlNnaDU?oc=5",
+          "published_at": "2026-08-14T04:08:14+00:00"
         },
         {
-          "title": "7월 자동차 수출 62.4억달러 ‘역대 최대’…친환경차가 견인 - 더테크",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRVc4bGdwdjFoV0dCakFBU1BZb0Y0ek9oRHNDWlJKNU9lQS1mSHVKNUZDSHZjSlI3cTc5QmQzQWVMNUhHTS1WT2dkWllFMU9acGJBUl9EZXhuTFB6Sl9uOFl4NA?oc=5",
-          "published_at": "2026-08-13T04:32:14+00:00"
+          "title": "美 물가 둔화에 7000피 터치…반도체가 끌었다 - mstoday.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fU0puMnVxX21tS2NibFR1V2hSWkUzRHdyU3ZoTDdyOVozSjQtVmdrWnJmek5SekJkZ3hveEMzNFZvRFlnWXFoRG5LbWtVNjRPRi1yWGZJaDFsTGN3T2ExeEg3ai1peklaTXlvdw?oc=5",
+          "published_at": "2026-08-14T03:27:09+00:00"
         },
         {
-          "title": "7월 자동차 수출 62억달러 넘어…역대 최대 썼다 - 매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQVRmSmJSUnQzUUFQUUNMM3NXNWt1MmFIYS0wQzdYWE42bS1WdnhheGVmUUFQbFd6ZHBhM0dLOWNFc3Y0TzFaV3RONVdxTTEtdllWS3hPWDh1bVRZbkJUT0h3?oc=5",
-          "published_at": "2026-08-13T04:31:27+00:00"
+          "title": "씨티 \"한은, 올해 성장률·근원물가 전망 올릴 것…8월 '백투백' 인상\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WWDFfV0hXaktubGNOaFdfOXdINEV0d29KSHBDUjIwdHUtMWMzVUVUSkM1NkI2bE5YSm04eExHbkFnNjdvQkRtNllrWVVNa0h6YmJJREdfaHR0LWxGbExEbkJQM3hMTXQ1V1FlUWVVck4?oc=5",
+          "published_at": "2026-08-14T03:23:57+00:00"
         },
         {
-          "title": "7월 車 수출 62.4억불 '역대 최대'…민관, 미래차 전환·상생협력에 한뜻 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhR3Vnblk2SndlSGkwaG5SZG54eXA5ZXQtb1pnOFZCbExWTU5ydml4NUk2bXZQemt0YU9QX0d6ZkRXX3dYQWFSTDZBbmpEUQ?oc=5",
-          "published_at": "2026-08-13T04:25:15+00:00"
+          "title": "미국 7월 생산자물가 보합…9월 연준 금리 인상 가능성 크게 낮아져 By The Guru - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBocUdidnRSQnEtemV0OU5wTjNfUnlrVlUta1Y0aDEwTkFDQkdpVGRzUExEdzZHYWJWa2RsZ29UYnRpMnBpejZlcUlqOW11eHF6bEFXN1ZGam1nXy1kOC1ac0lvU01aWE1HSFFLemY3dVI?oc=5",
+          "published_at": "2026-08-14T03:21:00+00:00"
         },
         {
-          "title": "지난달 車수출 역대 7월 중 최대…전년비 7.0% ↑ - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BT1dQREJqeS1PNjg5S3BTYU85M0dhYTdIQ1hMdDJDdXFwNGVjQzU0cHJHSDB0X1JpYllyc0pUbzBzdHQwNjZBT2tibElscEFJd2lGRVpuM1h3Vi1FWGlidktlTy1LejBMQ1kxQmtuMNIBc0FVX3lxTE9tbVU3d2JzSmtUOXNYOTl2MzVZSEpZcDhvWHlJdFBiYTF2RGpVRy1vV0tvNmtzN1cyRC03VHp6eEFHcDVOc0k5SzN0ampfLUdUOERIZEF1dGMwZUU0MlRxSXVfM1o3SnNGT09pTV90OEQ0VXM?oc=5",
-          "published_at": "2026-08-13T03:51:14+00:00"
+          "title": "“폭염 지나도 썰렁해요”…손님 줄고 물가 급등, 5일장의 눈물 [르포] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95bVplMXlJWG9GS2thWEQ0cDlpYlczcWpESWs2aHFsS09GWVVSeTh2UElCNC1ZUVlpbnVpd2VvT0p0VkhJRVlWSWMyU3dqbTA?oc=5",
+          "published_at": "2026-08-14T03:12:14+00:00"
         }
       ]
     },
     {
-      "keyword": "금리",
-      "score": 134.95,
+      "keyword": "유가",
+      "score": 126.22,
       "articles": [
         {
-          "title": "[국제동향] 금리·공급망·물류 동시 압박…글로벌 경제 변동성 확대 - 산업종합저널",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BUTlxSkdXMjlYUERNdWhKTFNXbUJmc1pJLTI5bHVZRTdTTVkwdDlJbVhtNW14WGRtbnVuMXF4eC1nQXIwV1NCWEVtUXNrdmlWd0Rj?oc=5",
-          "published_at": "2026-08-13T04:27:33+00:00"
+          "title": "'유가 쇼크' 이란전쟁에 中전기트럭 특수…아시아 수출 급증 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yUElGVWUzTGVDcy1YYUtwZnJ5VGhydkxHUGJ4WVd1c2VtRUFwVjlYdlJ1X1kzOXRPVmhCQVYyU1NWOXJsRUNEUlA1elBsbXBWWmNsazNBS2hrTW80Q0HSAWNBVV95cUxPRXZnS0x4V2VIbHQxSTVGMGpmdUJzU3d1YzlWRE9La0t5YWlrZ2NONk9IT3B0R09vNGdSQnZhbUdEMkpCWVVTbXVubnpBTFRHOXRFdVJXRzF3OGtFVXNwXzlXajg?oc=5",
+          "published_at": "2026-08-14T02:01:58+00:00"
         },
         {
-          "title": "[뉴스후] 소비자물가 3.4%로는 금리 전망 못 바꿔 - 데일리연합",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CQWRnUWMwSkk2b2NaMDZoblJiOVlxU2F5dUNVRUxGdTFvTEp6RjRicDE0cGM0SE9GRW9QT2k2VFdJSnhRUlhqYWx5b3V5THBrck9GcXRFTXY4SGc?oc=5",
-          "published_at": "2026-08-13T03:40:09+00:00"
+          "title": "美 ‘핵 저지’는 2순위…밴스 “최우선목표 유가 안정” - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSdnpUNnpqQ3ZSYkIyMkhYRk5kcnpTNDJuMFZWaTZ6ZnhRRm9jSmhZWjMtR0VjS0N3ajhCYVBNdmJmN0ZjSk9xdzVNRDJSakJ1eWV2Sm12WUVNcFc5UnfSAWNBVV95cUxNTENfTHBHUE1ZV2dxbHRvR1dNYlBNOTkzZFY2VVVpRVZaazV3VENPTjZ1c3VPU01JVWJvT2lwR0doRXZwUXpzQUVEUVlTZDVJTDFWelNGanRzbnFNMndyVGZfYUE?oc=5",
+          "published_at": "2026-08-14T01:43:00+00:00"
         },
         {
-          "title": "BofA \"美 7월 CPI 둔화에도 연준 3차례 금리 인상 전망 유지\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQkVvLVQ1T0g2bzh0eE9lRmxCSU00S3ZpRnpSejVnSVkyOHNpbmRQMkdXZlEzUl92V09wd1dnTjVzMzZLTmhpNWxjdWdsZmItaHB2T0Y3NTAzaV9keUVzbFlYeFZna2wtRWNGaU0zeTg?oc=5",
-          "published_at": "2026-08-13T03:33:59+00:00"
+          "title": "美 부통령 \"이란 분쟁에서 최우선 목표는 유가\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04cndGRXgycGFyQVNYTXJsV2NaRUxmU1EwR2xkYkVvZjhLUUw1T1RKaGdUaTZQczU1dXZJV2huejA0WFJ0VEhSN2dWNTFvLXl3SUhSXzVsUnRONU1fTDN6M0oxWVJBWG93UGE5dTdTYk0?oc=5",
+          "published_at": "2026-08-14T01:17:02+00:00"
         },
         {
-          "title": "S&P500 선물, PPI 대기 속 약보합…美 국채금리↓ - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLV1V2N1BSZmhYdk9TNnowMVBsZmdqQjJDNHFzb3RENFZXbGNpN1haYmVkRjlhcHBIcDdmTnJpalNvZDRQRHRtOHp2NkhqZS14aW1vdVN3NDRJYnpkMlRHbzBUMDJNM3o5aDBPOVZ2Q2M?oc=5",
-          "published_at": "2026-08-13T03:23:08+00:00"
+          "title": "EIA‧OPEC 수요전망 하향에 8월13일 국제유가 하락 - 에너지신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xRFY5azVRQlI1cENHZEJCOGxnTFFlV3Vsd3NXTE02c1haSEpaeHo3Uzl0OGI3WGJJMHVxYlNRelVVWGswOEhNMmx0eVp3cE10cF96WWNvMHhVcXAyd2xiLXVMS0dSTTRBMW1NTU1keEJ2dw?oc=5",
+          "published_at": "2026-08-14T00:59:38+00:00"
         },
         {
-          "title": "미 국채금리 올랐지만 달러는 약세…외국인 증권자금 216억달러 유출 - ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBueTBWQVFHby1lRXdwNFEtbkhSX0MycXhscjZPMFhBc2VFY1lyejh5Zmh2STNQbnJXdFFHVHk1UmZKVjlXS29UbzlBaG5GRHFSdzluOWUyM2tXLURIQkhTdWF3SWpjV0t3?oc=5",
-          "published_at": "2026-08-13T03:00:00+00:00"
+          "title": "환율·유가 하락에 7월 수입물가 1%↓...두 달 연속 하락 - 금융소비자뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZUFMWXlMc1JjYlRPMGo5bV9BV1BwSVV1U0I4cDh6bW9yd1QyeUxvQ2xSVm1POGk4ZTlvMzFlT3F6czFDaVRoelNGYXptNmc1bE1IT0Y4MEhlNG00NG0yOTctWlRJa1NQWFE?oc=5",
+          "published_at": "2026-08-14T00:45:41+00:00"
         }
       ]
     },
     {
-      "keyword": "einfomax",
-      "score": 126.3,
+      "keyword": "연합인포맥스",
+      "score": 120.96,
       "articles": [
         {
-          "title": "BofA \"美 7월 CPI 둔화에도 연준 3차례 금리 인상 전망 유지\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQkVvLVQ1T0g2bzh0eE9lRmxCSU00S3ZpRnpSejVnSVkyOHNpbmRQMkdXZlEzUl92V09wd1dnTjVzMzZLTmhpNWxjdWdsZmItaHB2T0Y3NTAzaV9keUVzbFlYeFZna2wtRWNGaU0zeTg?oc=5",
-          "published_at": "2026-08-13T03:33:59+00:00"
+          "title": "[中경제, 두 개의 실험실③] 해킹·먹통 막는 AI…상포 '사이버 방패' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FUEJPbXNVbnBKcUREbnhwN19xOFJmdWZ2X2pscGRHLWlqQ0pfQXVIUTMybEZyRmEyNmVTNHRKdWxuMXY0WlhVUEc4YjJ3WGZmLVljUTI5YjFRZ1BqNnBxWE9ET0I4Z1JhQnRpVVFqTzY?oc=5",
+          "published_at": "2026-08-14T04:35:14+00:00"
         },
         {
-          "title": "S&P500 선물, PPI 대기 속 약보합…美 국채금리↓ - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLV1V2N1BSZmhYdk9TNnowMVBsZmdqQjJDNHFzb3RENFZXbGNpN1haYmVkRjlhcHBIcDdmTnJpalNvZDRQRHRtOHp2NkhqZS14aW1vdVN3NDRJYnpkMlRHbzBUMDJNM3o5aDBPOVZ2Q2M?oc=5",
-          "published_at": "2026-08-13T03:23:08+00:00"
+          "title": "[中경제, 두 개의 실험실②] 51초마다 한 대…BYD '전기차 생태계' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FdUpyYTlNLURlMmlaUFZtVXVrQlFnbkRGMW5jSkRvUm91ZGYxWFpMdjlwQ0pCU1U4OFVvc0dqa3RLdVhHd1RHNjhKLXFzbXA1MTVMeDRmNzZ4eXQ5ZE9ZaHJxT2t5TDJCcW4xSzdsUTc?oc=5",
+          "published_at": "2026-08-14T04:35:12+00:00"
         },
         {
-          "title": "李대통령 지지율 49%·4%p↓…취임 후 최저[NBS] - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tRnp2VXNXWXdHYm43VFJuSl9Rd3Fyd05ZeDI5eEprRU91NGwzQTZncURCYWFnQ0hGSERtbXJibWFxQjVCRms1bmZIWm01cS1mRGNtamIwVVMtQWF0cWh5Vy10QUV1NzV5ZUdhWWJGRzc?oc=5",
-          "published_at": "2026-08-13T02:50:46+00:00"
+          "title": "[中경제, 두 개의 실험실①] '우마정신' 선전·'양안융합' 핑탄…현장 가보니 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jeTR5VDVWeFFUaEpaa0x5eEVNQlVKcXlYNWVqdUdtcmpwc0gycGZJUnlsS0ZXZDFGd3JGNjgxYm4tdEV2TGxDOS1ueHhEOTFnZFRYYmpsZVRMdzJCUS1uOUdLNDRBYkVfWlhKZVpfMEI?oc=5",
+          "published_at": "2026-08-14T04:35:10+00:00"
         },
         {
-          "title": "노르웨이 국부펀드 국내 주식 투자와 연준 금리 전망까지 이시각 주요뉴스 - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SeERldTFMX0FvVHEyZ0FzTWJYeGs3SlNOVEM3bVVFanZOaDdRUWw3dHBIY1AyYlVHcnpRbFdWUFVzTUJVdi0xYkx6aTl1alJQQm1SRC1ILUt0LXp4Mm1CakFyd21jckFJem9zMTRZcHPSAXRBVV95cUxPTmVRR1FCTUN6ZHE2eGxmb0hxblZQT3F4eFlVTlE1OE5JY29kTlNKemZPdXdWcWNueUVsS2k1RlR2RDRLeko5NmxoQTl1T2pWZVFfcEd4RDM4V2VET1YzQklOQVdOUW5za2ZjRmx1dmVyZFM0Ug?oc=5",
-          "published_at": "2026-08-13T02:36:05+00:00"
+          "title": "초장기물 강세폭 대거 반납…국고채 금리 일제히 낙폭 축소 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYW9YeHMtbm0tQmJ1cVVxLVA2Y1ozYTBDdnZTOWhmazlSbTJMSEZ0eVIzY1Zpak45Q2oyMGpaMU9wUmdhNGpJUmI0QUN2V1Yta2NlemQ3cUVFWFJyQ2FHTGo0UnVnRkEtejRIR2pEclY?oc=5",
+          "published_at": "2026-08-14T04:18:33+00:00"
         },
         {
-          "title": "다이와 \"美 7월 CPI로 연준 9월 동결 가능성 커져…주거비가 관건\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdHBUSHd4U0ttdTF1RlNlUHlvTU5LNFY5NjYyREpZUkdkMXZvQkhkVmNxMGJBaHBGa3JNSzZYSFdBQ0daTl9tY2ctM0NRUEFMMWs3ZFR1Z1dZZC1UZDhmMkhMdjVKNlZyOWNHdno2SjY?oc=5",
-          "published_at": "2026-08-13T02:30:37+00:00"
+          "title": "[외환] 美 물가 안도·외인 주식 매수로 하락…6.10원↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1obGpsN3JrM2RKdWg1YlkwT2dJNWF3VEUxNU5QRmVTeGpreU9nMUZzOG9ETW5VNjVaSTltc1g5aDAxLVlyenAxa3JMUkdlYkRNU25nNTdVZVRWUEVHYVZSWnhUWTJHMldfT0dMTlNnaDU?oc=5",
+          "published_at": "2026-08-14T04:08:14+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 117.51,
+      "score": 111.54,
       "articles": [
         {
-          "title": "개혁개방의 '총괄 집행자' 중국 경제강국 만들고 떠났다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QT3hOc0pRYjF5RjVKc1hJb2RRdnJKMTlCLXlWOGJ0YnlsMm5jUDhIVWd3SFZxNG9UWXliOHJOOTBEUXNRSFk5Nk1rQ2pMUW8?oc=5",
-          "published_at": "2026-08-13T04:33:13+00:00"
+          "title": "“폭염 지나도 썰렁해요”…손님 줄고 물가 급등, 5일장의 눈물 [르포] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95bVplMXlJWG9GS2thWEQ0cDlpYlczcWpESWs2aHFsS09GWVVSeTh2UElCNC1ZUVlpbnVpd2VvT0p0VkhJRVlWSWMyU3dqbTA?oc=5",
+          "published_at": "2026-08-14T03:12:14+00:00"
         },
         {
-          "title": "“강원 기업인 역량모아 지역 경제 혁신 견인” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82bUpHNko5QlhPVlI3cG44b2hqN1B2VFhVMEY4dE12YXBDSWhQRnFBR2V6OVloQThkOTZMLUhRT2FaNzFmNDAyUnRNRUI3bmc?oc=5",
-          "published_at": "2026-08-13T03:30:00+00:00"
+          "title": "[다음 주 경제일정] 美연준 FOMC 의사록 관건…월마트 실적 주목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ga21jenBMTU9JdS1PNm90VnhjUGs2UlljRmhwUzRfSDlRQWZoR3h6WC1pS2tpZ2EyTG1LZ01nRWhNNWlmMmczNUhNbl9LWFk?oc=5",
+          "published_at": "2026-08-14T02:31:33+00:00"
         },
         {
-          "title": "가뭄·전력·물류난 3중고‥유럽경제 휘청 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BLTdMZjFxSklkUVhHWWtSZmFBVHJRNEM5YnMtTDRMSEJadVlhTXE3WnJXRlRDU1pGSW8tN2VEN0p0T0lXV1c3NFlLTm9kSWs?oc=5",
-          "published_at": "2026-08-13T03:22:00+00:00"
+          "title": "전세계 AI 투자 확대에…지난달 ICT 수출 '역대 최대' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HY1FXbW9TbVUxZEpHMlV1d0F3UXhMUmp2emFvY3VNaUpPbzhKRXdqcGwtMGM1RjdYQmRNOUtnZ0FaQUc5bjdZQnVQdnBIVUU?oc=5",
+          "published_at": "2026-08-14T02:09:27+00:00"
         },
         {
-          "title": "수도권에 23만 가구 추가 공급…서울 신규 물량은 1천 가구뿐 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1bHVGSm82bmw4aTh2UlpiclRURElzbkpReWpmMjBDNXBjc0R6RjBTQ2xDWDZvbGhoTmRZekVZY0dFZWI3Q2ZONXBQREh2OG8?oc=5",
-          "published_at": "2026-08-13T03:03:51+00:00"
+          "title": "\"AI 순풍 지속\"...반도체 수출, 7개월 연속 100% 이상 성장 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xRnFtZFA5WXdWOC01Z3R4bTJTN0IycFQ2OTJ1RGVQVWEweGhxWHNnNl9ZSEkzTXBmTVlnc1RlRnJ4WkdUVXgzRURMX1R1X2M?oc=5",
+          "published_at": "2026-08-14T02:04:52+00:00"
         },
         {
-          "title": "자동차 2개월 연속 트리플 증가 달성 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aOHJYTFctbVZKbTFvbXluT0dsV2RybGI1R3c0WVF5XzdrLWltalUtZzhtYmhNdWVQTU9WQUlPT2NvdjdGZWt6bnVvdTRyOWM?oc=5",
-          "published_at": "2026-08-13T02:41:51+00:00"
+          "title": "美 국채 30년물 발행금리 25년만 최고치…글로벌 경제 리스크 확대(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54cVpWa05WLUF3VUxpcHRfSVBDWDN6NVh6NVZ4cjJDek01eGVDS2xkUWljS0E5M2V2WlQ3WUZCZTdEX0UyM05RRW83ajE3OEk?oc=5",
+          "published_at": "2026-08-14T02:00:41+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 117.51,
+      "score": 111.54,
       "articles": [
         {
-          "title": "개혁개방의 '총괄 집행자' 중국 경제강국 만들고 떠났다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QT3hOc0pRYjF5RjVKc1hJb2RRdnJKMTlCLXlWOGJ0YnlsMm5jUDhIVWd3SFZxNG9UWXliOHJOOTBEUXNRSFk5Nk1rQ2pMUW8?oc=5",
-          "published_at": "2026-08-13T04:33:13+00:00"
+          "title": "“폭염 지나도 썰렁해요”…손님 줄고 물가 급등, 5일장의 눈물 [르포] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95bVplMXlJWG9GS2thWEQ0cDlpYlczcWpESWs2aHFsS09GWVVSeTh2UElCNC1ZUVlpbnVpd2VvT0p0VkhJRVlWSWMyU3dqbTA?oc=5",
+          "published_at": "2026-08-14T03:12:14+00:00"
         },
         {
-          "title": "“강원 기업인 역량모아 지역 경제 혁신 견인” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82bUpHNko5QlhPVlI3cG44b2hqN1B2VFhVMEY4dE12YXBDSWhQRnFBR2V6OVloQThkOTZMLUhRT2FaNzFmNDAyUnRNRUI3bmc?oc=5",
-          "published_at": "2026-08-13T03:30:00+00:00"
+          "title": "[다음 주 경제일정] 美연준 FOMC 의사록 관건…월마트 실적 주목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ga21jenBMTU9JdS1PNm90VnhjUGs2UlljRmhwUzRfSDlRQWZoR3h6WC1pS2tpZ2EyTG1LZ01nRWhNNWlmMmczNUhNbl9LWFk?oc=5",
+          "published_at": "2026-08-14T02:31:33+00:00"
         },
         {
-          "title": "가뭄·전력·물류난 3중고‥유럽경제 휘청 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BLTdMZjFxSklkUVhHWWtSZmFBVHJRNEM5YnMtTDRMSEJadVlhTXE3WnJXRlRDU1pGSW8tN2VEN0p0T0lXV1c3NFlLTm9kSWs?oc=5",
-          "published_at": "2026-08-13T03:22:00+00:00"
+          "title": "전세계 AI 투자 확대에…지난달 ICT 수출 '역대 최대' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HY1FXbW9TbVUxZEpHMlV1d0F3UXhMUmp2emFvY3VNaUpPbzhKRXdqcGwtMGM1RjdYQmRNOUtnZ0FaQUc5bjdZQnVQdnBIVUU?oc=5",
+          "published_at": "2026-08-14T02:09:27+00:00"
         },
         {
-          "title": "수도권에 23만 가구 추가 공급…서울 신규 물량은 1천 가구뿐 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1bHVGSm82bmw4aTh2UlpiclRURElzbkpReWpmMjBDNXBjc0R6RjBTQ2xDWDZvbGhoTmRZekVZY0dFZWI3Q2ZONXBQREh2OG8?oc=5",
-          "published_at": "2026-08-13T03:03:51+00:00"
+          "title": "\"AI 순풍 지속\"...반도체 수출, 7개월 연속 100% 이상 성장 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xRnFtZFA5WXdWOC01Z3R4bTJTN0IycFQ2OTJ1RGVQVWEweGhxWHNnNl9ZSEkzTXBmTVlnc1RlRnJ4WkdUVXgzRURMX1R1X2M?oc=5",
+          "published_at": "2026-08-14T02:04:52+00:00"
         },
         {
-          "title": "자동차 2개월 연속 트리플 증가 달성 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aOHJYTFctbVZKbTFvbXluT0dsV2RybGI1R3c0WVF5XzdrLWltalUtZzhtYmhNdWVQTU9WQUlPT2NvdjdGZWt6bnVvdTRyOWM?oc=5",
-          "published_at": "2026-08-13T02:41:51+00:00"
+          "title": "美 국채 30년물 발행금리 25년만 최고치…글로벌 경제 리스크 확대(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54cVpWa05WLUF3VUxpcHRfSVBDWDN6NVh6NVZ4cjJDek01eGVDS2xkUWljS0E5M2V2WlQ3WUZCZTdEX0UyM05RRW83ajE3OEk?oc=5",
+          "published_at": "2026-08-14T02:00:41+00:00"
         }
       ]
     },
     {
-      "keyword": "상승",
-      "score": 111.53,
+      "keyword": "하락",
+      "score": 106.98,
       "articles": [
         {
-          "title": "일본 7월 기업물가 7.2% 상승… 원자재 압박 지속 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDF5MlhtTUtncnJVUHlWZThlLS14UFR5U19ia3M1eFBvX0doWkF1cDlnZk9qd29ZVkJVbHZlYXFvM1BTdEVWd3VjMEtJUWFyd01PdE9vR1NqUmw5S2NFUklUc0lFUzhmdW5tVWNTZkxIaWtsTVFpcGJlTXI5VEY4VGhJcUxRRmZR?oc=5",
-          "published_at": "2026-08-13T03:06:12+00:00"
+          "title": "원-엔화 환율, 하락세 지속되면서 887원 초반대까지 내려서…달러-엔화 환율은 양국 금리차 지속 관측에 159엔 중반대로 하락 - kidd.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZRkptZzVMUVNNUUt0cnpSemVOZGlKWEhZZlVSQmU4SUwwd0hXSHFJbHlERlFGc3lRQkJQa1JON3Z1VkFp?oc=5",
+          "published_at": "2026-08-14T04:30:20+00:00"
         },
         {
-          "title": "日증시, 美 CPI 둔화에 상승 개장 - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45MkpOWi14Y2kxcTlmdkxiaC1wY1ZicUtuekRCWUFHRjAxY1Rac1pRLWxhaGwyU25yTmZBZ1FrdXBZVWYxS05iR0JBQWZSaDdFQnJIaExEb29ZelF5UVRqbkxuRXZvWklyZzF4RjY0UHY?oc=5",
-          "published_at": "2026-08-13T02:12:52+00:00"
+          "title": "[외환] 美 물가 안도·외인 주식 매수로 하락…6.10원↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1obGpsN3JrM2RKdWg1YlkwT2dJNWF3VEUxNU5QRmVTeGpreU9nMUZzOG9ETW5VNjVaSTltc1g5aDAxLVlyenAxa3JMUkdlYkRNU25nNTdVZVRWUEVHYVZSWnhUWTJHMldfT0dMTlNnaDU?oc=5",
+          "published_at": "2026-08-14T04:08:14+00:00"
         },
         {
-          "title": "日 7월 생산자물가 7.2% 상승…고물가 지속에 BOJ 추가 금리 인상 힘 실리나 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMeGE5U0h5SENsYTZBTklQWWJWR29BNV94aHpUaTNnRkZGbkpNV3lkS0YwcEJiNkZvY25BRWFldUp4enppRlNTVGNTNXRURXh4?oc=5",
-          "published_at": "2026-08-13T02:06:01+00:00"
+          "title": "수입물가 두달 연속 하락… 반도체 호황에 수출물가는 상승 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLOVJ1NkRIaVNOamtNbDc1VzBQMThRMkRnQ0dJU3VJUHkyTy1ic0ZqajJ1V1MtNDlMQjJnV1pibEZkZVRFeFVFeDhZU2VGVm1Q?oc=5",
+          "published_at": "2026-08-14T03:02:51+00:00"
         },
         {
-          "title": "7월 자동차 수출, 역대 7월 기준 '최대'…생산·내수 동반 상승 - 녹색경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iRlVYZzV0bWI1ekZzTlNiXzJRbzdWcXN3OHk0X0pZcnp0YndjdW1XSEt4R3ZENWhpNjFRNVU4Z2VULWliYlM3T1NtRVRQdy0zVk1qNC1Fb21wYzdxT2RLNUJYV1NvdFZm?oc=5",
-          "published_at": "2026-08-13T02:00:00+00:00"
+          "title": "반도체 호황에 수출 물가 상승, 수입 물가는 하락 - 미디어시시비비",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMllSZE5fNXJuWmRYbVVmNHRsRGZNMkJoZ0kxZnFyeG5LUWpoSm8yaTlQbDZPaXV1Tm1zVFB6STNUZmZReElQWnZDQ0RMQUlZem5WUmtOUE1OemdqUGVfZ0ZkQzNGWWxkQkdOYWc3eGpZQQ?oc=5",
+          "published_at": "2026-08-14T02:17:34+00:00"
         },
         {
-          "title": "비트코인, CPI 상승률 둔화에도 6만3000달러선 횡보 [크립토브리핑] - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqNHpKZXhYdzRXMHhhQndNXzlfcVRvd3AxSnU1Rk1qOWk2Slc0SXA5UVJQOWF3dW5rZldiTEZXMFFzR2dVbWpBU1B1U2I5Mno5SFNMYTdiT3hOQQ?oc=5",
-          "published_at": "2026-08-13T01:26:33+00:00"
+          "title": "7월 수입물가 1.0% 하락…반도체 가격 상승에 수출물가는 반등 - 산경투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oWXVRQkFfTjMyX3p5QTFzMW1yTDI1WkJKV1pCT2pqdldTWUdNNEx6V0lzSTBXM1d3dnFMUXBEWHhyT25DZjI1ZjU2TW1QY0Fub3lZa21aUHFKMXJfajh4SmdoMXBxQXhnWElhaTg0aHPSAXRBVV95cUxONFg3aG5uTndHampCZFh2a1A1ZzJpd1FKZXg5SVZRaTI2TkVHQVM5allGSzhReG00REd0Y2tMV1ByZmJ1VmNka2ZLUTU4ckhtenVqNEh6czZwSndTeXlpakVIQnpRWlFuLURoNEFtN2QzcmZmMw?oc=5",
+          "published_at": "2026-08-14T02:08:12+00:00"
         }
       ]
     }
