@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-09-05T07:20:29.230539+00:00",
+  "generated_at": "2026-09-06T07:33:34.231579+00:00",
   "source_count": 4,
-  "article_count": 392,
+  "article_count": 378,
   "top_keywords": [
     {
-      "keyword": "금리",
-      "score": 173.38
-    },
-    {
-      "keyword": "daum",
-      "score": 166.2
-    },
-    {
       "keyword": "net",
-      "score": 166.2
+      "score": 183.05
     },
     {
       "keyword": "수출",
-      "score": 163.13
+      "score": 179.18
     },
     {
-      "keyword": "트럼프",
-      "score": 118.37
-    },
-    {
-      "keyword": "최대",
-      "score": 101.87
+      "keyword": "daum",
+      "score": 178.53
     },
     {
       "keyword": "달러",
-      "score": 96.54
+      "score": 145.68
     },
     {
-      "keyword": "고용",
-      "score": 95.41
+      "keyword": "환율",
+      "score": 118.93
     },
     {
-      "keyword": "인상",
-      "score": 92.56
+      "keyword": "금리",
+      "score": 87.14
     },
     {
-      "keyword": "9월",
-      "score": 85.97
+      "keyword": "최대",
+      "score": 85.62
     },
     {
-      "keyword": "하락",
-      "score": 78.71
+      "keyword": "물가",
+      "score": 83.09
     },
     {
-      "keyword": "중단",
-      "score": 78.32
+      "keyword": "역대",
+      "score": 67.87
+    },
+    {
+      "keyword": "기준금리",
+      "score": 61.51
+    },
+    {
+      "keyword": "만에",
+      "score": 61.0
+    },
+    {
+      "keyword": "추석",
+      "score": 54.95
     }
   ],
   "hot_topics": [
     {
-      "keyword": "금리",
-      "score": 173.38,
-      "articles": [
-        {
-          "title": "\"0.5%로 낮춰라\"…트럼프, 연준 금리 인상 움직임에 '무역 중단' 맞불 - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PR1U3YlJrODNIeC1VYVAzVmhYeWJiU05aRXJST0xLZVZBSHJ4ZDRmeWRlOHcyODNwbEJsYzVjT1BFRUZzYzVET2liTlNWOTBfVzYzOFBLelhSM2lUNEx3?oc=5",
-          "published_at": "2026-09-05T04:21:38+00:00"
-        },
-        {
-          "title": "트럼프 \"연준이 금리 인하 안하면 美가 적자보는 나라와 무역 중단\" 압박 - 매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14Mm9kTWl6dW9maE45MUhTT0NGaXk0b3d1NW1tWW9MQmNEN3REYXNjY1M4NHhwZHF6QV9UWGd2X25STnZpMm1YUmFZa2FqdDFrQ2FBWHozYjl6QXFMOFMwQllB?oc=5",
-          "published_at": "2026-09-05T04:12:05+00:00"
-        },
-        {
-          "title": "\"빌린 돈 아직도 갚는중\"…엎친데 덮친 '금리인상'[코로나 빚 탕감①] - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BMGp6Q3hkUVdCSWE4MFJSSTJkQWlnYWk4TTd0OWk2bGNrWXF0Sk13RnVpeFJmd2Z6YUpiLXR3RDV2am4wcDFiWDE2Q21LbFdGWFpQS2xPa1kzb1d0MGtadNIBeEFVX3lxTE56VzVaOHNDUktSZm9aa1dKWXNRRUtsLVJGTFZTa3pmYlRaLTQtY21ReExjWF9RdjhQWFJnOFRmMzdhLVJSZTY3blAzYmZudEFHT2FjM0F4U3JzZjFValNrdGVTWTVrQlI2OGZDeE1aRXkzTVhvMXB5OQ?oc=5",
-          "published_at": "2026-09-05T04:01:00+00:00"
-        },
-        {
-          "title": "\"현장실습 한 번 했다고 대출금리를 내려준다고?\"…기업 혜택 쏠쏠 '산학협력 마일리지' - 조달경제신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tQzR1WmRNLXhfOXM0VnZYaHhQTkFmZ2xlbFdCb092Um9qckN5QWpjeFp4cmpOc3hucXlkS2hIakpyT1JUNlBhOXNQVzZZazRGWTZINWF1U2NmZ3JNaUVWeHZVakVITlZYMVAyRDJR?oc=5",
-          "published_at": "2026-09-05T04:00:00+00:00"
-        },
-        {
-          "title": "9월 연준 금리: 고용 보고서가 판도를 바꿀 것이며, 소비자물가지수(CPI)가 최종 '결정'이 될 것이다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRE1qeTdrZjhlS01VOEw4VDVGVlR1VnZtSUdDRTctdUt5TnZ2ek5talB2OWszUkthX3ZfOUoxVVZmNGRENXRvSlhISmtVeVJEVFNreUxlYmppZmRtcFhkX08tR1BiYmVGVnc2djZYWG9Ta25tcEEwUlhBWFcwT1pTX1daVDNMQko3ZWZVRjdUdTNrcFpiUF9LVmVMd1QxSTJkWVpnc1MzUQ?oc=5",
-          "published_at": "2026-09-05T03:54:27+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "daum",
-      "score": 166.2,
-      "articles": [
-        {
-          "title": "이 대통령, '올해 수출 역대 최대' 홍보…관세청장 \"12월초 1조 달러 전망\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzdURlajV3dktUX2dYVzE3OUNYalZCWVBsM0tQbzVwMzU1UEd2S3RTZ21iMmI0TmNmTGZpSmtqWXd0ZlVNZHFYbFhqaG04Nkk?oc=5",
-          "published_at": "2026-09-05T06:44:49+00:00"
-        },
-        {
-          "title": "9월 초 수출누계 7천억달러 돌파…연간 역대 최대 이미 넘어 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DNk5IcUZIU0dxRVRJNlhxV0t1N2o1cS1qdUtvSGxidTdMek13b0ZydUR5eGVObHZTTkp6NVBNb2tWd19PcXoxX2h5MmcwMkk?oc=5",
-          "published_at": "2026-09-05T06:21:02+00:00"
-        },
-        {
-          "title": "수출 실적, 지난해 기록 이미 추월‥1조 달러 달성도 눈앞 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wWFE4bC1mQmpSUXR3V3dwWG5uank2UGQ1QXVsenFIQWtrakRPWWNtMWg0Y1Baaml4c3RqTmVrQ3oyQkNqaGVQYmp0dEFaM0k?oc=5",
-          "published_at": "2026-09-05T06:13:06+00:00"
-        },
-        {
-          "title": "李대통령, ‘수출 역대 최대’ 관세청장 성과보고 직접 홍보 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oNjVOdEt5RkpLRkRPNDdveUFTd0RaTi1YX0ZGc0pyUTVCLUdDTUdwR2hyS0JFa2ZPaDRQM2Jtbll5MHlnLWk2ekZiV3RnT1U?oc=5",
-          "published_at": "2026-09-05T06:05:53+00:00"
-        },
-        {
-          "title": "경제 살아난다는데 일자리·가계빚은?…다음주 ‘진짜 성적표’ 나온다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrZ0xqNTl2ZWdwdjVZV1lyakxsS0g1a3VZRGpjRjZlSERIcGxZYXpRUloxUE5xclJGY0daQk0tS0dMank4NXpHaG1UWkFfODQ?oc=5",
-          "published_at": "2026-09-05T06:04:10+00:00"
-        }
-      ]
-    },
-    {
       "keyword": "net",
-      "score": 166.2,
+      "score": 183.05,
       "articles": [
         {
-          "title": "이 대통령, '올해 수출 역대 최대' 홍보…관세청장 \"12월초 1조 달러 전망\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzdURlajV3dktUX2dYVzE3OUNYalZCWVBsM0tQbzVwMzU1UEd2S3RTZ21iMmI0TmNmTGZpSmtqWXd0ZlVNZHFYbFhqaG04Nkk?oc=5",
-          "published_at": "2026-09-05T06:44:49+00:00"
+          "title": "최윤범 ‘순환경제’ 통했다…아연 수급난에 빛난 고려아연 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCekEyZ0F5dDZ0X1BmQzc3TFBpaWJnSkJ4clo1OUdYMEpJMFhoR3A1Z2ZkclduclVIcEFfeTF5bzVyRGdUNVh2MGRTbTBId1k?oc=5",
+          "published_at": "2026-09-06T07:10:44+00:00"
         },
         {
-          "title": "9월 초 수출누계 7천억달러 돌파…연간 역대 최대 이미 넘어 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DNk5IcUZIU0dxRVRJNlhxV0t1N2o1cS1qdUtvSGxidTdMek13b0ZydUR5eGVObHZTTkp6NVBNb2tWd19PcXoxX2h5MmcwMkk?oc=5",
-          "published_at": "2026-09-05T06:21:02+00:00"
+          "title": "지난해 실적 벌써 넘은 수출, 숨은 공신 ‘석유제품’인데…수출 제한에 갑론을박 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92bldaM01xcmJpRTM4YkY1UjgwcTVwRVNqR2NHX3dNRlc0ak9KQzZSSFhNV3k5UWpRMC14aHZiWEZqQVlqYWZUZVBzMjZNb00?oc=5",
+          "published_at": "2026-09-06T06:42:07+00:00"
         },
         {
-          "title": "수출 실적, 지난해 기록 이미 추월‥1조 달러 달성도 눈앞 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wWFE4bC1mQmpSUXR3V3dwWG5uank2UGQ1QXVsenFIQWtrakRPWWNtMWg0Y1Baaml4c3RqTmVrQ3oyQkNqaGVQYmp0dEFaM0k?oc=5",
-          "published_at": "2026-09-05T06:13:06+00:00"
+          "title": "[단독] “우연히 만났다”던 김승원…2019년엔 ‘고양이’ 셀카 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xVk1sUVBLeFk5OHl5d0RpZHRHRFpkQVFMNXE4NzY4ZkhsZUxpYnlFVGFTUmxEdGhjalZ5MGdnZExKMmMwamc5TER1c2NnQVU?oc=5",
+          "published_at": "2026-09-06T06:27:02+00:00"
         },
         {
-          "title": "李대통령, ‘수출 역대 최대’ 관세청장 성과보고 직접 홍보 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oNjVOdEt5RkpLRkRPNDdveUFTd0RaTi1YX0ZGc0pyUTVCLUdDTUdwR2hyS0JFa2ZPaDRQM2Jtbll5MHlnLWk2ekZiV3RnT1U?oc=5",
-          "published_at": "2026-09-05T06:05:53+00:00"
+          "title": "248일 만에 작년 수출 넘었다…7094억달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aXJGS2Q4U0QzN0s3V3F1ODZkdXl2dTVnWnFVYjRmQlZ4aXViTFpnSWl5R1VtaUxlZV9MQWtGN3J2OXYwTnJOek5IZ3lnbnc?oc=5",
+          "published_at": "2026-09-06T06:24:00+00:00"
         },
         {
-          "title": "경제 살아난다는데 일자리·가계빚은?…다음주 ‘진짜 성적표’ 나온다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrZ0xqNTl2ZWdwdjVZV1lyakxsS0g1a3VZRGpjRjZlSERIcGxZYXpRUloxUE5xclJGY0daQk0tS0dMank4NXpHaG1UWkFfODQ?oc=5",
-          "published_at": "2026-09-05T06:04:10+00:00"
+          "title": "전쟁 비용 급한 우크라이나…'성인물 합법화' 카드 꺼냈다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HY29EcGRQX2phYmhKbElhZDhXeFhVR1o3VnlIRTF2VDZ3WFcwMHNuNGEzVXNLMHFPX1pZQXo0cHlsTVA4OGZHMThhMGJ5aWs?oc=5",
+          "published_at": "2026-09-06T06:18:44+00:00"
         }
       ]
     },
     {
       "keyword": "수출",
-      "score": 163.13,
+      "score": 179.18,
       "articles": [
         {
-          "title": "올해 수출 7094억 달러 돌파...작년 연간 실적 넘으며 사상 첫 1조 달러 '눈앞' - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQkRtS0lBQTZmYV9UbXdXQ2tmOTBfLWlnT2k3a2U5VlpfZ2EzcEN6VFhyazA1WFhzTWZiU1RQUURTdVVoS1ZxVWhnYnR2YXAtaDBEdnNxUjhRd0dZ?oc=5",
-          "published_at": "2026-09-05T07:14:00+00:00"
+          "title": "인천항만공사, 중고자동차 수출역량 강화 세미나 개최 - 국민일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWWIwMEI3TlhFcUZPbWplb3lFSk1TUnF2SUdvdDJJVzI2cUNDc0R0UUlHcEpWc0RxUjY2U2V0SXJseVhxRElVYTFMMkdFX0VkREZaTDNxUU9rTEFXTi0yelhFQWhLOTgyLUJTaFhRbldhOHFnSWVnczRIYVpxdndUNnlEMGJZd9IBbEFVX3lxTE93dTlBTE9mM0ZIQVVkLWtVelQ2X3NHQnl6U1Y1OHhBaFZDTUc4Q3IzMUppaGpKcWhZN2VEQWdKY0YyLVNHYkoyZzRUZlk5SGRsVFZwUHIyVEEwNlRrZW9VeGU0QlBCX0IxQW1TRg?oc=5",
+          "published_at": "2026-09-06T07:13:00+00:00"
         },
         {
-          "title": "작년 역대급 수출 실적 벌써 넘었다⋯올해 1조달러 시대 가시권 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96MDBjeUZSTFB3WUh5S3gzUmlaUlhhZ0hvZVA0MEIzWmowY2Z0RUF2bFZud3Q2Wk1Dc0liQjgzSzVMRUhPVWMzaVk2NGRfakN5dGltUg?oc=5",
-          "published_at": "2026-09-05T07:11:00+00:00"
+          "title": "충남도, 홍콩서 충남 농산물 수출 활로 모색 - 중도일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSa05wVnkwaDZhOG83WW0xYjg3bFZqYlNUZDR3SWZCQ3c5UVNmWkhsX24zQ2d5SnJ2TnF6T2s4d3ppVTFSQmhseHdPbk9iVlN0MHF0WVBncmVLWmhobHNBbElwcDQ?oc=5",
+          "published_at": "2026-09-06T06:51:22+00:00"
         },
         {
-          "title": "이 대통령, ‘올해 수출 역대 최대’ 홍보…관세청장 \"12월초 1조 달러 전망\" - JTBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nM1VfanBnT3pkZDB2WU4xVmgyYW0yQU80dF9SMFJkRF9fT3dTZm1aV1FhWmZaOEZZSURaMTA2MWQyNHFNWC1YOFhWSjZjNW42clREVg?oc=5",
-          "published_at": "2026-09-05T07:01:21+00:00"
+          "title": "지난해 실적 벌써 넘은 수출, 숨은 공신 ‘석유제품’인데…수출 제한에 갑론을박 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92bldaM01xcmJpRTM4YkY1UjgwcTVwRVNqR2NHX3dNRlc0ak9KQzZSSFhNV3k5UWpRMC14aHZiWEZqQVlqYWZUZVBzMjZNb00?oc=5",
+          "published_at": "2026-09-06T06:42:07+00:00"
         },
         {
-          "title": "올해 수출 7천억달러 돌파 '최대 실적'…1조달러 가시권 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRmIxVUkwVUgzakF2bnJTdlQyeUEzQkJFWUJtUGFrMmZmSEE2YmVxVU9TXzBnekZTbURkblBnTGdNWmtsQk9MbFJiblRUeWtVZzJfcmh4OGFxb2ZfNFNkONIBeEFVX3lxTE45MjYxcFlUSUJvdnNRR1ZYX0xBeUlRTWNaRUlZQTZKTi1Qd0NUdkphUGJqY2ZEbUxNcHVWenEwY005Q3VxYXRXTFd5djF2dEl3UktDUXZ6UGJ4QU9mLXNiVU44UlpPRk93TmVpbGFNUjZ4eDNmUkJYWA?oc=5",
-          "published_at": "2026-09-05T06:55:43+00:00"
+          "title": "9월초 수출 벌써 작년 1년치 넘었다…올해 첫 1조 달러 가능 - 티제이비",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pT3BxemNvMnlqUFcwMnItb1dQeDJPc2xtN2wzeVNjZ0Q1WUlQbmJBbkN0RHZSSDdpTGhzMzdhYlQ1THlPaFBDdUVBNHB5LWpJN3ptLTBjUi1YVGF6?oc=5",
+          "published_at": "2026-09-06T06:32:21+00:00"
         },
         {
-          "title": "李대통령 \"수출 역대 최대\"…연말 1조달러 넘본다 - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WRGVJbF9feEhpNFhMYldyLTlYY3hMSHlnWUhmQ1JPQ2JNUjB0emd5TFk4ektHZGZNSXM5Q1M0dFllOTZ0X3ZxblJEN1VKbG41c0JmbVV0eXJOeEhaVUdDUTNOODJLVzVDeHIxQXNxQQ?oc=5",
-          "published_at": "2026-09-05T06:54:48+00:00"
+          "title": "248일 만에 작년 수출 넘었다…7094억달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aXJGS2Q4U0QzN0s3V3F1ODZkdXl2dTVnWnFVYjRmQlZ4aXViTFpnSWl5R1VtaUxlZV9MQWtGN3J2OXYwTnJOek5IZ3lnbnc?oc=5",
+          "published_at": "2026-09-06T06:24:00+00:00"
         }
       ]
     },
     {
-      "keyword": "트럼프",
-      "score": 118.37,
+      "keyword": "daum",
+      "score": 178.53,
       "articles": [
         {
-          "title": "트럼프 \"시진핑 주석 부부, 오는 24일 美 방문…국빈 만찬 환대\" - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0Wl9uNWtlaXBrUGZ3dFExNFZSQjl0bG8xcjhucmluN0lUeDZVVEpoQkRPbkpPMF81QTVzenNvMDczNm1HN21mR0ktdnNtNUtJb0hqV3h3bVlDc3pRMVdveTNiNXFpaVh3ZWxRdVg3NlJjUQ?oc=5",
-          "published_at": "2026-09-05T06:55:04+00:00"
+          "title": "최윤범 ‘순환경제’ 통했다…아연 수급난에 빛난 고려아연 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCekEyZ0F5dDZ0X1BmQzc3TFBpaWJnSkJ4clo1OUdYMEpJMFhoR3A1Z2ZkclduclVIcEFfeTF5bzVyRGdUNVh2MGRTbTBId1k?oc=5",
+          "published_at": "2026-09-06T07:10:44+00:00"
         },
         {
-          "title": "\"0.5%로 낮춰라\"…트럼프, 연준 금리 인상 움직임에 '무역 중단' 맞불 - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PR1U3YlJrODNIeC1VYVAzVmhYeWJiU05aRXJST0xLZVZBSHJ4ZDRmeWRlOHcyODNwbEJsYzVjT1BFRUZzYzVET2liTlNWOTBfVzYzOFBLelhSM2lUNEx3?oc=5",
-          "published_at": "2026-09-05T04:21:38+00:00"
+          "title": "지난해 실적 벌써 넘은 수출, 숨은 공신 ‘석유제품’인데…수출 제한에 갑론을박 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92bldaM01xcmJpRTM4YkY1UjgwcTVwRVNqR2NHX3dNRlc0ak9KQzZSSFhNV3k5UWpRMC14aHZiWEZqQVlqYWZUZVBzMjZNb00?oc=5",
+          "published_at": "2026-09-06T06:42:07+00:00"
         },
         {
-          "title": "트럼프 \"연준이 금리 인하 안하면 美가 적자보는 나라와 무역 중단\" 압박 - 매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14Mm9kTWl6dW9maE45MUhTT0NGaXk0b3d1NW1tWW9MQmNEN3REYXNjY1M4NHhwZHF6QV9UWGd2X25STnZpMm1YUmFZa2FqdDFrQ2FBWHozYjl6QXFMOFMwQllB?oc=5",
-          "published_at": "2026-09-05T04:12:05+00:00"
+          "title": "[단독] “우연히 만났다”던 김승원…2019년엔 ‘고양이’ 셀카 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xVk1sUVBLeFk5OHl5d0RpZHRHRFpkQVFMNXE4NzY4ZkhsZUxpYnlFVGFTUmxEdGhjalZ5MGdnZExKMmMwamc5TER1c2NnQVU?oc=5",
+          "published_at": "2026-09-06T06:27:02+00:00"
         },
         {
-          "title": "’교역 중단’ 경고 트럼프… 美 금리는 어디로? - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16ZHA3R0tJRnN5UVljZ2JEU21YYmRQaEJoZS1peTV2WEx5bThTZTdzQmNDREJRbGloTGpmSlMwV3ZSbTd6N1d1NTkzRkV2SlhGYkdPQkVfWVJFVXM5eU5JRXRBZXMxU28?oc=5",
-          "published_at": "2026-09-05T03:44:00+00:00"
+          "title": "248일 만에 작년 수출 넘었다…7094억달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aXJGS2Q4U0QzN0s3V3F1ODZkdXl2dTVnWnFVYjRmQlZ4aXViTFpnSWl5R1VtaUxlZV9MQWtGN3J2OXYwTnJOek5IZ3lnbnc?oc=5",
+          "published_at": "2026-09-06T06:24:00+00:00"
         },
         {
-          "title": "트럼프, 연준에 '금리 인하' 초강수 압박 - sisaweekly.com",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zTk1hZzJZRTVnSzVscHhYY1NuTmFXak9jOERoUlpzOXNrWUNiNGEtaEpxNnlCR1RibFQ1c3hyX2pqSlVQenQxUFEzYkpad1pDZl9MUUQtckxkZkRMLVRzYWhWRWxoUEdKSHhz?oc=5",
-          "published_at": "2026-09-05T03:22:30+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "최대",
-      "score": 101.87,
-      "articles": [
-        {
-          "title": "이 대통령, ‘올해 수출 역대 최대’ 홍보…관세청장 \"12월초 1조 달러 전망\" - JTBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nM1VfanBnT3pkZDB2WU4xVmgyYW0yQU80dF9SMFJkRF9fT3dTZm1aV1FhWmZaOEZZSURaMTA2MWQyNHFNWC1YOFhWSjZjNW42clREVg?oc=5",
-          "published_at": "2026-09-05T07:01:21+00:00"
-        },
-        {
-          "title": "올해 수출 7천억달러 돌파 '최대 실적'…1조달러 가시권 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRmIxVUkwVUgzakF2bnJTdlQyeUEzQkJFWUJtUGFrMmZmSEE2YmVxVU9TXzBnekZTbURkblBnTGdNWmtsQk9MbFJiblRUeWtVZzJfcmh4OGFxb2ZfNFNkONIBeEFVX3lxTE45MjYxcFlUSUJvdnNRR1ZYX0xBeUlRTWNaRUlZQTZKTi1Qd0NUdkphUGJqY2ZEbUxNcHVWenEwY005Q3VxYXRXTFd5djF2dEl3UktDUXZ6UGJ4QU9mLXNiVU44UlpPRk93TmVpbGFNUjZ4eDNmUkJYWA?oc=5",
-          "published_at": "2026-09-05T06:55:43+00:00"
-        },
-        {
-          "title": "李대통령 \"수출 역대 최대\"…연말 1조달러 넘본다 - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WRGVJbF9feEhpNFhMYldyLTlYY3hMSHlnWUhmQ1JPQ2JNUjB0emd5TFk4ektHZGZNSXM5Q1M0dFllOTZ0X3ZxblJEN1VKbG41c0JmbVV0eXJOeEhaVUdDUTNOODJLVzVDeHIxQXNxQQ?oc=5",
-          "published_at": "2026-09-05T06:54:48+00:00"
-        },
-        {
-          "title": "9월 초 수출 7천억달러 돌파…지난해 연간 최대 실적 벌써 넘었다 - 코리아포스트 한글판",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkTVNpV0hHOFZINHVrYVBhc1drT3FqZi16UnRTdm1pZU5VLUNNTmVRSjZlRHF5MWIyaEJzVU93VUs4Wnh4RTFUYkpjNWd6ckRySDhhQU1DaVVZMlgwbi1tdXMxaktIWkNqQWVNa0hn?oc=5",
-          "published_at": "2026-09-05T06:45:12+00:00"
-        },
-        {
-          "title": "올해 수출 7000억달러 돌파…지난해 연간 최대 기록 벌써 넘어 - 브릿지경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GLWlabWxiNEpnS293YnlIYXBBdHRTQ3duYUFIV0JZRnhYNnYwd1AzWXB3ZHBOeEcyamplX0NTbU9GWGNrYnZaZEwtaW42ejU4TE5MQUZkMjNodw?oc=5",
-          "published_at": "2026-09-05T06:45:00+00:00"
+          "title": "전쟁 비용 급한 우크라이나…'성인물 합법화' 카드 꺼냈다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HY29EcGRQX2phYmhKbElhZDhXeFhVR1o3VnlIRTF2VDZ3WFcwMHNuNGEzVXNLMHFPX1pZQXo0cHlsTVA4OGZHMThhMGJ5aWs?oc=5",
+          "published_at": "2026-09-06T06:18:44+00:00"
         }
       ]
     },
     {
       "keyword": "달러",
-      "score": 96.54,
+      "score": 145.68,
       "articles": [
         {
-          "title": "올해 수출 7094억 달러 돌파...작년 연간 실적 넘으며 사상 첫 1조 달러 '눈앞' - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQkRtS0lBQTZmYV9UbXdXQ2tmOTBfLWlnT2k3a2U5VlpfZ2EzcEN6VFhyazA1WFhzTWZiU1RQUURTdVVoS1ZxVWhnYnR2YXAtaDBEdnNxUjhRd0dZ?oc=5",
-          "published_at": "2026-09-05T07:14:00+00:00"
+          "title": "원·달러 환율, 23개월 만에 최저치…가파른 하락세 [포토] - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wa09kNkJGcjlHOFlBU2plZ0E3YVptLXo5R0NTUno3OFRGMzhTNnRMQjF1YlZ1LW9WU0NTZkFqVU1STGFUSXNCN1dsaWlDQm9ZTXp0Sw?oc=5",
+          "published_at": "2026-09-06T07:04:00+00:00"
         },
         {
-          "title": "작년 역대급 수출 실적 벌써 넘었다⋯올해 1조달러 시대 가시권 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96MDBjeUZSTFB3WUh5S3gzUmlaUlhhZ0hvZVA0MEIzWmowY2Z0RUF2bFZud3Q2Wk1Dc0liQjgzSzVMRUhPVWMzaVk2NGRfakN5dGltUg?oc=5",
-          "published_at": "2026-09-05T07:11:00+00:00"
+          "title": "달러 약세와 미 국채 금리 하락에 루피아화 강세…인도네시아 중앙은행, ‘안정 우선’ 기조 뒷받침 - VT Markets",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRWNMdjJ2OVJnejhDQkp5NGt3N0s1Yi1fVGQyNUx0OWQzTmwxaXdpdUgxM2ZQSzVzaUVOYnRXYllENzVfUlJHMUd2QWhDSFRQdXROS2E5VVZ5UFB1WTdDbEtnSWJrUEhwZjZmbVB2WmNxQk1HZnY0VDJGOElnWHFqeEZNU09vZl9iRy1tU1VSdGNzUl9hZXJMZU5mVllTVDgwWDY3TmFIRXFIR1F1TjNTeDY4QlNkdDMxQUxXQWNKQkY4MlNNYmdxNlp6UEFnQmJOS2ZBeDdpSnZ3bUdrYnQ5U29HQWptdW5qTm5YUHFkMDBqblhMbEZxSG5FUEo3UG5DbmRXM3dzcXBWR3BGWUtqUUtfNU04YW1jTGc3ZWxTQlc5SENtQ0h2dFV2amtSVHZYM3R3ZExxeEJDcWFmZ0JNbVlQTkxDVWZ2c3diNFlPQ2N4VnpMZ3c?oc=5",
+          "published_at": "2026-09-06T06:59:48+00:00"
         },
         {
-          "title": "이 대통령, ‘올해 수출 역대 최대’ 홍보…관세청장 \"12월초 1조 달러 전망\" - JTBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nM1VfanBnT3pkZDB2WU4xVmgyYW0yQU80dF9SMFJkRF9fT3dTZm1aV1FhWmZaOEZZSURaMTA2MWQyNHFNWC1YOFhWSjZjNW42clREVg?oc=5",
-          "published_at": "2026-09-05T07:01:21+00:00"
+          "title": "9월초 수출 벌써 작년 1년치 넘었다…올해 첫 1조 달러 가능 - 티제이비",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pT3BxemNvMnlqUFcwMnItb1dQeDJPc2xtN2wzeVNjZ0Q1WUlQbmJBbkN0RHZSSDdpTGhzMzdhYlQ1THlPaFBDdUVBNHB5LWpJN3ptLTBjUi1YVGF6?oc=5",
+          "published_at": "2026-09-06T06:32:21+00:00"
         },
         {
-          "title": "올해 수출 7천억달러 돌파 '최대 실적'…1조달러 가시권 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRmIxVUkwVUgzakF2bnJTdlQyeUEzQkJFWUJtUGFrMmZmSEE2YmVxVU9TXzBnekZTbURkblBnTGdNWmtsQk9MbFJiblRUeWtVZzJfcmh4OGFxb2ZfNFNkONIBeEFVX3lxTE45MjYxcFlUSUJvdnNRR1ZYX0xBeUlRTWNaRUlZQTZKTi1Qd0NUdkphUGJqY2ZEbUxNcHVWenEwY005Q3VxYXRXTFd5djF2dEl3UktDUXZ6UGJ4QU9mLXNiVU44UlpPRk93TmVpbGFNUjZ4eDNmUkJYWA?oc=5",
-          "published_at": "2026-09-05T06:55:43+00:00"
+          "title": "248일 만에 작년 수출 넘었다…7094억달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aXJGS2Q4U0QzN0s3V3F1ODZkdXl2dTVnWnFVYjRmQlZ4aXViTFpnSWl5R1VtaUxlZV9MQWtGN3J2OXYwTnJOek5IZ3lnbnc?oc=5",
+          "published_at": "2026-09-06T06:24:00+00:00"
         },
         {
-          "title": "李대통령 \"수출 역대 최대\"…연말 1조달러 넘본다 - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WRGVJbF9feEhpNFhMYldyLTlYY3hMSHlnWUhmQ1JPQ2JNUjB0emd5TFk4ektHZGZNSXM5Q1M0dFllOTZ0X3ZxblJEN1VKbG41c0JmbVV0eXJOeEhaVUdDUTNOODJLVzVDeHIxQXNxQQ?oc=5",
-          "published_at": "2026-09-05T06:54:48+00:00"
+          "title": "앞으로 하루하루가 '신기록'…수출 1조 달러 시대 열린다 - news.nate.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xSVlpdU5uMUNTVHlNVDJ2ZkxSck0xNzd2MlVRUVNsb1BwbFhNSDZVSjF5ajdfdUhjbk1Gd1BGZXZvS2l4MzVmck42QktORzhJdmNZ?oc=5",
+          "published_at": "2026-09-06T06:15:00+00:00"
         }
       ]
     },
     {
-      "keyword": "고용",
-      "score": 95.41,
+      "keyword": "환율",
+      "score": 118.93,
       "articles": [
         {
-          "title": "영등포구, 청년 고용 사회적연대경제기업 인건비 지원 - 시정일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52d1JKNno1czVuUHhBWmtTbENFV3c5TzJYdnhBbm9iaHN5dmNDX3ZxTmZ4SDBaSTZ2UXhpR3BhU29TUGtDSy04aWRHemY5ZGZ6ampUSmNyYTVpcURxR2ZCNUc0TVgwejUxdF84?oc=5",
-          "published_at": "2026-09-05T05:13:00+00:00"
+          "title": "원·달러 환율, 23개월 만에 최저치…가파른 하락세 [포토] - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wa09kNkJGcjlHOFlBU2plZ0E3YVptLXo5R0NTUno3OFRGMzhTNnRMQjF1YlZ1LW9WU0NTZkFqVU1STGFUSXNCN1dsaWlDQm9ZTXp0Sw?oc=5",
+          "published_at": "2026-09-06T07:04:00+00:00"
         },
         {
-          "title": "9월 연준 금리: 고용 보고서가 판도를 바꿀 것이며, 소비자물가지수(CPI)가 최종 '결정'이 될 것이다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRE1qeTdrZjhlS01VOEw4VDVGVlR1VnZtSUdDRTctdUt5TnZ2ek5talB2OWszUkthX3ZfOUoxVVZmNGRENXRvSlhISmtVeVJEVFNreUxlYmppZmRtcFhkX08tR1BiYmVGVnc2djZYWG9Ta25tcEEwUlhBWFcwT1pTX1daVDNMQko3ZWZVRjdUdTNrcFpiUF9LVmVMd1QxSTJkWVpnc1MzUQ?oc=5",
-          "published_at": "2026-09-05T03:54:27+00:00"
+          "title": "[아슈/美 국채금리 5%대 경고] 한국도 환율·부채·증시 ‘복합 압박’ 우려 - 코리아포스트 한글판",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16cEdZMlhZWTZ4dnBJdE9pTEwtYzAxYnFhS19RU3Qyc0lyc1BjTW11STBMSHBhdGpLSjZHVjB4X2FhN3Z4VmtLTzV3M285ZUh6Z25UZHhxV0JrVEJiNkx2b2JEQUkzWlNDTFcyeThR?oc=5",
+          "published_at": "2026-09-06T06:15:20+00:00"
         },
         {
-          "title": "내주 경제지표 잇달아 공개…고용·성장률·가계부채 흐름 주목 - 청년일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zb3NKMGZBR1FKck9xNmFUZ1REQWdWZ3ptLXROVXNXNTMyX3k0eHY1aXRKeXN3SUhlc3FQRkUxamhBcDNpaDBWSnFuZWRQbkNTTS1JaXB0dUhuQldCR19PaDhYaEotMkU?oc=5",
-          "published_at": "2026-09-05T03:15:25+00:00"
+          "title": "23개월 만에 최저 환율 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91eVBBTWU5VHBfa0h6Um9ZMF9SYWFVRFlEX2Ewd2x6YXAtbUVPY2N2MXpxQk5PUEJCaU1UMzNIUEkwR0xiT09CdWlmSQ?oc=5",
+          "published_at": "2026-09-06T06:14:40+00:00"
         },
         {
-          "title": "고용 부진 이어질까…다음 주 GDP·가계부채까지 줄줄이 발표 - 서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TMDlROWVSLVpsbk1ySEluV0ZGMEZ0YjFWTndxblpCQUpVdm9BOHdrYXBib2tZNHBNVTM4ck5FQlI5RHVHSVdsb0Nhd3RXYXRhVm5wLTlkam1CMlFCOXRwSldaMVU?oc=5",
-          "published_at": "2026-09-05T02:50:55+00:00"
+          "title": "원·달러 환율 2년 만에 최저…기업 달러예금 역대 최대 규모 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YVy1mRmc5cm5ETDQtUGs0Wkw2d25Qc3AzMU1Kb0lJWkhQRWNRaXdIYW9LUDMya0FNMXl1SUctSmpHR1dvRGV1bE5hZlhuM3M?oc=5",
+          "published_at": "2026-09-06T06:13:48+00:00"
         },
         {
-          "title": "[다음주 경제] 2분기 GDP·고용·가계부채 발표…경기 회복세 점검 - 산경투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbElEWTlSeTVaYnFFRzdRVVJUc0hoOWtqdkI1QXBqZkZkdlNDbVlLeDFxNG9RR09BWTVKRXktVmdXZ2dIOTRpWmR3NUlsOXFlRm1BUFl0azIwNmx1RThwdHBIZVYzaUlKbEhpNlhBQV_SAXRBVV95cUxPTWFxRVlUVEJTRWVXdzVsY25RYm4xQ3FFOGtFdGduNncxZkdZR2gwbWM3ZldPZ09xTlc2c2c4WVc5RHN3dG92SElGNzhkTDB6U25yUk01c1Z0SjJzbUtqaFRmX2hNLW5odlNYeVhOV0NTbjdzdg?oc=5",
-          "published_at": "2026-09-05T00:50:14+00:00"
+          "title": "\"환율 1340원대, 지금이 기회\" 기업들 저점 매수…달러예금 역대 최대 - 전국매일신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yWmVVVTctWlc0b2Q4cVVfNzNGY3RDbExaakdfeHVYYUQ0b1lnVW5XWUJRb3hxZFBKZnJEM2pSSllKRHRRRlBIZ0hyQUFsRWMyTjh0andOVzVXTGZRS3lKS3lwNGF6bXFRQXhUWmlB?oc=5",
+          "published_at": "2026-09-06T04:50:17+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 87.14,
+      "articles": [
+        {
+          "title": "말레이시아 중앙은행, 기준금리 2.75% 동결…매파적 기조에 링깃화 강세 탄력 - VT Markets",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQdlRmaFdzc3hrOVhQMHBGWUh2TXZWb2pSb3lfMHRDd1RyMVRwdDdEWHNsWk9qMXZrRVV4Sk45TGEtYlgwaWVMay1RLXhfaGpHUUxmLTNmVW45NkEzMUlxM3NscHFIbUdPckkxRHFDaWNDYmJfMFRBMHNlM3lzczJZQmtYcVp4UVhxMlRqMUdqU1VMdzI1NUZxUDNkTnctMjd2OTdxaFRaREN0RU1rTXJiVXhSeFVJcC1mQ2t3d1l3RlBvMWZOVFRhVmRlZU1aMm5rQThOY0k4cWJQMjgwenVNeVA1aDBUcXJDRF9EN1VZSmVzNkZ0b3N5RnpESHhMV3RpRm00U1J6eEU2M1N1Ml82NGZZelJIQ0gyVUl3THBJNGM5a29vSVBySlZtM0YwWlVoOF9FeWRqUjVkYW9Nc0xDdVRxMWYxeGxaMjFDdWZGUUV2MTJxb0NpWg?oc=5",
+          "published_at": "2026-09-06T07:13:31+00:00"
+        },
+        {
+          "title": "\"G7 중 가장 매파\" ECB 금리 발표, 글로벌 '긴축 재개' 신호탄 되나 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qa3gzRWhQTlpEd0RTRjN0aFJUXzdDWFpBZUdWWDE5MHhyOE53YW45TnJvdGNpWEluRGlGQTE4QVlra3JXU3VoWDh6dTMySDZhcDZRamJtSzQ5cU8tWHluRjNmOFRfV2050gFuQVVfeXFMTjJxVzFnSGtoMGRzZnVaMTQyRG5FMUxNZTZIYld3VFhmVzdzSEU4VzVHOW9ZZGFMeXJpa1FvS1I5N1hvenh0Rk1GazdrUW1tek8wa1RiN0c2dVYyR25sa1dtMERqNlFSLVhJcHh2UUE?oc=5",
+          "published_at": "2026-09-06T07:10:42+00:00"
+        },
+        {
+          "title": "달러 약세와 미 국채 금리 하락에 루피아화 강세…인도네시아 중앙은행, ‘안정 우선’ 기조 뒷받침 - VT Markets",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRWNMdjJ2OVJnejhDQkp5NGt3N0s1Yi1fVGQyNUx0OWQzTmwxaXdpdUgxM2ZQSzVzaUVOYnRXYllENzVfUlJHMUd2QWhDSFRQdXROS2E5VVZ5UFB1WTdDbEtnSWJrUEhwZjZmbVB2WmNxQk1HZnY0VDJGOElnWHFqeEZNU09vZl9iRy1tU1VSdGNzUl9hZXJMZU5mVllTVDgwWDY3TmFIRXFIR1F1TjNTeDY4QlNkdDMxQUxXQWNKQkY4MlNNYmdxNlp6UEFnQmJOS2ZBeDdpSnZ3bUdrYnQ5U29HQWptdW5qTm5YUHFkMDBqblhMbEZxSG5FUEo3UG5DbmRXM3dzcXBWR3BGWUtqUUtfNU04YW1jTGc3ZWxTQlc5SENtQ0h2dFV2amtSVHZYM3R3ZExxeEJDcWFmZ0JNbVlQTkxDVWZ2c3diNFlPQ2N4VnpMZ3c?oc=5",
+          "published_at": "2026-09-06T06:59:48+00:00"
+        },
+        {
+          "title": "미국 고용지표 호조에 9월 연준 금리인상 가능성↑… 파운드화 약세, GBP/USD 1.35선 부근 유지 - VT Markets",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOMnpwallvR1JJdmlpNWdlamN4TDRVVlZKS08wNFpjdldNT2xtejFodGJJYlFuWTNiVzFSUWJrbTRpY1JoWTYxQ1pDZ0dNaGRZcTNibl9pMzY0TlBWSGNfRUd0cnBxSXJ4RTVCenhzZElmcTlnU2QtUzJTUU12QjhkOVFkR05DakczSFVuZ3p1UjV5VFBkNmxrUU5uZkpua3ZxdkxIU05ZSGJhd3BGT3pOeUgtUWpPOW9iekszWVVfeUtweEFsWFFmcEdpbU5RaE50QUdLYzJWUE4wTVVBVFFPaUxyLVJrbC1RODJoLWhHWWpWQzdJMEJlQ2ZxbGk1bUlzWF8wT2VSeEhsUG9YdzdjeU9pTGdGdHRCOXRzeElwMEp5SEFMX1Ytd0tURE5uVFJ3d05oaURlT0pNUmRrLTZhbXlHN2phNUJ2Skd1NFNwYmVUM0ttT0E?oc=5",
+          "published_at": "2026-09-06T06:51:22+00:00"
+        },
+        {
+          "title": "말레이시아 중앙은행, 기준금리 2.75% 동결…원자재발 인플레이션 리스크에 매파적 가이던스로 전환 - VT Markets",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPeDVwNWNoeUdVWlRlUkhLSEVMUHRJTTJTUThNdzhPVnJkbTFBOHF3ekc5VnRzUFhBV2JfdEpOQ0VqZWR1YzZSWGlwUGFmMm5TNFhYemYyYW1FY3gyVllzWWs2T0pJeHJWTkViMm9qVl9idnBPTWlDTnhkdUpUNlpOcXRHWU16N3FCMDVtSzVTRFNZdU1hMTlQdjMwclY1WDA5OUU4Ny1HUm9DeURlVjZJRVRLbkpDTkY3U2tNYXZLVm9ydHZuV3ZtaTlSQmRFSFhqZlBWV0tzMmxYcWlPZU1MbzZ2SG5qaG1tV18yMEtScVkwWHhmVGxwdW9XdG53VEFaS0ljdWFrTlZIM3NSanlNbHZLWnozNGFCVXo2TFByd2tfR1ZYeC1hM0lSU3pVNy1YMnR0QkxKYWJrcGlHLXhUdkxhVVZKZlVqVUwtNVYxNUI5RlpDN0M1MQ?oc=5",
+          "published_at": "2026-09-06T06:51:22+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "최대",
+      "score": 85.62,
+      "articles": [
+        {
+          "title": "248일 만에 작년 수출 넘었다…7094억달러 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aXJGS2Q4U0QzN0s3V3F1ODZkdXl2dTVnWnFVYjRmQlZ4aXViTFpnSWl5R1VtaUxlZV9MQWtGN3J2OXYwTnJOek5IZ3lnbnc?oc=5",
+          "published_at": "2026-09-06T06:24:00+00:00"
+        },
+        {
+          "title": "원·달러 환율 2년 만에 최저…기업 달러예금 역대 최대 규모 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YVy1mRmc5cm5ETDQtUGs0Wkw2d25Qc3AzMU1Kb0lJWkhQRWNRaXdIYW9LUDMya0FNMXl1SUctSmpHR1dvRGV1bE5hZlhuM3M?oc=5",
+          "published_at": "2026-09-06T06:13:48+00:00"
+        },
+        {
+          "title": "\"환율 1340원대, 지금이 기회\" 기업들 저점 매수…달러예금 역대 최대 - 전국매일신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yWmVVVTctWlc0b2Q4cVVfNzNGY3RDbExaakdfeHVYYUQ0b1lnVW5XWUJRb3hxZFBKZnJEM2pSSllKRHRRRlBIZ0hyQUFsRWMyTjh0andOVzVXTGZRS3lKS3lwNGF6bXFRQXhUWmlB?oc=5",
+          "published_at": "2026-09-06T04:50:17+00:00"
+        },
+        {
+          "title": "미·이란 충돌 격화 속, 韓 ‘호르무즈 파병’ 기로…최대 경제·안보 현안 부상 - 디지털데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XZ0NrXzRsLVZRdE9GZHlqYTR3b1V1OHBKM19QOW16OGFkYllwTlpaNXVJSnBwUzh0ckxlcTc3NjBTYkNwYkE0S3Fwd19LLUx1bXlNS1FLMW9adzRNX0FUZmFWNUE?oc=5",
+          "published_at": "2026-09-06T04:00:00+00:00"
+        },
+        {
+          "title": "23개월 만에 최저 환율에…기업 달러 예금 역대 최대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yVWlYdHdtR2R6RU5tQlQ1LUJpYlZmd2VkYzN6YlRkeUI1cUZzQUpraGItTm4xM3hmLW9pZm83UDBldDNYSFJ3U2ZQVUEzblk?oc=5",
+          "published_at": "2026-09-06T02:50:38+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "물가",
+      "score": 83.09,
+      "articles": [
+        {
+          "title": "포항시, 추석 앞 물가안정대책회의 열어… 물가 안정 및 민생경제 부담 완화 위한 대책 점검 - 폴리뉴스 Polinews",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LSDkyak1CVEZ6LTBEY3FKekFJVHl4SzlWWEE2VW9VeXVxaEYyLU5HUktRR2g1WE5CMW14VXhHQmROTGk2c3FVb1JCZGEtcXY1ZjRSdjZYdExXWFAzZjZkWHNEbWktTFhnbG9CY1dR0gFyQVVfeXFMUExGakk2MHdwclN4NEVkbi1CNzJsR3dRVUctRG5BRzc0SGIxMlU0alhsM1AxQ0V1Zk56bEhLTGVtREpBMjNtVmNONW5mZkVCY1p3czJKLUl2N0h1TVhBU1drM2hjQ3NQX1djTGN6OWVzb0tn?oc=5",
+          "published_at": "2026-09-06T06:50:24+00:00"
+        },
+        {
+          "title": "하나금융그룹, 소진공·소공연과 ‘착한계란 물가안정화’ 맞손 - 기호일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51dWFZUE5TS2Q3bk5qeUM2Y0MzOUpMa2dzUUFpa0JMMlNuRTJpZXZ6N0w2RmVCejdxUG5iS2tyZkNpUlJNN3lMOFhuVDNkc28yZzVPSTZTdkQxZ1hnOW9id0kyN0VhMFFzdkthTWloYw?oc=5",
+          "published_at": "2026-09-06T06:22:00+00:00"
+        },
+        {
+          "title": "\"고용 쇼크 뒤 물가 폭풍 온다\"…美 CPI·ECB 회의에 쏠린 세계 증시의 눈 [글로벌 증시 캘린더] - theconnectmoney.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5udlJ5YS1WdG51UWgySUpzdndzbG1ndHMtSVVpZDhSVEtKQ2Qwbm52aHBaQmZwQnZvcUMySlBiSEMwX0xUczdvTW52MnFWQjFETDEtbkJLelM0TzR0cXZXQQ?oc=5",
+          "published_at": "2026-09-06T05:58:00+00:00"
+        },
+        {
+          "title": "장바구니 물가 부담 낮춘다… 포항시, 추석맞이 물가안정 총력전 - eroun.net",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMMzRrT29MZGR1XzRkUzZRdVJrcVdGWW1uT01oZ1VSTW91SXNpUEM4MGl2SkhHUWl6VFNmVWVpUE5sZEhNUUE2TmZWTy1DMmtud0hyQlRMS1ZQbWhCWWZQdVU4Z193UQ?oc=5",
+          "published_at": "2026-09-06T05:52:55+00:00"
+        },
+        {
+          "title": "추석 물가 상승 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwMFU5RnFoQ3EyZ1pKc2E4RjdJVXpZbzQzV0ZOeks3cG0zNVN3RVVJZGRZR0RNamluZTQ4UWRVMDNGbXdPUk13VDdDQQ?oc=5",
+          "published_at": "2026-09-06T05:10:56+00:00"
         }
       ]
     }
