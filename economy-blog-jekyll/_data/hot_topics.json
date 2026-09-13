@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-09-12T07:38:54.044679+00:00",
+  "generated_at": "2026-09-13T07:57:21.225627+00:00",
   "source_count": 4,
-  "article_count": 356,
+  "article_count": 372,
   "top_keywords": [
     {
+      "keyword": "금리",
+      "score": 209.08
+    },
+    {
       "keyword": "net",
-      "score": 157.69
+      "score": 201.74
     },
     {
       "keyword": "daum",
-      "score": 153.26
-    },
-    {
-      "keyword": "CPI",
-      "score": 149.85
-    },
-    {
-      "keyword": "하락",
-      "score": 145.63
+      "score": 200.94
     },
     {
       "keyword": "유가",
-      "score": 144.9
-    },
-    {
-      "keyword": "금리",
-      "score": 141.07
-    },
-    {
-      "keyword": "국제유가",
-      "score": 126.82
-    },
-    {
-      "keyword": "8월",
-      "score": 116.09
-    },
-    {
-      "keyword": "인상",
-      "score": 101.13
+      "score": 132.68
     },
     {
       "keyword": "한국경제",
-      "score": 98.15
+      "score": 110.79
     },
     {
-      "keyword": "반등",
-      "score": 93.52
+      "keyword": "수출",
+      "score": 102.93
     },
     {
-      "keyword": "뉴욕증시",
-      "score": 87.32
+      "keyword": "인상",
+      "score": 99.03
+    },
+    {
+      "keyword": "FOMC",
+      "score": 68.03
+    },
+    {
+      "keyword": "환율",
+      "score": 67.32
+    },
+    {
+      "keyword": "코스피",
+      "score": 61.47
+    },
+    {
+      "keyword": "물가",
+      "score": 55.94
+    },
+    {
+      "keyword": "중동",
+      "score": 51.62
     }
   ],
   "hot_topics": [
     {
-      "keyword": "net",
-      "score": 157.69,
+      "keyword": "금리",
+      "score": 209.08,
       "articles": [
         {
-          "title": "국내 주유소 기름값 17주째 하락…국제유가 급등에도 1800원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BQU9ZWGw1VXhaR3NyaEdObThpb1lfNlFrcm41YVpBTVh6a25VSGw3dDE2TjlJb1hxV2FsbGJQQTJycGVGTS1IUDNKejNObmM?oc=5",
-          "published_at": "2026-09-12T07:22:58+00:00"
+          "title": "\"연장했더니 4%→7%\"…마통 차주 덮친 금리 상승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrdU1TSmRTRUp2Ul9nSTNMUFFTdDZYM0FBc01QNVNQSGo5eVlYVnItZXl6NW95ZHVMQnJhV0JzUUZ2cXhQbTBBaS1CSTUtTXM?oc=5",
+          "published_at": "2026-09-13T07:04:00+00:00"
         },
         {
-          "title": "신입급에도 1.4억원…'주식'도 준다는 이 회사 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCQ19OT3BRdDd2ZFR0R0hpTG5KdkJ5ZFhITFhmY2VROURiRnJ2MmMwWFhiaXJsRW9MamtnZklTWko0U2hPc0hmR2JCSHJyT2c?oc=5",
-          "published_at": "2026-09-12T07:13:00+00:00"
+          "title": "연장했더니 4%→7%…마통 차주 덮친 금리 상승 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EcjhMRTNPajdtWk9qSGZBOV9nR1Bid3NPRUllUVNiYVR4YURaZmNST21NU2dqWmV6cWpCSTJzTlZwYmh5NWozbVM2YkFZcDdyWmdsZ1oyaWkyQdIBWEFVX3lxTFA3c0ZFR2t1STJvMDlJblNCRlp5QmNfMmRsTVNjcHd2RE9ZQVBVdjdpU3Q4Ym9FcTY1b2JVLUhlYjVnSFJZd3BadThLWXlnYWsxZXNHZW5leUQ?oc=5",
+          "published_at": "2026-09-13T07:03:56+00:00"
         },
         {
-          "title": "[속보] '호르무즈 우회로' 동서 파이프라인 중단...유가 110달러 치솟아 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wX25ZMk5KaU5vOTVGWGlrLW1SOW5rSjBzblE4MnU0UGJfb1VHaWE0ZVByX1RveE9JeHFlQ2o3aGEzV2xhOTJJeDFxQWpEVFE?oc=5",
-          "published_at": "2026-09-12T06:40:53+00:00"
+          "title": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nLVoxNE5HS0UxR3pocWM1SXNlcnk2UG5samJIUzF1LWhuQURaRWwwSzBoYkVhbkdJTElHSGllMTAzMUdGaHd4b3dQNjJPakN6M0hIM3VUVl9SUdIBX0FVX3lxTE9fY2l2MXczNmVZREVCOGJTMFBVa2ZfVkJrc0dvamktbEJndERyTlh3T083RzFOcm9ENXJfZ0I2dGVkTTM1cnNsc202X3RkYVdQWE80ZTZtWjJnNnpMTjk0?oc=5",
+          "published_at": "2026-09-13T06:57:00+00:00"
         },
         {
-          "title": "국제유가 14달러 뛰었는데 기름값은 17주째↓… ‘아직 안 오른 가격’의 시차 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xWFhuQmhkRl9pOUtUUlpEUnU0UUtOTXdTMk9ydXhCSWpPX1poYmMzRWNHckNwejdSaERLcWlTNjFLM0hLbWF1OW9PQWtza1U?oc=5",
-          "published_at": "2026-09-12T05:50:00+00:00"
+          "title": "은행권 정기예금 금리 줄인상⋯증시·대출자금 향방 촉각 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VVkZDME5iaUdIU3cxSTc3UVlRYXpMSjhGa1p1ajkxYmZXTGNZR0tlVTlmRTFzYzhLWUFUeVNEa192TXR0eHp0Vnl3dlZGdXc?oc=5",
+          "published_at": "2026-09-13T06:47:03+00:00"
         },
         {
-          "title": "국제 유가 급등 속 국내 기름값 17주 연속 하향…L당 1859.1원 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ydmdKeWRKUF9MV2pUUzV2ZS1YN2Rxbk1ZWEZPQWlhNFMyRDhhZmM4aEVUbWVqajJ5V1hEc2hCSjZ5ODdnVWZOblppc3RJRTA?oc=5",
-          "published_at": "2026-09-12T05:42:00+00:00"
+          "title": "은행권 정기예금 금리 줄인상⋯증시·대출자금 향방 촉각 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sMU5NMFdsMnpHVHA1eTEzQ0pQLVhBdmF3S2VFclhwVEkxeFpGTThaQkdzSGJ1UU5uVmFZbGZIT2lTNFZaQjV5ZFJKRDVHZ3JER2JoUw?oc=5",
+          "published_at": "2026-09-13T06:46:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 201.74,
+      "articles": [
+        {
+          "title": "국제 유가 연말에 더 올라, 사우디 공급 불안에 中 수요 주목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pd0NWanFoMFBuS3RoUG01YXlYcjM4R1laMlRKX0dseTBFQkQyYjR6Mm4wUmRDYktQdlluT3Z0alRJVnVRZGEzQkZBUnRqc0E?oc=5",
+          "published_at": "2026-09-13T07:27:13+00:00"
+        },
+        {
+          "title": "인천상공회의소, 중국 랴오닝성 선양서 경제협력 교류 추진 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96MU5DQ2NsNE1renBlNjQzVWh3V2tRbV8zM2ZPSDZyYkFFcmF3YVBCOEt2Rk1waXpXSTREWHpUMC0wdWxGWEFJU2p2YUNBSmM?oc=5",
+          "published_at": "2026-09-13T07:25:00+00:00"
+        },
+        {
+          "title": "강원한우, 중동 정세로 멈췄던 두바이 수출 재개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtdXd4WWJybkExaFJnNHBBS2p4UG1GN2dwbGhvQ2pyMTgyc0ZGOWVuWUI4N1JQMVFRN0pRSGFodmNfTEh3U012TXRGT2ZtSFE?oc=5",
+          "published_at": "2026-09-13T07:18:25+00:00"
+        },
+        {
+          "title": "\"연장했더니 4%→7%\"…마통 차주 덮친 금리 상승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrdU1TSmRTRUp2Ul9nSTNMUFFTdDZYM0FBc01QNVNQSGo5eVlYVnItZXl6NW95ZHVMQnJhV0JzUUZ2cXhQbTBBaS1CSTUtTXM?oc=5",
+          "published_at": "2026-09-13T07:04:00+00:00"
+        },
+        {
+          "title": "은행권 정기예금 금리 줄인상⋯증시·대출자금 향방 촉각 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VVkZDME5iaUdIU3cxSTc3UVlRYXpMSjhGa1p1ajkxYmZXTGNZR0tlVTlmRTFzYzhLWUFUeVNEa192TXR0eHp0Vnl3dlZGdXc?oc=5",
+          "published_at": "2026-09-13T06:47:03+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 153.26,
+      "score": 200.94,
       "articles": [
         {
-          "title": "국내 주유소 기름값 17주째 하락…국제유가 급등에도 1800원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BQU9ZWGw1VXhaR3NyaEdObThpb1lfNlFrcm41YVpBTVh6a25VSGw3dDE2TjlJb1hxV2FsbGJQQTJycGVGTS1IUDNKejNObmM?oc=5",
-          "published_at": "2026-09-12T07:22:58+00:00"
+          "title": "국제 유가 연말에 더 올라, 사우디 공급 불안에 中 수요 주목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pd0NWanFoMFBuS3RoUG01YXlYcjM4R1laMlRKX0dseTBFQkQyYjR6Mm4wUmRDYktQdlluT3Z0alRJVnVRZGEzQkZBUnRqc0E?oc=5",
+          "published_at": "2026-09-13T07:27:13+00:00"
         },
         {
-          "title": "신입급에도 1.4억원…'주식'도 준다는 이 회사 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCQ19OT3BRdDd2ZFR0R0hpTG5KdkJ5ZFhITFhmY2VROURiRnJ2MmMwWFhiaXJsRW9MamtnZklTWko0U2hPc0hmR2JCSHJyT2c?oc=5",
-          "published_at": "2026-09-12T07:13:00+00:00"
+          "title": "인천상공회의소, 중국 랴오닝성 선양서 경제협력 교류 추진 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96MU5DQ2NsNE1renBlNjQzVWh3V2tRbV8zM2ZPSDZyYkFFcmF3YVBCOEt2Rk1waXpXSTREWHpUMC0wdWxGWEFJU2p2YUNBSmM?oc=5",
+          "published_at": "2026-09-13T07:25:00+00:00"
         },
         {
-          "title": "[속보] '호르무즈 우회로' 동서 파이프라인 중단...유가 110달러 치솟아 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wX25ZMk5KaU5vOTVGWGlrLW1SOW5rSjBzblE4MnU0UGJfb1VHaWE0ZVByX1RveE9JeHFlQ2o3aGEzV2xhOTJJeDFxQWpEVFE?oc=5",
-          "published_at": "2026-09-12T06:40:53+00:00"
+          "title": "강원한우, 중동 정세로 멈췄던 두바이 수출 재개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtdXd4WWJybkExaFJnNHBBS2p4UG1GN2dwbGhvQ2pyMTgyc0ZGOWVuWUI4N1JQMVFRN0pRSGFodmNfTEh3U012TXRGT2ZtSFE?oc=5",
+          "published_at": "2026-09-13T07:18:25+00:00"
         },
         {
-          "title": "국제유가 14달러 뛰었는데 기름값은 17주째↓… ‘아직 안 오른 가격’의 시차 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xWFhuQmhkRl9pOUtUUlpEUnU0UUtOTXdTMk9ydXhCSWpPX1poYmMzRWNHckNwejdSaERLcWlTNjFLM0hLbWF1OW9PQWtza1U?oc=5",
-          "published_at": "2026-09-12T05:50:00+00:00"
+          "title": "\"연장했더니 4%→7%\"…마통 차주 덮친 금리 상승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrdU1TSmRTRUp2Ul9nSTNMUFFTdDZYM0FBc01QNVNQSGo5eVlYVnItZXl6NW95ZHVMQnJhV0JzUUZ2cXhQbTBBaS1CSTUtTXM?oc=5",
+          "published_at": "2026-09-13T07:04:00+00:00"
         },
         {
-          "title": "국제 유가 급등 속 국내 기름값 17주 연속 하향…L당 1859.1원 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ydmdKeWRKUF9MV2pUUzV2ZS1YN2Rxbk1ZWEZPQWlhNFMyRDhhZmM4aEVUbWVqajJ5V1hEc2hCSjZ5ODdnVWZOblppc3RJRTA?oc=5",
-          "published_at": "2026-09-12T05:42:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "CPI",
-      "score": 149.85,
-      "articles": [
-        {
-          "title": "美 8월 CPI 예상 웃돌자 금리 인상 '초읽기'…추가 긴축 전망 확산 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZOHFfMG0wWl9MM3RxVmhDMXBMNEQ1ZDZXZzlfbURlQmJQV2RKMXVpSWdBN05aeFRUS0FVNWt5RnQteWRHclJXdUd3X0N6MFpYekpseHEwajJORmx2Sm8yMdIBeEFVX3lxTE93cEVVNFJZaHduME5KWFdhMTE5R3JXd3VlSkZuOGtHa08zb1d5Um4tTTYtTW1xdzViNGd3c09yejktZjdDRTFwLW9BZkRUcFFWdVYzbzdDaWdHYUpVdG1TTk9hUnpGQjYwOUtYcHo0VUdzM0RPUW9Deg?oc=5",
-          "published_at": "2026-09-12T06:26:35+00:00"
-        },
-        {
-          "title": "美 CPI 예상치 부합에 비트코인·이더리움 반등…금리 경로 전망 유지 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYR3JVWVhWMzdkUkkxY0syRTBWaWFRQ3A3bllRLTlSUF9oSXp4UTRycEhKQnBfOXA1YTNZTDhhVm5pQ0VJb2FwbzliTzJaRFN5?oc=5",
-          "published_at": "2026-09-12T04:01:24+00:00"
-        },
-        {
-          "title": "금값 4000달러 무너지나…CPI·차트 모두 ‘분기점’ - 블록미디어",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxM01JVW8tMUxBMVc2VHVJRHdRNTd2WnFSNkRSVnJEbC16VEh4LWFEamI0blRDbVNFbV9Bd0hFOGNCR1pZc3VnYy1rQ09yVjNLUFpHS0lIbTc?oc=5",
-          "published_at": "2026-09-12T03:27:00+00:00"
-        },
-        {
-          "title": "美 CPI 예상치 부합·유가 진정...뉴욕증시, 5거래일 만에 반등 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoRUloYmZYVmFwdHJuUzd1ZUt0bldMaE9QVkxKdHduaHVjNTV6NWpzYWxmMi1vLTQwVTl0NGIxVFFlSlZQcGV6UGl6RzlmeENuOVBIY0FGWVNWeXFHM3hzaA?oc=5",
-          "published_at": "2026-09-12T02:27:05+00:00"
-        },
-        {
-          "title": "미 8월 CPI 상승률 3.4% 유지…근원물가는 예상 웃돌아 - 스페셜경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNlgweS1QeS0xMk9Gb1dpam5sU2ZGalh5N3FVMld5YVJIOGdMeHIydV8xTTE4al9XMGQzZW4tR0ViUkZwNXF6WFBfZU9EbmZsaFlSVFlIVmkxOV9XR3N5UXRNUnZsRlRjVG1xMw?oc=5",
-          "published_at": "2026-09-12T02:26:31+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "하락",
-      "score": 145.63,
-      "articles": [
-        {
-          "title": "국내 주유소 기름값 17주째 하락…국제유가 급등에도 1800원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BQU9ZWGw1VXhaR3NyaEdObThpb1lfNlFrcm41YVpBTVh6a25VSGw3dDE2TjlJb1hxV2FsbGJQQTJycGVGTS1IUDNKejNObmM?oc=5",
-          "published_at": "2026-09-12T07:22:58+00:00"
-        },
-        {
-          "title": "주유소 기름값 17주째 하락…국제유가 상승에도 1천800원대 - OBS경인TV",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52TGVSaE1rdWtDdmpjVEtBLVF4SGJORWpNTjB5em5kQ056dThrNnM3c1UzYS04RkZCMWFBUmZYakFLSC1sd2haSlJ5amt0QXREdnl4eDUzZHB1NmNEYUNVbEU4cnRCQnh2a0Zna1Zn?oc=5",
-          "published_at": "2026-09-12T06:26:44+00:00"
-        },
-        {
-          "title": "국제 유가 천정부지인데, 국내 기름값은 17주째 하락...왜? - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZlBDWktvbEtIU09fT3lQOUhfSWFqY3REYUg5RnJYUS1HdG04UEd3VHNzaTZPS0ZpYktUem5CeW1sYklYM2QwQ2tOS2xxUVNCclHSAVNBVV95cUxQZlpPSFVsRFBYRngyRlFtcVBzRkszc1FHQkxFa3JpaXUxUVVhYkZuOGFZczVTbEh1Z1lfMkMzaGE2Zmw1S3JQcmRqVld0Z051ZHhWUQ?oc=5",
-          "published_at": "2026-09-12T05:43:12+00:00"
-        },
-        {
-          "title": "주유소 기름값 17주째 하락 ‘1800원대’⋯국제유가 상승 속 최고가격제 효과 - 브릿지경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iQmcwcjFRNDltYVhLcVBkdGctTi1lMVg0aEVwVmNKMjVZd2w1ZGw1N0pJdlYxN2xNR2owRGpjbExITGxzOGlkMEI1SV9WNURUeUoyWkFoMkhaUQ?oc=5",
-          "published_at": "2026-09-12T05:21:00+00:00"
-        },
-        {
-          "title": "국제유가 급등했는데 주유소 기름값 17주째 하락…왜? - ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Yd2hSVkwzSTN3dm9TVnhfS0ctQzVld1ZJd3ZIQjd3djdQOVA5OXo4YlViSWRQbDZPMXpRZ1JDVW9OTmc0bzdOZzFGNGFPazF6UFJST2hKZjg3MUtva2xpVm93a0Q1dlVP?oc=5",
-          "published_at": "2026-09-12T03:57:12+00:00"
+          "title": "은행권 정기예금 금리 줄인상⋯증시·대출자금 향방 촉각 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VVkZDME5iaUdIU3cxSTc3UVlRYXpMSjhGa1p1ajkxYmZXTGNZR0tlVTlmRTFzYzhLWUFUeVNEa192TXR0eHp0Vnl3dlZGdXc?oc=5",
+          "published_at": "2026-09-13T06:47:03+00:00"
         }
       ]
     },
     {
       "keyword": "유가",
-      "score": 144.9,
+      "score": 132.68,
       "articles": [
         {
-          "title": "국내 주유소 기름값 17주째 하락…국제유가 급등에도 1800원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BQU9ZWGw1VXhaR3NyaEdObThpb1lfNlFrcm41YVpBTVh6a25VSGw3dDE2TjlJb1hxV2FsbGJQQTJycGVGTS1IUDNKejNObmM?oc=5",
-          "published_at": "2026-09-12T07:22:58+00:00"
+          "title": "국제 유가 연말에 더 올라, 사우디 공급 불안에 中 수요 주목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pd0NWanFoMFBuS3RoUG01YXlYcjM4R1laMlRKX0dseTBFQkQyYjR6Mm4wUmRDYktQdlluT3Z0alRJVnVRZGEzQkZBUnRqc0E?oc=5",
+          "published_at": "2026-09-13T07:27:13+00:00"
         },
         {
-          "title": "李대통령 \"유가는 전혀 걱정 안 해도 돼…휘발유·경유 가격 계속 안정\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pUmRRdk5ZdlM2TFNEZGkxZjBFOFpkXzNHQ3ZWMHREWV8tNmpmZnRKSFdHNHJ2T3JXS2dleGZYYWdKTl9rdjZxbnB3Zk1sNVgtNEFiYWpLRnlrMmvSAWBBVV95cUxPM09oeTFEMDduMjY0VXBtd3FFYVBJa2FPZDVvakVHWXl0OWM2alBEZmFUUGxEV2pWOG15c0dXQm03aHlac2FXYm1QMC1fblFGTHgxc1RZejIzR014a3Fsd2w?oc=5",
-          "published_at": "2026-09-12T07:16:38+00:00"
+          "title": "국제 유가 연말에 더 올라, 사우디 공급 불안에 中 수요 주목 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rQWMtNHNlc01tQzBhM2pid1k4Y3pWam94TDd0NmlFY1hoZHo5cHJoYW01djNORG9fS1NRaDN3eDNDZmZjekJJamhXX2NCUENUcTFBNlp4UFJnUQ?oc=5",
+          "published_at": "2026-09-13T07:26:02+00:00"
         },
         {
-          "title": "이 대통령 “유가 걱정 안 해도 돼…중동 원유 의존도 70%→50%대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCTTg4Z1ZtWmttemVEeU44RFRDMnVGLXlHMmxnTkNFREVXTE9GbmtIWDZMdm4yU3pSWFBOMWQyeDg4N0IwckNJY29XeFJqTFpwejF4V3NRSFBXUnc5T1RHNlozdzF0THhoZzBV?oc=5",
-          "published_at": "2026-09-12T07:04:00+00:00"
+          "title": "유가 눌러온 중국, 다시 원유 사나…100달러 이후 향방 가를 새 변수 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlazNLTXhzNEpQTE1FbGk3emRxTnJCOHlYTEZSdWttdERFR2FUTnNoY01VZ1NVQXB3V2xaY0VtYk5rUWg0bmlhdVlsOXZNaHBTS0luQktaQW9ZUdIBX0FVX3lxTE92VlNhdlpoam5mM3pTYUJaX0UzMTd4X2R3dHdNcWptNVE2TWgyQ0JwUS1PWTJtemVoTFpsTVd5Q0w4aWdPNlV4MFlqcmcwLVZEMWZVWXRtamJxdGVtTHNN?oc=5",
+          "published_at": "2026-09-13T07:02:00+00:00"
         },
         {
-          "title": "李대통령 \"유가 걱정 마시라…원유 중동 의존도 70%→50%대\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XODNuY3ZUVUpuUUN3MGZLNkJISFo2bDNJQnpIWnBUVUxDU1AyVDdrUjJfWGZkS3FULUFMRDFjM1V3blh0cEt3Y2FjMUo2SC1fYV9JdGZ1Wks2NUNLV2E3bzlXZXpDM184X1FmM9IBckFVX3lxTFBlRVBJYVZORDl6aUN5SmFleWxSLWplYVdHdGUxbG9ab3lHS0lGUVNXVEx1djk1dnhwWmtCeEtSY2lxa1ZUMzl6NnZmVHVsQWZRX29yd1hJUkhVbkdyakZDU0hRV252MkQxUTdNR0k3RHdLdw?oc=5",
-          "published_at": "2026-09-12T07:01:00+00:00"
+          "title": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\" - 매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNWFjT09sQmsxWWZGcjBBSmFWVUM0QTk4NFF5bFZjNzREWVBGVV9WRTdmdFhoTkdpZ3AwWElBSFc5bVBJSTVEMmI3emE1QWdjd1p3US13MWpJS1hFQmZadmRB?oc=5",
+          "published_at": "2026-09-13T07:01:40+00:00"
         },
         {
-          "title": "[속보] '호르무즈 우회로' 동서 파이프라인 중단...유가 110달러 치솟아 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wX25ZMk5KaU5vOTVGWGlrLW1SOW5rSjBzblE4MnU0UGJfb1VHaWE0ZVByX1RveE9JeHFlQ2o3aGEzV2xhOTJJeDFxQWpEVFE?oc=5",
-          "published_at": "2026-09-12T06:40:53+00:00"
+          "title": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nLVoxNE5HS0UxR3pocWM1SXNlcnk2UG5samJIUzF1LWhuQURaRWwwSzBoYkVhbkdJTElHSGllMTAzMUdGaHd4b3dQNjJPakN6M0hIM3VUVl9SUdIBX0FVX3lxTE9fY2l2MXczNmVZREVCOGJTMFBVa2ZfVkJrc0dvamktbEJndERyTlh3T083RzFOcm9ENXJfZ0I2dGVkTTM1cnNsc202X3RkYVdQWE80ZTZtWjJnNnpMTjk0?oc=5",
+          "published_at": "2026-09-13T06:57:00+00:00"
         }
       ]
     },
     {
-      "keyword": "금리",
-      "score": 141.07,
+      "keyword": "한국경제",
+      "score": 110.79,
       "articles": [
         {
-          "title": "美 8월 CPI 예상 웃돌자 금리 인상 '초읽기'…추가 긴축 전망 확산 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZOHFfMG0wWl9MM3RxVmhDMXBMNEQ1ZDZXZzlfbURlQmJQV2RKMXVpSWdBN05aeFRUS0FVNWt5RnQteWRHclJXdUd3X0N6MFpYekpseHEwajJORmx2Sm8yMdIBeEFVX3lxTE93cEVVNFJZaHduME5KWFdhMTE5R3JXd3VlSkZuOGtHa08zb1d5Um4tTTYtTW1xdzViNGd3c09yejktZjdDRTFwLW9BZkRUcFFWdVYzbzdDaWdHYUpVdG1TTk9hUnpGQjYwOUtYcHo0VUdzM0RPUW9Deg?oc=5",
-          "published_at": "2026-09-12T06:26:35+00:00"
+          "title": "김민석 \"기본소득당 등 진보세력과 연대 박차\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FWVgzazBrREJqcXpCZmlhaFJaY0hVSUVmZ01fb3ctaGhvUzdMNXJ6Yy1hNTR0RENXbVVGUVV0b2gzX2p4WmQydDU0NkYzMXhjQ0dLSmo3YWVaZw?oc=5",
+          "published_at": "2026-09-13T07:34:35+00:00"
         },
         {
-          "title": "미 연준, 금리 결정 앞두고 고심…근원물가 예상 웃돌아 - 연합뉴스 한민족센터",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBVV9MVGV1N1Ntc2VNMGJrTkU0bG40a25iVEZvR0V4Uzl1Ri1nams3eVh3QjdyVW9uV0dqN0I4T1BJaUROS21OUXFweDFXanhQYlkwYU9LdXItcFY3WjA3Wk90Ukh4NXM4Y2Z0MjlGdFl3b3hU?oc=5",
-          "published_at": "2026-09-12T05:26:57+00:00"
+          "title": "요물이 아니라 괴물될 수도…커지는 'AI 종말론' 공포 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwNy1yRThJREJocld5N0FEUGZkZFVhZy11cjl1bVU3ajBuNWltZXBzdkxUUWZ4MGZSN0h4aWFfS2JMcl9HVVBSN2NuRzNaM01kOG1CdzU1bzVtdw?oc=5",
+          "published_at": "2026-09-13T07:26:00+00:00"
         },
         {
-          "title": "미 연준, 금리 결정 앞두고 고심…근원물가 예상 웃돌아 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xY0drY0czSTZDZ1h3XzhQOFRUdXFWSUlVX2pKMmlIenZBcFlaa1pKT01jN3FhU3pLNk9ORnFEUkJKVTEtc2RCUzZrNUtVNU1IZVRzNjN3VFNSOUNaQThOblloeVB6Q0U?oc=5",
-          "published_at": "2026-09-12T05:26:00+00:00"
+          "title": "후티, '눈물의 문' 장악…\"트럼프 계획 산산조각 냈다\" [이상은의 워싱턴나우] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51NVNnQnpDU3hjRG5vOVAxSkU2LWlvV3FONHp2SVUtREJScjdyb3hPODI2NklqNmNpbHA4anVaSklJaGIyckZOVzluQ1lFMmVqWC1EaEZfYUJpdw?oc=5",
+          "published_at": "2026-09-13T07:13:03+00:00"
         },
         {
-          "title": "다음주 증시, 글로벌 통화정책 슈퍼위크…美·日 금리 상승발 변동성 확대 '경계' - 데일리한국",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZcC1aQjhlejAzRks5ZE5mSVhUUnM0N0pSaFZqZ1lZTTFHWmlKUExSekhKZzVEOWRFdjlGSGowODdSLTFpUmhla2xwU0lmVUVBejJ3ZFVaN0tpOEZ4R3JFenNQRklSVFJQUHVORXlhTdIBc0FVX3lxTE5TNUVlMVZfMzBxMmJKZkZxZkxJZDR4engxTTd2dFFiZ2YxRmd4WXlxRHlvMWZ3M2t3NnBBMG5lMk0zeWt0MnNrUnBkSGhILUtCczhSRTU4ZUNsdl9Qd2FYV3MtWUhQMHY3UndvNlV2NkFRZXM?oc=5",
-          "published_at": "2026-09-12T05:00:00+00:00"
+          "title": "이하늘 \"민주당 누구든 한동훈 못 이겨\"…韓 \"팬입니다 ㅎ\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43SlNtOU9zang3cThTQnJoNnM2bDZqSzNaM2Fwd2U2Nk11OE5EREI2dUNCb0U2dGRZUVJ1cE00c3hxWUN0N0dEWjB1R25fNkpEeG9zRnJJYmxKQQ?oc=5",
+          "published_at": "2026-09-13T06:37:40+00:00"
         },
         {
-          "title": "美 근원 소비자 물가지수 예상 상회⋯연준, 내주 금리 인상 가능성 86%로 급등 - 브릿지경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIb1k5dkxWNHRQZVY2WjkxdUl6eUE4bTkzSTJGWkE3WlVyZFlzSUdfR2VMRDNLalZWZGcteHhhN2Y2dm4wMFN4T2NrNURSbzROTzhEZVhwZkZaQQ?oc=5",
-          "published_at": "2026-09-12T04:58:00+00:00"
+          "title": "국힘 \"김승원은 2026년의 조국\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYcGR5b0hYXy11MFR4bmRJaGtLVGJqMkpnVEZfbDNob0dsTnVmdVBXTUNmWVNJNVRHb0o3LUlmUjFVVzk4NjNGbUxWUU5zdkU1SW42c2xxWTktZw?oc=5",
+          "published_at": "2026-09-13T06:29:19+00:00"
         }
       ]
     },
     {
-      "keyword": "국제유가",
-      "score": 126.82,
+      "keyword": "수출",
+      "score": 102.93,
       "articles": [
         {
-          "title": "국내 주유소 기름값 17주째 하락…국제유가 급등에도 1800원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BQU9ZWGw1VXhaR3NyaEdObThpb1lfNlFrcm41YVpBTVh6a25VSGw3dDE2TjlJb1hxV2FsbGJQQTJycGVGTS1IUDNKejNObmM?oc=5",
-          "published_at": "2026-09-12T07:22:58+00:00"
+          "title": "KT, 美 앰로직과 미디어칩 공급 MOU…협력사 수출도 지원 - asiae.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5NFN5ajNEOE1EVU9Kb1BKUmhIV1c0YWVxYWRGblV0c1NDRVhjcEY1cmJwV2taYnZqTHRJSVRwU3RqUjQ4WjlubW5rUnJqMU82Nm5SYlhzeEwwNnRwOGRxYw?oc=5",
+          "published_at": "2026-09-13T07:46:01+00:00"
         },
         {
-          "title": "주유소 기름값 17주째 하락…국제유가 상승에도 1천800원대 - OBS경인TV",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52TGVSaE1rdWtDdmpjVEtBLVF4SGJORWpNTjB5em5kQ056dThrNnM3c1UzYS04RkZCMWFBUmZYakFLSC1sd2haSlJ5amt0QXREdnl4eDUzZHB1NmNEYUNVbEU4cnRCQnh2a0Zna1Zn?oc=5",
-          "published_at": "2026-09-12T06:26:44+00:00"
+          "title": "강원한우, 중동 정세로 멈췄던 두바이 수출 재개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtdXd4WWJybkExaFJnNHBBS2p4UG1GN2dwbGhvQ2pyMTgyc0ZGOWVuWUI4N1JQMVFRN0pRSGFodmNfTEh3U012TXRGT2ZtSFE?oc=5",
+          "published_at": "2026-09-13T07:18:25+00:00"
         },
         {
-          "title": "국제유가 14달러 뛰었는데 기름값은 17주째↓… ‘아직 안 오른 가격’의 시차 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xWFhuQmhkRl9pOUtUUlpEUnU0UUtOTXdTMk9ydXhCSWpPX1poYmMzRWNHckNwejdSaERLcWlTNjFLM0hLbWF1OW9PQWtza1U?oc=5",
-          "published_at": "2026-09-12T05:50:00+00:00"
+          "title": "‘천무’, 올해 3번째 유럽 수출 성사…크로아티아 첫 진출 - defensetoday.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TM3lPRGtmNlFMcTgwMklLZDJaYTJpYjdENVN4aVJmTkV5WmFVME04WDJjVWVfY0lnU2tNaW04VTRVZEtyaGNlaXJqSjRLVW5DdHZsakotdlN4M2xENHV6TVJaUm5QRFZKdTMzMU9R?oc=5",
+          "published_at": "2026-09-13T07:15:53+00:00"
         },
         {
-          "title": "국제유가 다시 100달러…고유가 공포 재점화 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMUl2cjk1NVZFcVAxdG43YzVuZTZuNEdfMnJGd2pkNFRoOTNsMmRDVFBMdjI0eFV0WEJvNUdxdmJrRHNObWw4RGZodDMtQ0lZOHJIanVZdXFzZlk4dWxSUlAwWHBkaW8?oc=5",
-          "published_at": "2026-09-12T05:26:00+00:00"
+          "title": "크로아티아와 천무 수출계약 체결 - defensetoday.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKcElrX1dKcGRRWFlYMWNCWUdmRzRobk13VjhkLXRCb2syN2Q0TURfUzR3aTRXeXItNldqa1RfQmt0eU5WcWNfU1JEdi1xdm1aUnFsdDZWUjlYQk9Gd00wdjVpWXYxRGxLbGZZOWxB?oc=5",
+          "published_at": "2026-09-13T07:15:23+00:00"
         },
         {
-          "title": "주유소 기름값 17주째 하락 ‘1800원대’⋯국제유가 상승 속 최고가격제 효과 - 브릿지경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iQmcwcjFRNDltYVhLcVBkdGctTi1lMVg0aEVwVmNKMjVZd2w1ZGw1N0pJdlYxN2xNR2owRGpjbExITGxzOGlkMEI1SV9WNURUeUoyWkFoMkhaUQ?oc=5",
-          "published_at": "2026-09-12T05:21:00+00:00"
+          "title": "새우등 터진 韓 로봇, 美 수출 제동 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxVW5oTnR2akRsZHFkMGVIdFo5Yk40M210emQ1MXM5S1FKS0ozdzRaNmYwNW1JazJNWkpEbnVXZWtEX2M2VVZ3cy1hZ3NnZw?oc=5",
+          "published_at": "2026-09-13T07:00:00+00:00"
         }
       ]
     },
     {
-      "keyword": "8월",
-      "score": 116.09,
+      "keyword": "인상",
+      "score": 99.03,
       "articles": [
         {
-          "title": "美 8월 CPI 예상 웃돌자 금리 인상 '초읽기'…추가 긴축 전망 확산 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZOHFfMG0wWl9MM3RxVmhDMXBMNEQ1ZDZXZzlfbURlQmJQV2RKMXVpSWdBN05aeFRUS0FVNWt5RnQteWRHclJXdUd3X0N6MFpYekpseHEwajJORmx2Sm8yMdIBeEFVX3lxTE93cEVVNFJZaHduME5KWFdhMTE5R3JXd3VlSkZuOGtHa08zb1d5Um4tTTYtTW1xdzViNGd3c09yejktZjdDRTFwLW9BZkRUcFFWdVYzbzdDaWdHYUpVdG1TTk9hUnpGQjYwOUtYcHo0VUdzM0RPUW9Deg?oc=5",
-          "published_at": "2026-09-12T06:26:35+00:00"
+          "title": "은행권 정기예금 금리 줄인상⋯증시·대출자금 향방 촉각 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VVkZDME5iaUdIU3cxSTc3UVlRYXpMSjhGa1p1ajkxYmZXTGNZR0tlVTlmRTFzYzhLWUFUeVNEa192TXR0eHp0Vnl3dlZGdXc?oc=5",
+          "published_at": "2026-09-13T06:47:03+00:00"
         },
         {
-          "title": "미 8월 CPI 상승률 3.4% 유지…근원물가는 예상 웃돌아 - 스페셜경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNlgweS1QeS0xMk9Gb1dpam5sU2ZGalh5N3FVMld5YVJIOGdMeHIydV8xTTE4al9XMGQzZW4tR0ViUkZwNXF6WFBfZU9EbmZsaFlSVFlIVmkxOV9XR3N5UXRNUnZsRlRjVG1xMw?oc=5",
-          "published_at": "2026-09-12T02:26:31+00:00"
+          "title": "은행권 정기예금 금리 줄인상⋯증시·대출자금 향방 촉각 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sMU5NMFdsMnpHVHA1eTEzQ0pQLVhBdmF3S2VFclhwVEkxeFpGTThaQkdzSGJ1UU5uVmFZbGZIT2lTNFZaQjV5ZFJKRDVHZ3JER2JoUw?oc=5",
+          "published_at": "2026-09-13T06:46:00+00:00"
         },
         {
-          "title": "美 8월 근원 소비자물가 전월 대비 0.3%↑…예상치 웃돌아 - 연합뉴스 한민족센터",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GSy1kajh2R1o1c0JBSUlCMmdYNUdUTi1zc2o3RGZjaWxoU2psVFVUQ1BManBZQlgxTVZFYVMyMEoxaE5fQklWRGcxNm8zQjlwRU9acHRFOUdPRl9KUzJEY2ZZZXdqQ2plYmVtY2g4cHJrUkha?oc=5",
-          "published_at": "2026-09-12T02:19:00+00:00"
+          "title": "美·日 인상·英 동결?…이번주 글로벌 금리 ‘슈퍼위크’ - dnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rMGpicGNQRnFkUklPajFKQU1xYXJDTHFzZ19OVktWMjRzZHVhWmR1VTZTSmxOSkVBTXA1WFV5MGVIX3V3TUpLYkZZaUlGZmdjdFJJR2VCaUxkb3ctZHVJTzUyVHBOYkI4c0JRQ0UwZlJOOEhI?oc=5",
+          "published_at": "2026-09-13T06:28:32+00:00"
         },
         {
-          "title": "美 8월 근원 소비자물가 전월 대비 0.3%↑…예상치 웃돌아 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OcFBvLVhJNnc3cHR6T0xwQmFYU3dpN3RXVXdIQzVQX2tFY3FWX0QxZDI3TlNYTkxLb3ppeXRVZC1DRHd3YTlhbktYb1g2bGVXcVVxb3pHVmVzS2lhRi1kUWpQcEE3VXc?oc=5",
-          "published_at": "2026-09-12T02:18:00+00:00"
+          "title": "고유가·고물가 압박 지속…미국 연준, 9월 기준금리 인상 나서나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RkcyNXVfcXJwd3dUNDlsVnhvalBzV3pJVHQ5Qi1CZnlBNnlib1ROaHoyZFlDMEg4WmtUYzdaQVZFU0MySFZmTm0wcXVtZl9UWEFGamJHenBnTXhoamx3SDhxTlhSUmFNa0dLN240R0l1dw?oc=5",
+          "published_at": "2026-09-13T06:21:00+00:00"
         },
         {
-          "title": "美 8월 근원 CPI 0.3%↑시장 예상치 웃돌아…연준 금리 인상론 86% 급등 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3TXh0b0x2RzZ3Q1I3MmM2VWV2S2wxVGRWOTVXdU9LSHllNE9fc1V2M1VpN2NiXzdVeXRjUUpkOXJ6eFVCOXQtZ3NGenFSRkU?oc=5",
-          "published_at": "2026-09-12T00:31:00+00:00"
+          "title": "[뉴욕채권-주간] 단발일까 추가 인상 있을까…장기금리 반응 촉각 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ycFlzcnItbWQ4LXZlZ1BkTldzNEY4a1RlWGxjUjFOb2pZeGlFbm1VTXFfSEVvNWlDdkMxV25rVnktR25rV2RPY1pEaThBcm5zVE0xMlpUa3dUVGJPZU1DN1M3WlRJeF9GMkZYOWphMFNadw?oc=5",
+          "published_at": "2026-09-13T06:05:09+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "FOMC",
+      "score": 68.03,
+      "articles": [
+        {
+          "title": "[주간 증시 전망] '아스트라 효과'에 7000피 회복…FOMC·국채금리는 변수 - 뉴스웍스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSVdqZFJyYkd6N1VqdHlNMDZFMUNmdWRDeV84UWNJSVNhYlRqZUxvSFBrRU5FTWdndzRGVTEyU1VwdXJ3Q3QySkV6RGNnSFhWbFAySnp1Z202Qjk0WnVTYXFPVDhhekVsdjhuVlNrb9IBc0FVX3lxTFB5Ul9EVlREenI3TlFCUGN1dzRmMjI4UUFTNXNSWEhqVTdzY2NCb3JSSVlJMnVfd1lySUZ5TGtpa0Y3cExjRjVSRVlteW9JUHl4WE9lYkpIZFpYbF9GVWpZTUpvWjBDQ3F0enlRQlBISU4zOE0?oc=5",
+          "published_at": "2026-09-13T06:00:00+00:00"
+        },
+        {
+          "title": "AI가 띄운 코스피, 중동 악재에 찬물…이번주 FOMC '고비 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdkNsS0lNTWtuX0g3QUtvVmk0X0ZfUHNiNjNDRGFHWlczTFZzWUt6RjUxM2dtZk5LZEN6cW0zWjdMQWFuSFVLTzh0cTJ4NHM?oc=5",
+          "published_at": "2026-09-13T05:51:00+00:00"
+        },
+        {
+          "title": "[외환-주간] 인상 가리키는 지표…9월 FOMC, 달러-원 하락 제동 걸까 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HWEY1ckJXdXRzTC13VzZWVlRweTlEdzJPQV9DXzJ3bml5TUY4cWFXUENVaUtwREt3X2N5QkFKTnRXWXE1eTZIMTVOaGwtdDhnX3VSejd1SXFZUi1KRmpneXRhQ2c2R0hUMFVOWjBuWVc?oc=5",
+          "published_at": "2026-09-13T04:00:01+00:00"
+        },
+        {
+          "title": "[채권-주간] FOMC에 BOJ까지 사방에 약세 재료…\"최대한 델타 축소\" - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3WElRZUFvcVc4SHhKWnYwRlVaMTUtank2WkE4eWhxajZJUnhZNkd1VDZMTkRJYUd0c1NHWUxsYzRvSV9tdEhQZkI4S21QTV9qa1dCVWdDZ1hfYjAzSE5CMTBoQlhNSnFiMGRhdkFwaExKUQ?oc=5",
+          "published_at": "2026-09-13T04:00:00+00:00"
+        },
+        {
+          "title": "FOMC와 클래리티법 ‘빅이벤트’ [이정훈의 코인 위클리뷰] - edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWi0tUUNWdnIwV2t1QkVPVEo0U2Jqcm1LQk52S0tZakpNMERZbThlaVAxSnJZckRKcTk4Ylp2am9TdVhBY0l0V3lVcG1aMjYzNVRtdE1ERWUyNS0xZUpOS2VmR1pEQkZQOUI1Q1FrQUI4bGhDNVZhTkkzbGU4ZDVRcw?oc=5",
+          "published_at": "2026-09-13T03:01:20+00:00"
         }
       ]
     }
