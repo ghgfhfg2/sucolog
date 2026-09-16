@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-09-15T08:19:59.466563+00:00",
+  "generated_at": "2026-09-16T08:13:51.753775+00:00",
   "source_count": 4,
-  "article_count": 365,
+  "article_count": 367,
   "top_keywords": [
     {
+      "keyword": "FOMC",
+      "score": 274.18
+    },
+    {
       "keyword": "금리",
-      "score": 227.58
-    },
-    {
-      "keyword": "net",
-      "score": 181.45
-    },
-    {
-      "keyword": "수출",
-      "score": 178.03
-    },
-    {
-      "keyword": "daum",
-      "score": 168.24
-    },
-    {
-      "keyword": "연합인포맥스",
-      "score": 152.4
-    },
-    {
-      "keyword": "환율",
-      "score": 152.06
-    },
-    {
-      "keyword": "달러",
-      "score": 147.0
-    },
-    {
-      "keyword": "8월",
-      "score": 124.51
+      "score": 248.19
     },
     {
       "keyword": "한국경제",
-      "score": 122.49
+      "score": 171.99
+    },
+    {
+      "keyword": "daum",
+      "score": 161.91
+    },
+    {
+      "keyword": "net",
+      "score": 161.91
+    },
+    {
+      "keyword": "유가",
+      "score": 159.1
+    },
+    {
+      "keyword": "코스피",
+      "score": 152.67
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 149.34
+    },
+    {
+      "keyword": "앞두고",
+      "score": 137.89
+    },
+    {
+      "keyword": "머니투데이",
+      "score": 109.81
     },
     {
       "keyword": "인상",
-      "score": 117.85
+      "score": 107.51
     },
     {
-      "keyword": "FOMC",
-      "score": 104.59
-    },
-    {
-      "keyword": "돌파",
-      "score": 102.57
+      "keyword": "수출",
+      "score": 99.52
     }
   ],
   "hot_topics": [
     {
+      "keyword": "FOMC",
+      "score": 274.18,
+      "articles": [
+        {
+          "title": "FOMC D-1…‘유가 100달러·국채 5%’ Fed가 마주한 세 가지 딜레마[디브리핑] - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSMnQtdjI3clZxTllWRUhHTURMZHBIZGJ4VnViVFFHYWMyMHBvQnB2VTdLN0tDWDR6WjF3VzJaTVoxWUlkZE9zT3g5STlpblV1Y1ZmVGln?oc=5",
+          "published_at": "2026-09-16T08:08:00+00:00"
+        },
+        {
+          "title": "FOMC 관망 속 국고채 금리 하락…3년물 연 4.053%(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1aDNwOHMxcThaLWd0bS1XMGZrUHRnTVBhbGVyQVF1WExuOUJ2STZKS3Jzb2tZSEJaZ0d4Nlo5RFNHZUczck9CQVd0UFlfUGs?oc=5",
+          "published_at": "2026-09-16T08:00:43+00:00"
+        },
+        {
+          "title": "[채권-마감] FOMC 경계감에도 外人 3선 매수에 강세…3년물 3.8bp↓ - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MZzByOTFDWXBnN25OODVUQUJDdnJ5dTNiNVlwblJoMUZqMFBFVGtYR2JxalRKWmRnc000dG1lZGtnUXdrMzVjR19pNG1YNDJjR0lUZ0MxVElCQkUxajN4RkJXQ01jSkdrcFd4aTkzMUtZUQ?oc=5",
+          "published_at": "2026-09-16T07:44:47+00:00"
+        },
+        {
+          "title": "코스피, FOMC 앞두고 기관 매수에 6700선 회복…닷새만에 반등 - 증권일보",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OWE1DRFRrMU5uSW9GbHNjVDdKSV93eUsyWjBudHpqS2hoM2FKOEUwNzI4cHBocDd3ckhCM3o2UVNONXcyaUpBdWJZZmtEZXdQaDdOdHlKOEZ2NjBZd1VISA?oc=5",
+          "published_at": "2026-09-16T07:38:30+00:00"
+        },
+        {
+          "title": "코스피, FOMC 경계감 속 1%대 반등…삼전닉스 강세에 6700선 회복 - 비욘드포스트",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6RGtCQWZUYURLMGsteFVOVi1TR0lCb2FUdHhOWXFkT2hhMVB3TU1USHg5alc0LW9rQ2ZSRG90ZHRicDJLREpGTG9EYjNLNTFQYlVLRlJLMzdMcms4UDA5Z184TUprNC1PTHlSenJqWXNlZEhQbnlhbDh3NkU?oc=5",
+          "published_at": "2026-09-16T07:36:15+00:00"
+        }
+      ]
+    },
+    {
       "keyword": "금리",
-      "score": 227.58,
+      "score": 248.19,
       "articles": [
         {
-          "title": "원·달러 환율 1360원 근접…유가·美 국채금리 영향으로 상승 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Tk9zS1djZ0VhY0F3djBHWk1GOEhWWHBuNU9oVnVKVXlRMjBfb3JwVjFUdzhuSWI2ZHpzbDE3VjRxNVBVcVJJREVRYktEM1NyU2FqbnJycHpkNUxUQXRfVw?oc=5",
-          "published_at": "2026-09-15T08:15:23+00:00"
+          "title": "FOMC 관망 속 국고채 금리 하락…3년물 연 4.053%(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1aDNwOHMxcThaLWd0bS1XMGZrUHRnTVBhbGVyQVF1WExuOUJ2STZKS3Jzb2tZSEJaZ0d4Nlo5RFNHZUczck9CQVd0UFlfUGs?oc=5",
+          "published_at": "2026-09-16T08:00:43+00:00"
         },
         {
-          "title": "美금리 우려·고유가에 원화 약세…원·달러 환율, 장중 1360원대(상보) - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xTDR3OGVXcHd3OVhmeXZvWDhQeXprRWN0eTdrNnVhTTZIWTNqejJLbERid01ta0ZBdnZLdmRUX0cwNTN0cjBxdHkwREtZVVRTd2RzX1FKb3lhbWxXRy1JMQ?oc=5",
-          "published_at": "2026-09-15T08:09:08+00:00"
+          "title": "'마의 5%' 뚫린 미 금리…외풍 삼각파도 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyampVTE1yWUxHZmptNzJPRlZyTEhGTlNDdDJmeG5Vd1g4empkN04tWkNpNV9yZVBsVG92QW9zRUdfLW10QU9mVHAybE16SXluWlZIeXUyNlhUYUxVS01nLQ?oc=5",
+          "published_at": "2026-09-16T08:00:12+00:00"
         },
         {
-          "title": "[경제 포커스] 美 국채 금리 5% 돌파... 기업 70兆 ‘CP-단기사채’ 부담 커진다 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWtwSGkzNFBmV3FPT1dDeng2V05CZnBJR1lxZnFTYzlhbjNSaWZxZVN3R1VUXzQ1NEw5TWtWbFlWRHo0MUNOaWVva2h2OFJ1REV0X1Z3RDdURGFUdUc2VTI5dTlYcHgwYTAyM1oyMTloZGxxTlFGSlhMb3BKYmtzQk12ZTZtZ9IBmgFBVV95cUxOZGMzdDZQUjJ6ZklQNFl1N2lSR0VyYnBhM3lGOFdST0dtVC1KRTRnZFRGelZNZUxPcWlGRUswX1dJSU5QZGdyZDh5czFXcnJTLTAzUDI0aU9ETHhpXzBVdTVLcVMtaTF3SnR1WVpfYlJ1STFTd1VXV1Y1bkRUZGE0SmVvVTlkRFZPelVCdDRBREJad19qYmNJZkhB?oc=5",
-          "published_at": "2026-09-15T08:03:45+00:00"
+          "title": "글로벌 금리 상승에 채권 ETF 수익률도 '뚝'…\"OO 이후에 투자하라\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKYzRJcUFQZC1EejFlZUpmcFJneDJ2cnFtVlVPd0JFek0zaHRFeWlXemhNUl9XWF95X2FLcno2ZWtTblhMUGduNFlzeVFDMjlPYjJ2REhCT0ZpLWZ3NFowMUZ6U0poOG1f0gFuQVVfeXFMTnZ1eXJUaW1nel85WFpNcHJPZGZpRTFOOWJUUXNpUWRCM085VzlLTlNzUFpOY1VOcjR2SkJWcVZDS05WYWRSMDhQX3dJdEtZdFBlYW1iNC1uUFJ4OHI3LTRmN1BPclRGWFJhamlhVEE?oc=5",
+          "published_at": "2026-09-16T07:55:59+00:00"
         },
         {
-          "title": "인플레 공포 엄습…美·獨 장기 국채금리, 십수년래 최고치(종합) - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTMGNuTk1uNG1sR0FHa2huWHBGZ0VYYWhLb2xNU0tHSjFEOGVTb3VRdDZTT1BabEg0ckNMbXRWRnNtdVk3V3hOZl9xV0o2TFpGOGhENzlLUmJPeERLWlU3VDBvdGJQV1RTazRSdWVjSkRVZw?oc=5",
-          "published_at": "2026-09-15T08:00:34+00:00"
+          "title": "연준 금리 결정 임박…저커버그, AI 안전 논쟁에 입장 밝혀 - kr.investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aYmx2azJqRmY4Nko5bzRjbXYzX0FTQmdQdVhNcTFtWE9YY3ZJUzRZT3NsM19lcFFlOGc0R3dHaHRmRWhIX3F5d3JyVE1mcGo4ejhSczZmRnNIRXFTWUxXTmRpeHlJeWFaMHc?oc=5",
+          "published_at": "2026-09-16T07:49:00+00:00"
         },
         {
-          "title": "[이슈앤피플] 미국 3년 만에 금리인상 가능성…워시-트럼프 충돌? - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZR1h0aHNqMzRVTkRleno3YXNNZW9ROGRCeVl4QU5KWXpvNFZBWlVFbXdYM2RxTXFTY3pkbUZHN18wS3ZDNHFGcVJ1TXdTMjFUV3c?oc=5",
-          "published_at": "2026-09-15T08:00:06+00:00"
+          "title": "치솟는 금리·유가에 투자심리 식었지만…\"버블붕괴 전조 아냐\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UcnhEY2I0WmhmWjdTMEdHeVFzWmpfZU9yMjdpZzZ5X3RCSlNvZFp0M0dpNW8wa0pBcWxoSmN6bDVUdDR4QVRXZU9SOWk0RHlja3lUVHFIVnQ0NXF1VnppbXlMcGl6ZUh20gFuQVVfeXFMTzFxdEVnMjBmbmN3SXBmV2JhbzFUaWFuWDRBNHFJS25kdjh5OXBIS3BGdXNEUWN0ZTBSakJteHNuZ216TFRhNGxCRExlTUJOX3VkU1J4dHhTa0Z4OGpTNnlGeFlrcW9Rc2taUVhMX1E?oc=5",
+          "published_at": "2026-09-16T07:37:33+00:00"
         }
       ]
     },
     {
-      "keyword": "net",
-      "score": 181.45,
+      "keyword": "한국경제",
+      "score": 171.99,
       "articles": [
         {
-          "title": "원·달러 환율 하락에 8월 수출물가 3.7% 떨어져 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPOE94UndlaVhDSVR4MDBBNm44bERuUENKcHo1OFIzYzJGVENYVlBKUWRFT3Y3SWMtalpoRE9ZVEJDd2x0UU82cUl3OEF5MWs?oc=5",
-          "published_at": "2026-09-15T07:55:14+00:00"
+          "title": "'콘텐츠 강자' tvN \"압도적 퀄리티\" 자신…하반기도 볼거리 쏟아진다 [종합] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5elJtWTZERkNQc3laRnVjTXNYVTg5ZzdfVzFYaFJfUXlyYU9IWF96TGFRdGhwSzRsY1duN1dBQlJHX2dBMVZzMEx2N3QtTVFmV3Q4XzY2cTVVUQ?oc=5",
+          "published_at": "2026-09-16T07:49:53+00:00"
         },
         {
-          "title": "울산 8월 수출 3.3%↑…석유제품·석유화학 호조 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUFdUbG5PNXZSZHlVazhjWXFUV1IySnBPTXBFcmFybkItMDNUR29rd04zcXE2Y2h2V09yWk1EdmdGeVJlRGh2THpqRHRfZDg?oc=5",
-          "published_at": "2026-09-15T07:38:58+00:00"
+          "title": "“성과급 수억 반도체 부자, 내 집 마련 종착지는 강남” - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVkpQaDRFZVlsM0ZLUUdEWUwyeWk1Q1hMOWNTZ2JmVnphNlZ6VS1mWjdSYjU4VDBhTHpyOUM4azBaZ01TOTBJcW40VHpqZDdYNjMzNVhqTmtndw?oc=5",
+          "published_at": "2026-09-16T07:43:41+00:00"
         },
         {
-          "title": "美 10년물 국채금리 다시 5% 재돌파…‘고금리 시대’ 장기화 우려 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOWF0SWJSVUpjM3pZLVZpempsYTBQd2ozMnBWMjBpb3ZPMGZWa0lVLWl1X2FEYmZPQl9nRXVCVUw4QmFrTkNzQUQ1TGVqcWM?oc=5",
-          "published_at": "2026-09-15T07:30:07+00:00"
+          "title": "이찬진 금감원장 \"자동차보험 부당 청구 병원 일벌백계\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zdFYwVXNiaDNpbDJ4UkpEb1B5a2U5SzRUajR0b0puWkhQZnBuVDA1dDZ1a3VBYVNRZ0liRUYzUUp5eWNQS0RSWTRoUXdRUkRBZzMwZjZlRmJwdw?oc=5",
+          "published_at": "2026-09-16T07:42:24+00:00"
         },
         {
-          "title": "대구경북경제자유구역청·㈜케온솔루션·대구한의대학교, 100억원 규모 투자협약 체결 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZVHNrZ2RwQ09wbWlQWmR5dTdoVC1EcnJCSlNTVVhKWm5na2RPSFl0RmlnOGZjLVVtU1R0eXZYdmYwVVpCMU9mcEd4TXN3WVE?oc=5",
-          "published_at": "2026-09-15T07:15:45+00:00"
+          "title": "'헤지도 어려운데'… 증권사 보유 채권 중 40%는 회사채 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjaXVvRG9OWTZ1aG5iMGdjLVhDc2J3MTNvaC02U2lBQmg3LVI5RnRUel9OOUZhQXZXT1BNbzRCNVdlcGs1cUNVaGo1bm01RWljZnNKQmxhRUlLZw?oc=5",
+          "published_at": "2026-09-16T07:42:00+00:00"
         },
         {
-          "title": "코스피, 금리·유가·AI 속도조절론 부담속 0.8%↓…나흘째 하락(종합) - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWWDFxMlN2S193UjB2alc3Z2g0cWJZaEpVRllsOHczaGctcW8tNHpTOTJjWi1naEFpUklGMU9nb0FfbWc3aHlxZXJMX0lZZk0?oc=5",
-          "published_at": "2026-09-15T07:14:56+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "수출",
-      "score": 178.03,
-      "articles": [
-        {
-          "title": "원·달러 환율 하락에 8월 수출물가 3.7% 떨어져 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPOE94UndlaVhDSVR4MDBBNm44bERuUENKcHo1OFIzYzJGVENYVlBKUWRFT3Y3SWMtalpoRE9ZVEJDd2x0UU82cUl3OEF5MWs?oc=5",
-          "published_at": "2026-09-15T07:55:14+00:00"
-        },
-        {
-          "title": "전기산업연합회, 에너지산업 수출 협력망 구축 - 국토일보",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mUmRDNjJMVUpsX2lPcC1lUGtpTTZhLWRuSFBxQlJNdGx4bHlZbUZhUEN6TmxtWlVNY25YZ2lySVctM3pJMTh1SHR1eWlWa042S3BpNHBOeVRNWmdYNndQcWFUbw?oc=5",
-          "published_at": "2026-09-15T07:47:00+00:00"
-        },
-        {
-          "title": "울산 8월 수출 3.3%↑…석유제품·석유화학 호조 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUFdUbG5PNXZSZHlVazhjWXFUV1IySnBPTXBFcmFybkItMDNUR29rd04zcXE2Y2h2V09yWk1EdmdGeVJlRGh2THpqRHRfZDg?oc=5",
-          "published_at": "2026-09-15T07:38:58+00:00"
-        },
-        {
-          "title": "환율 급락에 8월 수출물가 3.7%↓... 교역조건, ‘역대 최대’ 개선 - 충청게릴라뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wejdkZmRtbVBLR1JkZVpyNjlJLWlDS2FVM1R2TmJvNmh2OTBBUEdKT3BJdGQ2dUZfUUdCRExwS2RNNTBiRTZyN2lucllxLVI5S0RRNGhocU9QeTlDM1ZidnpSN0x1UQ?oc=5",
-          "published_at": "2026-09-15T07:30:02+00:00"
-        },
-        {
-          "title": "재외 네트워크 결집한 경북해외자문위원들…K-푸드 수출 전진기지 구축 나서 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pUnl6SlBpWEROanAzVldlSEtZdUJZUEtRNC1rcTlDcWh5eEtMOFNERlhFV2h5d2VoNTNVQVJITjg3OGZKUFQ3aHZzUGJYS0E?oc=5",
-          "published_at": "2026-09-15T06:43:53+00:00"
+          "title": "경기도-프랑스 일드프랑스, AI·스타트업 협력 넓힌다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lVDlfcTl5N1lyQkdUQ1libDNvSDJFVkl0cDZ6dVI0dUdvNzN3Y2Zyd3NwSFVYd2RIVVEwZDJKS2V3eFFOT1N5MWNMYlA5M21aNGRZQ0w5alpxZw?oc=5",
+          "published_at": "2026-09-16T07:36:39+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 168.24,
+      "score": 161.91,
       "articles": [
         {
-          "title": "원·달러 환율 하락에 8월 수출물가 3.7% 떨어져 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPOE94UndlaVhDSVR4MDBBNm44bERuUENKcHo1OFIzYzJGVENYVlBKUWRFT3Y3SWMtalpoRE9ZVEJDd2x0UU82cUl3OEF5MWs?oc=5",
-          "published_at": "2026-09-15T07:55:14+00:00"
+          "title": "FOMC 관망 속 국고채 금리 하락…3년물 연 4.053%(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1aDNwOHMxcThaLWd0bS1XMGZrUHRnTVBhbGVyQVF1WExuOUJ2STZKS3Jzb2tZSEJaZ0d4Nlo5RFNHZUczck9CQVd0UFlfUGs?oc=5",
+          "published_at": "2026-09-16T08:00:43+00:00"
         },
         {
-          "title": "울산 8월 수출 3.3%↑…석유제품·석유화학 호조 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUFdUbG5PNXZSZHlVazhjWXFUV1IySnBPTXBFcmFybkItMDNUR29rd04zcXE2Y2h2V09yWk1EdmdGeVJlRGh2THpqRHRfZDg?oc=5",
-          "published_at": "2026-09-15T07:38:58+00:00"
+          "title": "경제부지사 불출석에 자료 부실…경기도-도의회 갈등 격화 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoc1VNdS0yQmd5NG1HZVpuQXpSTWk0WGRucGxMVHdmb2JhVUJVUnBtVlNfNk1oT3lpVnp1c2tnWGprOHg5VFVXWTRRSldTczg?oc=5",
+          "published_at": "2026-09-16T07:57:06+00:00"
         },
         {
-          "title": "美 10년물 국채금리 다시 5% 재돌파…‘고금리 시대’ 장기화 우려 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOWF0SWJSVUpjM3pZLVZpempsYTBQd2ozMnBWMjBpb3ZPMGZWa0lVLWl1X2FEYmZPQl9nRXVCVUw4QmFrTkNzQUQ1TGVqcWM?oc=5",
-          "published_at": "2026-09-15T07:30:07+00:00"
+          "title": "경북도 ‘경북+22 경제원팀 전략회의 경주 DAY’ 개최 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWUGRFb0Rxc0E1RllkMmpTWWF5cEREYURhWGR4djhBWDltUzR2dmtCbUlpV1lZdzV2dm8zc0ZocjBaWVFaMmx4ejhGUEtEUDQ?oc=5",
+          "published_at": "2026-09-16T07:53:12+00:00"
         },
         {
-          "title": "대구경북경제자유구역청·㈜케온솔루션·대구한의대학교, 100억원 규모 투자협약 체결 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZVHNrZ2RwQ09wbWlQWmR5dTdoVC1EcnJCSlNTVVhKWm5na2RPSFl0RmlnOGZjLVVtU1R0eXZYdmYwVVpCMU9mcEd4TXN3WVE?oc=5",
-          "published_at": "2026-09-15T07:15:45+00:00"
+          "title": "‘수출 말소’ 차량이 점령한 창원스포츠파크 주차장 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Namh4VFVVOGlGN0hvMXNBcEFFUUFPTlVsbG0yeVY5cXR1WkFjc2k0ckM2Y0ZqSGd3bzlLVUoxcnQ5TW5KTGxhcDBLZzF5NGM?oc=5",
+          "published_at": "2026-09-16T07:23:15+00:00"
         },
         {
-          "title": "코스피, 금리·유가·AI 속도조절론 부담속 0.8%↓…나흘째 하락(종합) - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWWDFxMlN2S193UjB2alc3Z2g0cWJZaEpVRllsOHczaGctcW8tNHpTOTJjWi1naEFpUklGMU9nb0FfbWc3aHlxZXJMX0lZZk0?oc=5",
-          "published_at": "2026-09-15T07:14:56+00:00"
+          "title": "코스피, FOMC 경계감 속 1%대 상승…닷새만에 반등(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdXpUbHVCM2dBZ0s0R3ZwSmdjUEhfYlZBM1BVekpZMHhlY2Z6MHdJeC1ScjhYMGt0UjZqTVVQWEYwdzlpTndkVDNhWWlaZEk?oc=5",
+          "published_at": "2026-09-16T07:10:48+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 161.91,
+      "articles": [
+        {
+          "title": "FOMC 관망 속 국고채 금리 하락…3년물 연 4.053%(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1aDNwOHMxcThaLWd0bS1XMGZrUHRnTVBhbGVyQVF1WExuOUJ2STZKS3Jzb2tZSEJaZ0d4Nlo5RFNHZUczck9CQVd0UFlfUGs?oc=5",
+          "published_at": "2026-09-16T08:00:43+00:00"
+        },
+        {
+          "title": "경제부지사 불출석에 자료 부실…경기도-도의회 갈등 격화 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoc1VNdS0yQmd5NG1HZVpuQXpSTWk0WGRucGxMVHdmb2JhVUJVUnBtVlNfNk1oT3lpVnp1c2tnWGprOHg5VFVXWTRRSldTczg?oc=5",
+          "published_at": "2026-09-16T07:57:06+00:00"
+        },
+        {
+          "title": "경북도 ‘경북+22 경제원팀 전략회의 경주 DAY’ 개최 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWUGRFb0Rxc0E1RllkMmpTWWF5cEREYURhWGR4djhBWDltUzR2dmtCbUlpV1lZdzV2dm8zc0ZocjBaWVFaMmx4ejhGUEtEUDQ?oc=5",
+          "published_at": "2026-09-16T07:53:12+00:00"
+        },
+        {
+          "title": "‘수출 말소’ 차량이 점령한 창원스포츠파크 주차장 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Namh4VFVVOGlGN0hvMXNBcEFFUUFPTlVsbG0yeVY5cXR1WkFjc2k0ckM2Y0ZqSGd3bzlLVUoxcnQ5TW5KTGxhcDBLZzF5NGM?oc=5",
+          "published_at": "2026-09-16T07:23:15+00:00"
+        },
+        {
+          "title": "코스피, FOMC 경계감 속 1%대 상승…닷새만에 반등(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdXpUbHVCM2dBZ0s0R3ZwSmdjUEhfYlZBM1BVekpZMHhlY2Z6MHdJeC1ScjhYMGt0UjZqTVVQWEYwdzlpTndkVDNhWWlaZEk?oc=5",
+          "published_at": "2026-09-16T07:10:48+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "유가",
+      "score": 159.1,
+      "articles": [
+        {
+          "title": "유가 100달러 넘자 세계 곳곳서 시위···‘가격 인상 대 보조금’ 딜레마 빠진 각국 정부 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ELUlheTVGRWVZa0pvRFpkX2VNUTRfWXVUWkFnQ1I1djVjOHFLY08yVWRMWHhIcHRIbkFhQXlYR0xId2VNektiNnRBZUxsQ1dIVkQ3NXdmcFFOUdIBX0FVX3lxTE5SemtSRXh4REp6U3drWEJTQzBUdnNLZGhwOTk3Y3lJNEJreDBtMFpGcmJadi1mcVFJc20yYlo1cjNCSlpMV1FnMDF6aGZ3QjVLLV9XVzRpVjVabVFLZ1Fv?oc=5",
+          "published_at": "2026-09-16T08:09:00+00:00"
+        },
+        {
+          "title": "FOMC D-1…‘유가 100달러·국채 5%’ Fed가 마주한 세 가지 딜레마[디브리핑] - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSMnQtdjI3clZxTllWRUhHTURMZHBIZGJ4VnViVFFHYWMyMHBvQnB2VTdLN0tDWDR6WjF3VzJaTVoxWUlkZE9zT3g5STlpblV1Y1ZmVGln?oc=5",
+          "published_at": "2026-09-16T08:08:00+00:00"
+        },
+        {
+          "title": "치솟는 금리·유가에 투자심리 식었지만…\"버블붕괴 전조 아냐\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UcnhEY2I0WmhmWjdTMEdHeVFzWmpfZU9yMjdpZzZ5X3RCSlNvZFp0M0dpNW8wa0pBcWxoSmN6bDVUdDR4QVRXZU9SOWk0RHlja3lUVHFIVnQ0NXF1VnppbXlMcGl6ZUh20gFuQVVfeXFMTzFxdEVnMjBmbmN3SXBmV2JhbzFUaWFuWDRBNHFJS25kdjh5OXBIS3BGdXNEUWN0ZTBSakJteHNuZ216TFRhNGxCRExlTUJOX3VkU1J4dHhTa0Z4OGpTNnlGeFlrcW9Rc2taUVhMX1E?oc=5",
+          "published_at": "2026-09-16T07:37:33+00:00"
+        },
+        {
+          "title": "치솟는 금리·유가에 투자심리 식었지만…\"버블붕괴 전조 아냐\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HVXNaUEpDVnV0aTVJdlRnX25iMG56RXp4a3FQVGJxX3BMSGd4dldUTFdZQnpBMUZHc3R5eVJsaEcxZnlWZ3F1cUEtS3p0T2lTMUMxQmVSUjNOSlJGc3N1MHAxVDhlODV5X2IxbHlxVjk0TUx2cXfSAXtBVV95cUxOeEs3MTY1SGZmRGVCM3g4YlFyVzZrVVRQbkFRRjNmcTJiSHh1bEhRZ1JRN0J1eFB2NGIybTNqaGlpTE5vTjA3QXFMcGRqSEw2S2JaQnBzdEVmcVJGdmFrM1FpNmlvbUNmRHdkNXZmeW43SG5TVGxYZzc3NU0?oc=5",
+          "published_at": "2026-09-16T07:37:33+00:00"
+        },
+        {
+          "title": "美금리 인상 우려·유가 급등에 환율 장중 1370원 돌파 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVc2drRkRtVG1WbHZIaUd3M2JaUDNOdUhPXzZQM2w5MnMzRjBOd09PVUxVbzdvWm1SWFBEaEY3OVRHUkQtSVg4OWlWcDMxT1ZjNlQ0Q2tsWXlNU0QyZnlaaTBObXJQT29hZ0Jn0gFwQVVfeXFMUEJETzZaWXVQSHkzMmh1LWxaWUxpNGJQQkt6WWhyWlNscklmQlVIY0tQQ2dzc3dwMXQyWS03QVMxN1FlR1FKdTluTkpGWWd2dmdHcDc3NnNVRXhfMGtoN0NkUVVSMmZIZVVCTEk5UktjUw?oc=5",
+          "published_at": "2026-09-16T07:29:14+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "코스피",
+      "score": 152.67,
+      "articles": [
+        {
+          "title": "코스피, FOMC 앞두고 기관 매수에 6700선 회복…닷새만에 반등 - 증권일보",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OWE1DRFRrMU5uSW9GbHNjVDdKSV93eUsyWjBudHpqS2hoM2FKOEUwNzI4cHBocDd3ckhCM3o2UVNONXcyaUpBdWJZZmtEZXdQaDdOdHlKOEZ2NjBZd1VISA?oc=5",
+          "published_at": "2026-09-16T07:38:30+00:00"
+        },
+        {
+          "title": "코스피, FOMC 경계감 속 1%대 반등…삼전닉스 강세에 6700선 회복 - 비욘드포스트",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6RGtCQWZUYURLMGsteFVOVi1TR0lCb2FUdHhOWXFkT2hhMVB3TU1USHg5alc0LW9rQ2ZSRG90ZHRicDJLREpGTG9EYjNLNTFQYlVLRlJLMzdMcms4UDA5Z184TUprNC1PTHlSenJqWXNlZEhQbnlhbDh3NkU?oc=5",
+          "published_at": "2026-09-16T07:36:15+00:00"
+        },
+        {
+          "title": "코스피, FOMC 앞두고 6700선 회복…5거래일 만에 반등 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0TlcyRzdranM4WUtfQmpCYkNHZzA0N2otTHlGZnJkVEtVNU9NeGdrNHZ3ME9RcUxJRXhkbzJDR2ZPMDhTYTdNd2RZT0hVeVdhUnVqVGR5UmRLWkFMSzl2VA?oc=5",
+          "published_at": "2026-09-16T07:29:55+00:00"
+        },
+        {
+          "title": "코스피, FOMC 경계감 속 1%대 상승…닷새만에 반등(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdXpUbHVCM2dBZ0s0R3ZwSmdjUEhfYlZBM1BVekpZMHhlY2Z6MHdJeC1ScjhYMGt0UjZqTVVQWEYwdzlpTndkVDNhWWlaZEk?oc=5",
+          "published_at": "2026-09-16T07:10:48+00:00"
+        },
+        {
+          "title": "코스피, FOMC 경계감에도 반도체株 강세에 '6700선 회복'…코스닥 0.44%↑ - 프라임경제",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tSG1QelBnck9KcS1NclNPX2R5MEtKZEl6cVVON2lSMTdiWFBDSGlxQTljdTFhVS1VZzlqV1VQLUpKLTB0VlhLZmcxZUZPaVNCMTBKSkxhVnR5ZTJnOXlFQUlXMEpEUQ?oc=5",
+          "published_at": "2026-09-16T07:04:38+00:00"
         }
       ]
     },
     {
       "keyword": "연합인포맥스",
-      "score": 152.4,
+      "score": 149.34,
       "articles": [
         {
-          "title": "[美 금리 5% 돌파] 원화자산 '트리플 약세'…국고 10년 한때 4.6% 돌파 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdEJRRVJNRTdZOTFDejU0SGJyUXFIVW1OSjFid1dpcXJvcGsxcDBLaEl0c3JITk9DQzFyYVFweGVFUWFoQjRJa08wem1IVklNT2oxQ2QzV2ZuV0JKUVAzWThHS3dZQ0NOUjNiRzEwV1A?oc=5",
-          "published_at": "2026-09-15T07:47:51+00:00"
+          "title": "[도쿄환시] 급등한 국제유가에 달러-엔 상승…FOMC 대기 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNm96VXozUURTaTdHbHB4OXRnc1E0Sms2dXp3alBaVklCMENyYVJSWFo5cHIwNmw0cFNzOVhUc280RHZFTUZsSEJna09TcDVoOTBVdU8zV2pWaWRPOFBna0JMbldmWDRRdXpXTUh1Q1I?oc=5",
+          "published_at": "2026-09-16T07:22:18+00:00"
         },
         {
-          "title": "유가·美국채금리, 7년래 가장 높은 상관관계…증시에는 악재 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00ZkhMVjZNWGY5bnRnR0JoQkg5dXJGN2hVV2xiVmNhT1Fmcnlzdk1Ra2tvRUMybzluNDlwOE9QX1gwV3A5YWowdlNFdUd5d0RLSmhhMHlJLTVhSzQzVkZDZmFET1JFUVpTN0RjMU9KTWo?oc=5",
-          "published_at": "2026-09-15T07:23:42+00:00"
+          "title": "정규재, 李대통령 '공소취소' 직격…\"국민 동의 필요한 문제\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uNnNoeUFDZVlrbFZLSFdOVzZPYkFXUG5wOW96S2dCT0hoeDJaVW1UaU1xMG9xTkhGRldlOEJoYS0tSkFMeHRqUmNtWjYzY3d5eXdDc0RIckZYSFIyVmRLOEU1aWV4aUZpZ2JlM01Obl8?oc=5",
+          "published_at": "2026-09-16T07:18:50+00:00"
         },
         {
-          "title": "미국채 10년물 금리, 5.0280%까지 상승…2007년 7월 이후 최고 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oand5TGY1ZkZLbXpkRVlHd1FEVzZKQXRBUmJMMG8tQUJDUHk1dDNZbm5CVjMyZ04wUW02VnF1ZWpxbUdvNUI1Wk1xb1Q3M3QwQWM4aFBNVlJUZksyOEJQUDFEY0pOSnRFSHpsa0hpQkfSAXRBVV95cUxQdWFaTU9zS2NmemFuVEc2LVBsc1VjOUhfRnF4NHZyWC02RzhWMEdTcUhUYUw2RHhMU1U1MVFHZ3pwR2FGM0o2eHNiTHRJam1LUF9NREtWUXlMZHBhcy1iMVo2RFdQS1ZJaVhvNnBhdW02bDJSVg?oc=5",
-          "published_at": "2026-09-15T07:11:01+00:00"
+          "title": "박홍근 \"정부, 전략적 투자자·초기 수요자로 적극 역할해야\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MMGlCcFhJM05ienl1UEZCUnlGOS0yY0JjUjBaT293akhmeC05MmNEM1Zla29WY0tKOFBRQnYzZmlaSm52UWgteUlnei11Vld0Tkl4LUlMSnlpdWRaUk9Edm1zMTBYNUlybEIwV0VTVTI?oc=5",
+          "published_at": "2026-09-16T05:00:03+00:00"
         },
         {
-          "title": "[도쿄환시] 달러-엔 상승…美 장기금리 5% 넘어 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fcU5VckdIaElMLWZuU1k0QzhKVE1MTjc5WWtEMzNGU1hNeXR3YVhlZzEyandRNzdLUjhZbVlIWGJMMGVhZ2pXcHNFVG93eUlWSXJuVHdwaVREc195S2JQUEFnZi1QUVRFNlIyblVzX0M?oc=5",
-          "published_at": "2026-09-15T07:10:15+00:00"
+          "title": "李대통령, 키르기스와 핵심광물·스마트그리드 협력…'든든한 동반자' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BUDdEa1FEWDdZcGhiRzMzMmM5VTkxUVhHTThqMkpOUEFTaXZkWVNoNjhEUXUtZTBJQUJvdnJLN19kckNMOFEyQ0tMUWhiYWZVUXVBN2V2T2VjdzNyaE10bEdrWFg0eVRDZ28tZ2NjUlo?oc=5",
+          "published_at": "2026-09-16T04:50:35+00:00"
         },
         {
-          "title": "주담대 변동금리 5개월 만에 상승세 멈춰…코픽스 3.18%(종합) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZE1ydnYwaWwxbnU3VGJ1Mk81NVFEeFVMV1BWeWFFdzFwVXVDa0djZ2I3U1pKTzNLTC05UHF6RkNCanJkU3RPMWVGMEluTHg1VE5Xd25QUnZWYl9hRUJyRkFrbk1uZUNlVm96RFExT0bSAXRBVV95cUxNMUJSRnpva3R5VUJnWnZzeGhOMGx3X0szN0FmRUlMV0dxTmZvWG5SZGRDS21YeGhjc3AwZWZyb3ZfZDRvQnA4Z0hXeFhsMC0wNnRXbkljWmV3NjFCbkNVRHRTd2ROWmowVzV4cnFtTTFpT2FJZQ?oc=5",
-          "published_at": "2026-09-15T06:59:45+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "환율",
-      "score": 152.06,
-      "articles": [
-        {
-          "title": "원·달러 환율 1360원 근접…유가·美 국채금리 영향으로 상승 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Tk9zS1djZ0VhY0F3djBHWk1GOEhWWHBuNU9oVnVKVXlRMjBfb3JwVjFUdzhuSWI2ZHpzbDE3VjRxNVBVcVJJREVRYktEM1NyU2FqbnJycHpkNUxUQXRfVw?oc=5",
-          "published_at": "2026-09-15T08:15:23+00:00"
-        },
-        {
-          "title": "美금리 우려·고유가에 원화 약세…원·달러 환율, 장중 1360원대(상보) - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xTDR3OGVXcHd3OVhmeXZvWDhQeXprRWN0eTdrNnVhTTZIWTNqejJLbERid01ta0ZBdnZLdmRUX0cwNTN0cjBxdHkwREtZVVRTd2RzX1FKb3lhbWxXRy1JMQ?oc=5",
-          "published_at": "2026-09-15T08:09:08+00:00"
-        },
-        {
-          "title": "베트남 중앙銀, ‘연준 FOMC’ 앞두고 기준환율 인상…2만5,617동 ‘사상 최고치’ - 인사이드비나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oSlJzVzI4S2c2V1hMVW1sQ0FLMzR4SGU4eUpEQlg1Rm5NTWRDbVhJYlRvMmw4ZXJwZWRESUNVVmxFa2F0TEYtR3k2TUdmRHY1eGF4eF9Iczg4a2JRTjZVWnFUUUVDWWd2VnlDLQ?oc=5",
-          "published_at": "2026-09-15T07:55:30+00:00"
-        },
-        {
-          "title": "원·달러 환율 하락에 8월 수출물가 3.7% 떨어져 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPOE94UndlaVhDSVR4MDBBNm44bERuUENKcHo1OFIzYzJGVENYVlBKUWRFT3Y3SWMtalpoRE9ZVEJDd2x0UU82cUl3OEF5MWs?oc=5",
-          "published_at": "2026-09-15T07:55:14+00:00"
-        },
-        {
-          "title": "원/달러 환율 1,360원 터치…유가·美국채금리 상승에 12.1원↑ - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZzJEY1lTUm9YN0F0Y2ozNVNmMGJrb0Myd19Kd3NmZklFbGZQU1RlLVM0QlJ4a09RbzRmV1E0YkpEcWtxbVUxVFJxSXVCbUt1amFDTkViSzQ3LVHSAWBBVV95cUxNQkRHVmlTQzF1aWltcW5GaDUwSFQxRGk1YmFrRlhyLUxlTzNORGpiMWl6N0dNTnhnWHM0SlhTMFZ0NE5lR0NsZmRDSTNXR1djRDdMQmtlUlZyZ01ZUkN3UmE?oc=5",
-          "published_at": "2026-09-15T07:50:38+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "달러",
-      "score": 147.0,
-      "articles": [
-        {
-          "title": "원·달러 환율 1360원 근접…유가·美 국채금리 영향으로 상승 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Tk9zS1djZ0VhY0F3djBHWk1GOEhWWHBuNU9oVnVKVXlRMjBfb3JwVjFUdzhuSWI2ZHpzbDE3VjRxNVBVcVJJREVRYktEM1NyU2FqbnJycHpkNUxUQXRfVw?oc=5",
-          "published_at": "2026-09-15T08:15:23+00:00"
-        },
-        {
-          "title": "美금리 우려·고유가에 원화 약세…원·달러 환율, 장중 1360원대(상보) - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xTDR3OGVXcHd3OVhmeXZvWDhQeXprRWN0eTdrNnVhTTZIWTNqejJLbERid01ta0ZBdnZLdmRUX0cwNTN0cjBxdHkwREtZVVRTd2RzX1FKb3lhbWxXRy1JMQ?oc=5",
-          "published_at": "2026-09-15T08:09:08+00:00"
-        },
-        {
-          "title": "유가·美 국채금리 급등에 원/달러 12.1원↑…1360원 턱밑 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RdnZrSmdnNzdlbjNPYlpMNGU3dWNCTHh1ejVaSHFQNGEzdVU1QTVTd19qX0JkbnVkV055UzZsYVFnYTBOY2xmNjN2eHRGRU1mYVQyMGtYNEc0N1oydDZsYXl6TUJQOGVWNDJz0gFwQVVfeXFMTmdBNnJER0luYzF0XzludTFLZlZPT095b25TTjNMVlVLOXBVa0t6Vllyai1rYU15UmZKWlkwcUxuX3pwZWxrM19NNVIydTA2REd6SG5SaUFCZjI2R0ZZTndxNUdYdmhZS3RMWkJNb2dBTg?oc=5",
-          "published_at": "2026-09-15T07:56:04+00:00"
-        },
-        {
-          "title": "원·달러 환율 하락에 8월 수출물가 3.7% 떨어져 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPOE94UndlaVhDSVR4MDBBNm44bERuUENKcHo1OFIzYzJGVENYVlBKUWRFT3Y3SWMtalpoRE9ZVEJDd2x0UU82cUl3OEF5MWs?oc=5",
-          "published_at": "2026-09-15T07:55:14+00:00"
-        },
-        {
-          "title": "원/달러 환율 1,360원 터치…유가·美국채금리 상승에 12.1원↑ - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZzJEY1lTUm9YN0F0Y2ozNVNmMGJrb0Myd19Kd3NmZklFbGZQU1RlLVM0QlJ4a09RbzRmV1E0YkpEcWtxbVUxVFJxSXVCbUt1amFDTkViSzQ3LVHSAWBBVV95cUxNQkRHVmlTQzF1aWltcW5GaDUwSFQxRGk1YmFrRlhyLUxlTzNORGpiMWl6N0dNTnhnWHM0SlhTMFZ0NE5lR0NsZmRDSTNXR1djRDdMQmtlUlZyZ01ZUkN3UmE?oc=5",
-          "published_at": "2026-09-15T07:50:38+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "8월",
-      "score": 124.51,
-      "articles": [
-        {
-          "title": "원·달러 환율 하락에 8월 수출물가 3.7% 떨어져 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPOE94UndlaVhDSVR4MDBBNm44bERuUENKcHo1OFIzYzJGVENYVlBKUWRFT3Y3SWMtalpoRE9ZVEJDd2x0UU82cUl3OEF5MWs?oc=5",
-          "published_at": "2026-09-15T07:55:14+00:00"
-        },
-        {
-          "title": "울산 8월 수출 3.3%↑…석유제품·석유화학 호조 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUFdUbG5PNXZSZHlVazhjWXFUV1IySnBPTXBFcmFybkItMDNUR29rd04zcXE2Y2h2V09yWk1EdmdGeVJlRGh2THpqRHRfZDg?oc=5",
-          "published_at": "2026-09-15T07:38:58+00:00"
-        },
-        {
-          "title": "환율 급락에 8월 수출물가 3.7%↓... 교역조건, ‘역대 최대’ 개선 - 충청게릴라뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wejdkZmRtbVBLR1JkZVpyNjlJLWlDS2FVM1R2TmJvNmh2OTBBUEdKT3BJdGQ2dUZfUUdCRExwS2RNNTBiRTZyN2lucllxLVI5S0RRNGhocU9QeTlDM1ZidnpSN0x1UQ?oc=5",
-          "published_at": "2026-09-15T07:30:02+00:00"
-        },
-        {
-          "title": "주담대 변동금리 5개월 만에 상승세 멈춰…8월 코픽스 연 3.18%(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCUEZTVlVpVnp4RE1EcmNjTng3Yml3OGFTRm5pSDVyTTFIVzZ0aTdkMWFxVTE5Rl84VzRHMnJOc0t1b1FmMmVmSVhVVVczeUVnZE5hMGpnOXBObkHSAWBBVV95cUxNQkpUOVA3SVc5djJWYmZxZVNOejBUSkgyMHcwRXV1RjJFSXFWM3NFMnNXMnM4blJUcTBTT2cya1hQNG5XakJ6TlVJMFM5Z2x2ZG1fUXl2ZFVpeVlPTGt0eVA?oc=5",
-          "published_at": "2026-09-15T07:01:39+00:00"
-        },
-        {
-          "title": "8월 경남 지역 수출 5.1% 감소한 31.6억 달러, 무역수지 10.5억 달러 흑자 - intn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5idm9YY0tYeVRJOUVraHp0cFNDZDZtMEc1c2s2MlhpVmZJdmkxSzNCRkdFOElhamttUk13SXNJd3o2VVdwTUk1cGc3c0ZCX0lsMEstRVZJN1VGZi1BQ0l1VzcwTDdGeGdRZWc?oc=5",
-          "published_at": "2026-09-15T06:36:55+00:00"
+          "title": "[외환] FOMC 앞두고 1,370원대로…고유가·강달러 여파 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FN3V1MDd6aEJtQ3Z3SjhGbmpMLXF3cDVibHZSbW9GYzlVZEhpX0wtQjhneU9ScW4ybG1BbDIwWlNuRnlfUzF0YkxjWTZmdjE2Z3VYTU55Qi1zSE9BSUczWVEtUngwZlJGSEtmSVVLMFQ?oc=5",
+          "published_at": "2026-09-16T04:20:46+00:00"
         }
       ]
     }
