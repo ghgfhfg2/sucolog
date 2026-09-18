@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-09-17T08:20:24.872811+00:00",
+  "generated_at": "2026-09-18T07:55:46.000762+00:00",
   "source_count": 4,
-  "article_count": 374,
+  "article_count": 365,
   "top_keywords": [
     {
       "keyword": "인상",
-      "score": 359.36
-    },
-    {
-      "keyword": "금리",
-      "score": 243.32
-    },
-    {
-      "keyword": "연준",
-      "score": 232.57
+      "score": 330.06
     },
     {
       "keyword": "기준금리",
-      "score": 223.15
+      "score": 275.56
     },
     {
-      "keyword": "net",
-      "score": 204.0
+      "keyword": "25%로",
+      "score": 229.0
     },
     {
-      "keyword": "daum",
-      "score": 199.46
+      "keyword": "일본은행",
+      "score": 200.84
+    },
+    {
+      "keyword": "만에",
+      "score": 168.92
+    },
+    {
+      "keyword": "금리",
+      "score": 165.87
     },
     {
       "keyword": "한국경제",
-      "score": 197.84
+      "score": 140.81
     },
     {
-      "keyword": "수출",
-      "score": 154.87
+      "keyword": "daum",
+      "score": 130.87
     },
     {
-      "keyword": "추가",
-      "score": 128.83
+      "keyword": "net",
+      "score": 130.87
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 125.95
+      "keyword": "최고",
+      "score": 129.49
     },
     {
-      "keyword": "FOMC",
-      "score": 109.87
+      "keyword": "유가",
+      "score": 120.62
     },
     {
-      "keyword": "코스피",
-      "score": 105.73
+      "keyword": "einfomax",
+      "score": 119.59
     }
   ],
   "hot_topics": [
     {
       "keyword": "인상",
-      "score": 359.36,
+      "score": 330.06,
       "articles": [
         {
-          "title": "“당장 10% 빠질 수 있는데, 던질까 담을까?”…금리 인상 1년 뒤 웃었던 美 증시 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEVkxGV051YXVoMkxxOFZscXVQS3Y5S010WEU2ZlVYd3QzdFlCc2NkMDBrbklTSUV4YVZJcVczZ1ZDQ3lkM1pXbk9IazFNN1RoRXc?oc=5",
-          "published_at": "2026-09-17T08:02:37+00:00"
+          "title": "[채권-마감] 강세 플래트닝…BOJ 금리인상·外人 폭풍매수 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRzUyWXJCdElUVW1YUklubU05NVhyUm5sUHJpY2FtaGhjSHJhUUd1Snhud0VDSFlqSkRyVnVpeTBvc1Z5TloweEN0a0FNOUlVZldXZFNHQl9QbUF1aUNFc2pudS1yWDNyVVEwQmZkLVdPdw?oc=5",
+          "published_at": "2026-09-18T07:42:06+00:00"
         },
         {
-          "title": "연준 금리 올리고 추가 인상 시사…원·달러 환율 3주 만에 1380원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04bkhqNDNOaHNpM0JJUEFsbEE1RGZaNHlKZVI0R1pPcFRTUGZvWV95NVdWYUZjSGdKSmtHcXRUTW9xb0pzYkpEWktGcGhyb1E?oc=5",
-          "published_at": "2026-09-17T08:00:37+00:00"
+          "title": "미 금리인상 하루 만에 반등한 코스피…삼전·닉스 3~6% 급등 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWY1Z1UtTGZvWThhbGNyajdzVEJmVURzME12OC1vTFRUbHNja19tRUxBcVpfMmRBbERUdld3aHlnS1hkMWFjZ01ZeVZjSFZicU8xOU54QjdOc0JPaVl5UmxMcDRlUTYwYlFWT19meDVZS09xX2V0S0JoWjE2SmtqNzB1dFA1bzBzTlhSTE9vYWhCSFY0V3Uya2FmTHMzNWdaRENvOTBVSE1oUdIBX0FVX3lxTFBCZnFrUmhibHJEdnRxS2EydmtyY1BJUVpETmVrYjM3Rzh1bk5xa3NCVi1meHR3MlVQSzYyYk5WNVF4dkVlTUJyRmp5SGpMRlpqbmhJRFlJVVpKYUxRQU5n?oc=5",
+          "published_at": "2026-09-18T07:39:00+00:00"
         },
         {
-          "title": "美 금리인상에 韓 채권금리 또 오르나… 펀드운용·자금조달 '비상' - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bTZsMkJlUmNKMzZEM3lYVVZkZFBwcktGVWJjS0YzRWpZRElITUlSNXoxZGxwMDFGTUNmM1paaGFqRnE0emlVSlpaNHNhN3I3NzE5d3hKRWI4Q3plV3pVeHhTVmJ5RHQ00gFuQVVfeXFMT0ZYc3RET1V4U3N3MWxmc2F5M2F2aURUb1RrU1RZTkQwcVB6U2ZoeEFOQl94MzF4Tlg2ZXpuR2U5OU5SbC1faS1WRUhidWJyR2RhSGtxdExKVTZtdW1EXzI2VDNHbmxEbGhpT09KN2c?oc=5",
-          "published_at": "2026-09-17T07:57:43+00:00"
+          "title": "일본은행 기준금리 1.25%로 인상…추가 인상 기조 재확인 (종합) - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51VWNXejNjd3pnbXR0UWNVMFNNb1R2TkgyVE14SHV1cUtYNVZvRXh1MnVDV3FIQ1lqd2pCMjZ3OHRNLWZQOFBobXNLZ25rSUIyRlM5S1NzWHd3N3JtUUEySA?oc=5",
+          "published_at": "2026-09-18T07:29:32+00:00"
         },
         {
-          "title": "긴축 나선 연준…한은 금리인상 '고차방정식' - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQk1abWozM0trQk1JckJRc1ZMTkNLTzdaTzI0SHltbDNWNU9ORGpqbVdmR3RKNGZfZHY5Z05STkE2UmZVeUNyZ2FsMVFlc2ZBamRDTTRzamF3ZHp5VWVRLQ?oc=5",
-          "published_at": "2026-09-17T07:51:36+00:00"
+          "title": "美 금리인상에 이자뿐 아니라 대출한도도 줄어든다…내 집 마련 '이중 충격' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUDJBNUp2eU5XSWVxWGJ5cHloMVdjT0x6ZmZqT0RTNmJkakl6UlM0UVhjN1ZjdnNQNXhIbE9vbXkwb0FFRU93TWdnWjgyX1U?oc=5",
+          "published_at": "2026-09-18T07:28:11+00:00"
         },
         {
-          "title": "연준, 금리 인상 후 매파적 전환…영란은행 결정 앞둬 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40SjlyNVlfY1ZScmhuYWlFMFMwY3dtbmhLZlJBcW5YNHdsRmlGeXhldVVmZmhyZnhLLUVRNDZyWU1Jd1pULTBKNnRvUzVVX25HMWdibXdteFlRR3A3ZUlEcG5Sa1RNR0Uydmc?oc=5",
-          "published_at": "2026-09-17T07:51:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 243.32,
-      "articles": [
-        {
-          "title": "“당장 10% 빠질 수 있는데, 던질까 담을까?”…금리 인상 1년 뒤 웃었던 美 증시 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEVkxGV051YXVoMkxxOFZscXVQS3Y5S010WEU2ZlVYd3QzdFlCc2NkMDBrbklTSUV4YVZJcVczZ1ZDQ3lkM1pXbk9IazFNN1RoRXc?oc=5",
-          "published_at": "2026-09-17T08:02:37+00:00"
-        },
-        {
-          "title": "연준 금리 올리고 추가 인상 시사…원·달러 환율 3주 만에 1380원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04bkhqNDNOaHNpM0JJUEFsbEE1RGZaNHlKZVI0R1pPcFRTUGZvWV95NVdWYUZjSGdKSmtHcXRUTW9xb0pzYkpEWktGcGhyb1E?oc=5",
-          "published_at": "2026-09-17T08:00:37+00:00"
-        },
-        {
-          "title": "美 금리인상에 韓 채권금리 또 오르나… 펀드운용·자금조달 '비상' - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bTZsMkJlUmNKMzZEM3lYVVZkZFBwcktGVWJjS0YzRWpZRElITUlSNXoxZGxwMDFGTUNmM1paaGFqRnE0emlVSlpaNHNhN3I3NzE5d3hKRWI4Q3plV3pVeHhTVmJ5RHQ00gFuQVVfeXFMT0ZYc3RET1V4U3N3MWxmc2F5M2F2aURUb1RrU1RZTkQwcVB6U2ZoeEFOQl94MzF4Tlg2ZXpuR2U5OU5SbC1faS1WRUhidWJyR2RhSGtxdExKVTZtdW1EXzI2VDNHbmxEbGhpT09KN2c?oc=5",
-          "published_at": "2026-09-17T07:57:43+00:00"
-        },
-        {
-          "title": "긴축 나선 연준…한은 금리인상 '고차방정식' - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQk1abWozM0trQk1JckJRc1ZMTkNLTzdaTzI0SHltbDNWNU9ORGpqbVdmR3RKNGZfZHY5Z05STkE2UmZVeUNyZ2FsMVFlc2ZBamRDTTRzamF3ZHp5VWVRLQ?oc=5",
-          "published_at": "2026-09-17T07:51:36+00:00"
-        },
-        {
-          "title": "연준, 금리 인상 후 매파적 전환…영란은행 결정 앞둬 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40SjlyNVlfY1ZScmhuYWlFMFMwY3dtbmhLZlJBcW5YNHdsRmlGeXhldVVmZmhyZnhLLUVRNDZyWU1Jd1pULTBKNnRvUzVVX25HMWdibXdteFlRR3A3ZUlEcG5Sa1RNR0Uydmc?oc=5",
-          "published_at": "2026-09-17T07:51:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "연준",
-      "score": 232.57,
-      "articles": [
-        {
-          "title": "연준 금리 올리고 추가 인상 시사…원·달러 환율 3주 만에 1380원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04bkhqNDNOaHNpM0JJUEFsbEE1RGZaNHlKZVI0R1pPcFRTUGZvWV95NVdWYUZjSGdKSmtHcXRUTW9xb0pzYkpEWktGcGhyb1E?oc=5",
-          "published_at": "2026-09-17T08:00:37+00:00"
-        },
-        {
-          "title": "긴축 나선 연준…한은 금리인상 '고차방정식' - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQk1abWozM0trQk1JckJRc1ZMTkNLTzdaTzI0SHltbDNWNU9ORGpqbVdmR3RKNGZfZHY5Z05STkE2UmZVeUNyZ2FsMVFlc2ZBamRDTTRzamF3ZHp5VWVRLQ?oc=5",
-          "published_at": "2026-09-17T07:51:36+00:00"
-        },
-        {
-          "title": "연준, 금리 인상 후 매파적 전환…영란은행 결정 앞둬 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40SjlyNVlfY1ZScmhuYWlFMFMwY3dtbmhLZlJBcW5YNHdsRmlGeXhldVVmZmhyZnhLLUVRNDZyWU1Jd1pULTBKNnRvUzVVX25HMWdibXdteFlRR3A3ZUlEcG5Sa1RNR0Uydmc?oc=5",
-          "published_at": "2026-09-17T07:51:00+00:00"
-        },
-        {
-          "title": "‘연준 금리인상’ 베트남 중앙銀, 달러환율 4거래일 연속 인상…’연일 사상 최고치’ - 인사이드비나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGd09vOXc0bGNhcWtJbFVnYkhGQW9TUE9paEhFN1FUYVIyNlJ6YjNlWTZmYmJUbEtuc3Zrb2F1TWplX0YwM3NDYXU0VmhER293ZER4enNOXzBNZjFEU0FSbUhuYUxYbmp1X1A3bQ?oc=5",
-          "published_at": "2026-09-17T07:50:26+00:00"
-        },
-        {
-          "title": "[이슈앤피플] 미 연준, 기준금리 0.25%p 인상…연내 추가 인상 예고 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTnkxZmlPSGlwTlkxa3FOMUs4Y1BQcVVnVVB5Sk8teFd4dndac1M2QlFYWXNyTWxYcDhQY1FReFR6VjVRUUVMSEtMU3Q1SWgwNmc?oc=5",
-          "published_at": "2026-09-17T07:49:41+00:00"
+          "title": "[환율마감] 원·달러 7일째 상승 1380원대 굳히기, BOJ 인상 이긴 달러 강세 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXOW9DQjI2bmYzY0hQZy1lV1U4Ymc5YkoxZlZIdXRvR2JhQzZSVGVSeG5rZnNfdXNBUXJ5bXU4TDJuZzVPYldpSkxGcVpYQ2ZhcURfMw?oc=5",
+          "published_at": "2026-09-18T07:17:00+00:00"
         }
       ]
     },
     {
       "keyword": "기준금리",
-      "score": 223.15,
+      "score": 275.56,
       "articles": [
         {
-          "title": "[이슈앤피플] 미 연준, 기준금리 0.25%p 인상…연내 추가 인상 예고 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTnkxZmlPSGlwTlkxa3FOMUs4Y1BQcVVnVVB5Sk8teFd4dndac1M2QlFYWXNyTWxYcDhQY1FReFR6VjVRUUVMSEtMU3Q1SWgwNmc?oc=5",
-          "published_at": "2026-09-17T07:49:41+00:00"
+          "title": "일본은행, 기준금리 1.25%로 또 올렸다…31년 만에 최고 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUXJGcE1QV3RkQ2JxbnpEalZQazZIeXVwdTJhUGhpREwyZ29rYlFuMTZjQXVqaXFMRUtzaml5RHRXay0tSHpsaU9wX0RHOVptdUx3RllsZF80VFJ4ME1vYkxLYjZ0THlJWWc?oc=5",
+          "published_at": "2026-09-18T07:40:56+00:00"
         },
         {
-          "title": "[이슈앤피플] 미 연준, 기준금리 0.25%p 인상…연내 추가 인상 예고 - 매일경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43TWVNeGZXeDBKeWNMWHN5U1ZNSkw3ZE42WGNya2c3Q0JiWjE2SVI2OWFTbldKZlFPS2FCMG9WZkh2TEJtZm0wZVlJd0xrUkRvcUE4dlRFMEdxcTNGWWRUUGFzUVI3N0U3?oc=5",
-          "published_at": "2026-09-17T07:37:00+00:00"
+          "title": "일본은행 기준금리 1.25%로 인상…추가 인상 기조 재확인 (종합) - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51VWNXejNjd3pnbXR0UWNVMFNNb1R2TkgyVE14SHV1cUtYNVZvRXh1MnVDV3FIQ1lqd2pCMjZ3OHRNLWZQOFBobXNLZ25rSUIyRlM5S1NzWHd3N3JtUUEySA?oc=5",
+          "published_at": "2026-09-18T07:29:32+00:00"
         },
         {
-          "title": "‘美 기준금리 인상’ 충격에도 코스피 ‘약보합’ 선방 - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84eVhjcFpWVDJPWmxBdURlb1diTU9XdUhEcFpkeE1uNUkwNmlLaFNhS3g5ZXotcnNTMnBKc2ZhUGd5aG5hRHlQc3R2S0V4YkVpdTNYdnZURElvc3FnOWFzMzRB?oc=5",
-          "published_at": "2026-09-17T07:36:00+00:00"
+          "title": "일본은행, 기준금리 0.25%p 인상‥6월 이후 3개월만 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53M3hLSWFJSE9RRjhJM1dTbEtyZFkzYmRUUkgwQ3NFaHdROFRjdUFIRl9BVnpSanZrdTc2ald3REZfWW1KNTJtbV9vRHNnYm8?oc=5",
+          "published_at": "2026-09-18T07:13:16+00:00"
         },
         {
-          "title": "미국도 손들었다… 전쟁 장기화에 3년 만에 기준금리 인상 - 매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OX3BMX1d1eEV3akNDNm9WbDA5a29CUTl1VnlOS2NKRll2Rm1zSkdiZFZlb2stSTVDZFBzY19lTHN2UzZrQmhWOXhZaU90dmFZd3VILWV6U19kT1M4MW5JZkpR?oc=5",
-          "published_at": "2026-09-17T07:31:30+00:00"
+          "title": "일본은행, 기준금리 1.25%로 인상…美 이어 글로벌 긴축 기류 확산 - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UV1E5TUdjc3VQNkx5RFR2NjlmSVlrZFRNZDM4bnVtdW9WaFAxVnZ5MnowTGdSaDNKMVN0XzZ4X0d0eHBaNzhkeFJ0WmRoOTk1Y01qWVhLRHI0TGVPQklkVHJFY0VmYUc2QVl6Z0thQQ?oc=5",
+          "published_at": "2026-09-18T06:57:00+00:00"
         },
         {
-          "title": "韓·美 금리 격차 1%p로 확대 ... 기준금리 11월 인상에 무게 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnRGJOZjl2MnRrVUtTQkRneHZlRnFGN2lNRWlZQ1VIRFd4VDh6blFTZXE2Wm1SSzNDbXc0blVQTVRUWDhVU3hpSDJsdGMyNjg?oc=5",
-          "published_at": "2026-09-17T06:42:02+00:00"
+          "title": "코스피, 美·日 기준금리 인상 소화하며 2.6% 반등 마감 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95T1o2RFpXeDBqUC1VYmlzS0Y3M3h4NlYyTmxDTUNGdEcxVTI3Z1Y2T2E1SVZpZG9LeUdIS2ZvTHhRMmR6MDV6aElRLWJHdXRTWW1XcmdaSUxQdw?oc=5",
+          "published_at": "2026-09-18T06:41:50+00:00"
         }
       ]
     },
     {
-      "keyword": "net",
-      "score": 204.0,
+      "keyword": "25%로",
+      "score": 229.0,
       "articles": [
         {
-          "title": "[초대석] '교통부터 경제까지' 시민이 변화 체감할 의정부 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BWFVPRGF1dWJwaHhXVkkwRGFQRXY4LTVUOFJzXzI3aHlkWm1nNGZ2SVg0Z3drMVpfdUtJWGZzMHN2NEt3T195SVdid0xOb0U?oc=5",
-          "published_at": "2026-09-17T08:07:54+00:00"
+          "title": "일본은행, 기준금리 1.25%로 또 올렸다…31년 만에 최고 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUXJGcE1QV3RkQ2JxbnpEalZQazZIeXVwdTJhUGhpREwyZ29rYlFuMTZjQXVqaXFMRUtzaml5RHRXay0tSHpsaU9wX0RHOVptdUx3RllsZF80VFJ4ME1vYkxLYjZ0THlJWWc?oc=5",
+          "published_at": "2026-09-18T07:40:56+00:00"
         },
         {
-          "title": "연준 금리 올리고 추가 인상 시사…원·달러 환율 3주 만에 1380원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04bkhqNDNOaHNpM0JJUEFsbEE1RGZaNHlKZVI0R1pPcFRTUGZvWV95NVdWYUZjSGdKSmtHcXRUTW9xb0pzYkpEWktGcGhyb1E?oc=5",
-          "published_at": "2026-09-17T08:00:37+00:00"
+          "title": "일본은행 기준금리 1.25%로 인상…추가 인상 기조 재확인 (종합) - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51VWNXejNjd3pnbXR0UWNVMFNNb1R2TkgyVE14SHV1cUtYNVZvRXh1MnVDV3FIQ1lqd2pCMjZ3OHRNLWZQOFBobXNLZ25rSUIyRlM5S1NzWHd3N3JtUUEySA?oc=5",
+          "published_at": "2026-09-18T07:29:32+00:00"
         },
         {
-          "title": "경북창조경제혁신센터, 식품기업 제조·사업화 역량 강화 ‘로컬 인사이트 트립’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mMlZHZlR4cElNVTJTWGw2VG8xaWYyUGl3WnZ4N3prVnYtVm9mNjQ1UUkxTy1McTNlVi1aUnNFTFZuOFpzYThNZE56ME9fcDQ?oc=5",
-          "published_at": "2026-09-17T07:43:24+00:00"
+          "title": "일본은행, 기준금리 1.25%로 인상…美 이어 글로벌 긴축 기류 확산 - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UV1E5TUdjc3VQNkx5RFR2NjlmSVlrZFRNZDM4bnVtdW9WaFAxVnZ5MnowTGdSaDNKMVN0XzZ4X0d0eHBaNzhkeFJ0WmRoOTk1Y01qWVhLRHI0TGVPQklkVHJFY0VmYUc2QVl6Z0thQQ?oc=5",
+          "published_at": "2026-09-18T06:57:00+00:00"
         },
         {
-          "title": "더 이상 ‘값싼 돈’은 없다…영끌·빚투 초비상 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zME9NOF9nbEZQR2tQQmc4WTltWlJEbkxzNmdsREE2aldJZ0FPWXNEUms1RVhVNERnYmRUQXowS25JZXFncExmckh5b3lZZ1U?oc=5",
-          "published_at": "2026-09-17T07:20:07+00:00"
+          "title": "일본은행, 3개월만 기준금리 1.25%로 인상... 1995년 이후 최고치 - 베타뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CMlAtc0ZIRWpPZk15a0RKVWVrejRMdlh4UFN2YlJTYzBhWTZkazN6cl91RDlkTkJZNEwtQnpNQ1NlYnZIQXJQWEpUNU50ZEZNbU5MX2NaeXM4UDcyd0dfNk1SLXo?oc=5",
+          "published_at": "2026-09-18T06:22:29+00:00"
         },
         {
-          "title": "美 FOMC 충격 여파에 달러·원 1383원대…13.6원 급등(종합) - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHQzQxTENnRWVVOTdQQTFscEo1NXZiczhudTZvZ3ZSM0d6cnpwX0RLU21ReXE1b19jc2JxYzNxaDZzaVJnQURfNEpCV0Q1MEE?oc=5",
-          "published_at": "2026-09-17T07:15:57+00:00"
+          "title": "\"초저금리 시대 끝내나\" 日, 금리 1.25%로 인상 - 한경매거진&북",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rX0xjMC1seDhRYzZHOXBHc2hqMnZKR3BjeFNaNEtvdEFYLUFhRE1wOU9DdExSMTRvbHFTUzVyQUwwOGlHbFZKMmM1dWRjS3VUTXpwTTBiZTExb3ZpcmZKQnE1WC1Xa2dubFBuYw?oc=5",
+          "published_at": "2026-09-18T06:18:00+00:00"
         }
       ]
     },
     {
-      "keyword": "daum",
-      "score": 199.46,
+      "keyword": "일본은행",
+      "score": 200.84,
       "articles": [
         {
-          "title": "[초대석] '교통부터 경제까지' 시민이 변화 체감할 의정부 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BWFVPRGF1dWJwaHhXVkkwRGFQRXY4LTVUOFJzXzI3aHlkWm1nNGZ2SVg0Z3drMVpfdUtJWGZzMHN2NEt3T195SVdid0xOb0U?oc=5",
-          "published_at": "2026-09-17T08:07:54+00:00"
+          "title": "일본은행, 기준금리 1.25%로 또 올렸다…31년 만에 최고 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUXJGcE1QV3RkQ2JxbnpEalZQazZIeXVwdTJhUGhpREwyZ29rYlFuMTZjQXVqaXFMRUtzaml5RHRXay0tSHpsaU9wX0RHOVptdUx3RllsZF80VFJ4ME1vYkxLYjZ0THlJWWc?oc=5",
+          "published_at": "2026-09-18T07:40:56+00:00"
         },
         {
-          "title": "연준 금리 올리고 추가 인상 시사…원·달러 환율 3주 만에 1380원대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04bkhqNDNOaHNpM0JJUEFsbEE1RGZaNHlKZVI0R1pPcFRTUGZvWV95NVdWYUZjSGdKSmtHcXRUTW9xb0pzYkpEWktGcGhyb1E?oc=5",
-          "published_at": "2026-09-17T08:00:37+00:00"
+          "title": "일본은행 기준금리 1.25%로 인상…추가 인상 기조 재확인 (종합) - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51VWNXejNjd3pnbXR0UWNVMFNNb1R2TkgyVE14SHV1cUtYNVZvRXh1MnVDV3FIQ1lqd2pCMjZ3OHRNLWZQOFBobXNLZ25rSUIyRlM5S1NzWHd3N3JtUUEySA?oc=5",
+          "published_at": "2026-09-18T07:29:32+00:00"
         },
         {
-          "title": "경북창조경제혁신센터, 식품기업 제조·사업화 역량 강화 ‘로컬 인사이트 트립’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mMlZHZlR4cElNVTJTWGw2VG8xaWYyUGl3WnZ4N3prVnYtVm9mNjQ1UUkxTy1McTNlVi1aUnNFTFZuOFpzYThNZE56ME9fcDQ?oc=5",
-          "published_at": "2026-09-17T07:43:24+00:00"
+          "title": "일본은행, 기준금리 0.25%p 인상‥6월 이후 3개월만 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53M3hLSWFJSE9RRjhJM1dTbEtyZFkzYmRUUkgwQ3NFaHdROFRjdUFIRl9BVnpSanZrdTc2ald3REZfWW1KNTJtbV9vRHNnYm8?oc=5",
+          "published_at": "2026-09-18T07:13:16+00:00"
         },
         {
-          "title": "더 이상 ‘값싼 돈’은 없다…영끌·빚투 초비상 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zME9NOF9nbEZQR2tQQmc4WTltWlJEbkxzNmdsREE2aldJZ0FPWXNEUms1RVhVNERnYmRUQXowS25JZXFncExmckh5b3lZZ1U?oc=5",
-          "published_at": "2026-09-17T07:20:07+00:00"
+          "title": "일본은행, 기준금리 1.25%로 인상…美 이어 글로벌 긴축 기류 확산 - 위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UV1E5TUdjc3VQNkx5RFR2NjlmSVlrZFRNZDM4bnVtdW9WaFAxVnZ5MnowTGdSaDNKMVN0XzZ4X0d0eHBaNzhkeFJ0WmRoOTk1Y01qWVhLRHI0TGVPQklkVHJFY0VmYUc2QVl6Z0thQQ?oc=5",
+          "published_at": "2026-09-18T06:57:00+00:00"
         },
         {
-          "title": "美 FOMC 충격 여파에 달러·원 1383원대…13.6원 급등(종합) - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHQzQxTENnRWVVOTdQQTFscEo1NXZiczhudTZvZ3ZSM0d6cnpwX0RLU21ReXE1b19jc2JxYzNxaDZzaVJnQURfNEpCV0Q1MEE?oc=5",
-          "published_at": "2026-09-17T07:15:57+00:00"
+          "title": "빨라진 일본은행 긴축 시계…엔저 반전은 '안갯속' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DTHFLWVQtblVkcVVDajZFNFZ6c3RkUlhua3hOVGZjUXhlMDNlMF9HZWx3c3VGLVhNNnpCeTFRMGJJRlpwbmMxTjM2bl9rTkk?oc=5",
+          "published_at": "2026-09-18T06:42:07+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "만에",
+      "score": 168.92,
+      "articles": [
+        {
+          "title": "일본은행, 기준금리 1.25%로 또 올렸다…31년 만에 최고 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUXJGcE1QV3RkQ2JxbnpEalZQazZIeXVwdTJhUGhpREwyZ29rYlFuMTZjQXVqaXFMRUtzaml5RHRXay0tSHpsaU9wX0RHOVptdUx3RllsZF80VFJ4ME1vYkxLYjZ0THlJWWc?oc=5",
+          "published_at": "2026-09-18T07:40:56+00:00"
+        },
+        {
+          "title": "미 금리인상 하루 만에 반등한 코스피…삼전·닉스 3~6% 급등 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWY1Z1UtTGZvWThhbGNyajdzVEJmVURzME12OC1vTFRUbHNja19tRUxBcVpfMmRBbERUdld3aHlnS1hkMWFjZ01ZeVZjSFZicU8xOU54QjdOc0JPaVl5UmxMcDRlUTYwYlFWT19meDVZS09xX2V0S0JoWjE2SmtqNzB1dFA1bzBzTlhSTE9vYWhCSFY0V3Uya2FmTHMzNWdaRENvOTBVSE1oUdIBX0FVX3lxTFBCZnFrUmhibHJEdnRxS2EydmtyY1BJUVpETmVrYjM3Rzh1bk5xa3NCVi1meHR3MlVQSzYyYk5WNVF4dkVlTUJyRmp5SGpMRlpqbmhJRFlJVVpKYUxRQU5n?oc=5",
+          "published_at": "2026-09-18T07:39:00+00:00"
+        },
+        {
+          "title": "대구 수출 3개월 만에 8억달러대로 후퇴…경북은 9개월째 플러스 - news1.kr",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UaXVsbE1QdlVRY284WjRtbU5IX0pWb1dIcXFUaWVpVnZqem41eUQ4bEhjdUVVcG0xLUw1eS1nWGxvSWRGYTNqX3N5dGIxQWRXaXozNVFkTkJucjhfTy1j0gFkQVVfeXFMTVYwTlBNc3RDZS0yU0tpMm52aVl4bk02THdCRkdCcnBRNDRqUkJudmVfcDVoWHpMVTRxcy0yLUUwdVlVenNwbm5TSDBYZWc5dlc4Y2FFT0R4bGJQNFAzTFZTN1gtWA?oc=5",
+          "published_at": "2026-09-18T07:22:41+00:00"
+        },
+        {
+          "title": "금리·유가 진정세에 외국인 7거래일 만에 SK하닉 순매수[핫종목](종합) - news1.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wSlFzbW44eHlYWDM3OUs4TVNnUnU3YjNHbDFwV1QtR1g4RHFEbEItSjhTUFlaSWxyd2hKTzhMc1JveUF6c3BaQzlUUzhRUjJfdl80TmdvQ1phY0nSAWBBVV95cUxPczVrb2Z5SVdUZDh3WXY0WllpVWMxVHg0RmF4QkltbkhGN2tvZmpsbTNOdnJUNDBqOUVrOTUwNWZLcFRkejlNQ3ZiOHdPWk9jWnhtanl3elhZWFZla1lwT1g?oc=5",
+          "published_at": "2026-09-18T07:20:47+00:00"
+        },
+        {
+          "title": "日, 3개월 만에 또 금리 인상…1.25% ‘31년 최고’ - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BbmhXRXF6WW03RnRYY0FrVlpCcjlHQnAzRW9jRXU2bmlzX0diNzhjNTFCb2FCbDFfSDVDS2I1cV80Z2NPc004YXJIWDJvTWxHaE03dzQtdkdhN3FpUHZQNE16SUI1STgtN21Z?oc=5",
+          "published_at": "2026-09-18T06:49:43+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 165.87,
+      "articles": [
+        {
+          "title": "[채권-마감] 강세 플래트닝…BOJ 금리인상·外人 폭풍매수 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRzUyWXJCdElUVW1YUklubU05NVhyUm5sUHJpY2FtaGhjSHJhUUd1Snhud0VDSFlqSkRyVnVpeTBvc1Z5TloweEN0a0FNOUlVZldXZFNHQl9QbUF1aUNFc2pudS1yWDNyVVEwQmZkLVdPdw?oc=5",
+          "published_at": "2026-09-18T07:42:06+00:00"
+        },
+        {
+          "title": "일본은행, 기준금리 1.25%로 또 올렸다…31년 만에 최고 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUXJGcE1QV3RkQ2JxbnpEalZQazZIeXVwdTJhUGhpREwyZ29rYlFuMTZjQXVqaXFMRUtzaml5RHRXay0tSHpsaU9wX0RHOVptdUx3RllsZF80VFJ4ME1vYkxLYjZ0THlJWWc?oc=5",
+          "published_at": "2026-09-18T07:40:56+00:00"
+        },
+        {
+          "title": "미 금리인상 하루 만에 반등한 코스피…삼전·닉스 3~6% 급등 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWY1Z1UtTGZvWThhbGNyajdzVEJmVURzME12OC1vTFRUbHNja19tRUxBcVpfMmRBbERUdld3aHlnS1hkMWFjZ01ZeVZjSFZicU8xOU54QjdOc0JPaVl5UmxMcDRlUTYwYlFWT19meDVZS09xX2V0S0JoWjE2SmtqNzB1dFA1bzBzTlhSTE9vYWhCSFY0V3Uya2FmTHMzNWdaRENvOTBVSE1oUdIBX0FVX3lxTFBCZnFrUmhibHJEdnRxS2EydmtyY1BJUVpETmVrYjM3Rzh1bk5xa3NCVi1meHR3MlVQSzYyYk5WNVF4dkVlTUJyRmp5SGpMRlpqbmhJRFlJVVpKYUxRQU5n?oc=5",
+          "published_at": "2026-09-18T07:39:00+00:00"
+        },
+        {
+          "title": "일본은행 기준금리 1.25%로 인상…추가 인상 기조 재확인 (종합) - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51VWNXejNjd3pnbXR0UWNVMFNNb1R2TkgyVE14SHV1cUtYNVZvRXh1MnVDV3FIQ1lqd2pCMjZ3OHRNLWZQOFBobXNLZ25rSUIyRlM5S1NzWHd3N3JtUUEySA?oc=5",
+          "published_at": "2026-09-18T07:29:32+00:00"
+        },
+        {
+          "title": "美 금리인상에 이자뿐 아니라 대출한도도 줄어든다…내 집 마련 '이중 충격' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUDJBNUp2eU5XSWVxWGJ5cHloMVdjT0x6ZmZqT0RTNmJkakl6UlM0UVhjN1ZjdnNQNXhIbE9vbXkwb0FFRU93TWdnWjgyX1U?oc=5",
+          "published_at": "2026-09-18T07:28:11+00:00"
         }
       ]
     },
     {
       "keyword": "한국경제",
-      "score": 197.84,
+      "score": 140.81,
       "articles": [
         {
-          "title": "외국인 지분율 꾸준히 높아지는 대한항공…실적·합병 기대 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bd05RYld1RHhlbWhsM2tvNzJhdmw4QWxoYy0xa0NVRl9WMGVzdU9MZG9SckZCREVqTzd0STR4WHVETDY1UnlHeFVTOFk3Z2hEWTJkYTlqZnp6dw?oc=5",
-          "published_at": "2026-09-17T08:08:20+00:00"
+          "title": "두산로보틱스 신임 CEO에 전략통 권영민 사장 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4dVFCd2tRR3YyMGMtOTlBSXBSUW1QQTk0SFNZNUhVcDlTT1N3ZElacFg2M0ZtdHNEVHNhZ09SMWxEQXZjNktKblUtOWtHNWo1M1VGN29aX3NJZw?oc=5",
+          "published_at": "2026-09-18T07:37:45+00:00"
         },
         {
-          "title": "선을 행합시다, 살아있는 한 지치지말고 [글로벌 북트렌드] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00V1JSWWthMHUxN2dPMmFKUzFjUU85WmM5Yl8zcTgybk5Sdk5kTkZpT29mUUxyOWIwRG5YeFpDSWpLckc1M01LTjJ0Vk84SFNadk5mb1QwM1lwQQ?oc=5",
-          "published_at": "2026-09-17T08:04:16+00:00"
+          "title": "이재명 대통령 취임 후 일곱번째 기자회견 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Tdlo1d01aM0dtQlJ5RHNKUExySndyRWhiRmsxOTMxRWQ0VTVranhFbmVmRWpsLS1tRnVMMF8xVWdMSjV3TGRpT0oyTjc1MC1kVVN0TTlVSnhDUQ?oc=5",
+          "published_at": "2026-09-18T07:34:07+00:00"
         },
         {
-          "title": "[단독]與송영길, '북미정상회담 촉구’ 결의안 추진 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrNXdQcG9yeGE1TWNrTC1ZbjhJRlZ1d0pfVkN1Zkg5ZmJhSlEwRG1xSHd0NDNzN19wc3VZcnR5bl9xcW83TDhrWUZrWGJrTEVNNHFNNVU1Nmh5Zw?oc=5",
-          "published_at": "2026-09-17T08:03:43+00:00"
+          "title": "추석 차례상 비용 5.1%↑…채소값 상승이 주도 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95emtIS3lXQ3Awa2pRYldXd2lBZ3NUSUZoMTROZ0ZLY2praGxVSld0U3ZFbWpzbFNXOGRwQ0g5UDMtN09rTmNxWnc2Y2M5VTdPaG5BeG1ZU3BpUQ?oc=5",
+          "published_at": "2026-09-18T07:30:34+00:00"
         },
         {
-          "title": "[포토] 내 일자리는 어디에 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xcVUzMGhKRnc5bFlqaWFqaGxWNTUxRXV1N0NzLTZHdjJJRnRvc3psYjZEMkRXcm9kMVZvazhzSTdvQWNNeUk3TmR4WmxfLTRHS2dzVkVzcksxZw?oc=5",
-          "published_at": "2026-09-17T08:00:21+00:00"
+          "title": "신세계백화점 천안아산점, 하이퍼그라운드 개장 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKc0M3MXEzektRZC03WEdRVnZ5WlFIZDJCaVpsdklzREJqRkhVTHN4bmJlb3ZBUGNVV1d1NWloaHRIV2lXTkNwbnAxN0hkVmRXNVRIMHFBVEtyZw?oc=5",
+          "published_at": "2026-09-18T07:30:32+00:00"
         },
         {
-          "title": "\"코스피 기술주 기초 레버리지 검토\"…트레이더ETF 대표 방한 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xTEdvU1Q3QUpQbld3NkpuTzJZYjkyX3k4QVJ2enloM2dKMUZHNFpLTFBxU1NCSmYzb1YxcDBveEhQQk9HRDBIVERtZTA2RGFrVHd1M0NwRGVSQQ?oc=5",
-          "published_at": "2026-09-17T07:58:17+00:00"
+          "title": "김종철 산업부 자원산업정책관, 제9대 인천경제자유구역청장 취임 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnRzRzaDNZdG05SXF4Um84bG9RVmtUeGdjaGlidDF0aFUzVVpBWkptUldxa1hQZzN3dUlkRnI0OWJDN0RfanRVX0lXV2VjRW45MjhuTFFsQ21jUQ?oc=5",
+          "published_at": "2026-09-18T07:09:40+00:00"
         }
       ]
     },
     {
-      "keyword": "수출",
-      "score": 154.87,
+      "keyword": "daum",
+      "score": 130.87,
       "articles": [
         {
-          "title": "유럽·북미 중심으로 9월 초 수출 46.1% 증가... 해외 물량 폭주에 ODM 3사 4,300억 원 증설 - 코스인코리아닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qeHdkV2p5Z3JyalhLTFBZa0dTX3YxOFN4UVVPbjNLQjdIcDhzSEEtOTJIcnZ1eTNoY0tCSzhPa1pqdkVFdHBDazE5X21hdFRwS2JkZE9NXzlnOXM1VGxwaE81MWZoQQ?oc=5",
-          "published_at": "2026-09-17T07:56:23+00:00"
+          "title": "美 금리인상에 이자뿐 아니라 대출한도도 줄어든다…내 집 마련 '이중 충격' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUDJBNUp2eU5XSWVxWGJ5cHloMVdjT0x6ZmZqT0RTNmJkakl6UlM0UVhjN1ZjdnNQNXhIbE9vbXkwb0FFRU93TWdnWjgyX1U?oc=5",
+          "published_at": "2026-09-18T07:28:11+00:00"
         },
         {
-          "title": "무보, 표준협회와 수출 중소기업 해외진출 지원 맞손 - 인더스트리뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vV1NPNlQtYnJwNHVCRFlwTXA1Sks0ZGdMRzJWLTB6dmF2OVFTaEc3YWtnZkNTMWNlaGE5XzBKTG42OHM2TkN3ekFtWWI0YWZUdHVjVUJ5MGl5cXFBRnZJbFVfUmkxdVJFTTZNTDRMNEtUZw?oc=5",
-          "published_at": "2026-09-17T07:39:51+00:00"
+          "title": "일본은행, 기준금리 0.25%p 인상‥6월 이후 3개월만 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53M3hLSWFJSE9RRjhJM1dTbEtyZFkzYmRUUkgwQ3NFaHdROFRjdUFIRl9BVnpSanZrdTc2ald3REZfWW1KNTJtbV9vRHNnYm8?oc=5",
+          "published_at": "2026-09-18T07:13:16+00:00"
         },
         {
-          "title": "EU, 中 HEV에 칼 빼들었다…\"무역 불균형 심해\" 자발적 수출 제한 요구 통보 - starnewskorea.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SM0R2eUFxNXlCVzVVNF9KbnljTXN3dFI5TzBnZDJ3MUNZM2h4VlpfOW5UbTFVSmQyTHJMSkVBUFlZSGVqTElyRkNENTNMT2JhT0xpZmp5Z3puNkgtbHpSNXVkV1c0T0FFMWFwVEN6aUVWb0tYRFEzZEtEdk9CV2M?oc=5",
-          "published_at": "2026-09-17T07:34:40+00:00"
+          "title": "BOJ 금리 올렸는데 엔화 여전히 약세…달러·원 환율 1383원(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TUl9XM1pYbk80d0dhXy1TdW81QlRMbl8zcnZLQmxUbVZyQ1BMQW9FUTc3M2tEekVmZmh6YkNpZjJsUkVpTm5Ec1dYSFd2Z0U?oc=5",
+          "published_at": "2026-09-18T07:03:32+00:00"
         },
         {
-          "title": "EU, 중국에 하이브리드차 수출 제한 요구…\"시장 점유율 15%로\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTZUFDSk9rekM2UEZQQ01IYVZMOE1JVnc3TlRuQjM1STZjdm9xeExnMktISktlX25mbXdHdXBDMmZ1eFNFX3dad2tUVkpSSW1rcjc1UFNlc0ttWVI5?oc=5",
-          "published_at": "2026-09-17T07:20:00+00:00"
+          "title": "빨라진 일본은행 긴축 시계…엔저 반전은 '안갯속' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DTHFLWVQtblVkcVVDajZFNFZ6c3RkUlhua3hOVGZjUXhlMDNlMF9HZWx3c3VGLVhNNnpCeTFRMGJJRlpwbmMxTjM2bl9rTkk?oc=5",
+          "published_at": "2026-09-18T06:42:07+00:00"
         },
         {
-          "title": "인천테크노파크,2026 해외 바이어 초청 수출상담회 개최 - 기호일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MYUp5cmJiMURKb2Y3SjRCT1NiMDllMEVjRVNXS3F3ekxLMHNtUmNXem5jdzNQV2ZlN0h0eFp4eExaeDVybGZoWDBoQmNDTkRtQk9BaEx3cjgyc0ZtOUFFUWpxRlZXamRxaUN0ZTNTUQ?oc=5",
-          "published_at": "2026-09-17T07:18:54+00:00"
+          "title": "‘AI·반도체 시대’ 지역 경제 자립 꾀한다… 한국지역순환경제학회 학술대회 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xTWVScHMxMEYxNW1XbjdsaVhvNkNRWFpCNl8ydkV0Zmp0cG9YUFpTU3FhaVBZLWw3d1hnMHplWjF6RTJFUDZndjNRazh0REk?oc=5",
+          "published_at": "2026-09-18T06:36:01+00:00"
         }
       ]
     }
