@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-09-24T08:05:21.786767+00:00",
+  "generated_at": "2026-09-25T08:29:06.014234+00:00",
   "source_count": 4,
-  "article_count": 390,
+  "article_count": 386,
   "top_keywords": [
     {
-      "keyword": "금리",
-      "score": 180.29
-    },
-    {
-      "keyword": "하락",
-      "score": 114.35
-    },
-    {
-      "keyword": "국채금리",
-      "score": 106.36
+      "keyword": "daum",
+      "score": 162.55
     },
     {
       "keyword": "net",
-      "score": 95.1
+      "score": 162.55
     },
     {
-      "keyword": "daum",
-      "score": 90.63
-    },
-    {
-      "keyword": "연합인포맥스",
-      "score": 85.0
-    },
-    {
-      "keyword": "인상",
-      "score": 84.35
-    },
-    {
-      "keyword": "유가",
-      "score": 82.06
+      "keyword": "금리",
+      "score": 155.44
     },
     {
       "keyword": "수출",
-      "score": 70.21
+      "score": 116.54
+    },
+    {
+      "keyword": "국채금리",
+      "score": 107.88
+    },
+    {
+      "keyword": "30년물",
+      "score": 76.92
+    },
+    {
+      "keyword": "최고",
+      "score": 71.55
+    },
+    {
+      "keyword": "국채",
+      "score": 67.16
+    },
+    {
+      "keyword": "뉴욕증시",
+      "score": 65.41
     },
     {
       "keyword": "급등",
-      "score": 67.94
+      "score": 65.33
     },
     {
-      "keyword": "Investing",
-      "score": 66.39
+      "keyword": "유가",
+      "score": 62.76
     },
     {
-      "keyword": "한국어",
-      "score": 66.39
+      "keyword": "인상",
+      "score": 60.39
     }
   ],
   "hot_topics": [
     {
-      "keyword": "금리",
-      "score": 180.29,
+      "keyword": "daum",
+      "score": 162.55,
       "articles": [
         {
-          "title": "강한 PMI 지표, ECB 추가 금리 인상 가능성 높여…유로존 국채 금리 급등 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CLTh0SHFRZFAtWDAyTlpnS2V1QjFFeVJObmdVTzdFT0wwVDhvYmNvc2tpRWFqR0RxeXQwUWZzZ2JGWmVILTRSdktpQTNOYkVTRUh6Q1ZwX09WYUUzdElTczBFWF9TaVk?oc=5",
-          "published_at": "2026-09-24T07:49:00+00:00"
+          "title": "유럽 재무장, K방산에 유리할까 불리할까[주末머니] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KemszMlJTNHZQcVJxTnF3MkQ1UTVCX1hXbDJ4ZmtnNk1MVnVPX2p6aHVHZFZmNUNHeFM1Zm5yRC1ld2Y5NWlpX0NSaFdXTjQ?oc=5",
+          "published_at": "2026-09-25T08:04:40+00:00"
         },
         {
-          "title": "스위스 중앙은행, 금리 0%로 동결…타국은 긴축 행보 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GNkhWUTZQRHBPNkZoM3h2TENFcHQzLWtQVFU2TjN3UF9yQ21qTGMzRVQ1V2tMbVB6R3hVMHA2MEV6NUV3OVUxS1hHVTQ1Y0tFbkQ5NWU0Z2g3dExJcERLYk5zNlZyNkNsNGdtbzVBSWtVVm04QmdZ?oc=5",
-          "published_at": "2026-09-24T07:47:00+00:00"
+          "title": "“연준, 금리 5% 이상으로 올릴 수도”...BofA의 경고 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNk1IM3hRQ3ZXbmhWOER5S0Y3ck1QM1B1UndwbGJfWlVEVmd1djh2UHFyTG4tVzFld3BTbW9QZzF0aW80X1dUZjVodG15OWc?oc=5",
+          "published_at": "2026-09-25T08:03:07+00:00"
         },
         {
-          "title": "파운드화 안정세, 달러 랠리 과열 조짐과 국채 금리 고점 맞물려 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXcjlRZEtzYnVkY0pkYVZLUmNLZ2g3T2p6MEVsTVFHTUtVNjFoVUZYeWpJTEwtWUJUV1BlS3BpVUoycngxVlFaVmtlVWpwUkZ0VmJpVC1UQXZNcERSVEZRMjUzTHRyWTA?oc=5",
-          "published_at": "2026-09-24T07:45:00+00:00"
+          "title": "\"엔화 약세 우려\"…日, 트럼프 환율 발언 이례적 공개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1QzhHOXRYSjgtR1Rlc0R1b2VvS18zUDYxMFN6QjdlU0wzNXVqOUthT2N5dko0cUd2cnpaT3FrSkZFZWZ0aEJ2VFNBX0hWaXM?oc=5",
+          "published_at": "2026-09-25T07:39:29+00:00"
         },
         {
-          "title": "미 국채금리 급등에 암호화폐 하락세…비트코인 한때 8만4천달러 하회 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94VjJkTVB3RkpEWVRMN2x5cjRLZ3dXaXFZbWFPQUtvS2Z0TTBiNHVWRWJCOVRQVWhSVTd3Rk0xTEN0MmpUVlVEM0luaDdmT3FMMi1RWWstdkFnVk9uZkZhbjhTUmdBVm55WGVTemplaDjSAXRBVV95cUxPTmZXUkhxUllVTWdmZmxGWVk3ckpMTC1UZGVXc1FpaC1TRDlmRWZHRmRWUXZ2T21Gd0JUYkpQUndnTDNVZmlxM1FwaGMwdklDcnM0RmhmaC1qbVRfMHBlckUySkZaWk5saDFxa2NLSXB0ODR3ag?oc=5",
-          "published_at": "2026-09-24T07:40:14+00:00"
+          "title": "엔·달러 환율, 다시 160엔 근접…“트럼프, 우려 표명” 이례적 공개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1weFBicjQ3ZWZ2SlhjQ09WX1hMY3FReEd2ZV9WV2RhaV9xS0JCUTJ0dnpMT2wwN3hTOWxpSGI3T2hLR1Z6U2V4cTNGcUJId2c?oc=5",
+          "published_at": "2026-09-25T07:22:07+00:00"
         },
         {
-          "title": "日국채금리, 상승 폭 확대…10년물·2년물 약 30년래 최고치 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdnFoRWVRY0NaUmc1REd5YWZFN0dwVkhXX1ExVEtjUDdwZ25jWGF3NXc3SkNETFhnQXFRU3B5MDJIZ1hLa1AxOXRyalRGZmxicXZ6czh6NHBrVzdjOTdmWF95XzVObXAxbTBkTEZXaFg?oc=5",
-          "published_at": "2026-09-24T07:25:31+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "하락",
-      "score": 114.35,
-      "articles": [
-        {
-          "title": "미 국채금리 급등에 암호화폐 하락세…비트코인 한때 8만4천달러 하회 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94VjJkTVB3RkpEWVRMN2x5cjRLZ3dXaXFZbWFPQUtvS2Z0TTBiNHVWRWJCOVRQVWhSVTd3Rk0xTEN0MmpUVlVEM0luaDdmT3FMMi1RWWstdkFnVk9uZkZhbjhTUmdBVm55WGVTemplaDjSAXRBVV95cUxPTmZXUkhxUllVTWdmZmxGWVk3ckpMTC1UZGVXc1FpaC1TRDlmRWZHRmRWUXZ2T21Gd0JUYkpQUndnTDNVZmlxM1FwaGMwdklDcnM0RmhmaC1qbVRfMHBlckUySkZaWk5saDFxa2NLSXB0ODR3ag?oc=5",
-          "published_at": "2026-09-24T07:40:14+00:00"
-        },
-        {
-          "title": "“금리 0.25%p 오르면 6개월 뒤 아파트값 1.2% 하락” - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9McWZXaUNqWHA0b1h4SEhEM1R2NHczZDdmMnFFaUhIaF9CYWZLeXB3bDE4TjhvQjFmenROSUswOTRwVjhDdlMyWUpraEUwZW5rSFHSAVNBVV95cUxPWFdoVm5Jei1JeWdiLVhGVFZManUzb2xYZkhVaHJDVHdNSzNsRzhQWU92STJYQWtMYk5iTElKNjdoOVdHMTlqV0pvTUlEbUxvTzdQNA?oc=5",
-          "published_at": "2026-09-24T07:12:09+00:00"
-        },
-        {
-          "title": "[도쿄환시] 달러-엔, 수출기업 달러 매도에 하락 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yYU5LUTRnUE9aZFU0N1FVU3UwUFpPMmkxbEFCUjhIdmpnNW9iTE1vQmlFNjViQ2NFcmFBcnFmMzQ1UWxVS1VlRGdYNmVuT3pObjdoTkxNRU1LV3hBazMzVUlLYWVYbkY4dGxBdXJjcW4?oc=5",
-          "published_at": "2026-09-24T07:03:21+00:00"
-        },
-        {
-          "title": "비트코인, 국채 금리·유가 급등에 8만4천 달러로 하락 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hWjJiNzNybVVTV295eVg1ZDR1R1h0dUpBa2J2eHBtN0VOaWRkRmNSN292aEZiaVd1TU4tMDdZN1BIcDhrNms4WGpvUXh1X2IwMGdhVjRrVktzbktzc2h0V2pkRnFxMUR5ek5TVEtOMmFpdnc?oc=5",
-          "published_at": "2026-09-24T06:34:00+00:00"
-        },
-        {
-          "title": "[도쿄환시] 달러-엔, 수출기업 달러 매도에 하락 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ic29jNGFUTW1hRDRBMEFUWFdKb1FzcVVZUGpvOC1ZQTJqQm9HUXY3dHdZTjZZQnhQaS1GaW16bXNwWEJwOEpMQVU1LVZyTEdPSDFXUTZYcXpSd1Via2hKUG5USGlLVGUwSGl1aF9kb2tDdw?oc=5",
-          "published_at": "2026-09-24T05:03:21+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "국채금리",
-      "score": 106.36,
-      "articles": [
-        {
-          "title": "미 국채금리 급등에 암호화폐 하락세…비트코인 한때 8만4천달러 하회 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94VjJkTVB3RkpEWVRMN2x5cjRLZ3dXaXFZbWFPQUtvS2Z0TTBiNHVWRWJCOVRQVWhSVTd3Rk0xTEN0MmpUVlVEM0luaDdmT3FMMi1RWWstdkFnVk9uZkZhbjhTUmdBVm55WGVTemplaDjSAXRBVV95cUxPTmZXUkhxUllVTWdmZmxGWVk3ckpMTC1UZGVXc1FpaC1TRDlmRWZHRmRWUXZ2T21Gd0JUYkpQUndnTDNVZmlxM1FwaGMwdklDcnM0RmhmaC1qbVRfMHBlckUySkZaWk5saDFxa2NLSXB0ODR3ag?oc=5",
-          "published_at": "2026-09-24T07:40:14+00:00"
-        },
-        {
-          "title": "日국채금리, 상승 폭 확대…10년물·2년물 약 30년래 최고치 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdnFoRWVRY0NaUmc1REd5YWZFN0dwVkhXX1ExVEtjUDdwZ25jWGF3NXc3SkNETFhnQXFRU3B5MDJIZ1hLa1AxOXRyalRGZmxicXZ6czh6NHBrVzdjOTdmWF95XzVObXAxbTBkTEZXaFg?oc=5",
-          "published_at": "2026-09-24T07:25:31+00:00"
-        },
-        {
-          "title": "프랑스, 국채금리 급등 속 내년 예산안 놓고 정치 불확실성 점증 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FMlJYOE5ROFBmTmZKR2JLcDdyNkJuVy0zbUhFdExOZy1pR2JxS0ExTjVBSWlkY3pUeTRfR2RCeGE3RzZqTXNZdU9PS3RhZkZqUGdSb1pjNHZmZk9kb0JqMnlIWXAwNTd3dHdnWmlCRXgydw?oc=5",
-          "published_at": "2026-09-24T06:38:21+00:00"
-        },
-        {
-          "title": "亞 국채금리, 美 따라 일제히 급등…日 10년물 30년래 최고·호주 3년물 14bp↑ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kZEZqRThtMmZPSUFpcVdiSnJJQ2xXaXNjdFZqYlNDdEkydzhkTllNZDZiV3RCRTF3WEZVeXJWa2dzY2czOHQySzNfWDY4Ny13MlNxekxUQ0UwbVVpQ3dBVFdoYnNGWDNWWl9Qa01xc3M?oc=5",
-          "published_at": "2026-09-24T03:22:35+00:00"
-        },
-        {
-          "title": "[뉴욕 증시] 美 국채금리 급등...뉴욕 3대 지수 동반 하락 - 한양경제",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hbzFIazMzRlF0N0FWcTQ1cFNIcFptcXB2ZDhJTkgxVm1LajFsUTdKRDhDRVl4RmNvWGVucDNlRmhFYjd5ek1wMEZyMEJFamc2VDdBYjJoLWlKdGlTM2JycC1IazMwcDJnRERFVTRXX1Ytdw?oc=5",
-          "published_at": "2026-09-24T02:33:45+00:00"
+          "title": "아람코 “동서 파이프라인 차질 수일내 복구”⋯새 수출로도 검토 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYcDZGazhFN3BHS3QxWjdUOGpHN3hzN2ktNEJub0RfUkYyemdLUVBWRkJKUUc1UFA3R1Y3WVJGTmdrX0tpZVZaY2JkYmJNQnM?oc=5",
+          "published_at": "2026-09-25T06:14:00+00:00"
         }
       ]
     },
     {
       "keyword": "net",
-      "score": 95.1,
+      "score": 162.55,
       "articles": [
         {
-          "title": "이 대통령 “한·멕시코, 경제협력에 걸맞은 제도적 기반 갖춰야”…FTA 협상 재가동 시사 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1memhueWg5LXVsU2RtVnVJQnlyeXJqXzY5c3VnNkNxalZqaEg3V1Z4YWZPdHZfYmtJVXMwT2dmQmgwWFNnZXdBdkpWa0hnNzA?oc=5",
-          "published_at": "2026-09-24T07:25:09+00:00"
+          "title": "유럽 재무장, K방산에 유리할까 불리할까[주末머니] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KemszMlJTNHZQcVJxTnF3MkQ1UTVCX1hXbDJ4ZmtnNk1MVnVPX2p6aHVHZFZmNUNHeFM1Zm5yRC1ld2Y5NWlpX0NSaFdXTjQ?oc=5",
+          "published_at": "2026-09-25T08:04:40+00:00"
         },
         {
-          "title": "李대통령 “한·멕시코 경제협정 협상 재개해야…양국 결합 큰 시너지” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Yk5nTXNiSy1GaWNmRUdtY3QzMjFHaEJRQjBMR21TRGNmeWlSRFVkSVRCbWhhczg0bGxVU1dLN3Vka1RMaVhJY1VmT0pOZUU?oc=5",
-          "published_at": "2026-09-24T07:08:00+00:00"
+          "title": "“연준, 금리 5% 이상으로 올릴 수도”...BofA의 경고 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNk1IM3hRQ3ZXbmhWOER5S0Y3ck1QM1B1UndwbGJfWlVEVmd1djh2UHFyTG4tVzFld3BTbW9QZzF0aW80X1dUZjVodG15OWc?oc=5",
+          "published_at": "2026-09-25T08:03:07+00:00"
         },
         {
-          "title": "애플, 아이폰18 프로 ‘갑자기 재부팅’ 오류 내주 업데이트로 수정 - kado.net",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FTU54bHNBd2pCdnFuMkswOWNudXpoRU83UXNxMm5JenVlcm4yNkRVWTlPRlpfWXIxNEJBVG1sZ29JLUZZUENreHFaRjEzNmZsWU82TXE1YVhlanN5Skk4MUlRNURPQkE?oc=5",
-          "published_at": "2026-09-24T06:06:57+00:00"
+          "title": "\"엔화 약세 우려\"…日, 트럼프 환율 발언 이례적 공개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1QzhHOXRYSjgtR1Rlc0R1b2VvS18zUDYxMFN6QjdlU0wzNXVqOUthT2N5dko0cUd2cnpaT3FrSkZFZWZ0aEJ2VFNBX0hWaXM?oc=5",
+          "published_at": "2026-09-25T07:39:29+00:00"
         },
         {
-          "title": "멕시코 국빈방문 李 \"FTA 협상 재개해야\"…방산 협력엔 'FA-50' 제안 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OelpWV2pCUE5ORUlpZHZoUjl4Z3V1bUg0enV1cEx2VV9oVnloSFY3VEs3di1KaEtseTI2dWJoQTBYTGt5SVdzNWVNMm94QzA?oc=5",
-          "published_at": "2026-09-24T05:38:00+00:00"
+          "title": "엔·달러 환율, 다시 160엔 근접…“트럼프, 우려 표명” 이례적 공개 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1weFBicjQ3ZWZ2SlhjQ09WX1hMY3FReEd2ZV9WV2RhaV9xS0JCUTJ0dnpMT2wwN3hTOWxpSGI3T2hLR1Z6U2V4cTNGcUJId2c?oc=5",
+          "published_at": "2026-09-25T07:22:07+00:00"
         },
         {
-          "title": "'관세휴전 2개월 연장' 시간 번 미중 정상…경제·AI·대만 등 담판 주목 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wLUJWQWRvcl83cExweDNQcVRGV1lSZ0R3VERPaUsxUFIxMmNCLXJ4NVlHUEJwc0c1dmNWZGV0bHRuakdXQm9nTHMzaVRpS2s?oc=5",
-          "published_at": "2026-09-24T04:06:51+00:00"
+          "title": "아람코 “동서 파이프라인 차질 수일내 복구”⋯새 수출로도 검토 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYcDZGazhFN3BHS3QxWjdUOGpHN3hzN2ktNEJub0RfUkYyemdLUVBWRkJKUUc1UFA3R1Y3WVJGTmdrX0tpZVZaY2JkYmJNQnM?oc=5",
+          "published_at": "2026-09-25T06:14:00+00:00"
         }
       ]
     },
     {
-      "keyword": "daum",
-      "score": 90.63,
+      "keyword": "금리",
+      "score": 155.44,
       "articles": [
         {
-          "title": "이 대통령 “한·멕시코, 경제협력에 걸맞은 제도적 기반 갖춰야”…FTA 협상 재가동 시사 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1memhueWg5LXVsU2RtVnVJQnlyeXJqXzY5c3VnNkNxalZqaEg3V1Z4YWZPdHZfYmtJVXMwT2dmQmgwWFNnZXdBdkpWa0hnNzA?oc=5",
-          "published_at": "2026-09-24T07:25:09+00:00"
+          "title": "“연준, 금리 5% 이상으로 올릴 수도”...BofA의 경고 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNk1IM3hRQ3ZXbmhWOER5S0Y3ck1QM1B1UndwbGJfWlVEVmd1djh2UHFyTG4tVzFld3BTbW9QZzF0aW80X1dUZjVodG15OWc?oc=5",
+          "published_at": "2026-09-25T08:03:07+00:00"
         },
         {
-          "title": "李대통령 “한·멕시코 경제협정 협상 재개해야…양국 결합 큰 시너지” - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Yk5nTXNiSy1GaWNmRUdtY3QzMjFHaEJRQjBMR21TRGNmeWlSRFVkSVRCbWhhczg0bGxVU1dLN3Vka1RMaVhJY1VmT0pOZUU?oc=5",
-          "published_at": "2026-09-24T07:08:00+00:00"
+          "title": "美 국채금리 5% 쇼크, 한국 덮치나… 환율·증시·대출금리 ‘경고등’ - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dnFTN1JyY2IxQVNtakpkQmdlM3BzV05PcVRKTm5JdWZjbUdhMGxMbGJ3cmxhT1JsMnRXcDFUVFA0c3JVNVJfcm80cUUyOE04U25ZVWI4TVp1dzE3RjN3WTJ4Y3RNRWhfS1E?oc=5",
+          "published_at": "2026-09-25T08:00:00+00:00"
         },
         {
-          "title": "멕시코 국빈방문 李 \"FTA 협상 재개해야\"…방산 협력엔 'FA-50' 제안 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OelpWV2pCUE5ORUlpZHZoUjl4Z3V1bUg0enV1cEx2VV9oVnloSFY3VEs3di1KaEtseTI2dWJoQTBYTGt5SVdzNWVNMm94QzA?oc=5",
-          "published_at": "2026-09-24T05:38:00+00:00"
+          "title": "미 국채 30년물 금리 22년 만에 최고...국채 매도세 확산 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNlFaMzlvTG83NXE1NGx6cHpLTjdGR3VmcWY5YVItMmpJb1MtV2pjOGtZT0oycVFHdHRqN2p4dDF3Q2UyTVhTZTNod29zR2NieDJhQUZ3bkNzOHR6eHc?oc=5",
+          "published_at": "2026-09-25T07:13:00+00:00"
         },
         {
-          "title": "'관세휴전 2개월 연장' 시간 번 미중 정상…경제·AI·대만 등 담판 주목 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wLUJWQWRvcl83cExweDNQcVRGV1lSZ0R3VERPaUsxUFIxMmNCLXJ4NVlHUEJwc0c1dmNWZGV0bHRuakdXQm9nTHMzaVRpS2s?oc=5",
-          "published_at": "2026-09-24T04:06:51+00:00"
+          "title": "비트코인, 금리 불안과 Bitget 해킹 속 $84,000 근처서 숨 고르기 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMSE5vWjlJckg3dXI2Skdha1M1NktBLVAxQV90YXNoYWxhUE9pbkVGX25icXJfVkpnSV9sYTVzUHV0djVhc2dtVGJVSmNhY3NFQldBWjdhZ3ZQdTFOZmFjSzhxdnhYcVhEdHlZNnQtTzJ4TDA?oc=5",
+          "published_at": "2026-09-25T06:57:00+00:00"
         },
         {
-          "title": "29세 미녀 의사에 3500만원 보낸 남성…만남 막던 '어머니'의 정체 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sMjZqQ0ZuRXF4V2w2MWYxQWNHM1RkRkpkQU5XbWtKWktDOWtUOHkxNzN6SFlyaFFhZlhYbkhxcTdtTm1BT20xQ3dtZEVsclE?oc=5",
-          "published_at": "2026-09-24T04:06:42+00:00"
+          "title": "美 국채금리 5% 시대의 경고… ‘강한 경제’가 시장 흔든다 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nalVCUkdweGppLTBUcFpDQ21rMG9aa212XzhmUVBGdkJjakZYUDNNTGF5ZGNYaE5WVWVYZTFOeDlUalJaY2xWUm04V1pEZnlIZm11c0JuaFh4NUVyd1FSSkcwNmUzYkRRU3c?oc=5",
+          "published_at": "2026-09-25T06:35:34+00:00"
         }
       ]
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 85.0,
+      "keyword": "수출",
+      "score": 116.54,
       "articles": [
         {
-          "title": "미 국채금리 급등에 암호화폐 하락세…비트코인 한때 8만4천달러 하회 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94VjJkTVB3RkpEWVRMN2x5cjRLZ3dXaXFZbWFPQUtvS2Z0TTBiNHVWRWJCOVRQVWhSVTd3Rk0xTEN0MmpUVlVEM0luaDdmT3FMMi1RWWstdkFnVk9uZkZhbjhTUmdBVm55WGVTemplaDjSAXRBVV95cUxPTmZXUkhxUllVTWdmZmxGWVk3ckpMTC1UZGVXc1FpaC1TRDlmRWZHRmRWUXZ2T21Gd0JUYkpQUndnTDNVZmlxM1FwaGMwdklDcnM0RmhmaC1qbVRfMHBlckUySkZaWk5saDFxa2NLSXB0ODR3ag?oc=5",
-          "published_at": "2026-09-24T07:40:14+00:00"
+          "title": "‘2026 경기국제웹툰페어’, 2280만 달러 수출 상담고… 역대 최대 성과 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHaklRRDNDbXF5VFVDN3N1MzU0aHg5TjcwYTJoU01oYVYyWEZNNVg0b2gxeXEzSXhwd1V5T1YtMTBlNUdTaXdHeUoyLUlLbGtvZUVnR1RabWdEanZXa3EtMVBKZnXSAWhBVV95cUxPaU1tSUZCdlZQM1pwb3M0Qm53QWNfaDdqSk42WDVFY2lCbDk0QnptVFpnUXpqMU1DYWlFRmgzQ2o0MGR4SGVmejA1Q2gwRUtzRml4UTNMU0Q0bDUwRzBYQjJaWVozenctUQ?oc=5",
+          "published_at": "2026-09-25T08:00:42+00:00"
         },
         {
-          "title": "日국채금리, 상승 폭 확대…10년물·2년물 약 30년래 최고치 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdnFoRWVRY0NaUmc1REd5YWZFN0dwVkhXX1ExVEtjUDdwZ25jWGF3NXc3SkNETFhnQXFRU3B5MDJIZ1hLa1AxOXRyalRGZmxicXZ6czh6NHBrVzdjOTdmWF95XzVObXAxbTBkTEZXaFg?oc=5",
-          "published_at": "2026-09-24T07:25:31+00:00"
+          "title": "전남광주 농수산식품 수출, 역대 최대 1조 300억 원 달성 > 뉴스 - 더코리아",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IZ2N4NnRrNnVrS24zUnBISjI1Um95T0hlM2ZfX3lTQlU0d21rYWFLZzVsVHN3SEJONnVWMWp2TXMwNGg2ZERzRXJweDRrLWJTX19MMmotSXdFMmJOc2JYZlN1QmpMb1FsUDUtZll4SEc?oc=5",
+          "published_at": "2026-09-25T07:37:00+00:00"
         },
         {
-          "title": "[도쿄환시] 달러-엔, 수출기업 달러 매도에 하락 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yYU5LUTRnUE9aZFU0N1FVU3UwUFpPMmkxbEFCUjhIdmpnNW9iTE1vQmlFNjViQ2NFcmFBcnFmMzQ1UWxVS1VlRGdYNmVuT3pObjdoTkxNRU1LV3hBazMzVUlLYWVYbkY4dGxBdXJjcW4?oc=5",
-          "published_at": "2026-09-24T07:03:21+00:00"
+          "title": "중동 공급난 속 한국 윤활기유 ‘대체 공급망’ 부상…수출·실적 모두 사상 최고 전망 - sisaworld.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96dDgzZlcxTWNRQVIxVUNPZVRvbzh3d2Y5RnFnLXQ1OVI0NC1FSk91cmlxWjJyRVdGOXE5S1MxS0MyMktveUg5cG1za3lVZ0VXTTRJbzVUMGJ5aDhkVWhnd00zaUpodzI2dVE?oc=5",
+          "published_at": "2026-09-25T07:24:50+00:00"
         },
         {
-          "title": "美 10년물 금리 5.1% 돌파…월가 \"금리 상승세 아직 안 끝났다\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BV2FvUzAyaDVYai0yUWptdUhCVGZSYld0TF9OV04xY3IzS3hESS1QVkFxTllITUJCYUhsSEI1aWtTMjh4TlJUc3JrWW1kS2Nvc0MxZmhrSjZMbUdYdXpiU3VDcDBOdmIxblNiM1N4a1I?oc=5",
-          "published_at": "2026-09-24T06:30:58+00:00"
+          "title": "김해 조선해양기자재 15개사, 국제 수출상담회서 107건 상담 - 김해뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oTU1ITGNmeDNfUzNyQU1WdlBIaDNDWW43NnR3d3VocHhDaThvUzlvay1CN01LLVpCb2hfQmFndkEwaEFfQ3UyXzZVazdkUFB2WkUtZFJVTTN0QzlmN0tZdDUxSXQ0Yi1mMFlLZVFR?oc=5",
+          "published_at": "2026-09-25T06:43:03+00:00"
         },
         {
-          "title": "[외환] 강달러·美 금리 상승세에 1,370원대 안착…15.40원↑ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQ3hQcHJFZjVpWmpyOVdBaF9HckhiNmNMOEtDd29YQ1hHZ1RscTdsdGE3NThfd3FZY2JzamR3bWN4UWZUdjRCaUgteXBMcHNGVTZSQ1JJTG9wU0tkUXE2S0hlQXdGTkpEa24zSW1mQnbSAXRBVV95cUxNSWdWM0dnS3RSOGh2aExodWxTc1J1emNyRUtfdDVDM1RSOXZRMng4Sjl2aXE1Y2FuMUFwUFA5ZlBBTGI2OWhZY3pKX0laOGlMNEp0OC1KQXJ2TXBjSGhUN3pBNlNUWGhERXY4Q2pMT3lHNjFaRg?oc=5",
-          "published_at": "2026-09-24T05:18:25+00:00"
+          "title": "전남광주 농수산식품 수출 '탄력'···1조300억 원, 역대 최고 - theleader.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwdjFPZVhtSG5Td29GTVJIWXV1dzZjclhJUVhUa0lfVk5uNHVmdE5DVURHOTVqTEVUT2tqcFh0WTl6QzA3alBWUl9sbnVFVi04UjBBNl9qRVRxbU5MS2hyenBvTWx3aWlXQzVReg?oc=5",
+          "published_at": "2026-09-25T06:25:06+00:00"
         }
       ]
     },
     {
-      "keyword": "인상",
-      "score": 84.35,
+      "keyword": "국채금리",
+      "score": 107.88,
       "articles": [
         {
-          "title": "강한 PMI 지표, ECB 추가 금리 인상 가능성 높여…유로존 국채 금리 급등 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CLTh0SHFRZFAtWDAyTlpnS2V1QjFFeVJObmdVTzdFT0wwVDhvYmNvc2tpRWFqR0RxeXQwUWZzZ2JGWmVILTRSdktpQTNOYkVTRUh6Q1ZwX09WYUUzdElTczBFWF9TaVk?oc=5",
-          "published_at": "2026-09-24T07:49:00+00:00"
+          "title": "美 국채금리 5% 쇼크, 한국 덮치나… 환율·증시·대출금리 ‘경고등’ - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dnFTN1JyY2IxQVNtakpkQmdlM3BzV05PcVRKTm5JdWZjbUdhMGxMbGJ3cmxhT1JsMnRXcDFUVFA0c3JVNVJfcm80cUUyOE04U25ZVWI4TVp1dzE3RjN3WTJ4Y3RNRWhfS1E?oc=5",
+          "published_at": "2026-09-25T08:00:00+00:00"
         },
         {
-          "title": "금값 4290달러로 밀렸다…유가 급등·美 경기 호조에 금리 인상 베팅 확대 - 블록미디어",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qcnpfR1lQVUk2QTEybWNfNlp2WTQxOHVvWjdXbnhQNnU5VjZhQnNqWHRkLWI1a05kNFBiOXd2dWNTVDc1Y19lWnpkRjFEb2pMbzdCQ1BCeFk?oc=5",
-          "published_at": "2026-09-24T06:15:07+00:00"
+          "title": "美 국채금리 5% 시대의 경고… ‘강한 경제’가 시장 흔든다 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nalVCUkdweGppLTBUcFpDQ21rMG9aa212XzhmUVBGdkJjakZYUDNNTGF5ZGNYaE5WVWVYZTFOeDlUalJaY2xWUm04V1pEZnlIZm11c0JuaFh4NUVyd1FSSkcwNmUzYkRRU3c?oc=5",
+          "published_at": "2026-09-25T06:35:34+00:00"
         },
         {
-          "title": "美 연준 10월 금리 인상 가능성 70%로 치솟아…달러화 급등 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSzlFTDNWWUJVYzZTa2p0SGJrVGZRbTJPcVRRaVRMUWJCRVo2SGJLa0lra0dUX1dlaVp5UjlnQU53NzNZTFV3a2xUUS1QcUw4OGJpOHVLWHhJcjFudEhrazR6QXlMdVBIWjhJM1hOYW1PSmNRYXhJZ1k0UGlFRnFRS053YWhyX0U?oc=5",
-          "published_at": "2026-09-24T03:33:14+00:00"
+          "title": "[주간 미국 금리와 서민경제] 미국 국채금리 5.2% 충격…한국 증시·부동산·가계대출까지 흔든다 - 전국시민의소리",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5",
+          "published_at": "2026-09-25T05:02:28+00:00"
         },
         {
-          "title": "일본 10년물 국채 금리, 추가 금리 인상 기대에 30년 만에 최고치 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSWRkaXh3VkNxSnB3akdQWWdWNU1SWC1CTzFLcHNUZEhvMXoyZ3VKTU9wSHliUnh0X0czMWx4R3F2VFFmQ2Q4ZUViVHNHR2RkZ1V1THhiRFdlT2xJTmJWVTRJcmNBUlpBUUE?oc=5",
-          "published_at": "2026-09-24T03:30:00+00:00"
+          "title": "美 국채금리 급등에 뉴욕증시 혼조…30년물 5.5%까지 상승 - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fdzYtSnFKYkRjS3hVeFBLUmFEZlIzcHlINkowN0FXTUlRZ3ZLQXpWekhmQWY4Q3pwdkJ5MkQxZ3c4bjdqRnVzLVluS2lIT2J4aG5wQ3FrMUlfS1RSb3hr?oc=5",
+          "published_at": "2026-09-25T04:52:40+00:00"
         },
         {
-          "title": "호주 실업률 5년 최고치 기록, 하지만 RBA 금리 인상 전망은 여전 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zMGFlVkpobm9kdi1xOE1xZTFxNkR3QloyME1oRThGVWdNd296d2toRGgzVTFtdzBCenk5QWozNncxSlgwOVZlMDVEQkppbWtNcUtnQlhKUGxmZGJzeU9pVVRVX2I1cTd0NVE5djZ2MUZkOHc?oc=5",
-          "published_at": "2026-09-24T01:56:00+00:00"
+          "title": "美 국채금리 5% 넘나들자 韓도 긴장…원화·증시까지 번지나 - ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UWmFJMHZzVzlmMHVFUlZEcV91SmY4Z3NDbTluY2FxNl9neTFWWE9laUpZYnJvZkVNX0pKWWx5TUtSUnVoWEgwOUE5NzhxRFNoN0RNc1BvVlpFSEd0T3pPNV9HemFVV1ZX?oc=5",
+          "published_at": "2026-09-25T02:16:32+00:00"
         }
       ]
     },
     {
-      "keyword": "유가",
-      "score": 82.06,
+      "keyword": "30년물",
+      "score": 76.92,
       "articles": [
         {
-          "title": "\"국제유가에서 주유소 가격까지\"…알아두면 보이는 '기름값 공식' - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1NBLVZmcFZXSC12V2lIYW9JNlhZeGZvOElIeXZhZmNLZEo3OGxWY280U0NTVVhLZGUtLUtUWlg0SEJxMGtBZXdPbjhkTmNaVjlwYmREOThPNGRBU0pmN9IBeEFVX3lxTE9wckg5T0dhLW85UlJGVjRCbk5lZWstS0VOUmdUZ3FKcTdPekVDcElEV3k5YzJRX25IdkFmd3huS3dNUlJTekZteE0ybUs1bWxFcDRGOTU4QzlXRjBQcXFPSExvbGhyN1RTWkp0SEptMTlhTUpETjgtbg?oc=5",
-          "published_at": "2026-09-24T07:00:00+00:00"
+          "title": "미 국채 30년물 금리 22년 만에 최고...국채 매도세 확산 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNlFaMzlvTG83NXE1NGx6cHpLTjdGR3VmcWY5YVItMmpJb1MtV2pjOGtZT0oycVFHdHRqN2p4dDF3Q2UyTVhTZTNod29zR2NieDJhQUZ3bkNzOHR6eHc?oc=5",
+          "published_at": "2026-09-25T07:13:00+00:00"
         },
         {
-          "title": "비트코인, 국채 금리·유가 급등에 8만4천 달러로 하락 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hWjJiNzNybVVTV295eVg1ZDR1R1h0dUpBa2J2eHBtN0VOaWRkRmNSN292aEZiaVd1TU4tMDdZN1BIcDhrNms4WGpvUXh1X2IwMGdhVjRrVktzbktzc2h0V2pkRnFxMUR5ek5TVEtOMmFpdnc?oc=5",
-          "published_at": "2026-09-24T06:34:00+00:00"
+          "title": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15U2NRcG96XzQxenNGc2ZmMFpmOHFTSVhKZFYtaHFpN001bGZTTEhrNjE2Mjh4Z2RRb3ZpTGpidmphbjlZOUdLbktNZjlaekpBOTVlQmdoeEtqYVQ0Y1E?oc=5",
+          "published_at": "2026-09-25T05:22:00+00:00"
         },
         {
-          "title": "금값 4290달러로 밀렸다…유가 급등·美 경기 호조에 금리 인상 베팅 확대 - 블록미디어",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qcnpfR1lQVUk2QTEybWNfNlp2WTQxOHVvWjdXbnhQNnU5VjZhQnNqWHRkLWI1a05kNFBiOXd2dWNTVDc1Y19lWnpkRjFEb2pMbzdCQ1BCeFk?oc=5",
-          "published_at": "2026-09-24T06:15:07+00:00"
+          "title": "美 국채금리 급등에 뉴욕증시 혼조…30년물 5.5%까지 상승 - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fdzYtSnFKYkRjS3hVeFBLUmFEZlIzcHlINkowN0FXTUlRZ3ZLQXpWekhmQWY4Q3pwdkJ5MkQxZ3c4bjdqRnVzLVluS2lIT2J4aG5wQ3FrMUlfS1RSb3hr?oc=5",
+          "published_at": "2026-09-25T04:52:40+00:00"
         },
         {
-          "title": "국제유가, 亞 원유수입량 확대 소식에 하락…WTI 0.34%↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UOVkxczU0bDBDeHZ2T1VkVHpmS2EwQXJYdUxXYmZIODFnZkNHUHVKRDFVNWVFVVoxOENyRmRQa1AtLXRHY0pRNnVTNGVhT2d6ZHJuRVJsSUtSWDhEYVRka1VSTDJUUDFMNVFLaEFKTl_SAXRBVV95cUxQRFB4NGVkOTA3ZDVuTkE4Z1oxMzd4VHFVNGV1M1NpanFfU09nU0N4YjducEhfTEFhZUZ5UVZrNmRNQXlxUG5QR24xcnk1U25mYmlNYnBJYjltX0NwX2FsMkVkOVRxU25GQlg0NnA3aTdIMjNVNw?oc=5",
-          "published_at": "2026-09-24T03:01:03+00:00"
+          "title": "미 국채 가격 연일 상승…30년물 22년만에 최고치 기록 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1VWhvdlRKSWdxcWh2ZlhPTTVTZlVZU0dDZUxfWVU3R0dmdzlBZ2FuRk1RUkt1WXRSLXVtdG5FdGRHS0s5ZHEwOWhEMVdJYWdjZVZCOENyWVhCRndzTzYwNlF0SzF5TkZBMlg1YmhyVmxrUXI1?oc=5",
+          "published_at": "2026-09-25T04:21:52+00:00"
         },
         {
-          "title": "이란 공급 우려 재부각에 유가 반등…아시아 에너지주 상승 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1weV9rU2diY1AwYU8wSnp5ZmtjNzZKV0EySzBOYmhJdm5XT3JaNktLdE5vYWRXT1BNX3RXUVc3Sno5VHFsenVQTTJTSlNWTDdoa1ZSMmYydlZlUFhYZlFOQzVQa3hvSk0xTjRBUWJZbw?oc=5",
-          "published_at": "2026-09-24T02:04:00+00:00"
+          "title": "美 30년물 금리 2004년 이후 최고치…글로벌 국채 매도세 확산 - 국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQbVZTLXlUOWVPQjlwRjJxR0c3dUhsUzQ4ZWJTbW1BdlRMVmxrWU1yRW1ZdXFGbVVONW5DeHFrekFSTDhERWFvcUhGQ19fWDhoaG5Xc3ZEWV9ibWFaY0MzRkVSaWFHWEHSAWxBVV95cUxQanJieXY5aW1MazNRZWtybF9qNXlSMDIweXIzMFNzSldXeUNtam5vSllHdkJ0T2VfZUpMY3JQVDgxZHROVWFPWUgxWUhSWl9OUm00MUktbFJtQjR5dlNfejlURl9fcWJCZlA0MVo?oc=5",
+          "published_at": "2026-09-25T01:18:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "최고",
+      "score": 71.55,
+      "articles": [
+        {
+          "title": "중동 공급난 속 한국 윤활기유 ‘대체 공급망’ 부상…수출·실적 모두 사상 최고 전망 - sisaworld.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96dDgzZlcxTWNRQVIxVUNPZVRvbzh3d2Y5RnFnLXQ1OVI0NC1FSk91cmlxWjJyRVdGOXE5S1MxS0MyMktveUg5cG1za3lVZ0VXTTRJbzVUMGJ5aDhkVWhnd00zaUpodzI2dVE?oc=5",
+          "published_at": "2026-09-25T07:24:50+00:00"
+        },
+        {
+          "title": "미 국채 30년물 금리 22년 만에 최고...국채 매도세 확산 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNlFaMzlvTG83NXE1NGx6cHpLTjdGR3VmcWY5YVItMmpJb1MtV2pjOGtZT0oycVFHdHRqN2p4dDF3Q2UyTVhTZTNod29zR2NieDJhQUZ3bkNzOHR6eHc?oc=5",
+          "published_at": "2026-09-25T07:13:00+00:00"
+        },
+        {
+          "title": "전남광주 농수산식품 수출 '탄력'···1조300억 원, 역대 최고 - theleader.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwdjFPZVhtSG5Td29GTVJIWXV1dzZjclhJUVhUa0lfVk5uNHVmdE5DVURHOTVqTEVUT2tqcFh0WTl6QzA3alBWUl9sbnVFVi04UjBBNl9qRVRxbU5MS2hyenBvTWx3aWlXQzVReg?oc=5",
+          "published_at": "2026-09-25T06:25:06+00:00"
+        },
+        {
+          "title": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15U2NRcG96XzQxenNGc2ZmMFpmOHFTSVhKZFYtaHFpN001bGZTTEhrNjE2Mjh4Z2RRb3ZpTGpidmphbjlZOUdLbktNZjlaekpBOTVlQmdoeEtqYVQ0Y1E?oc=5",
+          "published_at": "2026-09-25T05:22:00+00:00"
+        },
+        {
+          "title": "미 국채 가격 연일 상승…30년물 22년만에 최고치 기록 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1VWhvdlRKSWdxcWh2ZlhPTTVTZlVZU0dDZUxfWVU3R0dmdzlBZ2FuRk1RUkt1WXRSLXVtdG5FdGRHS0s5ZHEwOWhEMVdJYWdjZVZCOENyWVhCRndzTzYwNlF0SzF5TkZBMlg1YmhyVmxrUXI1?oc=5",
+          "published_at": "2026-09-25T04:21:52+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "국채",
+      "score": 67.16,
+      "articles": [
+        {
+          "title": "美 국채금리 5% 쇼크, 한국 덮치나… 환율·증시·대출금리 ‘경고등’ - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dnFTN1JyY2IxQVNtakpkQmdlM3BzV05PcVRKTm5JdWZjbUdhMGxMbGJ3cmxhT1JsMnRXcDFUVFA0c3JVNVJfcm80cUUyOE04U25ZVWI4TVp1dzE3RjN3WTJ4Y3RNRWhfS1E?oc=5",
+          "published_at": "2026-09-25T08:00:00+00:00"
+        },
+        {
+          "title": "미 국채 30년물 금리 22년 만에 최고...국채 매도세 확산 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNlFaMzlvTG83NXE1NGx6cHpLTjdGR3VmcWY5YVItMmpJb1MtV2pjOGtZT0oycVFHdHRqN2p4dDF3Q2UyTVhTZTNod29zR2NieDJhQUZ3bkNzOHR6eHc?oc=5",
+          "published_at": "2026-09-25T07:13:00+00:00"
+        },
+        {
+          "title": "美 국채금리 5% 시대의 경고… ‘강한 경제’가 시장 흔든다 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nalVCUkdweGppLTBUcFpDQ21rMG9aa212XzhmUVBGdkJjakZYUDNNTGF5ZGNYaE5WVWVYZTFOeDlUalJaY2xWUm04V1pEZnlIZm11c0JuaFh4NUVyd1FSSkcwNmUzYkRRU3c?oc=5",
+          "published_at": "2026-09-25T06:35:34+00:00"
+        },
+        {
+          "title": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15U2NRcG96XzQxenNGc2ZmMFpmOHFTSVhKZFYtaHFpN001bGZTTEhrNjE2Mjh4Z2RRb3ZpTGpidmphbjlZOUdLbktNZjlaekpBOTVlQmdoeEtqYVQ0Y1E?oc=5",
+          "published_at": "2026-09-25T05:22:00+00:00"
+        },
+        {
+          "title": "[주간 미국 금리와 서민경제] 미국 국채금리 5.2% 충격…한국 증시·부동산·가계대출까지 흔든다 - 전국시민의소리",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5",
+          "published_at": "2026-09-25T05:02:28+00:00"
         }
       ]
     }
