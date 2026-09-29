@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-09-28T09:17:59.776660+00:00",
+  "generated_at": "2026-09-29T09:25:12.484902+00:00",
   "source_count": 4,
-  "article_count": 396,
+  "article_count": 387,
   "top_keywords": [
     {
       "keyword": "금리",
-      "score": 255.93
-    },
-    {
-      "keyword": "net",
-      "score": 197.99
+      "score": 195.4
     },
     {
       "keyword": "daum",
-      "score": 190.36
+      "score": 182.53
+    },
+    {
+      "keyword": "net",
+      "score": 182.53
     },
     {
       "keyword": "수출",
-      "score": 189.39
-    },
-    {
-      "keyword": "연합인포맥스",
-      "score": 102.17
-    },
-    {
-      "keyword": "환율",
-      "score": 99.31
-    },
-    {
-      "keyword": "인상",
-      "score": 88.92
-    },
-    {
-      "keyword": "국채금리",
-      "score": 85.44
+      "score": 174.67
     },
     {
       "keyword": "머니투데이",
-      "score": 77.28
+      "score": 134.76
+    },
+    {
+      "keyword": "아시아경제",
+      "score": 101.25
+    },
+    {
+      "keyword": "코스피",
+      "score": 98.33
+    },
+    {
+      "keyword": "인상",
+      "score": 96.58
+    },
+    {
+      "keyword": "국채금리",
+      "score": 94.52
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 92.35
     },
     {
       "keyword": "상승",
-      "score": 77.02
+      "score": 83.4
     },
     {
-      "keyword": "국채",
-      "score": 71.52
-    },
-    {
-      "keyword": "기준금리",
-      "score": 68.07
+      "keyword": "한국경제",
+      "score": 82.28
     }
   ],
   "hot_topics": [
     {
       "keyword": "금리",
-      "score": 255.93,
+      "score": 195.4,
       "articles": [
         {
-          "title": "[미리 보는 국감] 신현송 한은 총재 첫 국감…'기준금리 연3%' 추가 인상·가계 부담 쟁점 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZjlETnlLSnUwT3NmbXFONEhEaTVEOGFBVTE1ckFMWlhxdUxRaE5fSUpDX0ZFUVIzS3JpQ0pYQTA1YWxrZmQ3RDhiQklOMkU?oc=5",
-          "published_at": "2026-09-28T09:01:21+00:00"
+          "title": "코스피, 금리·유가 악재에 이틀 연속 내림세…코스닥은 반등 - futurechosun.com",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRZ21YLVRUTHB3Wm1JTndjVi1FLUhfaDlVa0tZamU1ZzlxWlZ1VDNYR2tHeDNub3pTb1dGckRSZG1ITjJkYzdJcjd1MDZaVFh0OFE?oc=5",
+          "published_at": "2026-09-29T09:17:00+00:00"
         },
         {
-          "title": "FX스와프, 美 금리 상승 반영하며 하락 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IVEpYd2VsOE91azFibGRJaUxhemZCUWNBV3d0dXpyNm04ZEQwNzRzUC1nZ0s2cTFBMWxsX0E3Y2VkM3VuODlzQl9FN0lPNElHTzdmd2V6RFJiVzVJY3EyWDVRZ3FjZGEzcW1hSThQV1LSAXRBVV95cUxQOFBHOGpiZldrazBhb0dzYlh4dlVBUjhtQ1JtNUM5cXVRaXN6dEtrX0g4Mk5iVGdfRmhPNklqb19LOVlaQzBpZzNjekhrUTh1dEVldm51bU1VRUNVR2ZaaGoyQ1pEOUJPN1Y2Q19OZzQ4MXVrRQ?oc=5",
-          "published_at": "2026-09-28T09:00:00+00:00"
+          "title": "은행들 \"금리 오르기전에 빨리 채권 찍자\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ONzFEckJNNzNDdWkxSUUtWXcwV0NVLWZRRGgtZi1PZFByTlF6VzRPY3lPRzAxX0x0OU4tYWFLUG5VV1RXLTVTMk5pNHpwa0xkSGM3NGZ1ckNpUQ?oc=5",
+          "published_at": "2026-09-29T09:11:09+00:00"
         },
         {
-          "title": "美국채 금리 5.2% 뚫리자…덩달아 치솟는 韓국고채 - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92TDg0QUU3NEd4bTlMTm51Yll3Q3g2Q0RtOTZMUTE3dlp1OE1nbVkxZ3RfTXpVLVNJeHMwQzNhVnU0bnM5dVdaMDdhOWhCTWJlaDh5bm92X0JuUQ?oc=5",
-          "published_at": "2026-09-28T08:56:56+00:00"
+          "title": "[美 장기금리 쇼크] 美 10년물 5%대에 韓 채권금리 급등…환율·증시도 긴장 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zVlJVODNidGVUQmZ5WXpMRU90R1RucVkyc09CUUxVQ2RydWFmY2tOVlc2T0hJbEpJc1huTGtHalJHbm9LVm95Y2dHRFp1RnM?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
         },
         {
-          "title": "가맹점주에 ‘18% 금리’ 뜯은 명륜진사갈비 148억 과징금 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EdDduYjBOcTdILUJ3Y0xKMkp2NGhPRFluUGwwU1loVDBVOU5jN3RNM3RLcnZlUFludE51ZTVUV3V0dUtGVVZPZ3JSenFKdndHeHY2OVR0eTBIaHlJaHI3U3VrZkxOTHhaVGszZFljNC0tUQ?oc=5",
-          "published_at": "2026-09-28T08:51:00+00:00"
+          "title": "[美 장기금리 쇼크] 주담대 부담에 수출 불확실성까지…깊어지는 한은 고민 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82OUhVM2dLVURpcnpWQi1lVUViQlVvRWlRaTg0QzdQRTJEY3lPbmNRY2E4c21nd3JrVUU3Zjc2d3A2N3k0ekRVSmhvYlBqZFU?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
         },
         {
-          "title": "美국채 금리 급등에 불똥 튈라… 정부 \"내년 국채발행 축소 검토\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxRmxwNG5fVDAzdVdkeW9qVF9hakZzQnE2ZUxud2poLW9qd19FdFNJLTFySEdlTEdNUGhvUi1WdlpNTE50S0hoTmU4ajdOY2Y4UVE?oc=5",
-          "published_at": "2026-09-28T08:46:52+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "net",
-      "score": 197.99,
-      "articles": [
-        {
-          "title": "12년만에 돌아온 구미 수출 300억달러…2014년과는 달랐다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZ3F0SmdtR1FKaU5ySlVRaUpuWTNwelB3QkFBVVJSbWcwZVRUbU9PWlFCX3p0dE9XSjNnWE9fclUxSkdVbS04NmlxLVo3ZXc?oc=5",
-          "published_at": "2026-09-28T09:09:59+00:00"
-        },
-        {
-          "title": "[미리 보는 국감] 성장 온기·세 부담 고르게 나눴나…경제정책 형평성 검증대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpV2RJQ0pOZ3BZZVBEaWFjRm1GSzNUM0gtM0hrNkZweENrUHJNcGJKYTNxMnloVGpQTDlEMzF3N2NkQ2VuRFpBR2tUMU1vRzQ?oc=5",
-          "published_at": "2026-09-28T09:01:36+00:00"
-        },
-        {
-          "title": "[미리 보는 국감] 신현송 한은 총재 첫 국감…'기준금리 연3%' 추가 인상·가계 부담 쟁점 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZjlETnlLSnUwT3NmbXFONEhEaTVEOGFBVTE1ckFMWlhxdUxRaE5fSUpDX0ZFUVIzS3JpQ0pYQTA1YWxrZmQ3RDhiQklOMkU?oc=5",
-          "published_at": "2026-09-28T09:01:21+00:00"
-        },
-        {
-          "title": "[크랩] “세계에서 가장 놀라운 경제 성공담”…이거 진짜 북한 얘기라고요? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Wc084dWUxUzNqMmFVaUJIUXJzcXBrUERLM1ptMjA0Vi1kZWJYblk1ZThHRHVhMmVWOHltT3lVeGFmQVJnbndOUTdFci1kLUE?oc=5",
-          "published_at": "2026-09-28T08:55:15+00:00"
-        },
-        {
-          "title": "코스피 '1만2천' 간다던 골드만삭스, 전망 여전한가 봤더니 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTOHUyU1JsN1ZoYldXaWVvcEsxc3R5eVAxN2hueVBLVmM1TkdNUzUyb1NhUnhWR0FEelZLbFNUTWhFakt4R0pINDJCdEhNOG8?oc=5",
-          "published_at": "2026-09-28T08:53:59+00:00"
+          "title": "주춤한 은행 예금 속 4% 넘은 은행채…5대 은행, 예금 금리 줄인상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wcU1WcDFyT2kwaG1CakFINmpXV2Q3ZjdIMWRoVVpJWUx6NW51dWZoUldtdzVmRWh3bUNnb1NxcklLclVUSEhOdWs2RVRJbFdac3lKZFd5ZXNBbVlV?oc=5",
+          "published_at": "2026-09-29T09:00:00+00:00"
         }
       ]
     },
     {
       "keyword": "daum",
-      "score": 190.36,
+      "score": 182.53,
       "articles": [
         {
-          "title": "12년만에 돌아온 구미 수출 300억달러…2014년과는 달랐다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZ3F0SmdtR1FKaU5ySlVRaUpuWTNwelB3QkFBVVJSbWcwZVRUbU9PWlFCX3p0dE9XSjNnWE9fclUxSkdVbS04NmlxLVo3ZXc?oc=5",
-          "published_at": "2026-09-28T09:09:59+00:00"
+          "title": "韓, 리비아 내전 이후 첫 현지 경제포럼…현대건설·삼성전자 등 진출 모색 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42TXNoVVpCS2JOVHlvWFhweXFXRl8xZ2tVcXBUazdWeG1WMy02ZXB6Ry1nd2N0eU1OM1NLT0NPT09iRmFWNHV4SXdQWlF1OTQ?oc=5",
+          "published_at": "2026-09-29T09:20:34+00:00"
         },
         {
-          "title": "[미리 보는 국감] 성장 온기·세 부담 고르게 나눴나…경제정책 형평성 검증대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpV2RJQ0pOZ3BZZVBEaWFjRm1GSzNUM0gtM0hrNkZweENrUHJNcGJKYTNxMnloVGpQTDlEMzF3N2NkQ2VuRFpBR2tUMU1vRzQ?oc=5",
-          "published_at": "2026-09-28T09:01:36+00:00"
+          "title": "[美 장기금리 쇼크] 美 10년물 5%대에 韓 채권금리 급등…환율·증시도 긴장 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zVlJVODNidGVUQmZ5WXpMRU90R1RucVkyc09CUUxVQ2RydWFmY2tOVlc2T0hJbEpJc1huTGtHalJHbm9LVm95Y2dHRFp1RnM?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
         },
         {
-          "title": "[미리 보는 국감] 신현송 한은 총재 첫 국감…'기준금리 연3%' 추가 인상·가계 부담 쟁점 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZjlETnlLSnUwT3NmbXFONEhEaTVEOGFBVTE1ckFMWlhxdUxRaE5fSUpDX0ZFUVIzS3JpQ0pYQTA1YWxrZmQ3RDhiQklOMkU?oc=5",
-          "published_at": "2026-09-28T09:01:21+00:00"
+          "title": "[美 장기금리 쇼크] 주담대 부담에 수출 불확실성까지…깊어지는 한은 고민 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82OUhVM2dLVURpcnpWQi1lVUViQlVvRWlRaTg0QzdQRTJEY3lPbmNRY2E4c21nd3JrVUU3Zjc2d3A2N3k0ekRVSmhvYlBqZFU?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
         },
         {
-          "title": "[크랩] “세계에서 가장 놀라운 경제 성공담”…이거 진짜 북한 얘기라고요? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Wc084dWUxUzNqMmFVaUJIUXJzcXBrUERLM1ptMjA0Vi1kZWJYblk1ZThHRHVhMmVWOHltT3lVeGFmQVJnbndOUTdFci1kLUE?oc=5",
-          "published_at": "2026-09-28T08:55:15+00:00"
+          "title": "美·EU·日까지 '철강 빗장'…K철강, 수출 새 판 짠다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hT1V5d1hiSzZkamROa1NIR00wbzh5V252UHg1Um1Mc1FnR3NuZHRZWXZYR1FUUFdhQnRFblJxRjlzMkZCWWwxRENDdG96dEU?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
         },
         {
-          "title": "코스피 '1만2천' 간다던 골드만삭스, 전망 여전한가 봤더니 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTOHUyU1JsN1ZoYldXaWVvcEsxc3R5eVAxN2hueVBLVmM1TkdNUzUyb1NhUnhWR0FEelZLbFNUTWhFakt4R0pINDJCdEhNOG8?oc=5",
-          "published_at": "2026-09-28T08:53:59+00:00"
+          "title": "인천창조경제혁신센터, 다음달 14~15일 송도컨벤시아서 ‘인천스타트업위크’ 개최 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tODlkZ3dKTm1qMUczZWkyRzdXd3BScHVYc0Q0bnZLWldQMkdHNkdVZEllZklJWThXUmlRakhfRUVURk9lUVhEU015NjhDNms?oc=5",
+          "published_at": "2026-09-29T08:39:04+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "net",
+      "score": 182.53,
+      "articles": [
+        {
+          "title": "韓, 리비아 내전 이후 첫 현지 경제포럼…현대건설·삼성전자 등 진출 모색 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42TXNoVVpCS2JOVHlvWFhweXFXRl8xZ2tVcXBUazdWeG1WMy02ZXB6Ry1nd2N0eU1OM1NLT0NPT09iRmFWNHV4SXdQWlF1OTQ?oc=5",
+          "published_at": "2026-09-29T09:20:34+00:00"
+        },
+        {
+          "title": "[美 장기금리 쇼크] 美 10년물 5%대에 韓 채권금리 급등…환율·증시도 긴장 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zVlJVODNidGVUQmZ5WXpMRU90R1RucVkyc09CUUxVQ2RydWFmY2tOVlc2T0hJbEpJc1huTGtHalJHbm9LVm95Y2dHRFp1RnM?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
+        },
+        {
+          "title": "[美 장기금리 쇼크] 주담대 부담에 수출 불확실성까지…깊어지는 한은 고민 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82OUhVM2dLVURpcnpWQi1lVUViQlVvRWlRaTg0QzdQRTJEY3lPbmNRY2E4c21nd3JrVUU3Zjc2d3A2N3k0ekRVSmhvYlBqZFU?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
+        },
+        {
+          "title": "美·EU·日까지 '철강 빗장'…K철강, 수출 새 판 짠다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hT1V5d1hiSzZkamROa1NIR00wbzh5V252UHg1Um1Mc1FnR3NuZHRZWXZYR1FUUFdhQnRFblJxRjlzMkZCWWwxRENDdG96dEU?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
+        },
+        {
+          "title": "인천창조경제혁신센터, 다음달 14~15일 송도컨벤시아서 ‘인천스타트업위크’ 개최 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tODlkZ3dKTm1qMUczZWkyRzdXd3BScHVYc0Q0bnZLWldQMkdHNkdVZEllZklJWThXUmlRakhfRUVURk9lUVhEU015NjhDNms?oc=5",
+          "published_at": "2026-09-29T08:39:04+00:00"
         }
       ]
     },
     {
       "keyword": "수출",
-      "score": 189.39,
+      "score": 174.67,
       "articles": [
         {
-          "title": "12년만에 돌아온 구미 수출 300억달러…2014년과는 달랐다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZ3F0SmdtR1FKaU5ySlVRaUpuWTNwelB3QkFBVVJSbWcwZVRUbU9PWlFCX3p0dE9XSjNnWE9fclUxSkdVbS04NmlxLVo3ZXc?oc=5",
-          "published_at": "2026-09-28T09:09:59+00:00"
+          "title": "한미약품 ‘1兆 기술수출’ 벨바라페닙, 10년 만에 권리 반환 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPek5CRnVvUzN0NTBLczBMUzZWdC15cHRFVjZOUGdsVVQ0VkVFbGk3dWZ0SS02V1NXdE5qRmJSdVZtOXpsU3JpcVFPTUg4V2tXb2VBa2NoUDFFN01VZVp3VGVseWZ2ZWtwT2J6dGVyUnczamdZdXkwdFhRYlNTUGZzRWpwTXFNNVHSAZsBQVVfeXFMT2pKRjBHd2ZEaFNIVXVWZDcta3FhS1lqcTdqUUF6M3hSNlJvMVczSUZIUzhnQURfeVliSkFwaVJwVHdqa0Y1a0padEc1RGxNVzJ1ZEN3M0RBek1FdlhicktxLWxvTUotZC01NXNYOFNNQjMzd3hQaVlUS2U4SlNzbjNBSHl4YnBnNUpDV0o0YlRrWkEwcWVLdDVHdVk?oc=5",
+          "published_at": "2026-09-29T09:07:00+00:00"
         },
         {
-          "title": "하동 밤 20t, 중국 수출 길 올랐다 - 경남도민신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNWF0Z3FISFU4SF9LZVVsWkUtdnJ0Vkh2NXlRcDB5Y05YSjc2YzQzSVpwcnEweUt1bUlRV2FTb2pCX2p5N096bk1IMzFUSTBnWU9uVE9JTkZLVlRlTTRZMlhkLTh6UzFY?oc=5",
-          "published_at": "2026-09-28T08:56:02+00:00"
+          "title": "K브랜드 들고 해외로…신세계百, 뉴욕서 ‘수출 플랫폼’ 시험대 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94TGZZSHpTbHB3RXlydl94UTNJYWZkUXJFa3NHR3pDSUNja3V0bzdEZnVzaTd2QUoyek1LelkwUWZSMEhpY3p0Ym9MeXRGTXM4SjlCZ010T1hNMnJXeWxNdldBbTc?oc=5",
+          "published_at": "2026-09-29T09:02:34+00:00"
         },
         {
-          "title": "李대통령, 한미동맹 속 ‘對中 관계’ 강조…수출·민생과 외교 연결 - 인디포커스",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDBrM0JOZ2VzTkhLU2F1aDB4NHRnbXI4UDdNX2g3WENmWTVVblNoWVNwcXRLM010cW1Na1R4UjVVYjJEaVFHZG9BQlMtVVY0WWstdHNaMW9GVnpjUFJlQ3hVdVNseWVSMkIxV3E0bEFIY1NlbXROelFKRTY2ako0TEYwdXQ4cUpiR25sclRzYnM?oc=5",
-          "published_at": "2026-09-28T08:47:00+00:00"
+          "title": "[美 장기금리 쇼크] 주담대 부담에 수출 불확실성까지…깊어지는 한은 고민 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82OUhVM2dLVURpcnpWQi1lVUViQlVvRWlRaTg0QzdQRTJEY3lPbmNRY2E4c21nd3JrVUU3Zjc2d3A2N3k0ekRVSmhvYlBqZFU?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
         },
         {
-          "title": "반도체 수출이 이끈 생산성…제조업·서비스업 격차 뚜렷 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qa2FRaDJLb0xJM0tMcDU5ZFAxaTljVnRqX3VqRG5zSklpM25xdFBoYVpUWjZKQzRVQWxlb0xqc1NTeVJnVThGdTZzZ0o4dkU?oc=5",
-          "published_at": "2026-09-28T08:33:43+00:00"
+          "title": "美·EU·日까지 '철강 빗장'…K철강, 수출 새 판 짠다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hT1V5d1hiSzZkamROa1NIR00wbzh5V252UHg1Um1Mc1FnR3NuZHRZWXZYR1FUUFdhQnRFblJxRjlzMkZCWWwxRENDdG96dEU?oc=5",
+          "published_at": "2026-09-29T09:01:00+00:00"
         },
         {
-          "title": "코트라, 역직구 수출 물류로 중동 피해기업 수출시장 다변화 - dhns.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56Szl3cmY1bkJTaU5oeFJaUFNCQTBXbGE4RC1pU1B2V0g1c3kwQ1lXS0Y1YVhRaEVUdGViOEpIaWFaOWdLNEgzLVNCZFhiUDJMb2s2SlVLQlN1Znp4cTJiODNJbXNNVjA?oc=5",
-          "published_at": "2026-09-28T08:06:47+00:00"
+          "title": "무보 노조 \"무보 지방 이전하면 수출경쟁력 훼손…서울 '경제수도'에도 반해\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nNDdFZjYtYmpvLW43clJLelZxQjRlUGVMYnZWcHo1aFlHbE0zNnNnTGhGcHVWMjhPWXdBazR3T2F3b3V3eE5SMjB4QUlKNUVsVVFqRGZJdTB1OXpBUERmUXc0NFltSU0tTlZB0gFwQVVfeXFMUEdMVUVPY3RKVmFvandmOXlfcElpcC11VDBWMjF2WXNyeVlkWlBTWVIzMlZ3Sm9WYURMSHl3b21TSFBhdmZ0SzV5ZjczSEhuV1F4N3FicXpuZUdJUy1rMC1ucFM4dUh4X1QzVlpSbFdiSw?oc=5",
+          "published_at": "2026-09-29T08:55:50+00:00"
         }
       ]
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 102.17,
+      "keyword": "머니투데이",
+      "score": 134.76,
       "articles": [
         {
-          "title": "FX스와프, 美 금리 상승 반영하며 하락 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IVEpYd2VsOE91azFibGRJaUxhemZCUWNBV3d0dXpyNm04ZEQwNzRzUC1nZ0s2cTFBMWxsX0E3Y2VkM3VuODlzQl9FN0lPNElHTzdmd2V6RFJiVzVJY3EyWDVRZ3FjZGEzcW1hSThQV1LSAXRBVV95cUxQOFBHOGpiZldrazBhb0dzYlh4dlVBUjhtQ1JtNUM5cXVRaXN6dEtrX0g4Mk5iVGdfRmhPNklqb19LOVlaQzBpZzNjekhrUTh1dEVldm51bU1VRUNVR2ZaaGoyQ1pEOUJPN1Y2Q19OZzQ4MXVrRQ?oc=5",
-          "published_at": "2026-09-28T09:00:00+00:00"
+          "title": "무보 노조 \"무보 지방 이전하면 수출경쟁력 훼손…서울 '경제수도'에도 반해\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nNDdFZjYtYmpvLW43clJLelZxQjRlUGVMYnZWcHo1aFlHbE0zNnNnTGhGcHVWMjhPWXdBazR3T2F3b3V3eE5SMjB4QUlKNUVsVVFqRGZJdTB1OXpBUERmUXc0NFltSU0tTlZB0gFwQVVfeXFMUEdMVUVPY3RKVmFvandmOXlfcElpcC11VDBWMjF2WXNyeVlkWlBTWVIzMlZ3Sm9WYURMSHl3b21TSFBhdmZ0SzV5ZjczSEhuV1F4N3FicXpuZUdJUy1rMC1ucFM4dUh4X1QzVlpSbFdiSw?oc=5",
+          "published_at": "2026-09-29T08:55:50+00:00"
         },
         {
-          "title": "[도쿄증시-마감] 국채금리 상승발 차익 실현에 하락…일부 AI·반도체주 강세 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rd1l1Yk1GUjRSZ2dnbVpOOF8xb1BBLXdPSlVEcHA4c3lWQnhXVWtfbGFDNWF2M3FpSkhFVWhFVWN3M3UyOEVxVC1hNzRnVDdvTldqSUpqZEZvV0RlaTdCN1puRDZWSTFVN003UXlkMzc?oc=5",
-          "published_at": "2026-09-28T08:41:11+00:00"
+          "title": "치솟는 유가·국채 금리…美 증시 휘청이자 아시아도 '미끌'[Asia마감] - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DakFERE52RlBsMndBMHhGaFNpdzA2SHd4RkQwYVUteVd5dHBWVmxLWW1wMHBKTmpmVV9aNEpOTVhwaDNtdF9WUG5SQWh6a0ZKbzlfZUo1QTM5d0xQdmRTMWdvLWVUN29y0gFuQVVfeXFMUElRakxiOWNycnlPTnNOV0JaVUFjeml3WHM0d0F3cGs3SUVyNGd0OU9hRnJPS0pOMFhzY3ctNDZ1S0Rnak1kam8yWGF3THVJUWs5MFIyVUY1cEZTS1E1UV9jNEktaHFNRkljX0dIbUE?oc=5",
+          "published_at": "2026-09-29T08:42:49+00:00"
         },
         {
-          "title": "호주 RBA 금리 인상 뇌관 된 건설 붐…60년래 최대 과열 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4cE1QTlVsUFlMWlpRSW1kNUV1MHhFa2ZLYkRNdGRPajhqSDVyTEFObHlsVjR4bFhZNUdNU1JuYlF2MUg5OHNET2pmbkRzc1lWRzZ6am1qN2Z5ZklaSWtWeHlLM3pQZjdQcVpCUWFwOHc?oc=5",
-          "published_at": "2026-09-28T08:21:26+00:00"
+          "title": "이재명 대통령, 농협 때리다 경제단체 겨냥…\"선거 매표 행위 있어\" - MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzYlc5bE5jQnpXU2dTZlk1YnhhbFIzRlMzRkRiYzJHN1dYTWxpcVgtcmJjVTU5b24yTW1GVlZZZWhvY0VhVUdmT1dra1E1QkQ5NlB0WEVVbGd2OG5qQU4tUVJMdk4?oc=5",
+          "published_at": "2026-09-29T08:38:16+00:00"
         },
         {
-          "title": "46兆 자동차금융 시장 대출금리 천차만별…'핵심비용표' 도입돼야 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByNWJjSEFDdFNfWjFxQkRYUkdWTkNoQjVHY0FjdmZfVXNhcGhobTQxVG9qQnpsSVVVSW1KdU9tVnNBWlZNbk1IZUI0U3VjTXRpa3NGVFVXVnNpMl9ETkwxVnNNWW9WX2Zlckk5YUg2Y1E?oc=5",
-          "published_at": "2026-09-28T07:07:08+00:00"
+          "title": "연이틀 '금리찬물'…6800 갇힌 코스피, 시선은 美 물가지표로 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11Z0tJWmpka3pnUk5oOUQwN1c3ZWt5RkxLOWVmYWJKY1RNd0l0Q2g2ZGljMlNoU243aWkydHMyUUpmQlU3Wk1SYmREWWwwZHhuc18zZG14LTlUbXByWnF3dVp5TGlrUHZz0gFuQVVfeXFMUFktV2p5Vlh4bzhmUFdmaV9uRURvTG9OTVQyMkNGNWNVTWhOWTlhaVdDREEwS2tHTDBFMnUtdDRnZW1oYkd2VkxSbnU3QWVhNEtsTEh2azI5c0NNMW43ZDVfU2p0bWwzT2plYkdFb3c?oc=5",
+          "published_at": "2026-09-29T08:11:18+00:00"
         },
         {
-          "title": "BCA리서치 \"美 실업률 4% 이하로 하락하면 물가 압력 키울 수도\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNeVBYakVEWjFkNC1FOHdxdWpBY0xZQkYwUHZxQW5VcF84NGg0Znkyc1dHamZWS1VZajBNNDhmdEJXNFhSRGI3VHZzVFhQRzZGeVJIZGM0MFNnMTlFTGxqam0xOW11TS1zbG53dl8wVDE?oc=5",
-          "published_at": "2026-09-28T06:51:15+00:00"
+          "title": "중동 석유 수출 80% 회복…호르무즈 해협 이란 장악력 약화했나 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HdHl1cTNuTW1lVUZJTDYxczRLTW1feXczU0tnYWVHSk8zTkhZTGtEdjI2SWxZZm9JRXIwbWhiandRR09nRHlpZHdHRmF3X1FMbGFBZ012NnJuTmZlNS1EeC0waUpxTjll0gFuQVVfeXFMTmthWXA4TGR1bjd2NEl3b1Jwc0kxSzBoRjZNd0xSRVowSmkwbG9qZ0ZycExIemFGQk1zdXNiemMzUmxwOG9wUk14RUlVWndNb0ZOWjdQMm52RnJYNWhIZ0JvVGlrdk1ncjhiaV9tWEE?oc=5",
+          "published_at": "2026-09-29T08:04:29+00:00"
         }
       ]
     },
     {
-      "keyword": "환율",
-      "score": 99.31,
+      "keyword": "아시아경제",
+      "score": 101.25,
       "articles": [
         {
-          "title": "美국채금리 급등·외인 매도세에...원·달러 환율, 1360원대 중반 마감 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lTDUxZzR5b0NWbGl2djRnX0Y5RUVma0NfMDNMQ0w4VGdHc3pGSzdtdHJWb2dfTkJOVTk0eTJtUTVUUy1nQlE5NmlNdFJ4S0htYmNDby1lYTBYazdEdHg0V0tfWXQ?oc=5",
-          "published_at": "2026-09-28T08:42:38+00:00"
+          "title": "대체투자포럼 2026 : 심층 특집 기획 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EM3VBd1RhVHBoSlRYeUZ1UzB2WHpVT3pzX09EYU1MZUFSMllNdUc2dncyT2JqSnJlOEtUTEdGSGx2MVRfczYtWjAxNll4ckpqSTFCd1dZaXBWYVN3alRJa0UwSWNicG5SdkE?oc=5",
+          "published_at": "2026-09-29T09:01:43+00:00"
         },
         {
-          "title": "[표] 외국환율고시표 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQlZ4dV9KZnNDUkY0V091Rkp1VXdPQXdWRkJyXzlSVlVtMHNiZC01X3JxRU9oMHlaMlk3NTBjZ1FjN1RDcURFSnBhOVV4c3NSLWc?oc=5",
-          "published_at": "2026-09-28T08:24:13+00:00"
+          "title": "진주시의회 경제복지위, 광주·순창서 지역 현안 정책사례 점검 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00TkJ4NURBMXEyQWJ0ZVdibXVlWnJSWnp4UkM0Yms2ZmVqSUlCOFNoS2dyc0ZON1JTVVBMdV95Ym9SVGVoMExlZHQ0bVRjRnV0dHI3MllsRHJPR2c4R2tYSg?oc=5",
+          "published_at": "2026-09-29T08:32:55+00:00"
         },
         {
-          "title": "중동 불확실성·연준 긴축 우려…환율 7.6원 올라 1365.1원(종합) - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MHlLUzNZbnA2a29EbWFrcDdUVmJGWnJGSTBmaFlyX3h3QklKeHpXTHpVaGNJYVNUbC1Qd3FXWGhfSi1nTTN2bi10TVplSENlSE5fRmxaNUJJUkXSAWBBVV95cUxPcDhPTTNYbkMwREZiSV9lNnR0ZE82UmNrTmVXT21tMDVmX3hMSFFsSmNMdGxRRllHRm43QjNuZ3ZvaGtxWWo5dUhDS3FydHh0VU52b1ZwUDVod0wyYlBMRWM?oc=5",
-          "published_at": "2026-09-28T07:33:50+00:00"
+          "title": "금통위 \"기준금리 연속 인상 배경 충분한 설명 필요…청년 고용 감소 등도 짚어야\" - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNWXpsYkl0R0JyenB1ZWNsU0JCU3VIcGtFaGxRM0gtZlpWT0JHbHY1aEQ2eHE1VVFtdGJxcDVLazJGY2JGc3M3d2pxdS02YUlocnF6STRlLVRpUVlNTl9WcXBEU3J5VER5NzZ0ckItNjFtQndWclMw?oc=5",
+          "published_at": "2026-09-29T08:30:00+00:00"
         },
         {
-          "title": "美국채금리 19년래 최고·외인 매도세에…환율 다시 1360원대 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kQm03VmdYUlVDZ0lGbWRISV9ud0JFemJRQVNoY0VPQVNtbzJaT1JYc3lkaDItS1M5NS1UOTlEcHNTVE5vaFIwQUtPR3F6Z042eTZtUDlMakpnTnpnOW5JQWFMX2NrVnA0X2000gFwQVVfeXFMTmhWYVpnX0NDN2pMZThsWktkNmZOSm1qVGVlSGVlcE9zSi11aHBoblRqNEZhRGdSNGNHRHJFTWlwS0VJdmJOazdPcmxrU1BSWnNnM0NqalBnZE9veUdXRGZTQTZ6YWZpbE56Qkp6MmxnQw?oc=5",
-          "published_at": "2026-09-28T07:27:42+00:00"
+          "title": "[포토] 아시아경제 대체투자포럼서 강연하는 히데유키 이시이 KPMG FAS 파트너 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ud3BROTUtNmlXVThJZWxlenZDT0MzMzg3b2hEVDNBZVRKR2p0OU1FME5TYXNSdUY0VjJ3MjQ2bXdNVWRldzVrN29qakh5eHpYdW1xdDdWQi1uLUlDczVmag?oc=5",
+          "published_at": "2026-09-29T07:48:15+00:00"
         },
         {
-          "title": "美국채 금리 여파…환율, 추석 지나고 1360원 중반대로 - asiae.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GNGEtb3c1emgwbFJjRFJVWFFWZkxJSFluLVJtM3RwN1B6Um9EdU9URV9qYTNpWkR1RzRGTWxxNi1vSnRQM2wxYkdvMWx1UjVsQ3pIRk01RndURnNENk9GMA?oc=5",
-          "published_at": "2026-09-28T07:16:44+00:00"
+          "title": "[포토] 아시아경제 대체투자포럼서 강연하는 이상민 삼일PwC 파트너 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90dVN6elJlNUdrSXZ5YnpxOWhYdVVReUFlUGZYZGRNNjlGMTNCMU1mek5qbTdzXzUzdWZSWnpiT2pYblNvMDk0dG1CakZfdHJvUDNRTXBHam1MTTNsd0x0VQ?oc=5",
+          "published_at": "2026-09-29T07:23:17+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "코스피",
+      "score": 98.33,
+      "articles": [
+        {
+          "title": "코스피, 금리·유가 악재에 이틀 연속 내림세…코스닥은 반등 - futurechosun.com",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRZ21YLVRUTHB3Wm1JTndjVi1FLUhfaDlVa0tZamU1ZzlxWlZ1VDNYR2tHeDNub3pTb1dGckRSZG1ITjJkYzdJcjd1MDZaVFh0OFE?oc=5",
+          "published_at": "2026-09-29T09:17:00+00:00"
+        },
+        {
+          "title": "[마감시황] 금리·유가 부담에 이틀째 밀린 코스피…6800선 약보합 - 한양경제",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5djcxZkhEd1pjLXRieUxYS2tpUTlGeXZFMjZNUEV0dkkwQkh0Um1Va0dpTTljc0c0R0pSQ2ZJX0JkSV9JbTg5MmdPeUNvNnRjWldVYk5kSjhsY05wR1BwaUVYa2hjYk9mYkhRS3p5SjN0dw?oc=5",
+          "published_at": "2026-09-29T08:37:23+00:00"
+        },
+        {
+          "title": "“배당락 맞은 삼성전자 급반전”...外人 3조 던진 코스피는 하락 - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92d1E4ZTdCN1JNaUY5WTBCYzQwa0psZjFmVjlzNGVLUE4zODFsQVZXX0Q0ZFUwYzJYY3l6NER0aFJKTEZQQk5mbDFVeE5BYW85aEhyZ2lXUkJGdmc?oc=5",
+          "published_at": "2026-09-29T08:28:49+00:00"
+        },
+        {
+          "title": "연이틀 '금리찬물'…6800 갇힌 코스피, 시선은 美 물가지표로 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11Z0tJWmpka3pnUk5oOUQwN1c3ZWt5RkxLOWVmYWJKY1RNd0l0Q2g2ZGljMlNoU243aWkydHMyUUpmQlU3Wk1SYmREWWwwZHhuc18zZG14LTlUbXByWnF3dVp5TGlrUHZz0gFuQVVfeXFMUFktV2p5Vlh4bzhmUFdmaV9uRURvTG9OTVQyMkNGNWNVTWhOWTlhaVdDREEwS2tHTDBFMnUtdDRnZW1oYkd2VkxSbnU3QWVhNEtsTEh2azI5c0NNMW43ZDVfU2p0bWwzT2plYkdFb3c?oc=5",
+          "published_at": "2026-09-29T08:11:18+00:00"
+        },
+        {
+          "title": "코스피, 美국채·유가 부담에 약세…코스닥은 상승 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EczJYb0ZHcGxTZTRjY3ZHLWJHRnBFTEpndEs2SUFpMzZfanMyNG5Vd3ZjdXAxOWRTOFBEcnFHSjlVbUk0TnVuV0hBQk9iNUE?oc=5",
+          "published_at": "2026-09-29T07:50:00+00:00"
         }
       ]
     },
     {
       "keyword": "인상",
-      "score": 88.92,
+      "score": 96.58,
       "articles": [
         {
-          "title": "[미리 보는 국감] 신현송 한은 총재 첫 국감…'기준금리 연3%' 추가 인상·가계 부담 쟁점 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZjlETnlLSnUwT3NmbXFONEhEaTVEOGFBVTE1ckFMWlhxdUxRaE5fSUpDX0ZFUVIzS3JpQ0pYQTA1YWxrZmQ3RDhiQklOMkU?oc=5",
-          "published_at": "2026-09-28T09:01:21+00:00"
+          "title": "주춤한 은행 예금 속 4% 넘은 은행채…5대 은행, 예금 금리 줄인상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wcU1WcDFyT2kwaG1CakFINmpXV2Q3ZjdIMWRoVVpJWUx6NW51dWZoUldtdzVmRWh3bUNnb1NxcklLclVUSEhOdWs2RVRJbFdac3lKZFd5ZXNBbVlV?oc=5",
+          "published_at": "2026-09-29T09:00:00+00:00"
         },
         {
-          "title": "호주 RBA 금리 인상 뇌관 된 건설 붐…60년래 최대 과열 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4cE1QTlVsUFlMWlpRSW1kNUV1MHhFa2ZLYkRNdGRPajhqSDVyTEFObHlsVjR4bFhZNUdNU1JuYlF2MUg5OHNET2pmbkRzc1lWRzZ6am1qN2Z5ZklaSWtWeHlLM3pQZjdQcVpCUWFwOHc?oc=5",
-          "published_at": "2026-09-28T08:21:26+00:00"
+          "title": "금리 인상 결정에 영향 주는 사안은 …결정권 있는 금통위원 발언 보니 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YRVZrLVFSR1FDWkVCa2I1SXJQMzVJZVBxQUdUNVJjYVExMWMxNnNuY043bVFnbE5lT0dlWG5yYXQ2bC1nYm5zOFJYckJ2dUE?oc=5",
+          "published_at": "2026-09-29T08:33:09+00:00"
         },
         {
-          "title": "기본급 8만원 인상… HJ중공업 임단협 타결 - 팍스경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4VWNzOXBldnd5ZHBMMDh5cEd1dHExeFpZLXN5enVlOHk0M1VZU293OXJFNkVaYVdvUG00djVQLUNzanpMZVJmUkdSdkphbXdFN3lwQ0dwTjA5TWdDNWtUY0VHM3NrbENq?oc=5",
-          "published_at": "2026-09-28T07:52:47+00:00"
+          "title": "금통위 \"기준금리 연속 인상 배경 충분한 설명 필요…청년 고용 감소 등도 짚어야\" - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNWXpsYkl0R0JyenB1ZWNsU0JCU3VIcGtFaGxRM0gtZlpWT0JHbHY1aEQ2eHE1VVFtdGJxcDVLazJGY2JGc3M3d2pxdS02YUlocnF6STRlLVRpUVlNTl9WcXBEU3J5VER5NzZ0ckItNjFtQndWclMw?oc=5",
+          "published_at": "2026-09-29T08:30:00+00:00"
         },
         {
-          "title": "골드만삭스·블랙록 \"글로벌 금리 인상에도 韓 펀더멘털 견고\" By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pYUY5Zmx2YnpjdXYtZDNPVTFpbmhUdWY1SW1sbzFnUlZVdTVYTExyRHBFZnBaTmpjVnlLTVhmYllEa2xWWUtyVjBCcUdadjN6UERCU0UxUmhRYVFsLThuWUFaNjNFOWJhaVZIZ0Qyd2E?oc=5",
-          "published_at": "2026-09-28T07:41:00+00:00"
+          "title": "일본 2년물 국채금리 2% 육박…BOJ 추가 금리인상 가능성 높아져 By The Guru - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyTjNjMUlMeDdyLWE5clBqRjBGNXpocDNLWnZhR1pPckFSMnd0TDcxajNyYVpOaURlMS1LTlcxYWcyVmtlVVdZWG84RndQd3BQcFhDRk8yNnJ5TjhmMVdLMWEzbmlGVC1mM1l3MFdMWlk?oc=5",
+          "published_at": "2026-09-29T07:32:00+00:00"
         },
         {
-          "title": "\"주택 가격 더 오를것\"... 기준금리 인상에도 대전·세종·충남 주담대 상승 - joongdo.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpem1udFVITHpjNVlTZmZwa1NVZXNleFBrMS1PcWdTWVJZNGlxaVhtVVJDQ1lYR3J1VGFTX1Ewa1ZIU05nbDhvYWt5T3NaUks4ZlYwR1hCRDZQYkxvdlY4OGlfczE?oc=5",
-          "published_at": "2026-09-28T07:40:57+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "국채금리",
-      "score": 85.44,
-      "articles": [
-        {
-          "title": "美국채금리 급등·외인 매도세에...원·달러 환율, 1360원대 중반 마감 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lTDUxZzR5b0NWbGl2djRnX0Y5RUVma0NfMDNMQ0w4VGdHc3pGSzdtdHJWb2dfTkJOVTk0eTJtUTVUUy1nQlE5NmlNdFJ4S0htYmNDby1lYTBYazdEdHg0V0tfWXQ?oc=5",
-          "published_at": "2026-09-28T08:42:38+00:00"
-        },
-        {
-          "title": "[0928마감체크] 美 국채금리 급등에 따른 위험자산 선호심리 후퇴… 코스피 2.70% 하락 By 인포스탁데일리 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bElkdGhHVzFwb1hvN0hfYlJCYVN2Wmh6ZVlJWTVMVG5CVXZoNjhPVmxfclA3TzFhOVZPLUEwUVdYM0J5WU80R1NTZVRWSTNtOXBoTWpkNS0xSWl3WlZsQ1JmYVd5Nm1mTm44WVhxRHQ?oc=5",
-          "published_at": "2026-09-28T08:42:00+00:00"
-        },
-        {
-          "title": "[마감] 코스피, 美 국채금리 급등 부담에 2.70%↓…7000선 아래로 By 알파경제 alphabiz - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aRjJ3Yk1NcGlZRk5tWjNUVmJGQlF0UUt4YnRlcngwS1FJUzMtLTBES0E0RDdNaURXZm5vc3dYNU1NbmVKcjl5Rmhob2NWNkxoaWdrWDhCRm5xRVJFSnRtQktNTUFDdVJNeDNDYlRpZTU?oc=5",
-          "published_at": "2026-09-28T08:42:00+00:00"
-        },
-        {
-          "title": "[도쿄증시-마감] 국채금리 상승발 차익 실현에 하락…일부 AI·반도체주 강세 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rd1l1Yk1GUjRSZ2dnbVpOOF8xb1BBLXdPSlVEcHA4c3lWQnhXVWtfbGFDNWF2M3FpSkhFVWhFVWN3M3UyOEVxVC1hNzRnVDdvTldqSUpqZEZvV0RlaTdCN1puRDZWSTFVN003UXlkMzc?oc=5",
-          "published_at": "2026-09-28T08:41:11+00:00"
-        },
-        {
-          "title": "美 치솟는 국채금리, 장단기 역전도 '눈앞'…침체 경고등 켜나 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zb3FSVzlTTWJSajBDcUVnUVRTMmg4SDlobkN3SUk1S0VkVjZMbkx4RGVwcmhGVE9sQ3lrWFo4UTFLUnp6ckZkOS1JZlBMYi1nRS14WUhPT2N4M1JWMDdlS0hWNm1vVlFN0gFuQVVfeXFMT0lHSzduTFc2cnd2REI0a01tN1h2VGsxMWtUQ3l0TUhudVN5bm5RU1dHVFQ1Z0wwM3I2LXhWeFlQQ0wtWWF4dUxybHhrWjZfSjF1OXlMcEdvOENYdHZJZFBnWjdfb0FaVXRRSTBrY0E?oc=5",
-          "published_at": "2026-09-28T08:04:25+00:00"
+          "title": "RBA 총재 \"인플레 낮추기 충분하다 판단 시 추가 인상 필요치 않을수도\"(상보) - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrVEtlNWpOT0JQajZYVE1SakdOWU5IcnNWV1g2M2xkc3hoeUdYWmV1UFlkY09lZFE0UWpSd1FHb2Z6ZXV5amZPVGR5VWQ4c0NFd3pRVUdmckh4NkVON09FbWdYR2ZaSWxKa21EbjJROXMyZw?oc=5",
+          "published_at": "2026-09-29T07:20:54+00:00"
         }
       ]
     }
