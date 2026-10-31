@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-10-30T09:31:48.617455+00:00",
+  "generated_at": "2026-10-31T09:13:26.303726+00:00",
   "source_count": 4,
-  "article_count": 367,
+  "article_count": 382,
   "top_keywords": [
     {
       "keyword": "수출",
-      "score": 193.52
-    },
-    {
-      "keyword": "동결",
-      "score": 191.21
-    },
-    {
-      "keyword": "기준금리",
-      "score": 164.76
+      "score": 106.71
     },
     {
       "keyword": "금리",
-      "score": 159.9
+      "score": 80.68
     },
     {
-      "keyword": "일본은행",
-      "score": 136.92
+      "keyword": "국제유가",
+      "score": 67.37
     },
     {
-      "keyword": "물가",
-      "score": 122.63
+      "keyword": "기준금리",
+      "score": 66.33
     },
     {
-      "keyword": "25%",
-      "score": 117.49
-    },
-    {
-      "keyword": "달러",
-      "score": 113.16
+      "keyword": "동결",
+      "score": 64.86
     },
     {
       "keyword": "인상",
-      "score": 83.97
-    },
-    {
-      "keyword": "한국경제",
-      "score": 82.1
-    },
-    {
-      "keyword": "목표",
-      "score": 73.35
+      "score": 54.61
     },
     {
       "keyword": "연합뉴스",
-      "score": 71.81
+      "score": 48.34
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 41.68
+    },
+    {
+      "keyword": "만에",
+      "score": 39.59
+    },
+    {
+      "keyword": "연준",
+      "score": 38.69
+    },
+    {
+      "keyword": "급등",
+      "score": 35.41
+    },
+    {
+      "keyword": "달러",
+      "score": 34.82
     }
   ],
   "hot_topics": [
     {
       "keyword": "수출",
-      "score": 193.52,
+      "score": 106.71,
       "articles": [
         {
-          "title": "코스피 급락에도 '원화 강세'...원·달러 환율, 수출기업 달러 매도에 하락해 1334.3원 마감 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlVXlKU1VLWTJpSmJkalhrSXZyZEZNQ3ZadHZOR2VSQVhXV1RIdk1GMDExdTl3N3JQRFpsdlp0anpvczQ0NDlQdHdSVzVLX3d6Y0JMZWYwenItNi1tcFkyZWowdXA?oc=5",
-          "published_at": "2026-10-30T09:13:26+00:00"
+          "title": "'검은 반도체' 김 산업의 중심, 목포···‘수산식품수출단지’로 날개 다나 - https://www.theleader.co.kr/",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdE9ta3ZoVDRjejBDZlVDbUFMbWxyRjVsbjQ3OUdHaGNfVmphdXFhQjgyYnpQN0RJN3VHTWs2Mi1qVUFucVBnREdpYVV5ZWc4WUZFS2MyWk53VjZBamhfWl8yMTgzWjBtNVdoLXVR?oc=5",
+          "published_at": "2026-10-31T08:39:40+00:00"
         },
         {
-          "title": "국가 1호 수산식품 수출단지, 목포서 세계로 출항 - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HblRaTlBXMlA2dkNzZ3hsa1dpWWVnekxTZ2E4V3lmSk5ZZFRwenVodExFZGozSlhmQWxXbkhhMVJidXBHR2N3U3pYTVBOOHFxQzE5ZF9wUHY0TVVkY3pMcg?oc=5",
-          "published_at": "2026-10-30T09:00:01+00:00"
+          "title": "IPO 앞둔 넥스아이 \"후속 기술수출 논의 상당히 진전\" : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDAyU0RXdVV2MVNTaXBKcm9OMjNMdURkNmwyMFpUa0wxX0lFbTJxd1NUNFJDVDFNb1gtcEtyb1Q4QnlIbXA3R3hzSWxZU2NyQnNqSnFjRThFRnlIbDdCSHFfekwxeml3Tm00d0tIWXhZWkRVb2tBX2RWYXA4WjFrTmpDcUVGWExMU09DQlRjZw?oc=5",
+          "published_at": "2026-10-31T08:21:16+00:00"
         },
         {
-          "title": "국가 1호 수산식품 수출단지, 목포서 세계로 출항 - 일등방송",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE01aDVwVzQ2b21tbEVrN1BBckx1MndPalpNVExCdmdoVHNvekR1b1RZdi1OM1RLaHY3VDVraG11QkhPelNU?oc=5",
-          "published_at": "2026-10-30T08:59:00+00:00"
+          "title": "[박춘태 칼럼] 한국 농식품 수출 첫 100억 달러 돌파, K-푸드의 지속가능한 미래 전략 - 사이드뷰 인터넷신문사",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yVkpYbF9fU0JnVUdOTjNPOHcwQU9QUnhtQ1hBT0dQUW9vUmRuYTRmbzRLSV9vY0lmUWw3WlA0N0JKcno3NU9GdzFzTlBnUDktOHRRcnB5VWRsM1huTXZHM1NDYnVoWFVmcXEtTA?oc=5",
+          "published_at": "2026-10-31T07:46:05+00:00"
         },
         {
-          "title": "목포 수산식품수출단지 준공…K-김 수출 거점 구축 - 폴리뉴스 Polinews",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OdDJpeENkRmR5VS1tOTJQYlE1dkVBZU9jbnhSMjhQRzBWT1NIMWliell5THdUbXhjMnc1b0RWb1ZFM3hORlE1MzVjNHZ1YmJsYVhPeTl2YlFVNWNGbG9MeDVCcHdFWTdhTFlDR3NR?oc=5",
-          "published_at": "2026-10-30T08:53:27+00:00"
+          "title": "인천항 물동량 제자리… 중동 전쟁에 ‘중고차 수출 부진’ 타격 - 경인일보",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13S2phTGFHZk9CY09rdENVV2lDdUVHWkYzQjBOY1VTLV9XTk9HWDNkclB6dUZ2UFpVekJ2T2dVc3p6LW00eEJzNFA0VnAyZ21vc1E?oc=5",
+          "published_at": "2026-10-31T07:03:06+00:00"
         },
         {
-          "title": "한미약품·녹십자, 파브리병 신약 6300억 기술수출 - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wbFRYZ1RXU0sxeVEydk1TakE1M3pldjlZUDREZHpzNncteHRxZExpanN3RU5qUWpJTzhhMWFkZjBQUU00b1hLR0VfRHM0U3pSY3Q0MTBJVGVnNm9weG9Z?oc=5",
-          "published_at": "2026-10-30T08:46:15+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "동결",
-      "score": 191.21,
-      "articles": [
-        {
-          "title": "일본은행, 기준금리 연 1.25% 동결…“기조물가 2% 목표에 부합” - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tT3hfM2ZCdVk2d1UtUUdHbmVmSkYyN0FKTmd4TVVUWk1YX2JYZC1PSGVzdEQxLVhOOHdVWG83cTdBSFhmNDhCa3E5U084Tldqd2V0ZG1MTnBmdVJ1Vkg1OXVnLUl0Q1hiYU9jVA?oc=5",
-          "published_at": "2026-10-30T09:17:54+00:00"
-        },
-        {
-          "title": "日銀, 금리동결 속 '물가 목표 2% 도달' 판단…\"추가 인상 지속\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sd0Y2R2NsbUQyM0hrTWIxT0NkZ3BRVnZHTVowNWdNc3h6UmFIOVBmekZvRXVZcVdidVM2NnVqdWE4VUJXZ1p2bVdhNkNPZGF6dWVRVWlWMHRmNEXSAWBBVV95cUxPRC1qNWp1N05xcXU0UHJkdjE2NVNKTlBCdWwzaFVLNk9FQ3JRX240RWdmUlR6Z0JiXzBlMGpMaWlnU0tnUUtIX1ZHZGVwWWZRNmhTbEpiMk02WFdJV0RrcW4?oc=5",
-          "published_at": "2026-10-30T09:09:05+00:00"
-        },
-        {
-          "title": "일본은행, 금리 1.25% 동결…추가 인상 예고 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GWTdwaHI2Z1V5V0pSVHhUX3hfQVRiVEwxX2pTM2MwUFpTTHdDWkJfUmtCRDRreTBfRnR3RlJwbkpJZnRfV3ZMT2hrSmRITnJJV05aWDhreWxEU0tOZGtmeTV2TmJiMFB6UVJ0dl9FLVQ?oc=5",
-          "published_at": "2026-10-30T09:01:00+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 1.25% 동결...'기조적 물가, 2% 목표에 부합' 판단 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tQ3BfQmpsNEZlell5MUlmUFRQOFhPWjJMa1M4Y0lGUGJobFJBT3dEeTlYaDkyS0pib3dXOElpdEFBNHFsVHRrYzV4OHlMczFhdjBYQTRGTDVNeTQwWklhSmluZUE?oc=5",
-          "published_at": "2026-10-30T07:34:06+00:00"
-        },
-        {
-          "title": "일본은행 기준금리 동결…\"물가상승률 목표치 도달\" - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaTlSU2tFUDBua0l4blNSTTNWTDN5VDJTX3ZZNDB5cTc5ekZqV2o2QUZjUTFjWC0wSFp0UjZJVERSRTdNRUFlY21PalByeVhfbUVJd1NXUWt0bDdFLWc?oc=5",
-          "published_at": "2026-10-30T07:02:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "기준금리",
-      "score": 164.76,
-      "articles": [
-        {
-          "title": "일본은행, 기준금리 연 1.25% 동결…“기조물가 2% 목표에 부합” - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tT3hfM2ZCdVk2d1UtUUdHbmVmSkYyN0FKTmd4TVVUWk1YX2JYZC1PSGVzdEQxLVhOOHdVWG83cTdBSFhmNDhCa3E5U084Tldqd2V0ZG1MTnBmdVJ1Vkg1OXVnLUl0Q1hiYU9jVA?oc=5",
-          "published_at": "2026-10-30T09:17:54+00:00"
-        },
-        {
-          "title": "일본은행, 기준금리 1.25% 동결...'기조적 물가, 2% 목표에 부합' 판단 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tQ3BfQmpsNEZlell5MUlmUFRQOFhPWjJMa1M4Y0lGUGJobFJBT3dEeTlYaDkyS0pib3dXOElpdEFBNHFsVHRrYzV4OHlMczFhdjBYQTRGTDVNeTQwWklhSmluZUE?oc=5",
-          "published_at": "2026-10-30T07:34:06+00:00"
-        },
-        {
-          "title": "이슈ㅣ미 기준금리 4% 시대… 대출금리 0.5%p 오르면 추가 이자 6조5천억 원 - KDI 경제교육·정보센터",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5ZHJ0eTFyRU8yUFc4ZUxGV3lfWmdXOFgzZk1LbVFSRnNXTFNDdV9UZy1PMGVHbmllODVjWmo5bzRERGtWd0p2U2djZTZLaUhUZXRwb19tR3Q1bE0wSGh2eWM4dTNVbzYzMHYxSnJTVGtYbWV1R3RuMkdaaUVsZw?oc=5",
-          "published_at": "2026-10-30T07:02:22+00:00"
-        },
-        {
-          "title": "일본은행 기준금리 동결…\"물가상승률 목표치 도달\" - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaTlSU2tFUDBua0l4blNSTTNWTDN5VDJTX3ZZNDB5cTc5ekZqV2o2QUZjUTFjWC0wSFp0UjZJVERSRTdNRUFlY21PalByeVhfbUVJd1NXUWt0bDdFLWc?oc=5",
-          "published_at": "2026-10-30T07:02:00+00:00"
-        },
-        {
-          "title": "일본은행 기준금리 1.25% 동결…\"12월에 금리 인상 길 열어\" - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGWHVJNGlCTjQ0ang2dTJuT1ZONFNFZUxsNFBjRGtMU2lIZWF5cHFwdTNyODZ4Wk5XamFYQ0FEcVBsT1FLbzZjWktVYmx6VHlRMFhQYk9GTGpRZTBmb1JUcnNzdHE2cmpFb19nbkVB0gFzQVVfeXFMTk1LakIzbHNRck9KcnBsUWZNMXhfVmRpdmwzbW1kSFpVd09TN002UnBseDNvQTczYVVmYzl2VUFWVm4xYjJiMHg1RnF2VTJqbFZtT21yNDFwamswQU5xODVJMTQ1b1U3QXVVeGhmZDdWeTdINA?oc=5",
-          "published_at": "2026-10-30T07:01:00+00:00"
+          "title": "강서구, 中 수출상담회서 168만 달러 MOU 체결 - 시정일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vYVRzaUc5M1U3Y2tubXF3U0RIeUhjeEpuajQ0Y0ZEUVFsOTkyMHV2NGRzYWx6ZE9GUk1XeFZMb0Ryelg1WVhqN1dPak1pRWszZGY0eFN1QXQzQ0RyOUdJNy1NbGNlTExOc3J3?oc=5",
+          "published_at": "2026-10-31T06:15:00+00:00"
         }
       ]
     },
     {
       "keyword": "금리",
-      "score": 159.9,
+      "score": 80.68,
       "articles": [
         {
-          "title": "UBS “영란은행 금리 인상, 파운드화의 스위스프랑 대비 강세 뒷받침” - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TbkljVTVBT2dIX2JCWUFlSlhqanFRZEVadWtBcWtHRkpvSVRiVkU4Y2RNaFd6Uld3WHNYTmFlUzdtVEFxckJ5SmhUM0dpMTRrUFJlNFdlcUp2U3YxNFRFWExSRkxIcDJLUWluU3pB?oc=5",
-          "published_at": "2026-10-30T09:26:00+00:00"
+          "title": "물가 2% 안착 선언한 日銀…12월 금리 1.5% 인상 시야 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeThKdS1Od3E5eUdyMHNWMHZMVXpvZjFGYjNLTFJpaE5kXzg5T0E0UDZzNkJTT0hqNGhqaTJ4dDlwYjRDNUcxLVRlTEhLaGJHV2trem81ZXJjb3AzMm50RjZLcjlrZTRIc1dVQjRZM3JXODRUODFQMXVyWENVQjUtOVRzUnVJSTNT?oc=5",
+          "published_at": "2026-10-31T08:34:51+00:00"
         },
         {
-          "title": "일본은행, 기준금리 연 1.25% 동결…“기조물가 2% 목표에 부합” - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tT3hfM2ZCdVk2d1UtUUdHbmVmSkYyN0FKTmd4TVVUWk1YX2JYZC1PSGVzdEQxLVhOOHdVWG83cTdBSFhmNDhCa3E5U084Tldqd2V0ZG1MTnBmdVJ1Vkg1OXVnLUl0Q1hiYU9jVA?oc=5",
-          "published_at": "2026-10-30T09:17:54+00:00"
+          "title": "기업들이 적절한 금리로 대출을 받을 수 있도록 보장합니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSll3VXJjdTZGbFFhQmlTOWhub0FqVF84MGlRYUE2eWpWSVRlV21PcjVKcDR5TFB6X3BpaHZ6OHdYMDVrc2pFTzJUZFhZM09tRFFjOWhSTVpHQ0c4cm5KWUNwdk11dElFc2U3VXJLRGZlLTh3NnpleGRlbnI2YWNCempIQ2JMR25DcjcxZkZXbVZ0Zw?oc=5",
+          "published_at": "2026-10-31T07:56:44+00:00"
         },
         {
-          "title": "日銀, 금리동결 속 '물가 목표 2% 도달' 판단…\"추가 인상 지속\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sd0Y2R2NsbUQyM0hrTWIxT0NkZ3BRVnZHTVowNWdNc3h6UmFIOVBmekZvRXVZcVdidVM2NnVqdWE4VUJXZ1p2bVdhNkNPZGF6dWVRVWlWMHRmNEXSAWBBVV95cUxPRC1qNWp1N05xcXU0UHJkdjE2NVNKTlBCdWwzaFVLNk9FQ3JRX240RWdmUlR6Z0JiXzBlMGpMaWlnU0tnUUtIX1ZHZGVwWWZRNmhTbEpiMk02WFdJV0RrcW4?oc=5",
-          "published_at": "2026-10-30T09:09:05+00:00"
+          "title": "‘동네지기’ 이만기 경주 출격...‘금리단길’ 46년 전통! 세 자매가 지킨 아버지의 매운 돼지갈비찜 맛은? - MyloveKBS",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlhldnRfREpucHlrR1VYejRvckZwajFYazVqNVd2Qk9tMVRrRVk2OTQ5YmxVcWdQX3ZCZFdWRWoxM3REbGowbndhRmx3dVBsZ0xIRlQ3VVhDaDd4M1dDTFBkM3dudzNFeVZhSW05YXhBSktQbGI3U2Qzd05OWUc5dTEyU0ZGWEdIam5RUmNaY3J6Q2FKS0xib3RoMlExSmx5bnZPWUlJeFdnNGFCR1BCRGtIaw?oc=5",
+          "published_at": "2026-10-31T07:52:28+00:00"
         },
         {
-          "title": "일본은행, 금리 1.25% 동결…추가 인상 예고 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GWTdwaHI2Z1V5V0pSVHhUX3hfQVRiVEwxX2pTM2MwUFpTTHdDWkJfUmtCRDRreTBfRnR3RlJwbkpJZnRfV3ZMT2hrSmRITnJJV05aWDhreWxEU0tOZGtmeTV2TmJiMFB6UVJ0dl9FLVQ?oc=5",
-          "published_at": "2026-10-30T09:01:00+00:00"
+          "title": "환율 하락에 여행객은 ‘웃고’ 대출금리 상승에 차주는 ‘울고’ - 영남일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrT0RMZjlrenQxNnJZUF8tQW9reUtpc2FVYUZBUDJOYXI2YVdERWtoWWtjdmMwRGd2LV9ub1dpRmhoYzJhZEIycUZENGlXTjdMSnR0UzZkWXNrQk95WUZiaFRHenpPY204WWI4?oc=5",
+          "published_at": "2026-10-31T03:00:41+00:00"
         },
         {
-          "title": "우에다 BOJ 총재 \"물가 2% 목표에 대체로 부합\"...추가 금리인상은 계속 검토 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sOWZyR0V0NG4xdWUzeVNHdkQxMTVCaEJ4OEFBWGtHY09adVpkQ2Zfcm9VZXc2V0VxVjZ5Rk05ekUyajZ2cWxTd3lDZEwzeVVSbTl4bk9RbHVaX0JI?oc=5",
-          "published_at": "2026-10-30T08:14:00+00:00"
+          "title": "美 중간선거·AI거품·금리…불확실성 커진 코인시장 - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTEdaVEhOaC1JV2FmTldMMVBSUkxnVE9IWEhBcVNxbG1yeWU0MXRrcGZuLVdka3gtMG9VV2FUREdjM1Q3d3RLWWdtcGlXLUlHY1I4OHJYeXlNVTIzX2tSRUI4VFo4VVV0M2c?oc=5",
+          "published_at": "2026-10-31T02:00:03+00:00"
         }
       ]
     },
     {
-      "keyword": "일본은행",
-      "score": 136.92,
+      "keyword": "국제유가",
+      "score": 67.37,
       "articles": [
         {
-          "title": "일본은행, 기준금리 연 1.25% 동결…“기조물가 2% 목표에 부합” - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tT3hfM2ZCdVk2d1UtUUdHbmVmSkYyN0FKTmd4TVVUWk1YX2JYZC1PSGVzdEQxLVhOOHdVWG83cTdBSFhmNDhCa3E5U084Tldqd2V0ZG1MTnBmdVJ1Vkg1OXVnLUl0Q1hiYU9jVA?oc=5",
-          "published_at": "2026-10-30T09:17:54+00:00"
+          "title": "국제유가, 이란 확전·호르무즈 해협 위험으로 2% 넘게 급등 - 더리포트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4X0RTenRrWXFqeVB5NHRnZEx5a2JhSjVqUmVNN09TT2ZrR3c0M1F3WndBMGxNb3lCbnZCeE5KOWlraUttRGZiencwNklZbWJyandJT0dRMGpEUUtSWm5EdHM2UWM2Q3ZVbG5wVVVB?oc=5",
+          "published_at": "2026-10-31T08:41:47+00:00"
         },
         {
-          "title": "일본은행, 금리 1.25% 동결…추가 인상 예고 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GWTdwaHI2Z1V5V0pSVHhUX3hfQVRiVEwxX2pTM2MwUFpTTHdDWkJfUmtCRDRreTBfRnR3RlJwbkpJZnRfV3ZMT2hrSmRITnJJV05aWDhreWxEU0tOZGtmeTV2TmJiMFB6UVJ0dl9FLVQ?oc=5",
-          "published_at": "2026-10-30T09:01:00+00:00"
+          "title": "호르무즈 유조선 피격에 국제유가 2% 급등… 6개월 만에 최고치 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncU40MUIweTBvUGxVZUU4eFktb0VhZ0hEN2l0aUVxaV94dVNtTUl3UkZvUXVncEtfOEF5UVZDUTZUUmk5ak03VHZhUVhYZ2RIeTh5aURpSFVMSFhPbHNoY3l6b2Fib0ZDQ1E?oc=5",
+          "published_at": "2026-10-31T07:19:05+00:00"
         },
         {
-          "title": "일본은행, 기준금리 1.25% 동결...'기조적 물가, 2% 목표에 부합' 판단 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tQ3BfQmpsNEZlell5MUlmUFRQOFhPWjJMa1M4Y0lGUGJobFJBT3dEeTlYaDkyS0pib3dXOElpdEFBNHFsVHRrYzV4OHlMczFhdjBYQTRGTDVNeTQwWklhSmluZUE?oc=5",
-          "published_at": "2026-10-30T07:34:06+00:00"
+          "title": "국제유가, 중동 긴장 고조에 반등…WTI 104달러 돌파 - 스페셜경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ2p5WTdEc0RRV1FWaHVuQ3BqUXEycWRYbWkwT2h1OVhxcWFRbTVvcXZPYTd6Nzh0QkJYR0pRWU1SVEhOc3MxTWN3SUdaSVJxMDhoSFc4NTY4dzhPdG43eklTeFk4RFBEWDBteg?oc=5",
+          "published_at": "2026-10-31T07:12:38+00:00"
         },
         {
-          "title": "우에다 일본은행 총재 \"물가상승률 2% 웃돌 위험\"…추가 인상 시사 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81eXNGbFBXZExETmhxaC1rYmZPTFZmUF9VOWpvc2w4NmpmZjUwclBkYVliVkZ2RF8xMzA0Z0d0bHExRVBmeGtSeHRnVXEtcmhhVXhxQUhKRlFEcy01TFlFNQ?oc=5",
-          "published_at": "2026-10-30T07:29:10+00:00"
+          "title": "[분석] 유조선 피격에 대사관 짐 싼다…국제유가 전방위 폭등 - 파이낸셜포스트",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PUktwbk5URXBWd25xMDFIdTBsRXpqZUw0cmF4a2lvNHBMNC1BQmR2ZFdveUVyc0kyMEJNeERicHhVUXF4dWtRanRGcUw0cTdlMkZIblBrSERXY18tUUszcnMxbjM4amNmYUVGd1hWWEJfUlNi?oc=5",
+          "published_at": "2026-10-31T05:42:50+00:00"
         },
         {
-          "title": "일본은행 기준금리 동결…\"물가상승률 목표치 도달\" - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaTlSU2tFUDBua0l4blNSTTNWTDN5VDJTX3ZZNDB5cTc5ekZqV2o2QUZjUTFjWC0wSFp0UjZJVERSRTdNRUFlY21PalByeVhfbUVJd1NXUWt0bDdFLWc?oc=5",
-          "published_at": "2026-10-30T07:02:00+00:00"
+          "title": "국제유가 2%대 급등…브렌트유 6개월 만 최고 - www.ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVVXJGeXlybk1tRDM4WTZFb0VuRE5qWDlaOXFEYzBKT3U1TmJIMEo5NHZ1WUhndUNGa1N6NGZhUTJuNWNubVFUT1ZnZENwcnVFay1UaEZzNGhjWTBmTVhDeF9vM2Q1Ujd5?oc=5",
+          "published_at": "2026-10-31T05:25:46+00:00"
         }
       ]
     },
     {
-      "keyword": "물가",
-      "score": 122.63,
+      "keyword": "기준금리",
+      "score": 66.33,
       "articles": [
         {
-          "title": "일본은행, 기준금리 연 1.25% 동결…“기조물가 2% 목표에 부합” - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tT3hfM2ZCdVk2d1UtUUdHbmVmSkYyN0FKTmd4TVVUWk1YX2JYZC1PSGVzdEQxLVhOOHdVWG83cTdBSFhmNDhCa3E5U084Tldqd2V0ZG1MTnBmdVJ1Vkg1OXVnLUl0Q1hiYU9jVA?oc=5",
-          "published_at": "2026-10-30T09:17:54+00:00"
+          "title": "日銀, 기준금리 1.25% 동결에도 추가 인상 예고…엔화·글로벌 금융시장 긴장 - 지이코노미",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQUd2ZS1ZNXNjSDlOYjNoMWRiMF9wdjhha084a2RRNzhPOERjdXpSMlhwdC1tVTdjdlp1RGgtemhSaFdqYXp6WjJaQUc3dkFkNllxZXlLYjhManU3TDJxNTEtbWVOMDA?oc=5",
+          "published_at": "2026-10-30T20:33:02+00:00"
         },
         {
-          "title": "日銀, 금리동결 속 '물가 목표 2% 도달' 판단…\"추가 인상 지속\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sd0Y2R2NsbUQyM0hrTWIxT0NkZ3BRVnZHTVowNWdNc3h6UmFIOVBmekZvRXVZcVdidVM2NnVqdWE4VUJXZ1p2bVdhNkNPZGF6dWVRVWlWMHRmNEXSAWBBVV95cUxPRC1qNWp1N05xcXU0UHJkdjE2NVNKTlBCdWwzaFVLNk9FQ3JRX240RWdmUlR6Z0JiXzBlMGpMaWlnU0tnUUtIX1ZHZGVwWWZRNmhTbEpiMk02WFdJV0RrcW4?oc=5",
-          "published_at": "2026-10-30T09:09:05+00:00"
+          "title": "콜롬비아, 분열된 결정으로 기준금리 12.25% 동결 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SbmdvN3lIbWVlRWlqSVViTVZzajY4MU16VFF6TS1QZU5mTGRQdXhpZnRqRFRPLWtVV0RITGpWSWZBWnJaTExRVldjWENkR1lHY0s1amNWQlQ3Nk56YWoyZWlEY081Y0E?oc=5",
+          "published_at": "2026-10-30T19:57:00+00:00"
         },
         {
-          "title": "프랑스 10월 소비자물가 상승률 3.4%로 확대 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRejh2SDd6R3BzdTFVMGpPdERnYTZzUXNiNU9mN3gxUXZlaGFUQTFEZGo2MGdTaXJTbUdBTG9KZ1I4NTlDNUJPNU9NVUhyZkc5Wjdzck9XTndaSnJEb29sdVR0RkcxaFdsWk0wdWR1VWU1ekVXN01OUVln?oc=5",
-          "published_at": "2026-10-30T09:06:00+00:00"
+          "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결' - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRndGYkdIVlBxelVyNzhTU01xZkZVZEFzeEYzcGxFVGtNU3B3X2YzUE8zTElIRnJOcVRyaDhxbXFGQ1RrYVVQYWZoRXpOTl85V2VzLXk0b1VsNE0tM0E?oc=5",
+          "published_at": "2026-10-30T14:06:00+00:00"
         },
         {
-          "title": "최근 우리나라의 물가여건 점검과 시사점 - KDI 경제교육·정보센터",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZkJkUmdYTDBySkN2OFRxZnhyaXl4eEtmcV9PZkotRGYyOGNEeDdfX2U1RmtSZW9wQnlWYi16ZjlZOHh2Z3IyVmhBM1VBc3hQcE9sUHNxVUJTd2ZIY2VHdFNudlNfQ21qekJN?oc=5",
-          "published_at": "2026-10-30T09:02:48+00:00"
+          "title": "뱅크오브아메리카, 영란은행 목요일 기준금리 0.25%포인트 인상 전망 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BOFBKR1ZMZmQxQ2l4d01pb3dYUVpZRGFoWUdobC1QS0duQlRLNTNLTU9FeE9ZU0YtUG52bEtFNlN2TVg4cC1LNmdrbHBqbzFNSnIyOWhTZ3VsV1AwaTZyZVNaT0JXYU9qdm1UbmRaWFE?oc=5",
+          "published_at": "2026-10-30T10:20:00+00:00"
         },
         {
-          "title": "스페인 10월 물가상승률 4.9%로 전월과 동일 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HR1BzbFU1Vjkwc3RETkIwQTJJUDQtazlyLWtCaWQxaU5IMWtTUnU4aFY4U2hROW1Sb3ZBSlNHSGxRdzNpbnIwM0JkMDBoLVNjUWhfZ3N0UERPM0hScHVWUVdsaW1uY1E1dW9wZjlzNU9YSGlVZ21R?oc=5",
-          "published_at": "2026-10-30T08:15:00+00:00"
+          "title": "일본은행, 기준금리 1.25% 유지…‘물가 목표 2% 달성’ 판단 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03QnY5eFFWdmVid3BOSkxmcy1WQk1mS0MyU2JzZFd4azJrMkd1ZXhzRmxYZEtQT25jdFFpT3pCdmFDZXY5aENXSGE3cnpFbGRzU1pUSG10REZ5Nms?oc=5",
+          "published_at": "2026-10-30T09:31:00+00:00"
         }
       ]
     },
     {
-      "keyword": "25%",
-      "score": 117.49,
+      "keyword": "동결",
+      "score": 64.86,
       "articles": [
         {
-          "title": "일본은행, 기준금리 연 1.25% 동결…“기조물가 2% 목표에 부합” - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tT3hfM2ZCdVk2d1UtUUdHbmVmSkYyN0FKTmd4TVVUWk1YX2JYZC1PSGVzdEQxLVhOOHdVWG83cTdBSFhmNDhCa3E5U084Tldqd2V0ZG1MTnBmdVJ1Vkg1OXVnLUl0Q1hiYU9jVA?oc=5",
-          "published_at": "2026-10-30T09:17:54+00:00"
+          "title": "13년 만에 '물가 2%' 닿은 일본은행…금리는 1.25% 동결, \"달성 선언은 없다\" - 녹색경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Y2h4bjlpYmFBbld6d2t5QmUyQnRabDdzNkRhMTlrTlpEbkNnM2MxbFlMajZRcTNLYi1DcHJKdDNSTTJpZ05fZkVjX1BNTVRPMzFuaHNHbWtsZm9BdEN4ZUMwVDNNLXky?oc=5",
+          "published_at": "2026-10-31T01:43:36+00:00"
         },
         {
-          "title": "일본은행, 금리 1.25% 동결…추가 인상 예고 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GWTdwaHI2Z1V5V0pSVHhUX3hfQVRiVEwxX2pTM2MwUFpTTHdDWkJfUmtCRDRreTBfRnR3RlJwbkpJZnRfV3ZMT2hrSmRITnJJV05aWDhreWxEU0tOZGtmeTV2TmJiMFB6UVJ0dl9FLVQ?oc=5",
-          "published_at": "2026-10-30T09:01:00+00:00"
+          "title": "美동결에도 한은 11월 금리 인상론 '고개'…깜짝 성장·고물가가 압박 - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wZFZvb19kZEUxa3FMbDY4Y0FGNzhIV1ExQUM1ZDJqOVlmV1BIYTljT3dPTjQyQ3A5c3NzVGlkZ2oyVGx6Tkw1eXM1dktnR2tLZXd6Wm9hRmtldDR5ME1QR25MSV9UQUZUMFJNUw?oc=5",
+          "published_at": "2026-10-30T23:31:20+00:00"
         },
         {
-          "title": "일본은행, 기준금리 1.25% 동결...'기조적 물가, 2% 목표에 부합' 판단 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tQ3BfQmpsNEZlell5MUlmUFRQOFhPWjJMa1M4Y0lGUGJobFJBT3dEeTlYaDkyS0pib3dXOElpdEFBNHFsVHRrYzV4OHlMczFhdjBYQTRGTDVNeTQwWklhSmluZUE?oc=5",
-          "published_at": "2026-10-30T07:34:06+00:00"
+          "title": "美 금리동결에 웃던 비트코인… 바이낸스 해킹 ‘추풍낙엽’ [주간코인시황] - IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oLWtPNmJZQzJFV2U3Qkg5TFdGbWVJWEZGV3ZiY0RRTElnN3JpZi0yWDAtMmtBQUpLNERWYTlrbTg3dFN3VHhpQlA2MUhnYWM4bFpvYWNLTWF3S3FxSlBnWkNYSkhEZUR5RE40djgzaGfSAXRBVV95cUxPMkxsT2Y0cEgyRm1LNERsekVEUVF1a1NDUmhLbWNuaW5MTFM0NjdKMjM1TDhvTUJpUUZkYUVFQUpHZHpPUjY2TVNFcmZjN0YyQlY5ZEwyUUpGZmdhZTNaVF9pcWdPX1RnRnhUWXk0TzdmLXFZeA?oc=5",
+          "published_at": "2026-10-30T21:20:00+00:00"
         },
         {
-          "title": "일본은행 기준금리 1.25% 동결…\"12월에 금리 인상 길 열어\" - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGWHVJNGlCTjQ0ang2dTJuT1ZONFNFZUxsNFBjRGtMU2lIZWF5cHFwdTNyODZ4Wk5XamFYQ0FEcVBsT1FLbzZjWktVYmx6VHlRMFhQYk9GTGpRZTBmb1JUcnNzdHE2cmpFb19nbkVB0gFzQVVfeXFMTk1LakIzbHNRck9KcnBsUWZNMXhfVmRpdmwzbW1kSFpVd09TN002UnBseDNvQTczYVVmYzl2VUFWVm4xYjJiMHg1RnF2VTJqbFZtT21yNDFwamswQU5xODVJMTQ1b1U3QXVVeGhmZDdWeTdINA?oc=5",
-          "published_at": "2026-10-30T07:01:00+00:00"
+          "title": "日銀, 기준금리 1.25% 동결에도 추가 인상 예고…엔화·글로벌 금융시장 긴장 - 지이코노미",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQUd2ZS1ZNXNjSDlOYjNoMWRiMF9wdjhha084a2RRNzhPOERjdXpSMlhwdC1tVTdjdlp1RGgtemhSaFdqYXp6WjJaQUc3dkFkNllxZXlLYjhManU3TDJxNTEtbWVOMDA?oc=5",
+          "published_at": "2026-10-30T20:33:02+00:00"
         },
         {
-          "title": "일본은행, 금리 1.25% 동결…“물가 이미 2% 목표 부합”｜Global Money Club - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBscGJ4QWRha2FNcnNybFdfY05OTGJ6cU9nX05vMDhNdWNZMmxlWkd2bEtDTWZuVGUtTFFQQUlJQ091eS1iS3pXZXBPeF9VdEtxcEVjUHJBMU5jYkk?oc=5",
-          "published_at": "2026-10-30T06:36:43+00:00"
+          "title": "콜롬비아, 분열된 결정으로 기준금리 12.25% 동결 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SbmdvN3lIbWVlRWlqSVViTVZzajY4MU16VFF6TS1QZU5mTGRQdXhpZnRqRFRPLWtVV0RITGpWSWZBWnJaTExRVldjWENkR1lHY0s1amNWQlQ3Nk56YWoyZWlEY081Y0E?oc=5",
+          "published_at": "2026-10-30T19:57:00+00:00"
         }
       ]
     },
     {
-      "keyword": "달러",
-      "score": 113.16,
+      "keyword": "인상",
+      "score": 54.61,
       "articles": [
         {
-          "title": "코스피 급락에도 '원화 강세'...원·달러 환율, 수출기업 달러 매도에 하락해 1334.3원 마감 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlVXlKU1VLWTJpSmJkalhrSXZyZEZNQ3ZadHZOR2VSQVhXV1RIdk1GMDExdTl3N3JQRFpsdlp0anpvczQ0NDlQdHdSVzVLX3d6Y0JMZWYwenItNi1tcFkyZWowdXA?oc=5",
-          "published_at": "2026-10-30T09:13:26+00:00"
+          "title": "물가 2% 안착 선언한 日銀…12월 금리 1.5% 인상 시야 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeThKdS1Od3E5eUdyMHNWMHZMVXpvZjFGYjNLTFJpaE5kXzg5T0E0UDZzNkJTT0hqNGhqaTJ4dDlwYjRDNUcxLVRlTEhLaGJHV2trem81ZXJjb3AzMm50RjZLcjlrZTRIc1dVQjRZM3JXODRUODFQMXVyWENVQjUtOVRzUnVJSTNT?oc=5",
+          "published_at": "2026-10-31T08:34:51+00:00"
         },
         {
-          "title": "충남도 농식품·K제품, 북미시장서 2158만 달러 수출 계약 - 농수축산신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MZGlqUUZ0VVlhMEZOMmtpLVBaQkd1MHZ6cmZuazVEeTM1Rkg1VVZhZDE1dDY4R2t4V3V0eVVuejNNT0NTYkh0YzJFU2VNcDZNZFJBZU1Cc2xyVkNPUXhPY0NBUE43VnR1Q1BNcA?oc=5",
-          "published_at": "2026-10-30T08:42:54+00:00"
+          "title": "美동결에도 한은 11월 금리 인상론 '고개'…깜짝 성장·고물가가 압박 - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wZFZvb19kZEUxa3FMbDY4Y0FGNzhIV1ExQUM1ZDJqOVlmV1BIYTljT3dPTjQyQ3A5c3NzVGlkZ2oyVGx6Tkw1eXM1dktnR2tLZXd6Wm9hRmtldDR5ME1QR25MSV9UQUZUMFJNUw?oc=5",
+          "published_at": "2026-10-30T23:31:20+00:00"
         },
         {
-          "title": "코스피, 美 빅테크 실적 부진에 3.48% '급락'…원·달러 환율은 2.5원↓ - 청년일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwQ2E4VER4MGt6STRoSmlabzRLYTVGLW9JS3RkSnV2VWxBcWhQY05hU3B4QktCQTZ2SEFPX1laUzZLREVyTzZ3ZHJOX1RxUDBta1EyaVdRa2Q5bzZpZ2dyNnBqVk5YOTJKWkE?oc=5",
-          "published_at": "2026-10-30T08:03:53+00:00"
+          "title": "[뉴욕채권] 단기물 강세 속 스팁…기술주 급락에 추가 금리 인상 베팅↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdDRxWnowV19QbV9DOGxBVHdTdjE1dHlScXlwVXR6WFFUdWZwSDhrdXp3S0hJZjNVZkt2aV9ONHI5V3VZVGxkUVRGN2VGZjljZkR5WTR6VjVmejhxdVY3dVE1SWJOYm81UUlxVVpld2o?oc=5",
+          "published_at": "2026-10-30T21:48:14+00:00"
         },
         {
-          "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MQW5FUXNINUFjTXo2QldZTm0weF84WUNpU2ZqdmhidWNhOGVWQnF4c1l2MVpkMkJzenFiYm0zWjdacFpVNFZNUHl1SDBXN2R5QkJSbGtYZ1RlZnPSAWBBVV95cUxORldxY3dHOUQ1aU5GQllUV2NjSl81VEMyeXdnYW9ZOGJTTkhqSVE2UmJRWVZYUl8yRlZ4YnZiU3hHZHdCb2t3OEdFTmNBYzEyd0Qzb1EwVWFoM3RKTHFJUEM?oc=5",
-          "published_at": "2026-10-30T07:50:27+00:00"
+          "title": "日銀, 기준금리 1.25% 동결에도 추가 인상 예고…엔화·글로벌 금융시장 긴장 - 지이코노미",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQUd2ZS1ZNXNjSDlOYjNoMWRiMF9wdjhha084a2RRNzhPOERjdXpSMlhwdC1tVTdjdlp1RGgtemhSaFdqYXp6WjJaQUc3dkFkNllxZXlLYjhManU3TDJxNTEtbWVOMDA?oc=5",
+          "published_at": "2026-10-30T20:33:02+00:00"
         },
         {
-          "title": "원·달러 환율, 1334.3원 마감…증시 하락에도 원화 강세 보여 - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KMTRJc01COTlEdGVOREJqZ1ZObGZUMGUzbGY2b0NUMTZIWURuZkdjT3d1bm54NVJpYzRDdDFmOVB3VHA3Z0RCWU9yQ1MxVzZOQnNwT0NkekYtX2J2d19fUmJWM25EVXBseG5mNEMxVQ?oc=5",
-          "published_at": "2026-10-30T07:33:00+00:00"
+          "title": "댈러스 연은 총재 \"FOMC 최소 두 차례 금리 인상해야\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wWlhhUlluVGhCRS1paWFBSXdVZnRvQ1Z4M1k2V3B0YTE2aENFSGNCSXhyVkU0dlZ6ZG5QWUp0cjFHLWx2Yjg3dEJncGlXMUYxWmdncVI5QkljSnFXVjdxdXdIc3FwbnFXalJKem4wZ0w?oc=5",
+          "published_at": "2026-10-30T19:54:34+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "연합뉴스",
+      "score": 48.34,
+      "articles": [
+        {
+          "title": "재경위 野 간사, 與에 \"가상자산 과세 유예 결정해야\" 압박 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJNjdSNmluNnFNM3RGZW5NQ01JNV9QOXRFa2RockxRdjk1cmJXeVVLN3BMSGF1U2NnMXFBaDFIdFpnZDFsTnRjN2tRTzYxcHRESkVPNk54OXpsbWNpdEFOWC1lQUhYNVk?oc=5",
+          "published_at": "2026-10-31T05:04:30+00:00"
+        },
+        {
+          "title": "[마켓노트] 금리 안정이 주식시장 반등 조건 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yeDJUQjdTeWh2WFQ3VjhHWmVRWFlQaXdRcHhmZ1ZhM1gzamNGNFZLM210ZEZaRTVsMWctMXdESTBvNmtjNUF4aFY2SEhHTkN6dGNrM1kxeDBNTXPSAWBBVV95cUxNVVZ4R3p5ZllxRjNnQmdJMjVjei1pQzlvMjlWbWVGMEo5VkhTekRmRU5YQ09ybFh5V3BMUnZrbV9XZnRzNGQybGxaNGtISC1YNmV0WXdaQ1BjUVB2WURiVzk?oc=5",
+          "published_at": "2026-10-31T01:30:02+00:00"
+        },
+        {
+          "title": "부산시의회, 해양경제 활성화 방안 모색 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05MHBYQmxhdjRleGxZSFJZY3J0QW9JRUs5TFpxU3pKblNxQ1MzeXpQdVJpTU8tWmJoWDNiTUNzbkxwMW01RkFPVzRpdnlzN19oY0ZFLUtjQ0ZYZ1JvY3lGR9IBYEFVX3lxTE05MHBYQmxhdjRleGxZSFJZY3J0QW9JRUs5TFpxU3pKblNxQ1MzeXpQdVJpTU8tWmJoWDNiTUNzbkxwMW01RkFPVzRpdnlzN19oY0ZFLUtjQ0ZYZ1JvY3lGRw?oc=5",
+          "published_at": "2026-10-31T01:00:04+00:00"
+        },
+        {
+          "title": "이란 확전 우려에 국제유가 2%대 급등 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJV1VKOV9rZUxRRm04YWlaUDlfa2thNlJ5M3ZSWF84eVZ0TUxlZHpYZmZUREJkbk1nR2pUcmo3UTNHR1RHYTc4NzZGYmpPVGpZSERSZlpvZ3d2SlMtOGNJb3duSm5CSU0?oc=5",
+          "published_at": "2026-10-30T23:46:00+00:00"
+        },
+        {
+          "title": "[다음주 경제] 소비자물가 얼마나 올랐을까…9월 국제수지도 발표 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUVZhRkFVY3NSTXp0SFZkMVJsVTY2UGNuM19HUGhuaUF5QVI4NVd4aHVlZER5Q2VmWElNWHJxNFBxNlVtWHRPLTNPYjJIN0NOZUVGeHhBWXFfUnfSAWBBVV95cUxNSXdDXzZzaVpHVTVfeHVNcmtKSzh3eGIxVzNGZFVqVzZvY1Y0eWdRYlhDWm5KdGVoVV9aVzlyY0d0Zk53REJZMnlvTzNNTHhHNUJteWVpV2lCZGJ3Rjc1Wjk?oc=5",
+          "published_at": "2026-10-30T23:35:38+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 41.68,
+      "articles": [
+        {
+          "title": "\"삼전닉스 호실적, 원화 강세 뒷받침…수출대금 환전 비율 높게 유지\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZcTNkNEJZdVZjQmc0d3dMSU92QTdtcjhKbkpLS2N4R3NZZllUekl3S2k3bGIxNURWOFBHcnp2UjAzd1BTdjFYSlREVU00S2F2QUswbHRjMWJGSXFQdzNDbExnN0RRNUg5NDZaU2N3ZnA?oc=5",
+          "published_at": "2026-10-31T00:10:01+00:00"
+        },
+        {
+          "title": "\"반도체 성과급에 내년 소비 회복…국고채 금리는 고점 통과\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV3VObHNSTFoyVHVPSGROcWRvbkN1dTY0M1lFSkxKWVJYZlFYX1FVOUFwU1ZGMnRCTHA2WGRkLXp5WVBHa1NxWG9RWlY4SExOc1VZUGRfN3ZQRmtELUQtRWlOMjE0eXBaNWpzblp2NEc?oc=5",
+          "published_at": "2026-10-30T23:42:54+00:00"
+        },
+        {
+          "title": "수십 년 만에 최고치 뚫렸다 증시 덮친 '금리 시한폭탄' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xV1ZxTmlwNUpPd29Ed29BYjU5QjVWTE14NFg4RTg2NTNzbHpDNVNTbEFDMktNWjNzSk5TbDZPTmo3elBMa0VTY0lQc0N3TlFBbmJsaXlRVzJOWjY0M0tRVERCYVVHWG9VOXRXX3VDNkXSAXRBVV95cUxQdFBhYUtfTmlXcWJZSl9rbEVUWkdQMUtTRzdrZ1BBX1dudGY3TnB1V3FNc3lJdU8xZDV5dmRqTUZtTmxGbVNiRERHSTN2Zlk0WERLYzJuRkpxM09CVU41V09hTTJsNFpPdFpUdFVRNVhNallkMA?oc=5",
+          "published_at": "2026-10-30T23:10:42+00:00"
+        },
+        {
+          "title": "[뉴욕채권] 단기물 강세 속 스팁…기술주 급락에 추가 금리 인상 베팅↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdDRxWnowV19QbV9DOGxBVHdTdjE1dHlScXlwVXR6WFFUdWZwSDhrdXp3S0hJZjNVZkt2aV9ONHI5V3VZVGxkUVRGN2VGZjljZkR5WTR6VjVmejhxdVY3dVE1SWJOYm81UUlxVVpld2o?oc=5",
+          "published_at": "2026-10-30T21:48:14+00:00"
+        },
+        {
+          "title": "[뉴욕유가] 호르무즈 해협서 유조선 3척 폭발…브렌트유 6개월來 최고 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NWlVOLW9mbUh4eXVUMXVwNDFqaDdzRlFTdVdPWlVRME5hZTh5QW1YQkwxek1hVXZ1VXpRckJIZXNxendPR1JXb1dPVUtNRll5M29HSTJrellFaTNsUFVWa2JOdTV0bkFWajA3VHlUbU8?oc=5",
+          "published_at": "2026-10-30T21:19:06+00:00"
         }
       ]
     }
