@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-11-04T10:21:31.102407+00:00",
+  "generated_at": "2026-11-05T10:16:05.554218+00:00",
   "source_count": 4,
-  "article_count": 383,
+  "article_count": 388,
   "top_keywords": [
     {
       "keyword": "수출",
-      "score": 253.73
+      "score": 168.68
     },
     {
       "keyword": "환율",
-      "score": 136.63
+      "score": 112.41
     },
     {
       "keyword": "금리",
-      "score": 127.35
-    },
-    {
-      "keyword": "중간선거",
-      "score": 98.83
+      "score": 101.83
     },
     {
       "keyword": "달러",
-      "score": 92.58
+      "score": 85.99
     },
     {
-      "keyword": "확대",
-      "score": 79.74
+      "keyword": "유가",
+      "score": 76.82
     },
     {
       "keyword": "기준금리",
-      "score": 79.7
+      "score": 75.46
     },
     {
       "keyword": "연합인포맥스",
-      "score": 72.64
+      "score": 73.37
     },
     {
       "keyword": "하락",
-      "score": 68.34
+      "score": 61.16
     },
     {
-      "keyword": "머니투데이",
-      "score": 59.43
+      "keyword": "연합뉴스",
+      "score": 59.84
     },
     {
-      "keyword": "매일경제",
-      "score": 55.16
+      "keyword": "확대",
+      "score": 57.94
     },
     {
-      "keyword": "상승",
-      "score": 53.89
+      "keyword": "아시아경제",
+      "score": 57.52
+    },
+    {
+      "keyword": "중간선거",
+      "score": 57.33
     }
   ],
   "hot_topics": [
     {
       "keyword": "수출",
-      "score": 253.73,
+      "score": 168.68,
       "articles": [
         {
-          "title": "중국 산업설비 수출의 부상과 글로벌 공급구조 변화 - KDI 경제교육·정보센터",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3clBmNlloRUJaZ0c3Vzl1QXFtblN0aXllcEJDS2JfYmxrOTlfSU5PRlItY2Jud3BwMkFlOUxYTDNIQ2hzVkxLOW5XOUNobVB3RkNrZmljVUdlVGNZSEVIRWZGbXBWWHFBQmtn?oc=5",
-          "published_at": "2026-11-04T10:16:42+00:00"
+          "title": "[기획-GCC 트레이드] 오만 수출 19.7% 증가…석유·가스가 성장 주도, UAE행 비석유 수출 급증 - 국제통상신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jdjlVc25WMVdKby1OejBwQnkwWFdOc2I4eVRhYWktQ1QzaWxBblNKN2Nxc2luNUlpaFR3S0FtdDlhTzliejJuS25fZnVQdm5zSzgtVk44ejRLMTFCMGZZWFN4S0t4RmZL?oc=5",
+          "published_at": "2026-11-05T09:46:45+00:00"
         },
         {
-          "title": "일 당국, 러시아에 자동차 불법 수출 한국 국적 남성 체포 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LMnozd01yaklzaEwzNlNhYVN4cWFKdlYzNGlPUk11bUs3VjR2U1BYdWpXY3N6QWtCQzUtTmpiMmVNTHBMYk5uT3lCS1cyWW1wdFNCS1czdmo2N1hVckZzbWtrMTFieUVMeWR4aHBjdzFhRDFDZ2c?oc=5",
-          "published_at": "2026-11-04T09:55:00+00:00"
+          "title": "[오늘 중국은] 中 강재 수출 선적량 24% 급증…싱가포르행 물량이 주도 - 철강금속신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ndGxreW5OUnNaYkl6dVp6bjJIa01mUHNHd2E0YkdPdVFGZ1JxbnBQS2ZGY01SU0pBa3o4a1V2ckNZTW9YZDRGU05KLU05LVJGVzFRQVlrYi1pejNSOTZEcmFWY05WYW9BOXc?oc=5",
+          "published_at": "2026-11-05T09:27:20+00:00"
         },
         {
-          "title": "EU 에코디자인 확대…전기산업연합회, 전기산업계 수출 대응책 모색 - 에너지타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QZ0NuQ3JSMFJmajM3d2VocVBvVVZFS25yUGJHWFhUblBtZ0Rvckh4NFFDY0swd0M5ZXVlZ2VUZ1pZZEtxM0dKSWR4dmlWMU9zVnp4dW9TaFM4MFJNTVllR3NOQnM4Uk1xYmFxYw?oc=5",
-          "published_at": "2026-11-04T09:48:00+00:00"
+          "title": "월 경상흑자 첫 600억 달러 돌파… 반도체 수출 260% 급증 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YOU5sYVk2MmxMbEMwR3JqRXNiODJHdUlRTFA3TlF1QVlIbFpxaU1EMlMwTnJXeHhacTZwZWV4TmhHbHJjeXc5X3pnb1I2dGhmcDcxcllJM1BVWUdTaVhPZGtEVHhQdFhkRmxqVGhLS2tIcVVNS1RUYzVn?oc=5",
+          "published_at": "2026-11-05T09:24:00+00:00"
         },
         {
-          "title": "“인도네시아 스마트공장 30곳 구축, 150만 달러 수출까지”... 이노비즈협회, 4년 ODA 결실 - 특허뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JWjBRM1FxY3dNSXBNSGRkTjhHM0pPaEIxM050RUxMNkswbEZWdUlvTTZvWTc3eU5XUC1TRlkzSWZvTkF0U04xRg?oc=5",
-          "published_at": "2026-11-04T09:40:00+00:00"
+          "title": "월 경상흑자 첫 600억 달러 돌파…반도체 수출 260% 급증 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TdzRTcjNiQ0c2djBNczI0LTM3VncyMENoNE9aeFlEdDBKbHA0bHBVUjQ1MTYyLUpkSl9MSmZHa0FfX1h5WFAzQU9GMVF2dDlwRVJSUHQ1cXd5LUtTczg4bmxYYUZ6NkhHaXdtZ1BBb0tPVlcwZFFXUVVB?oc=5",
+          "published_at": "2026-11-05T09:21:21+00:00"
         },
         {
-          "title": "인니, 자원 수출대금 루피아 환전 확대 추진 - 국제통상신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53U1h6SnF2VDlUS1RYOWFnUFB2R1ZQTDB6YldlcHZJbHp5b3I4dE9jV2JLRTdGSmxnSTdmSjRMbDhoenFmeHRDdnR6eFh1X29hZW13aHlZMWpuUWdYZXZsTHphbV9Ybkpm?oc=5",
-          "published_at": "2026-11-04T09:16:34+00:00"
+          "title": "\"창원 기업들, 세계로\" 해외 바이어 초청 수출상담회 개최 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0WkJySVNjSHpadGQ3T2VwN1A0UGpYX2wxLUpjbmFZZlcwOVpjMTZVdDg1LXpNaUVjWXlzT3dqb0N6WW4zeTh3M2oyTUJ4V2l6WFE?oc=5",
+          "published_at": "2026-11-05T09:19:00+00:00"
         }
       ]
     },
     {
       "keyword": "환율",
-      "score": 136.63,
+      "score": 112.41,
       "articles": [
         {
-          "title": "코스피 뛸 때, 원·달러 환율도 같이 뛰었다 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hVUJxMGhhSDF0YzhiMDhKaktlNVFQcm1KSHh3WlYzUE8zcmRqUklnVUNxMl9FemFBcExXZlFNUkRib3FubHRya0FDQU80VXhh?oc=5",
-          "published_at": "2026-11-04T09:40:02+00:00"
+          "title": "'블루웨이브'에도 원·달러 환율 1342.1원…외국인 3.4조 순매도에 소폭 상승 - 베타뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kUzN1MzFDMDJNalBCdng5WnlHTEo5U09WeHRSbWhoQmNudHZ3dHFqMDhoVmx4VExBU1pfREF6WlVLNGVLUHUwRXk5YmhQWXJCd0FZcmZ1a0pVR1BOZk9mSVlPay0?oc=5",
+          "published_at": "2026-11-05T09:58:59+00:00"
         },
         {
-          "title": "[美중간선거]韓경제 득실은…반도체 '긴장'·관세 '지속'·금리·환율 하방압력 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SVVVscjJ4VGN5djNHc3ZSYXRVbXh2R2t6OHJVT2F2WS1SQlA2SmNzX01FN25WMnpfYk5BR01KRVhyRERMRGJuck50ZTJ2bzViQjBoYw?oc=5",
-          "published_at": "2026-11-04T09:33:11+00:00"
+          "title": "나란히 외형 키운 타이어 3사, 원가·환율관리서 수익성 갈려 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SczVGM2ZJbmk5SDNTY25WNzBMam9INWVHQ0NPcEprQWp6ang5Y21HbTk3LTJjNElrM2U2Zk9GV0FVNFNlekMySERsYlhTWW9FdUxVOXVaMmc0ZUNLZ2hJQ1VWUVdfMWd4S2N6WnEtTFhuTVk?oc=5",
+          "published_at": "2026-11-05T09:32:19+00:00"
         },
         {
-          "title": "[美중간선거]美금리·환율 하락 압력…한은 11월 인상 후 속도 조절 가능성 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qbXRaZjMtMHFlVzZEdjQyenJULTVIY0RxNU5NUDMtRUxOMmN6VE1JV29PenNCM25Qek5jQ0lPOHdBVlpzcUlXaGpzaHN6blhSWmEtcQ?oc=5",
-          "published_at": "2026-11-04T09:04:29+00:00"
+          "title": "엘앤에프, 3Q 영업손실 265억…환율·원재료값 하락 영향 - www.ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WNHhjek5XTUtIUi1fT2RmU3d1RTRaa3JRMjB5VzdmWEtGb1RwckFPWkhqeVRKeDdJRUdaQ0RIQkVlbGduOEM3ZDNoNDNpS1NLbzQ0MEd2VXpDOU1qRVRMR3RJZ0hIQ0Y0?oc=5",
+          "published_at": "2026-11-05T09:17:49+00:00"
         },
         {
-          "title": "고려아연, 3분기 영업익 1417억… 환율 여파에 전년比 48.2% 감소 - IT조선",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBacDFGV2ZtOEU0aTVUUl9PdmJfcDdwbU1CbWlnLXM4ZlFFR19qMnBqcERpYVNockNidGlGVE1oaGFpOElDd0JfQVVvTklzSHB6UVhxaFdib3VpUjB4V0NzUWQ0b0pOUzU4ZDBHc0tJQmfSAXRBVV95cUxOX2JCbDdVbmhqdko1Q1NMWUR0MS1rZVdadVA0MHNyVjVxV2lxa1p4Yl9TUndiNDJUT1pkOHJRVzBMYncyQWtWaHdKcDBpMnlKdFJ6OGVKRElSS3hmbmlpTkM3OS1hb3BwSzRucU9yR01ZS1puUw?oc=5",
-          "published_at": "2026-11-04T09:03:34+00:00"
+          "title": "한국투자증권 3분기 순익 2818억원…환율·금리에 분기 실적 '급제동' - 필드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16ODQ4azluQk1QOWdva3l2bTlEVG9uVE1FQ21CTHYwTTJmMDlvdWwwZVVnb0NZTmhzcGViWDJPQWt5RkdUM2NpTGZvUUxPSlllZS1PdG8yOW9GSmFrMTJETkdhN2pRcXhi0gFsQVVfeXFMT0ZtQXppRTgxSjZJZ1NWb3JzLVhZMS1YaXNSVFd2ZEhZZzhsOFc5WVd2ZXpoWUZjdDI5SkxKSmxKWEJXbGdNOXduSTBoeGpNbmtXbGNUQm5qbFBkdWlkT3h6bFpiWDBnYnp1bGFu?oc=5",
+          "published_at": "2026-11-05T09:16:25+00:00"
         },
         {
-          "title": "美 중간선거 민주당 의회 장악 유력...원·달러 환율, 0.5원 오른 1341.5원 마감 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QTmctcVpOTE5hWWVmb3ZuemRjdWxIYTZsQmR5ZlBseDNLd284S21ueXdXdlRxSjFXUmlMVHZQNW5MYXI5cm8yUXI4OUVxd0xqMi16NmowMnUtT216clhpQy02bGo?oc=5",
-          "published_at": "2026-11-04T09:01:02+00:00"
+          "title": "美 ‘블루 쓰나미’에 국내경제 여파 ‘촉각’…“환율은 안정, 관세는 기조 유지 가능성” - 아시아투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBETXFGd0lBeElVeFhBajZYN3l2dUdFVDFSZmZpSmk2bVVSekd3cW9kM1YzTS02bFZjdHItSDAyUm1CU3RCTU1JZl94UzJnMXhpTmlCRmZpa3dYc19UdTVmOVlQYVMyME5NX2hsaW9B?oc=5",
+          "published_at": "2026-11-05T09:10:12+00:00"
         }
       ]
     },
     {
       "keyword": "금리",
-      "score": 127.35,
+      "score": 101.83,
       "articles": [
         {
-          "title": "[채권-마감] 블루웨이브에 美금리 하락·外人 매수…국고 3년 2.2bp↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95b3RwNTd4M3RFZFRmaGQzdGZmc1A0bjg4RzJxdk1ibGFpZ1hkOUUzbXdDZjNVYzhqZWVPTmw1Qm1nN2pnWTRZMGNYNUkweWRjV2J4R3U2VmN1MXQtUm1mNV9kMkszOXgwNnpnZGJFQzM?oc=5",
-          "published_at": "2026-11-04T09:45:58+00:00"
+          "title": "IRS 금리 전구간 하락…선물 연동 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PWkQ1czFrZllObFhidThfYmlwYVJ5aHR6V0FlVzU4cnMtSmNSZEZGdXNiaWF4UUVsejBLT0xnM1RRc2NLS081MDJTc2lmWDRMc04xYld2N18tOFRQUERaNmZfS25sY1c2WDZrajdDOWjSAXRBVV95cUxOdlJlcGtsbVhsSGRRV1VsTy11Zm9CTWJ6MWFRQzBUM2pUMUlNSmdLLWtKMEh5cGlJWW0yYXN4NlQzTXFYSW9NcG5UUy1hZ2tmTm1HRnhndk1UVkhydVNOU2hjcXBib3FCZjRYdTlqb3U4MGxUSQ?oc=5",
+          "published_at": "2026-11-05T09:40:24+00:00"
         },
         {
-          "title": "[美중간선거]韓경제 득실은…반도체 '긴장'·관세 '지속'·금리·환율 하방압력 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SVVVscjJ4VGN5djNHc3ZSYXRVbXh2R2t6OHJVT2F2WS1SQlA2SmNzX01FN25WMnpfYk5BR01KRVhyRERMRGJuck50ZTJ2bzViQjBoYw?oc=5",
-          "published_at": "2026-11-04T09:33:11+00:00"
+          "title": "한국투자증권 3분기 순익 2818억원…환율·금리에 분기 실적 '급제동' - 필드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16ODQ4azluQk1QOWdva3l2bTlEVG9uVE1FQ21CTHYwTTJmMDlvdWwwZVVnb0NZTmhzcGViWDJPQWt5RkdUM2NpTGZvUUxPSlllZS1PdG8yOW9GSmFrMTJETkdhN2pRcXhi0gFsQVVfeXFMT0ZtQXppRTgxSjZJZ1NWb3JzLVhZMS1YaXNSVFd2ZEhZZzhsOFc5WVd2ZXpoWUZjdDI5SkxKSmxKWEJXbGdNOXduSTBoeGpNbmtXbGNUQm5qbFBkdWlkT3h6bFpiWDBnYnp1bGFu?oc=5",
+          "published_at": "2026-11-05T09:16:25+00:00"
         },
         {
-          "title": "[IB토마토](크레딧시그널)하나카드, 순익 늘렸지만…조달금리·연체 부담 겹쳐 - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhbnFZSUJySk1FTkUweU9xOFJEZmR1cEFjVjYxTnh5cnItRjgzUWJob3B0dGl2eDhKOGY3UHV4Sm42ZTJPb295a2lscXdzd0tCdzZBOEk3NUttbG1idGNMag?oc=5",
-          "published_at": "2026-11-04T09:14:37+00:00"
+          "title": "독일 국채 금리, 주간 유가 20% 폭락에 인플레 우려 완화되며 8월 이후 최저치 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02YVRqRVI4YUVaQmwydUZDczJWQkMySnVkT1RxSG16Mms5bU5FS0Y5NmVvX08zamJ0QlVBSWpZanRZWXE3XzR3WFJQb3l4WlJQMU9iUzNPX2xINDZheUhuRnB2SmRwQzg?oc=5",
+          "published_at": "2026-11-05T09:08:00+00:00"
         },
         {
-          "title": "FX스와프, 美 금리 하락·캐시물 강세에 전 구간 상승 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZmhpYWZ3ekxRUk5yOS1xR2xFZ1pDUFBnX2tJU1M2bWlZYmx6bUdEbGZHbzlFeXRaZ3FOUGo3V1lTN0x5X1d1eHFZTXpGVlJ1UzEzRWhhTGtxRGVfQnNOYjdSRUYtZ283UUF4YXkyUlXSAXRBVV95cUxNa2p2Q0c4Z2E1ZTVVRjIxQ1RDSlRXUVZBRm5fQWJFUXBnZGRFb2YyOV9xcFJ3Mk9zcUs1WTZRMEQ4d2tCZEk0WmotejJZV3VDMHd1VUxoSVBwN09rSExtcm1XdU9pYzN0M3FpdWIwRHNSMWM2ZQ?oc=5",
-          "published_at": "2026-11-04T09:13:26+00:00"
+          "title": "민주당 압승에…유가·국채금리 안정세[美 중간선거 후폭풍] - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRHlEMmp4bVh6RXhfRTl5WjJ0M01DOGpaekRRYjdoaVU1SU9OTFdUTkppQUxZY3RGUy1SRVdJRVZlUXZONDlsWEFUZjJtT1padUHSAVNBVV95cUxOM1ZZMEIzbFVOMndpU1F1NGV3UDFNVUpROVdqLWY5cFBZZUhlQjhldDc2QnA5ekRnVlpFNXlJNnk3X3lzLU9KLWJGdWYxaVl4ajlDcw?oc=5",
+          "published_at": "2026-11-05T08:55:00+00:00"
         },
         {
-          "title": "[美중간선거]美금리·환율 하락 압력…한은 11월 인상 후 속도 조절 가능성 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qbXRaZjMtMHFlVzZEdjQyenJULTVIY0RxNU5NUDMtRUxOMmN6VE1JV29PenNCM25Qek5jQ0lPOHdBVlpzcUlXaGpzaHN6blhSWmEtcQ?oc=5",
-          "published_at": "2026-11-04T09:04:29+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "중간선거",
-      "score": 98.83,
-      "articles": [
-        {
-          "title": "[美중간선거]韓경제 득실은…반도체 '긴장'·관세 '지속'·금리·환율 하방압력 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SVVVscjJ4VGN5djNHc3ZSYXRVbXh2R2t6OHJVT2F2WS1SQlA2SmNzX01FN25WMnpfYk5BR01KRVhyRERMRGJuck50ZTJ2bzViQjBoYw?oc=5",
-          "published_at": "2026-11-04T09:33:11+00:00"
-        },
-        {
-          "title": "[사설]‘블루 쓰나미’ 미 중간선거, 안보·경제 파장 면밀히 대비해야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYnZNckl6Q05Od0NXcUhHVmVsVGlKb3p2VGFyS3lSQjhzZVYybDBXWlhEeW9KWVprRGlMNVJycmRTQUpmWjVpNU5BeGs2SGdXZjFWTUVKRWZVRmphR3IxNEZNWjhQbUQ4WHlVVWF3UFFtNmlzZTdrc0luM3RQbWJPYlFiNzBLZUpnU0lsRTVlaHRnMjg5YTFYN3JxZTBhaVp0a0ZidThRTms1d9IBX0FVX3lxTE1KMW5jTG1QU1N4cXE3WWQyM1RkVWg5Z1Myd1phQzJqeHl3UHVPQlZNNUtnY2NKVzJTcGttZHFrV1FyZE9SckR5TFVWQXZ2TnhTeU1XdXFXYUljWmgtcHNn?oc=5",
-          "published_at": "2026-11-04T09:21:00+00:00"
-        },
-        {
-          "title": "[美중간선거]美금리·환율 하락 압력…한은 11월 인상 후 속도 조절 가능성 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qbXRaZjMtMHFlVzZEdjQyenJULTVIY0RxNU5NUDMtRUxOMmN6VE1JV29PenNCM25Qek5jQ0lPOHdBVlpzcUlXaGpzaHN6blhSWmEtcQ?oc=5",
-          "published_at": "2026-11-04T09:04:29+00:00"
-        },
-        {
-          "title": "美 중간선거 민주당 의회 장악 유력...원·달러 환율, 0.5원 오른 1341.5원 마감 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QTmctcVpOTE5hWWVmb3ZuemRjdWxIYTZsQmR5ZlBseDNLd284S21ueXdXdlRxSjFXUmlMVHZQNW5MYXI5cm8yUXI4OUVxd0xqMi16NmowMnUtT216clhpQy02bGo?oc=5",
-          "published_at": "2026-11-04T09:01:02+00:00"
-        },
-        {
-          "title": "미 중간선거 민주당 압승…경제가 불러온 정권 심판 - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nS2xzMGIxaFRQWkRSOFZiN2RRbVloLVh5dUlRMHZBVUpOSGRpM1dfNnFOenYtN1BvNUYzV21CRUFrdk5EUFU3b21taF9penNoaDRFeEd4N25UM0NKMlhv?oc=5",
-          "published_at": "2026-11-04T08:42:00+00:00"
+          "title": "美 블루웨이브에 금융시장 요동…주가 폭락·환율 상승·국고채 금리 뚝 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Uc0RNU0E3QkdBMmlGZ3ExdVQ3QTgxZGJYY3RNdDVDcmxUY2Q2U1hOelc2Xy1oNHNrREVkMmg2NDRMcy1Kd2RxTWJxSzJwY2ZvSkJkcFl4Rnh6U0lUeU5fVlMtaFNaWXgybmk5aGRB0gFzQVVfeXFMTWJIT3RXYklWdnFiVzFpUFM4WHpzbnNfdkxLSG5RWnhmX3lvRVFrOGN2V0wwNWtpQ05zWWRJdjhRTldkVGdYU0V1Sl9hTmR2ci1ud0g0aUc0azdFNnVna1ZnX19VQ1E1alF2Q0JJSzdZRldkbw?oc=5",
+          "published_at": "2026-11-05T08:24:00+00:00"
         }
       ]
     },
     {
       "keyword": "달러",
-      "score": 92.58,
+      "score": 85.99,
       "articles": [
         {
-          "title": "코스피 뛸 때, 원·달러 환율도 같이 뛰었다 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hVUJxMGhhSDF0YzhiMDhKaktlNVFQcm1KSHh3WlYzUE8zcmRqUklnVUNxMl9FemFBcExXZlFNUkRib3FubHRya0FDQU80VXhh?oc=5",
-          "published_at": "2026-11-04T09:40:02+00:00"
+          "title": "'블루웨이브'에도 원·달러 환율 1342.1원…외국인 3.4조 순매도에 소폭 상승 - 베타뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kUzN1MzFDMDJNalBCdng5WnlHTEo5U09WeHRSbWhoQmNudHZ3dHFqMDhoVmx4VExBU1pfREF6WlVLNGVLUHUwRXk5YmhQWXJCd0FZcmZ1a0pVR1BOZk9mSVlPay0?oc=5",
+          "published_at": "2026-11-05T09:58:59+00:00"
         },
         {
-          "title": "“인도네시아 스마트공장 30곳 구축, 150만 달러 수출까지”... 이노비즈협회, 4년 ODA 결실 - 특허뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JWjBRM1FxY3dNSXBNSGRkTjhHM0pPaEIxM050RUxMNkswbEZWdUlvTTZvWTc3eU5XUC1TRlkzSWZvTkF0U04xRg?oc=5",
-          "published_at": "2026-11-04T09:40:00+00:00"
+          "title": "월 경상흑자 첫 600억 달러 돌파… 반도체 수출 260% 급증 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YOU5sYVk2MmxMbEMwR3JqRXNiODJHdUlRTFA3TlF1QVlIbFpxaU1EMlMwTnJXeHhacTZwZWV4TmhHbHJjeXc5X3pnb1I2dGhmcDcxcllJM1BVWUdTaVhPZGtEVHhQdFhkRmxqVGhLS2tIcVVNS1RUYzVn?oc=5",
+          "published_at": "2026-11-05T09:24:00+00:00"
         },
         {
-          "title": "美 중간선거 민주당 의회 장악 유력...원·달러 환율, 0.5원 오른 1341.5원 마감 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QTmctcVpOTE5hWWVmb3ZuemRjdWxIYTZsQmR5ZlBseDNLd284S21ueXdXdlRxSjFXUmlMVHZQNW5MYXI5cm8yUXI4OUVxd0xqMi16NmowMnUtT216clhpQy02bGo?oc=5",
-          "published_at": "2026-11-04T09:01:02+00:00"
+          "title": "월 경상흑자 첫 600억 달러 돌파…반도체 수출 260% 급증 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TdzRTcjNiQ0c2djBNczI0LTM3VncyMENoNE9aeFlEdDBKbHA0bHBVUjQ1MTYyLUpkSl9MSmZHa0FfX1h5WFAzQU9GMVF2dDlwRVJSUHQ1cXd5LUtTczg4bmxYYUZ6NkhHaXdtZ1BBb0tPVlcwZFFXUVVB?oc=5",
+          "published_at": "2026-11-05T09:21:21+00:00"
         },
         {
-          "title": "정부, 2031년 차(茶) 수출 3500만 달러 목표⋯\"K-Tea 글로벌 경쟁력 올린다\" - 브릿지경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYnVlYXNlcXJrcWpuVS1BRjU2NFpWZDlqZzBwZTZ4akZLMXFaWkdPUFEyeXgwNGk5Z0hXY0FTQV9DMURMSFJFTkd4dUJiNE50VXJaWDVRa3lUUQ?oc=5",
-          "published_at": "2026-11-04T09:00:00+00:00"
+          "title": "역대 최대 20억 달러 투자 유치…'인베스트 코리아 서밋' 개막 - 서울일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vVlJ0X2lNWC1TSEw2bW9KcVZOcnNTYk9XMkJ4TmRTYmhYVEVodGU5b0huN2NDTHlpNG1NSWNJSXE1bDRJc3BJLUVrbmFNV3ZaMUFPWkxJX3NrU3RRT0pGM2xQWWk1VjZXX2840gFvQVVfeXFMUFRsRFhzdll5bms2Sjd2VHd1WVVsX0ZFOXhPdHQ2TnNoTW1yYjdnQUUyR0ZqYU9yUV9xRHJPV0Y1ZzFEMXRscGVSODRfX0xaMzNVQ045S1pDS2tiTms1dU1McU5MVExMeHlnZDQ4eHRR?oc=5",
+          "published_at": "2026-11-05T08:13:09+00:00"
         },
         {
-          "title": "울산 수출 15년 만에 1000억 달러 재진입하나 - 울산매일 - 울산최초, 최고의 조간신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqd0NKdFFFc1BTbngxS3dOcmJrcjI5alhMY2hqSTNnLU1Yd25LQzdRVXQxd1VyTHJ6Q2hiZkRUTlV6RTh4eGJXQ0FXRzN4Uno5TEZ5dFREcUZMNUp1ZW5DRmxRVGJMX0ZzMGfSAW5BVV95cUxQX011ZnY5bFM1U2txbWFNam1naW5RcEJPcE00d1RZYUtOaXdzN3FFb3d5ZWdGMHpSYU5xQlJnMEN6V2pjT2pKdDAxSVNMVUZray1idXhsZUMtVnVOQ3A1VjRURk1zanpMZ211emFZZw?oc=5",
-          "published_at": "2026-11-04T08:44:00+00:00"
+          "title": "[미 중간선거] 증시 외국인 매도폭탄… 달러 약세에도 원·달러 환율 상승 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2xjbldVMGNPWTZycUVHY2RQcHZaLTZzeExycjljbG1IRUR0Mnk4U1hmWWtVN19UUVpqa2JIM3o0SW1pOFpsVEt6OTBQVmtXbHVNSVdNT1dnT0w3dnBGMTk5THk2VWpaSEZsWWVyOEt4TDFUYTM4VnJSSnBycUNvSnFSWUE?oc=5",
+          "published_at": "2026-11-05T07:30:43+00:00"
         }
       ]
     },
     {
-      "keyword": "확대",
-      "score": 79.74,
+      "keyword": "유가",
+      "score": 76.82,
       "articles": [
         {
-          "title": "재경차관, 방글라데시 재무장관 면담… \"경제 협력 확대\" - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SNlpRZmFpWEMzS29KalFNY0NrTy12ZEYxLW9LSl9JY2dyZVJPS2hqYlJfdzUzbnlFc25WTUpjRWg5a0tRRTJXRDBYMWVmZWhfVzNyMDJEcDN2MjAwU0dIVldmbENaOEtzZEliMS1GRC1YQzBD?oc=5",
-          "published_at": "2026-11-04T10:01:44+00:00"
+          "title": "독일 국채 금리, 주간 유가 20% 폭락에 인플레 우려 완화되며 8월 이후 최저치 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02YVRqRVI4YUVaQmwydUZDczJWQkMySnVkT1RxSG16Mms5bU5FS0Y5NmVvX08zamJ0QlVBSWpZanRZWXE3XzR3WFJQb3l4WlJQMU9iUzNPX2xINDZheUhuRnB2SmRwQzg?oc=5",
+          "published_at": "2026-11-05T09:08:00+00:00"
         },
         {
-          "title": "‘경제뉴스 강화’ 내건 SBS 전문기자 확대, 기대와 우려 엇갈리는 이유 - 미디어오늘",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR0lYck9xVWhRaXUySDRuNnZDYzAwRW9DNWFmbmRIdVZ6SHF2N3prSGNMeWdpbi03VlF4Zl93dm5PQVcteG5nOXFlWDNlckFZd0w2ek4tQjBqNXVwRl9ZVEVvUlJRMDF0YlAtYmpNTV8?oc=5",
-          "published_at": "2026-11-04T09:55:00+00:00"
+          "title": "민주당 압승에…유가·국채금리 안정세[美 중간선거 후폭풍] - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRHlEMmp4bVh6RXhfRTl5WjJ0M01DOGpaekRRYjdoaVU1SU9OTFdUTkppQUxZY3RGUy1SRVdJRVZlUXZONDlsWEFUZjJtT1padUHSAVNBVV95cUxOM1ZZMEIzbFVOMndpU1F1NGV3UDFNVUpROVdqLWY5cFBZZUhlQjhldDc2QnA5ekRnVlpFNXlJNnk3X3lzLU9KLWJGdWYxaVl4ajlDcw?oc=5",
+          "published_at": "2026-11-05T08:55:00+00:00"
         },
         {
-          "title": "EU 에코디자인 확대…전기산업연합회, 전기산업계 수출 대응책 모색 - 에너지타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QZ0NuQ3JSMFJmajM3d2VocVBvVVZFS25yUGJHWFhUblBtZ0Rvckh4NFFDY0swd0M5ZXVlZ2VUZ1pZZEtxM0dKSWR4dmlWMU9zVnp4dW9TaFM4MFJNTVllR3NOQnM4Uk1xYmFxYw?oc=5",
-          "published_at": "2026-11-04T09:48:00+00:00"
+          "title": "유가 떨어지고 금값은 급등…美 민주당 압승에 금융시장 요동 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iTWUyaS0wWWFqQTNObGpYTG5nblZub3NzMGpJWks5QmZSLS14SHVVOWk2eXpWblZscktkcW1GZEJIMjlsdmFwWkFfdWk4TWZjdmRMdU1SOFdEZw?oc=5",
+          "published_at": "2026-11-05T08:35:09+00:00"
         },
         {
-          "title": "인니, 자원 수출대금 루피아 환전 확대 추진 - 국제통상신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53U1h6SnF2VDlUS1RYOWFnUFB2R1ZQTDB6YldlcHZJbHp5b3I4dE9jV2JLRTdGSmxnSTdmSjRMbDhoenFmeHRDdnR6eFh1X29hZW13aHlZMWpuUWdYZXZsTHphbV9Ybkpm?oc=5",
-          "published_at": "2026-11-04T09:16:34+00:00"
+          "title": "亞 국채금리 낙폭 확대…美선거 여파·유가 급락에 위험회피 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpaFhSWVJfVU1Id3FvUDVrNDI5NWFkVlJRLXdMa21HNDVGMzl1Zmx1cGRhc1Jhek54NGdEMS1WWEhSMF9BT25hcU9rUHBXTldJeWJIQ1FZX3RqQlczaFZ2Qmk0TVFXWFc3U1JNRDBCVEY?oc=5",
+          "published_at": "2026-11-05T08:18:05+00:00"
         },
         {
-          "title": "캐나다 LNG 유럽 수출 확대 딜레마…공급망 다변화와 가스 수요 감소 충돌 - 에너지데일리",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91Zkw4Q3R1TWh2RUw1OUhEQ0M5ZEQxOUpjZDFxMzRGMVBrMm1sRXdKSGFMYUNLRXo2UDZJbjZXYUx4SmVXSGNyT3U3cFl2OVJoWkFnQ20ycXFaYzJWVkNfT2drWm1NQlNBNXBvTF9idmJrUQ?oc=5",
-          "published_at": "2026-11-04T08:20:21+00:00"
+          "title": "\"이란 전쟁이 패인\"‥민주당 압승에 유가 급락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45Ujl3V05VN2lvclc2ZlZHVVIxckxlREUxM0lBVU9UOGV6b0xMSTB6YjE0SXhYQUtLVVYxbFFmMUNjdjhVeVQwdHFrTXlhMVRmS3pyTGVJWGl2Z19La09oRktjTGFySm5DMlBwQTR6MnJTNzhqclJRYtIBeEFVX3lxTE1kNm1HN0NLLVRqdDFBWFpyMHEwVDU1Zy1RRURYZVU1ci1Pam9rNHlKQUh3aVlLTkFwRmpsQmp2MHFaU0NkcnBJZTRyNGlpajE0QVRycjJNeGkwVkVGUEl2U2dsNXh0YXVzcDkyMVh6VE1ZM0ZEMTZMSQ?oc=5",
+          "published_at": "2026-11-05T08:03:23+00:00"
         }
       ]
     },
     {
       "keyword": "기준금리",
-      "score": 79.7,
+      "score": 75.46,
       "articles": [
         {
-          "title": "스웨덴 중앙은행, 인플레이션 우려에 기준금리 2%로 인상 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lbS1TWGFOUHJJN2gwUmlaS0l4Vmt3eC1QcFR6QVh5bElQYnJOUXhOOUtKN1VLaFFhSzVUeWVQT0U2NlBLSUpTSlZpR2dFQ2pJMUFXMGtNaVBBWkhjMVlNVGlHSElQTTRUdzJBRFl1LVFFT3VBTnpXVm1n?oc=5",
-          "published_at": "2026-11-04T08:37:00+00:00"
+          "title": "영란은행, 기준금리 4.00%로 인상 예상 - www.tmgm.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVnlQX3hoM0xYVHVWYnFWNk15N1BJbkI3VklEdkc1TjRYUWZ4S21LWlkwc01NV1NhSVlpTkdqSHUyeURqV3liY2ZNV2QtQlQwcFdRdElpTVVKbW9HT24zYmJkV3p4b29XTDI4Vl9fRzl1N21KNFZGN1ZlQm16ajdVOTNuZ1hFNW1wZ1MtbmE5VmdaSDRWTEU3amNkREpweFJGOGd2VmROVEFlaXc?oc=5",
+          "published_at": "2026-11-05T07:11:37+00:00"
         },
         {
-          "title": "호주, 기준금리 4.85%로 인상…18년 만에 최고 수준 - 파이낸셜포스트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90OG5jWEZSWHo3eFJNOUM1a0RQSXAxZU9SZ1BlNnJIMTZ0bE5sbkZjZWNYQ1lQeHBGQU9sdm90UEEwTjFNMnFxWllnOG94Zy1oV1M5WW84S1dJeTl1NlhFTmhsd3JMclhFekU5aVJhZFlBanM3?oc=5",
-          "published_at": "2026-11-04T04:20:21+00:00"
+          "title": "일본은행, 기준금리 \"조기에 목표에 가까워져야\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tOEkwY0syMWlCRUZiQXNBVklqbFoxclFWajBjWVJPYlE4eWJBVXVGb0lMNDdNVURpSnlSR3hZZW43dV84VnlBdFBadDRaSkVma1VUd21zalpIV0ZKWHl5OdIBeEFVX3lxTE0tOEprRWRFbDAyUlB5WWZWaDA3SjIwbU9JMVJmSFBfX1puZE1kdGlnWDdLVlpOWEtKaTc4MEVWRWtPZmRUdjZuNURfN2V3ZW9RRVNWd3FqazhSWk5Fc2prUzh0b3FHeDUxaGRBc3Y3OTNFdTNSMzJfdg?oc=5",
+          "published_at": "2026-11-05T05:13:22+00:00"
         },
         {
-          "title": "[분석] 10월 물가 둔화에도 11월 기준금리 인상에 무게 - 메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9McFRON2kyMWJBeWg3MEpSbEw0Y0JFNFRUZnB4eWZNckpSVGNGTnVZTkROOFJabTZaTW5WeTBnZE1FdGJpNm5PYmhNM1phektqNEx4cy11Z3lZcnZLRTZJb0tJb0dCZjk0Y3Fvcg?oc=5",
-          "published_at": "2026-11-04T01:02:13+00:00"
+          "title": "룰라 재선에 번진 인플레 공포…브라질, 기준금리 13.75% '동결' 피벗 멈췄다 - 와이드경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRzQzdUJCcDFDdUZBQ1lRb01KWEkxbnY1aTB1T0x4RmFmTHhmOTBoajh0OURlU2RoVXA1dHc4Ym5yTExVQ3VyRlVmazVhM3N0WXNKRnAwa01YOXVGTkxfLUV0X3dsOHBwekk5aA?oc=5",
+          "published_at": "2026-11-05T04:08:28+00:00"
         },
         {
-          "title": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능 - OBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
-          "published_at": "2026-11-04T00:55:04+00:00"
+          "title": "브라질, 기준금리 13.75% 동결…\"룰라 재선에 물가 우려\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YMXMzd3p6N3NvUGJiQ2hWTVluTEExZjhpUm9VZ1NxYVZQV1V3aXhadzVrcEJTN3ZjOHI1cGYyMFRWLTBRWWUxMzBlbG5uR1hqbnIxZkFhV3UwX1VBbGFIdNIBeEFVX3lxTE9tNHB6WkxOcHFnaHV3NjhrcHowT2xCVVVDci1kTXZDODhEWG14NUZCMDBiZXYxTnY5Q0NoUTJPeXlnNTJDYTMtbW84U1VDQ3FOY09aQUN5YmNfZnI5dUN2aDQxSkJhSHhhNldBVHlmSUlrNFhMbFFmUA?oc=5",
+          "published_at": "2026-11-05T03:58:14+00:00"
         },
         {
-          "title": "생보사 공시이율 제자리걸음…기준금리 동결에 관망세 - 보험매일",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tZmJBNkpzUEY1LXpBaWN2WWo5MFdDS2NINmYyUjhhbzVaVlVDYzNwSlZSa0pZS3lDU2lvUmowOGdHS2ZUbVRfMzdLbENLODlVdDE4clJMUkFfa3FiYjRfelVQckxWM3VC?oc=5",
-          "published_at": "2026-11-03T21:12:42+00:00"
+          "title": "기준금리 동결…긴축종료 아닌 속도조절 - https://www.yonhapmidas.com/",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5STm9RTGRjZHFjaWFJd3JRWmltRkM5SkVsa2ZvRGRPUXpvRzJ6Z0d5a2ZKOGdEZzhxNTVneUVtMkhtY2ZZOVRfNTh5SGg0VWtPQU9SMTZkVGNrSnQxbDFuV3hCa3dwSUtaeTNUeW1R?oc=5",
+          "published_at": "2026-11-05T02:00:13+00:00"
         }
       ]
     },
     {
       "keyword": "연합인포맥스",
-      "score": 72.64,
+      "score": 73.37,
       "articles": [
         {
-          "title": "[채권-마감] 블루웨이브에 美금리 하락·外人 매수…국고 3년 2.2bp↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95b3RwNTd4M3RFZFRmaGQzdGZmc1A0bjg4RzJxdk1ibGFpZ1hkOUUzbXdDZjNVYzhqZWVPTmw1Qm1nN2pnWTRZMGNYNUkweWRjV2J4R3U2VmN1MXQtUm1mNV9kMkszOXgwNnpnZGJFQzM?oc=5",
-          "published_at": "2026-11-04T09:45:58+00:00"
+          "title": "IRS 금리 전구간 하락…선물 연동 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PWkQ1czFrZllObFhidThfYmlwYVJ5aHR6V0FlVzU4cnMtSmNSZEZGdXNiaWF4UUVsejBLT0xnM1RRc2NLS081MDJTc2lmWDRMc04xYld2N18tOFRQUERaNmZfS25sY1c2WDZrajdDOWjSAXRBVV95cUxOdlJlcGtsbVhsSGRRV1VsTy11Zm9CTWJ6MWFRQzBUM2pUMUlNSmdLLWtKMEh5cGlJWW0yYXN4NlQzTXFYSW9NcG5UUy1hZ2tmTm1HRnhndk1UVkhydVNOU2hjcXBib3FCZjRYdTlqb3U4MGxUSQ?oc=5",
+          "published_at": "2026-11-05T09:40:24+00:00"
         },
         {
-          "title": "FX스와프, 美 금리 하락·캐시물 강세에 전 구간 상승 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZmhpYWZ3ekxRUk5yOS1xR2xFZ1pDUFBnX2tJU1M2bWlZYmx6bUdEbGZHbzlFeXRaZ3FOUGo3V1lTN0x5X1d1eHFZTXpGVlJ1UzEzRWhhTGtxRGVfQnNOYjdSRUYtZ283UUF4YXkyUlXSAXRBVV95cUxNa2p2Q0c4Z2E1ZTVVRjIxQ1RDSlRXUVZBRm5fQWJFUXBnZGRFb2YyOV9xcFJ3Mk9zcUs1WTZRMEQ4d2tCZEk0WmotejJZV3VDMHd1VUxoSVBwN09rSExtcm1XdU9pYzN0M3FpdWIwRHNSMWM2ZQ?oc=5",
-          "published_at": "2026-11-04T09:13:26+00:00"
+          "title": "피치 만난 이형일 \"올해 3% 중반 성장…잠재성장률 반등 기대\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wZG5IMkRiTkk5TnNoZ1JvaDZITlMzVU5VOVI2OC02WVlwcjVfeC1MQ0VmY2p2T3ZkekxraXhaR2o3VVI4bjVGMXhXbms2VUlTM3N1eGJQMDJIQmtKNDEyb29GOTE5SHVuRFJJWldnMkI?oc=5",
+          "published_at": "2026-11-05T08:46:40+00:00"
         },
         {
-          "title": "[중간선거] 서울환시 \"민주당 압승에 과도한 반응…환율 추가 하락은 신중\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EeFJtbjVPb3BITDQxenRtR0NCTERGS1ptNXhtakc4cWFlQkc3LVB6VnZieVVqbTA3ZlJiTENpbmFJNTBUZXluNTFzMm5ENEh5UngtQWRUeWR1ZGF1emdsNVg5cE9JczBDSkNHMWJvZzQ?oc=5",
-          "published_at": "2026-11-04T07:44:09+00:00"
+          "title": "亞 국채금리 낙폭 확대…美선거 여파·유가 급락에 위험회피 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpaFhSWVJfVU1Id3FvUDVrNDI5NWFkVlJRLXdMa21HNDVGMzl1Zmx1cGRhc1Jhek54NGdEMS1WWEhSMF9BT25hcU9rUHBXTldJeWJIQ1FZX3RqQlczaFZ2Qmk0TVFXWFc3U1JNRDBCVEY?oc=5",
+          "published_at": "2026-11-05T08:18:05+00:00"
         },
         {
-          "title": "[중간선거] 블루웨이브에 달라진 금리 셈법…국고채 강세 지속될까 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPSzBidWtYNDdEX0Z1NnNRMzA4UkZ1cFk5TVRuUlpQVkh5ODUyRVhFZnhPemFEM3dfd2dsdUx1OTdLSXY0U1g3cDRpNnJkTGhDRVR1Z3BnSEdxUGxnZ25SOUxJNlY0blhKb0hyd0M3U0fSAXRBVV95cUxOZjlWUnVQbHZKYXR3MTZ0eXF5bnpQSVdwcl9hYUdaTUZ5R3ZhTmZQTFoxX1hBcWhzcHdEWktXaVZRZWFvamRCWjQyemVlOExmSkd1STVZeS1zT1dfcERkUnBuRERWU0VVY2M5RWtKYjN1RnlaUQ?oc=5",
-          "published_at": "2026-11-04T07:24:33+00:00"
+          "title": "[도쿄환시] 달러-엔 하락…유가 폭락·BOJ 의사록 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wR20tVlVXYXhsMm5lY05lcndVM2hmc3lGeEJ0Z1BuOU9sb29IREVnbkZnR3h0cDVTRlRXOWgyOUV5dnZxTkxyM3Rmd25RVUZTcEFsd3hPeWJQZF80bFIxWUVQWTNYNWc1eHpmNGdTWGY?oc=5",
+          "published_at": "2026-11-05T07:21:44+00:00"
         },
         {
-          "title": "국채선물, 강세폭 축소…美 국채 금리 하락폭 줄여 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NMURpNWRrQndkY08yU2J4Ym9NSDZRRFNQazMxNnpraUVTMW1Na1NleVhYQS1WVkFxUTFQWVRhbnN0OUhqREpneXBBcnFYbURjSnFLRHBQT05XLVctX2NPRmk4dWFEcXlSMUhtV0Z6TmY?oc=5",
-          "published_at": "2026-11-04T07:18:54+00:00"
+          "title": "가상자산 과세 네번째 유예…반복되는 정책 신뢰도 훼손 논란 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TQ29ubUR0MC01WXlSbWtQV190c0tqNFpldkJlTHFrOVhMZ3UwbDRFNmhHd1NXWnd2RllpVExTa3lveFR3MlJrQU9UelRONXhvX3FGNHdnYVFVQXUwb3ZMNVlYdkhLTjRvbU5lN2xNUHY?oc=5",
+          "published_at": "2026-11-05T07:00:02+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "하락",
+      "score": 61.16,
+      "articles": [
+        {
+          "title": "IRS 금리 전구간 하락…선물 연동 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PWkQ1czFrZllObFhidThfYmlwYVJ5aHR6V0FlVzU4cnMtSmNSZEZGdXNiaWF4UUVsejBLT0xnM1RRc2NLS081MDJTc2lmWDRMc04xYld2N18tOFRQUERaNmZfS25sY1c2WDZrajdDOWjSAXRBVV95cUxOdlJlcGtsbVhsSGRRV1VsTy11Zm9CTWJ6MWFRQzBUM2pUMUlNSmdLLWtKMEh5cGlJWW0yYXN4NlQzTXFYSW9NcG5UUy1hZ2tmTm1HRnhndk1UVkhydVNOU2hjcXBib3FCZjRYdTlqb3U4MGxUSQ?oc=5",
+          "published_at": "2026-11-05T09:40:24+00:00"
+        },
+        {
+          "title": "엘앤에프, 3Q 영업손실 265억…환율·원재료값 하락 영향 - www.ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WNHhjek5XTUtIUi1fT2RmU3d1RTRaa3JRMjB5VzdmWEtGb1RwckFPWkhqeVRKeDdJRUdaQ0RIQkVlbGduOEM3ZDNoNDNpS1NLbzQ0MEd2VXpDOU1qRVRMR3RJZ0hIQ0Y0?oc=5",
+          "published_at": "2026-11-05T09:17:49+00:00"
+        },
+        {
+          "title": "엘앤에프, 3분기 영업손실 265억원…환율·원재료값 하락에 적자 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51Sy15dE03d1dvWi1KRmRZRHZYWjZzamczdGlhbTdlckRhRXNtOGxjSDdmb1FTMmpXUmlZQjRfVjNoTzZuT3FCUVVCZGJmNHctSjFrMWxLdjB5UVVPMW9vSg?oc=5",
+          "published_at": "2026-11-05T08:38:40+00:00"
+        },
+        {
+          "title": "엘앤에프, 3Q 매출 34% 증가에도 '적자전환'…환율 하락에 발목 - 블로터",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rRlo4VkJfck4zY09MMXFyVG05WXVpaWp2NmlCSTZndGNxZ1Z2T3lDaFBGY085a3FEUElNSmdRQVNiV2ZyUkxYR2xxeXlJWDMwdV9zZUs5NmRqdTYzeWJsUTBrTHQ1Zjhm0gFsQVVfeXFMTlI3Vk1BSWJPYUxqRnhMVEdhUzN4NkE4VFE2bU40eWE5cjBPWlpoYU5RN3MzWGtvQjNwc21DU0xuVllZT0I0NjY3bW9Qb3VGRmMtNUFFalp1YmlsNWpQbDFhTDlpSmozN2h2MVlR?oc=5",
+          "published_at": "2026-11-05T08:10:22+00:00"
+        },
+        {
+          "title": "환율 하락에도 해외선방…분기 최대 실적 쓴 KT&G \"5兆 이상 주주환원\" - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VRXF1dExKbzcybjRnS1hmRTVTUmcwcnV1YzZnS3FyanRfeU4yRTdBV2JSZkRmRWhWSWZXckh4WC01a2YyT1hrejBqVTNUVGdVaFVVcXBfU0ZpOThJY2xEYw?oc=5",
+          "published_at": "2026-11-05T07:56:18+00:00"
         }
       ]
     }
