@@ -1,217 +1,284 @@
 {
-  "generated_at": "2026-11-07T09:33:31.360641+00:00",
+  "generated_at": "2026-11-08T09:48:44.684382+00:00",
   "source_count": 4,
-  "article_count": 384,
+  "article_count": 391,
   "top_keywords": [
     {
       "keyword": "수출",
-      "score": 156.65
+      "score": 236.55
     },
     {
-      "keyword": "단감",
-      "score": 97.82
+      "keyword": "한국경제",
+      "score": 105.74
     },
     {
-      "keyword": "대통령",
-      "score": 85.42
-    },
-    {
-      "keyword": "인상",
-      "score": 83.78
-    },
-    {
-      "keyword": "중국",
-      "score": 75.47
-    },
-    {
-      "keyword": "기준금리",
-      "score": 69.21
+      "keyword": "농심",
+      "score": 82.45
     },
     {
       "keyword": "금리",
-      "score": 61.74
+      "score": 72.92
     },
     {
-      "keyword": "우리",
-      "score": 49.5
+      "keyword": "인상",
+      "score": 70.37
     },
     {
-      "keyword": "기회",
-      "score": 49.45
+      "keyword": "환율",
+      "score": 63.84
     },
     {
-      "keyword": "국제유가",
-      "score": 43.71
+      "keyword": "매일경제",
+      "score": 63.62
     },
     {
-      "keyword": "국산",
-      "score": 39.98
+      "keyword": "기준금리",
+      "score": 63.1
     },
     {
-      "keyword": "달러",
-      "score": 37.33
+      "keyword": "가동",
+      "score": 57.27
+    },
+    {
+      "keyword": "CPI",
+      "score": 56.94
+    },
+    {
+      "keyword": "확대",
+      "score": 54.93
+    },
+    {
+      "keyword": "물가",
+      "score": 53.0
     }
   ],
   "hot_topics": [
     {
       "keyword": "수출",
-      "score": 156.65,
+      "score": 236.55,
       "articles": [
         {
-          "title": "국산 단감 중국 첫 수출⋯청도·상주 감 농가도 판로 확대 기대 - 경북신문",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NcmptM0NxaEJ6Z0FVT04wNy1jZzROaFViZFBjdnVxVTY5SExsX1BBQ2prc19JSzIyRi0tSVU2UWpvY0FOR29hNmp6d1daYmZKY2Zibm5MNEI?oc=5",
-          "published_at": "2026-11-07T09:07:09+00:00"
+          "title": "무보, 중소·중견 수출기업 21곳에 최대 100억 지원 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ubXRKMk91dmkyOEZUZ3lSV0gzVVNnMVRfVDMyZzl2UjVGMkl5NHZTZlgzdEJ4ZFRfZlJRYXZVVHFxcm5lUUpWVHVTNnlsbHd5Tk5kbW1hSDV0Zw?oc=5",
+          "published_at": "2026-11-08T09:44:11+00:00"
         },
         {
-          "title": "[속보] 李 대통령, 국내 생산 단감 中 수출에 “새로운 기회 생겼다” - 세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nc1NQV2hUeG5JaVNnU2V5X0d6cGhIYjdXM2ItOHN4OFdMZUNMUi02eDBhX3J6Q2R4am11NzgtTEtQV0N1ZlJYWW00aW5FdUc3V3BwWDg4RTlhUm5RVFJkUVZ4dzRZNF8yTWfSAVRBVV95cUxPMkRoOHhMUDFwdDQ5ZWE1aUxTcDNiT3VKaWZiS3VRbzFqN1psZTJvWU15M3hVa2hWaUVfdnJVTFRYWldpSURKLVhfOUEtaDlDNWRfTzc?oc=5",
-          "published_at": "2026-11-07T08:39:21+00:00"
+          "title": "영천 샤인머스켓, 미국·대만·홍콩 3개국 합동 수출 선적 > 뉴스 - 대구경북일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTFhZZzMtYm10SlV3a0Y2MlgxMkRMdVV6blJzWE5HUjh1Nnc4UEpvaTZ2X3JRWlI2VjkwaE1rck8tMVBEblBLVGloQ0tqaGowbHVZSVFadENWek1pdERzYVJjVkJVUVRsamhKUjFPVnY4UFdSblF5Q25jQjk5LUhMcTdodUJIQQ?oc=5",
+          "published_at": "2026-11-08T09:30:00+00:00"
         },
         {
-          "title": "경남도, 11월 6일 중국 첫 단감 수출 선적식 개최…19.6톤 출하 - https://www.newfilenews.com/",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOX0xNVnhtVkpLbktRbG44SUhoOFRwLVUzMG1tVDZzaTlMamZCZUlScWxvb3NfcnozWlR5MU5BT0dfYUxXM2hSZS00aUFWSkN2ZDJjN0RBN3hDdnpRbUJTV0lxUFN0Vk01c1VBb1Z3?oc=5",
-          "published_at": "2026-11-07T08:38:56+00:00"
+          "title": "청주 수출기업 中 서 1천만달러 수출 상담 - 충청매일",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Vb29BcVBRc0VWQjB2bldMdVVBU2hEMXFmQmhtVDVOWnd3Sk5xQmdwVmhIajB4Z3M3VXFTcUdsTXMwVUI5bm9PWlNYSFc5cVhkN0dsd0VyRi00OHphTENwOFc0UjhwTjV5dHc?oc=5",
+          "published_at": "2026-11-08T08:55:09+00:00"
         },
         {
-          "title": "\"세아제강, 수출 시장 돌파로 수익성 회복\" - 철강금속신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lOG9ETnp1eHlhNjNNY3pXV3o4cHJyWllfUlpQQWdOdVR3VEhteF94b2daWEwwYTZURjZGamI3S0I3RV81VG5MSXdiM05rWGhLUVptS2M1SjlQRFYzMEl1WW11UnNMM1FzZEE?oc=5",
-          "published_at": "2026-11-07T08:36:56+00:00"
+          "title": "영천 샤인머스켓 24.5톤, 미국·대만·홍콩 동시 수출 - 공뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1T3I5MHdQRzBQajM4Rmg3cWRVaTBtUGpwcjNUdHpjSExOSnJBSXVXMEt3NlB0dEowVlpVRWdNT3FwUzJqYUZjeXpWNUNoS3NQZG1ldFJ1VTBDTlluWnVBS3VHVGI1aFR0ZWRDbQ?oc=5",
+          "published_at": "2026-11-08T08:46:37+00:00"
         },
         {
-          "title": "李대통령, 국산 단감 첫 중국 수출에 “농가에 새로운 기회” - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbkxfSzJoX1JkUi1FSmNMTlphYXFScEQ2R3dEWG1Zbzk4Nmc5SE1RalhXR2xxTWkwdWRFclN6SUMydlNvMjM4dzRrU2FEXzZFcjd5Q1JBSmpNdG9uSG1TSmlGcmtFUURWRnc?oc=5",
-          "published_at": "2026-11-07T08:36:04+00:00"
+          "title": "“한 그릇 더 먹을래요”...세계인 홀린 K라면, 수출공장도 늘린다 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kYURNSUtqQ21tbEY4WnNQRTVEYkJCNndaeVhyRzFEbFczZnFUNW50eDIwaUJjWG9scHprTzQ1azhxT2I3N09lNk55azJGNXo1NzNrZ1BB?oc=5",
+          "published_at": "2026-11-08T08:42:51+00:00"
         }
       ]
     },
     {
-      "keyword": "단감",
-      "score": 97.82,
+      "keyword": "한국경제",
+      "score": 105.74,
       "articles": [
         {
-          "title": "국산 단감 중국 첫 수출⋯청도·상주 감 농가도 판로 확대 기대 - 경북신문",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NcmptM0NxaEJ6Z0FVT04wNy1jZzROaFViZFBjdnVxVTY5SExsX1BBQ2prc19JSzIyRi0tSVU2UWpvY0FOR29hNmp6d1daYmZKY2Zibm5MNEI?oc=5",
-          "published_at": "2026-11-07T09:07:09+00:00"
+          "title": "\"투자보다 생존\" 월급 줄 돈 빌리는 기업 급증 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TVFOaWwwVnhleXpVU1lPQk1Lc01CQW56c0lsOU1iTmh6SDdCd3ZEdm5qS25JYWFaYXJrV0xyYno3YklGWVZBaVNrcllmb3RZRHJsRUtiVHhFZw?oc=5",
+          "published_at": "2026-11-08T09:16:28+00:00"
         },
         {
-          "title": "[속보] 李 대통령, 국내 생산 단감 中 수출에 “새로운 기회 생겼다” - 세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nc1NQV2hUeG5JaVNnU2V5X0d6cGhIYjdXM2ItOHN4OFdMZUNMUi02eDBhX3J6Q2R4am11NzgtTEtQV0N1ZlJYWW00aW5FdUc3V3BwWDg4RTlhUm5RVFJkUVZ4dzRZNF8yTWfSAVRBVV95cUxPMkRoOHhMUDFwdDQ5ZWE1aUxTcDNiT3VKaWZiS3VRbzFqN1psZTJvWU15M3hVa2hWaUVfdnJVTFRYWldpSURKLVhfOUEtaDlDNWRfTzc?oc=5",
-          "published_at": "2026-11-07T08:39:21+00:00"
+          "title": "삼성전자, 보유 현금 200조원 첫 돌파 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZ2NnWDBUMnpQcHRCWUM2UFZJSURiOTVOejBncUFoT3dRNEwyM21iWUZuN0xqLUFfMUh2QmpTNm9vZFdJcVR1N09wZHZ3VWZSdTBrMWw5c09JUQ?oc=5",
+          "published_at": "2026-11-08T09:14:23+00:00"
         },
         {
-          "title": "경남도, 11월 6일 중국 첫 단감 수출 선적식 개최…19.6톤 출하 - https://www.newfilenews.com/",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOX0xNVnhtVkpLbktRbG44SUhoOFRwLVUzMG1tVDZzaTlMamZCZUlScWxvb3NfcnozWlR5MU5BT0dfYUxXM2hSZS00aUFWSkN2ZDJjN0RBN3hDdnpRbUJTV0lxUFN0Vk01c1VBb1Z3?oc=5",
-          "published_at": "2026-11-07T08:38:56+00:00"
+          "title": "앱으로 태양광 투자…개인 투자자만 2만명 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMFFVX0lqSWxvUDBlM3Q3dU5zUlZNUWJORFFNMXJMb1hSTmhrRWNWY0djcktkbmVlOHMyaWY2UUIxWUx3LWdfZF9PRTNKV0ppMjBqUElzTkthUQ?oc=5",
+          "published_at": "2026-11-08T09:12:11+00:00"
         },
         {
-          "title": "李대통령, 국산 단감 첫 중국 수출에 “농가에 새로운 기회” - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbkxfSzJoX1JkUi1FSmNMTlphYXFScEQ2R3dEWG1Zbzk4Nmc5SE1RalhXR2xxTWkwdWRFclN6SUMydlNvMjM4dzRrU2FEXzZFcjd5Q1JBSmpNdG9uSG1TSmlGcmtFUURWRnc?oc=5",
-          "published_at": "2026-11-07T08:36:04+00:00"
+          "title": "中企 일터 혁신 컨설팅…노란봉투법 해법 찾는다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GcERYU21SMjlfcVpvdHNRcHNaakxMSkNBRTdCdFdKeFdTRlhDdjAyNXFOVWFqVVNQY0pfTU9oeG9tdXJFUDNoTVFZVV9uV1M3dDNZLVVUWU4yUQ?oc=5",
+          "published_at": "2026-11-08T09:11:14+00:00"
         },
         {
-          "title": "李대통령, 국산 단감 첫 중국 수출에 \"새 시장 개척 지원\" - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhcHJUdkN1THotWXZIVVViTHlXQnVPdHhPQl9iUGxoQUhqSlpuaEZOZzNEWEJBclNCTE5qT1FneDQwNHVOQmpObnpoVEExdFNLQnBqSQ?oc=5",
-          "published_at": "2026-11-07T08:32:00+00:00"
+          "title": "[속보] 서울대 총장 최종후보자에 최해천 기계공학부 석좌교수 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EcHVtLVZzWG90QkdRbWJfM0pzVEJQQjZsTlVYeXJFTVBmV1RXRUphTG53VVFJVTFMM3BlTWhOdG9mUEwtVmlMTThzVFZJTzNwc2FXOG9RT2N4UQ?oc=5",
+          "published_at": "2026-11-08T09:03:03+00:00"
         }
       ]
     },
     {
-      "keyword": "대통령",
-      "score": 85.42,
+      "keyword": "농심",
+      "score": 82.45,
       "articles": [
         {
-          "title": "[속보] 李 대통령, 국내 생산 단감 中 수출에 “새로운 기회 생겼다” - 세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nc1NQV2hUeG5JaVNnU2V5X0d6cGhIYjdXM2ItOHN4OFdMZUNMUi02eDBhX3J6Q2R4am11NzgtTEtQV0N1ZlJYWW00aW5FdUc3V3BwWDg4RTlhUm5RVFJkUVZ4dzRZNF8yTWfSAVRBVV95cUxPMkRoOHhMUDFwdDQ5ZWE1aUxTcDNiT3VKaWZiS3VRbzFqN1psZTJvWU15M3hVa2hWaUVfdnJVTFRYWldpSURKLVhfOUEtaDlDNWRfTzc?oc=5",
-          "published_at": "2026-11-07T08:39:21+00:00"
+          "title": "해외수출 농심라면 하루 178만개 쏟아진다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EaW5uc19zNEtpdGE1V3dVNTdDNGdpUXBwQ1pUcFNwdWxjVVZQUERHQ0hFRjVjLUFzVFpreFRCUllMcHpSUS1aR1hReHU1WFdlSXBkWk13?oc=5",
+          "published_at": "2026-11-08T08:16:42+00:00"
         },
         {
-          "title": "李대통령, 국산 단감 첫 중국 수출에 “농가에 새로운 기회” - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbkxfSzJoX1JkUi1FSmNMTlphYXFScEQ2R3dEWG1Zbzk4Nmc5SE1RalhXR2xxTWkwdWRFclN6SUMydlNvMjM4dzRrU2FEXzZFcjd5Q1JBSmpNdG9uSG1TSmlGcmtFUURWRnc?oc=5",
-          "published_at": "2026-11-07T08:36:04+00:00"
+          "title": "농심, 첫 수출전문공장 가동… 글로벌 라면 공급능력 62억 개로 확대 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVkhhWW5iWDBGSUZqdGtZRVdtRnIzMi1pdmdjbnpTWGc4bXppT0xUUFpBZ3ExZXA0RkJpeXNXNzA4WUNuRFFFaVFucjVJMThWcFVxeGpVRWFGYnBnaGtYeFgyUDE1OGlhRWc?oc=5",
+          "published_at": "2026-11-08T08:02:44+00:00"
         },
         {
-          "title": "李대통령, 국산 단감 첫 중국 수출에 \"새 시장 개척 지원\" - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhcHJUdkN1THotWXZIVVViTHlXQnVPdHhPQl9iUGxoQUhqSlpuaEZOZzNEWEJBclNCTE5qT1FneDQwNHVOQmpObnpoVEExdFNLQnBqSQ?oc=5",
-          "published_at": "2026-11-07T08:32:00+00:00"
+          "title": "농심, 부산 녹산 수출전문공장 본격 가동…연간 60억 개 라면 생산체계 구축 - 나눔경제뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkaXhkUDBsMm9iRUhnRF9Jd3AwUm5Va3lSdWViV1V3Wkh2RE9PV3A5SlZ5Nlo0ekZuam5qbk1Zb0NaOWRCZDU3b1l3VmNyWGU3ajFNb0dEbWRpOGFNcnBCR1pic1pleTdyNGNzbQ?oc=5",
+          "published_at": "2026-11-08T07:42:58+00:00"
         },
         {
-          "title": "李대통령 \"17년 협상 끝에 단감 중국 수출…우리 농가 새 기회\" - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DcWRCemxMZmJtbU1oMmNKUlZFTXNoLXQxVTBpb05QdHZZbExZSkxXWmlmYVZaVnhuTUREY1hfbThkTGh3ZlRtSWtRb0JYa2NIMHVxbWZLNTg1XzdIZTd4Zk5tNUlUMmVoOTdTT3pwM2k?oc=5",
-          "published_at": "2026-11-07T08:30:59+00:00"
+          "title": "농심 부산 녹산공장 본격 가동, 연간 라면 수출 생산능력 12억 개로 확대 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SS1puYllCSVBJdG1RS2lrRC1JbE5CaHdjMEE0OFpGVWJqcG81NmNfbXA2T1dkaHBOSWxjbFl2M0xGSWNFLWVkNkptVHZsV2dpS3hjQWk0RmtsTE1TOUFrdlYyb0lmMkt2QlF3d1hQbGZHWnM?oc=5",
+          "published_at": "2026-11-08T07:30:46+00:00"
         },
         {
-          "title": "K-단감, 中 첫 수출길…李대통령 “우리 농가 새 기회” - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UXpBX2p6WDFEVkNyRmptc21PU1VhNUV5N1lpMXFMclZSWGhKbWVEUzJLbHhCVjZRenQ1d1RJM3VsS2s3WjJjeGhlM3drN1dBTTVPWTAyQmpLMGc?oc=5",
-          "published_at": "2026-11-07T08:19:38+00:00"
+          "title": "농심, 녹산 수출전문공장 본격 가동…글로벌 공급망 확대 - 한국식품의약신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OdmZfMVVqd1JLclIyZmZwVW9CcGQ1b1hpOXJFSHJ2a0REVFVtOFYxWF9fS1p4MVBLOVBXWkhGWGFPT1RIV0ZlYUR1QVNGVzZOT3dQVmNLcWhQR0RLcHJtdkJZbEhFNjA?oc=5",
+          "published_at": "2026-11-08T07:03:55+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 72.92,
+      "articles": [
+        {
+          "title": "[1보] 한은, 기준금리 연 3.50%로 또 동결 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56aWJybkFzN0F2UVJ1ak1HYTJNRDNuQ3Jlb3RVSjQ5QlVFenlCdTJTZ2VIVHFlamkyZUlPZXpQY3BEN3hBblpmNHFoMVg2dHBf?oc=5",
+          "published_at": "2026-11-08T09:13:18+00:00"
+        },
+        {
+          "title": "변동형보다 낮아진 주담대 고정금리…한달새 0.45%P 하락 - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82ZXdVTUNvUnpVU254SVBMRHNKdlBLWW1aaWhNWGY0QnE0Y0xnOEZkZHRkTU1UZkhwWlpLTkpxZl9KXzltMTdYT1o3ei04amlOY1HSAVNBVV95cUxQWlpQU3FFYUU1WWlCUzNSWGlYT21BSmwtWmN2QzFQUDF5Z1dNeC1xOUlHTGpMUWxZRGN4bkxMZ0lJc0VYek44eXN6RmtMcDhWOWV0NA?oc=5",
+          "published_at": "2026-11-08T08:53:37+00:00"
+        },
+        {
+          "title": "금리 올려도 집값 상승, 대출 막혀 전세난…전문가 \"규제 일변도 벗어나야\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJUmowWFE5Q2JYVWV3SlM3cEtrWXFBSEQtcHJYcXJvZ0JiMHJYby02a1Q4Nzk2MnF2NnE0OVd0LW81aW9qT3FPWHN4T0wtWWlqNExqbmRORWtaRW1GclFCdtIBeEFVX3lxTE9teTBYTVQ4Y0Q0a2MxVVpYT3NkbUN3enB4c2FmbnlsUzhJTzR2NnNRN05SemtHMFR3RTkwNUpyNHJ5STQ3Wjk3TnV0dlNnUWJsX2ZqTnVRLUhiZFRTclNTM2dTZTlZajNxT1Bpa2tjNnN4d2ZraFFraw?oc=5",
+          "published_at": "2026-11-08T08:16:00+00:00"
+        },
+        {
+          "title": "증시 급락에 한은 금리 인상 셈법 복잡…추가 긴축 부담 가중 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91YmpPRmRyMGdWX3BtTllIMUJiejlzZ3NkZzEzX3dkRUIxSENkZ2N2UWdiWEpmNXljd29iUlpCUkRkcWkyNVM4b2dQcEVGU1RSOUs2WGFwUXdwQdIBWEFVX3lxTE5zSmtWaTBIelZvTDh5VnlkcTJGZTBiMXVaTlZXS0U1eFpMbDJBdmpLV3VsQ01FbFY1cHhoYm5xMG00Z09EZ0xYWW1BMFFJbXR4MkFzUDhWUlI?oc=5",
+          "published_at": "2026-11-08T06:54:34+00:00"
+        },
+        {
+          "title": "급락한 美 증시, 내년 운명은 AI 산업·국채금리에 달렸다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xWS1jWTI0ME01ZXpWNXU5cVpyRTJ1dUMwTnJRSDRWNk5pTFZYNjduQkZpdzJjeEs0SHpuU0x6bXVya2t3YlNqNnNJaWViZkZUMTgwUWhxTEZFdw?oc=5",
+          "published_at": "2026-11-08T06:29:02+00:00"
         }
       ]
     },
     {
       "keyword": "인상",
-      "score": 83.78,
+      "score": 70.37,
       "articles": [
         {
-          "title": "물가상승률이 4%까지 치솟으면서 유럽중앙은행(ECB)의 금리 인상 가능성이 높아지고 있다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQzJVYWp1ZDVOblVXdEtQN01HemJlbzVfeTVCMEdoX2I1UUhmQy1zRmpZT3BvRURJd09TMDBtaTdNUU1uM282SlJIVF9uSFdvQ29UcUtYNkVpNlJmQ0hlcUp3SUloU1g5U29FcVFfek42Nk5aLWtsR0FwREcwZjVDQzdqRHBVVnM?oc=5",
-          "published_at": "2026-11-07T04:16:20+00:00"
+          "title": "[뉴욕환시-주간] 美 기술주 급락에도 '12월 인상' 유효한가…CPI 주목 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jLTNwX29FSWF5MmlmcWtKVTRxWW1fMktITjBFX19peklsWkkxWlBkT2lnXzI1QzBhWjhubnNCM0xfOEhwMW5NMlk2Zlg0LXpZYXBGci1TZTNrLXpIMDhkMFJuZmdXY3gxRGRUclhfQ08?oc=5",
+          "published_at": "2026-11-08T08:49:20+00:00"
         },
         {
-          "title": "[해외시황] 뉴욕증시, 반도체株 반등·금리 인상 우려에 '혼조'…나스닥 1.09%↑ - 프라임경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00UFA1UFNuNm10cDNaXzRMM1RXNWdmT3lpT1gtZ09HZnUyOVVKTEhUY2k4STc3OVBuaDJDdW1ETWxvcWxreEt2SXkxN1J2X1V4UmNZZDBfZWNJd2pVVlFRM1p5M2lxRDNuak4yRg?oc=5",
-          "published_at": "2026-11-07T02:22:50+00:00"
+          "title": "증시 급락에 한은 금리 인상 셈법 복잡…추가 긴축 부담 가중 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91YmpPRmRyMGdWX3BtTllIMUJiejlzZ3NkZzEzX3dkRUIxSENkZ2N2UWdiWEpmNXljd29iUlpCUkRkcWkyNVM4b2dQcEVGU1RSOUs2WGFwUXdwQdIBWEFVX3lxTE5zSmtWaTBIelZvTDh5VnlkcTJGZTBiMXVaTlZXS0U1eFpMbDJBdmpLV3VsQ01FbFY1cHhoYm5xMG00Z09EZ0xYWW1BMFFJbXR4MkFzUDhWUlI?oc=5",
+          "published_at": "2026-11-08T06:54:34+00:00"
         },
         {
-          "title": "미국 10월 고용 호조에 12월 금리 인상 확률 76% 돌파 - 기독일보",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sLXVQZEJCdURheDk1SUtvQnVLbmlvc1ktTkJ5SVpfMlFxaFE0ODFjdkg3RVc2ZndQOUx1MmFWa1c4YXlNSFg2cXpIUlppZEhUU0dvb0gzNNIBXEFVX3lxTE5nZDlQekRYa0RySTVzaGNCSjRRT1owcjNoVUZpeDNfR0ZpV3hhT1B0ZTByeDRvLXlpSUw4a3k0SElQTjF3MWp1aWZ1MXFlRUM5aDl3aXhMZVAzTDhS?oc=5",
-          "published_at": "2026-11-07T01:18:03+00:00"
+          "title": "[뉴욕환시-주간] 美 기술주 급락에도 '12월 인상' 유효한가…CPI 주목 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50R29ZWk52UnhIQk85N2Q2SlF5RDlMcWdLblFSS3JfMWJ2akFQRkw5XzhsaXNpNDVPLW8wblNMMmNOYk1BcEVCZnlyLURDOGpDR2YxWFRYeHRTbEtIYVhWOUxscHZHUHJpaU9SR0ZHVHJlZw?oc=5",
+          "published_at": "2026-11-08T06:49:19+00:00"
         },
         {
-          "title": "[외환] 美 '깜짝고용'에 다시 1,360원대…12월 금리 인상론 부각 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZF9vOEZVWG1WeGVhRmYtN01fUFktVTF6YmFaLXlfWkFhWlNwWjQzQjYwbGgzYVhRWkZ5a2h4RzcwaUp0OFQxZ2FkQlBJSE1XOWNQRFAxbGhRV0hWWnh0bUh0X0ZMRGdGOWo1Ym5hQ2s?oc=5",
-          "published_at": "2026-11-07T00:18:00+00:00"
+          "title": "금리 인상 저울질하는 한은…코스피 폭락 변수되나 - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wVnM2aGg0UVpCSllvNXJTeU12anp5cHczUWhSQTJvRDZFZS1janlHU1hsZ21KOXJ2MnlPWlBhRnhmcG15aUJDYVNJRnFVQ3ZuUHZYakQwdXZnMFZiaVdaYkJWVVRoRjh5cGM0?oc=5",
+          "published_at": "2026-11-08T03:30:03+00:00"
         },
         {
-          "title": "뉴욕증시, 반도체주 반등에 나스닥 1% 상승…금리 인상 우려는 여전 - 산경투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNmRXS0JoeVRqcTkxeUxKUUl2UU9IT2UtZVlLRUFXZXIzU29xclVIeVJpNW94NlBJRVVRT1Y0UW1pd1JUSkVYRmpNNDY3UHFId0RiWGhlS21OaC1DMGJDZVZ6eDdBYkhZVTFOVEFzVXTSAXRBVV95cUxPRFhnSTZrcFhtOWtiOG5aLWVYdExKTWUwZk1MX1lRdFIyVzZTbEYxQXNFcFNvb05DWFVwTTAwQzZzTVhzSUF6bHpPUG9UbUUtbnJDMVQ0YnEzVEEtSDdYU1QwZVdVbjMtek43cjc3dGRGY0RIeQ?oc=5",
-          "published_at": "2026-11-06T23:53:22+00:00"
+          "title": "비트코인 7만5천불 횡보…美 고용지표 호조에 금리 인상 '우려' - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Kcl9OcVZJMS1WcEhvVWhtV3FqTk9mZXpEWGEtem1tc3pxS1hqR1R2QTBGM3BaMTFCNTdTNDhmamVrZDN5Ti1zRVRiM09KelF1RENXb2Fn?oc=5",
+          "published_at": "2026-11-08T02:02:29+00:00"
         }
       ]
     },
     {
-      "keyword": "중국",
-      "score": 75.47,
+      "keyword": "환율",
+      "score": 63.84,
       "articles": [
         {
-          "title": "국산 단감 중국 첫 수출⋯청도·상주 감 농가도 판로 확대 기대 - 경북신문",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NcmptM0NxaEJ6Z0FVT04wNy1jZzROaFViZFBjdnVxVTY5SExsX1BBQ2prc19JSzIyRi0tSVU2UWpvY0FOR29hNmp6d1daYmZKY2Zibm5MNEI?oc=5",
-          "published_at": "2026-11-07T09:07:09+00:00"
+          "title": "[표] 외국환율고시표 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzUHdHQ2xEUDVmWHV1NXJBbTJrcnBLS0YwYnpNRkxjOG9UaEFfZDUwdU9Bbks0STdSRXVFa2x5dU1TZ3FuWWJJNUJEdnVaMXkxUGc?oc=5",
+          "published_at": "2026-11-08T08:35:02+00:00"
         },
         {
-          "title": "경남도, 11월 6일 중국 첫 단감 수출 선적식 개최…19.6톤 출하 - https://www.newfilenews.com/",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOX0xNVnhtVkpLbktRbG44SUhoOFRwLVUzMG1tVDZzaTlMamZCZUlScWxvb3NfcnozWlR5MU5BT0dfYUxXM2hSZS00aUFWSkN2ZDJjN0RBN3hDdnpRbUJTV0lxUFN0Vk01c1VBb1Z3?oc=5",
-          "published_at": "2026-11-07T08:38:56+00:00"
+          "title": "[표] 외국환율고시표 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HSm5LLUZUejloNGFYYWM4aEd1aW9Pak45X08tTloyY0xMWkhkc3Z1bm5FQ2xIWjQ5ZmgtNmxzdmpMcTFpejV5dXNCcGtpNVVpSHFxRA?oc=5",
+          "published_at": "2026-11-08T08:35:02+00:00"
         },
         {
-          "title": "李대통령, 국산 단감 첫 중국 수출에 “농가에 새로운 기회” - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbkxfSzJoX1JkUi1FSmNMTlphYXFScEQ2R3dEWG1Zbzk4Nmc5SE1RalhXR2xxTWkwdWRFclN6SUMydlNvMjM4dzRrU2FEXzZFcjd5Q1JBSmpNdG9uSG1TSmlGcmtFUURWRnc?oc=5",
-          "published_at": "2026-11-07T08:36:04+00:00"
+          "title": "환율 껑충 - 세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yRHpFWWVXa25EZFVWbTZTNTdqd256eUdQMXpXNHM1OENBTDNBRGtZSXJwWFJVcEJzMjhTT2wwLVBRc04xQkRYbWsxeDd1QzVSWDVNeng0d1_SAVRBVV95cUxOUjR2RnlMbUZjUF9fNDUyX0VyZl9rQ2I3Tjc0YXdRU0NTVjVoZUQ5WGtlWTdDQ2pFMVNjbGNuQkxaVTEwZGJyaXBIMUJ6OXNFUDZONXo?oc=5",
+          "published_at": "2026-11-08T08:13:06+00:00"
         },
         {
-          "title": "李대통령, 국산 단감 첫 중국 수출에 \"새 시장 개척 지원\" - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhcHJUdkN1THotWXZIVVViTHlXQnVPdHhPQl9iUGxoQUhqSlpuaEZOZzNEWEJBclNCTE5qT1FneDQwNHVOQmpObnpoVEExdFNLQnBqSQ?oc=5",
-          "published_at": "2026-11-07T08:32:00+00:00"
+          "title": "삼성전자·SK하이닉스 배당에 은행채 두 배…환율도 들썩 - 자본시장뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zZjZFRXJNemFPQmZQc0FEdGV4clVRQXFEbXZVVXJEOXB1b0YzdVRkUnF6ZUdRbmxIR2RNVnBGZm5rRlQ0eG5JUnJCb2pDWjdSdFVRb1FTWHEydzllcEdaY3NNenRGYWM?oc=5",
+          "published_at": "2026-11-08T07:00:00+00:00"
         },
         {
-          "title": "李대통령 \"17년 협상 끝에 단감 중국 수출…우리 농가 새 기회\" - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DcWRCemxMZmJtbU1oMmNKUlZFTXNoLXQxVTBpb05QdHZZbExZSkxXWmlmYVZaVnhuTUREY1hfbThkTGh3ZlRtSWtRb0JYa2NIMHVxbWZLNTg1XzdIZTd4Zk5tNUlUMmVoOTdTT3pwM2k?oc=5",
-          "published_at": "2026-11-07T08:30:59+00:00"
+          "title": "美 중간선거 여파에 달러·원 환율 '껑충' - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBreHg1cmFjVzdLbHlncmFSS1NQaDlUZG1fckhUc3ZCZnNsYk9kd2ZrRDNBU0loWk9sMWJoVzJlMlM5RmhEZ0x5YlhzUQ?oc=5",
+          "published_at": "2026-11-08T05:15:53+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "매일경제",
+      "score": 63.62,
+      "articles": [
+        {
+          "title": "[1보] 한은, 기준금리 연 3.50%로 또 동결 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56aWJybkFzN0F2UVJ1ak1HYTJNRDNuQ3Jlb3RVSjQ5QlVFenlCdTJTZ2VIVHFlamkyZUlPZXpQY3BEN3hBblpmNHFoMVg2dHBf?oc=5",
+          "published_at": "2026-11-08T09:13:18+00:00"
+        },
+        {
+          "title": "[표] 외국환율고시표 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzUHdHQ2xEUDVmWHV1NXJBbTJrcnBLS0YwYnpNRkxjOG9UaEFfZDUwdU9Bbks0STdSRXVFa2x5dU1TZ3FuWWJJNUJEdnVaMXkxUGc?oc=5",
+          "published_at": "2026-11-08T08:35:02+00:00"
+        },
+        {
+          "title": "[표] 외국환율고시표 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HSm5LLUZUejloNGFYYWM4aEd1aW9Pak45X08tTloyY0xMWkhkc3Z1bm5FQ2xIWjQ5ZmgtNmxzdmpMcTFpejV5dXNCcGtpNVVpSHFxRA?oc=5",
+          "published_at": "2026-11-08T08:35:02+00:00"
+        },
+        {
+          "title": "[신장섭의 기업과 경제] 분기 1%가 왜 '깜짝 성장'인가 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96VDQzYnhYVFlBeHpCNXBUSkNvUjhFMVNmZFl6MkU0SmFzdGNwcVRmTWtkMUpmQndjNUVmQVhHNndCYlYtbzd4MVdrUzF2d3NVa0ZSdHFaNUFNbUE?oc=5",
+          "published_at": "2026-11-08T08:22:00+00:00"
+        },
+        {
+          "title": "해외수출 농심라면 하루 178만개 쏟아진다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EaW5uc19zNEtpdGE1V3dVNTdDNGdpUXBwQ1pUcFNwdWxjVVZQUERHQ0hFRjVjLUFzVFpreFRCUllMcHpSUS1aR1hReHU1WFdlSXBkWk13?oc=5",
+          "published_at": "2026-11-08T08:16:42+00:00"
         }
       ]
     },
     {
       "keyword": "기준금리",
-      "score": 69.21,
+      "score": 63.1,
       "articles": [
+        {
+          "title": "[1보] 한은, 기준금리 연 3.50%로 또 동결 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56aWJybkFzN0F2UVJ1ak1HYTJNRDNuQ3Jlb3RVSjQ5QlVFenlCdTJTZ2VIVHFlamkyZUlPZXpQY3BEN3hBblpmNHFoMVg2dHBf?oc=5",
+          "published_at": "2026-11-08T09:13:18+00:00"
+        },
         {
           "title": "영란은행 필 위원: 내년 성장 정체 시 기준금리 동결 또는 인하 가능 - www.tmgm.com",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWE84Z0l1Um5LcmJfdkNjQ01iM0FpS24xVDJQUlBIOW5vMFh1U0ZzZnYtUFA0VXY3bS1RUmpUVGRaQXA3UGJacktVemFwMTl3MjdYbzZydnZkRk9CeVR2eThaOUMyVHZaVTdOQ25WMnlPM3F1QzlVcnlHWDJaSS10SWt1NlU1RmxId1JHNzVURGNqb0xFQlNscXlWUmRDd1M5M0NJNVBxWkFmV0JXbWM4clFWVEItQndzNXljSDNNM093Zzk2ZlJsU1pxWnBmNWFxMnBGTnZDVGg?oc=5",
@@ -231,73 +298,6 @@
           "title": "중동발 물가 압박에...영국, 3년3개월 만에 기준금리 연 4%로 인상 - 녹색경제신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11b0xoaUdvMjZjT29kakp6aFYxUU5fTlpoaTFycEUzNU8zc2czc3dQTlFuVUNYT2VOdHREQjZvUm04dXB1UnJQYTVnbzBDY0tweEl1SlJyRVMyZ0NyLTgyQkJCNm5yVWtN?oc=5",
           "published_at": "2026-11-06T08:37:49+00:00"
-        },
-        {
-          "title": "멕시코, 기준금리 6.25%로 0.25%P 인하…\"4회의 만에 예상밖\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wNTZOc01CS0VzLUdTZUJCR25sNkMydWVEelZXZjNKYVMyMnVzMTl4SlMxOXRjUmhiMEVCQ3VWQnVDNTVIYkxVNkh5am5GZUR1XzBrVWdDbW9qNklCZlYyZtIBeEFVX3lxTE9SVkwteHpZUjVkN2lFS2hRcWJjbVh3VjdTQWFBV3hhWUJmQmhoVnRraHJva2o1Y2xwamVDbkZla25GSGFseFpPWFpjN09PYmdodFMtb0FMM0YxUVljQmsxd19EXzYzVVNBRlVVdkYzbER4ck82Q0RlXw?oc=5",
-          "published_at": "2026-11-06T03:58:47+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 61.74,
-      "articles": [
-        {
-          "title": "물가상승률이 4%까지 치솟으면서 유럽중앙은행(ECB)의 금리 인상 가능성이 높아지고 있다. - Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQzJVYWp1ZDVOblVXdEtQN01HemJlbzVfeTVCMEdoX2I1UUhmQy1zRmpZT3BvRURJd09TMDBtaTdNUU1uM282SlJIVF9uSFdvQ29UcUtYNkVpNlJmQ0hlcUp3SUloU1g5U29FcVFfek42Nk5aLWtsR0FwREcwZjVDQzdqRHBVVnM?oc=5",
-          "published_at": "2026-11-07T04:16:20+00:00"
-        },
-        {
-          "title": "[해외시황] 뉴욕증시, 반도체株 반등·금리 인상 우려에 '혼조'…나스닥 1.09%↑ - 프라임경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00UFA1UFNuNm10cDNaXzRMM1RXNWdmT3lpT1gtZ09HZnUyOVVKTEhUY2k4STc3OVBuaDJDdW1ETWxvcWxreEt2SXkxN1J2X1V4UmNZZDBfZWNJd2pVVlFRM1p5M2lxRDNuak4yRg?oc=5",
-          "published_at": "2026-11-07T02:22:50+00:00"
-        },
-        {
-          "title": "프랑스 재정위기 우려 확산…국채금리 급등 60만명 거리 시위 - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53NVlDNXE2aHNQVWlIT1EzSjRHN3RjM3F3ZDgwVUZQSHJSQURTdDFWZzZkX3JfRkNlSFk1LWM4R2dpckJVaW5Bc2pSa2pzX0pTVWfSAVNBVV95cUxOYzl5TnFEc2tReHRLYU9PRW10U3FPX014Ynh1SlJoNTItdW9uOTBmVWpZZmh0emIwbVZBQk1DUHh3RDVVdGFpQk8wemRzNWpKaFpXcw?oc=5",
-          "published_at": "2026-11-07T01:28:08+00:00"
-        },
-        {
-          "title": "미국 10월 고용 호조에 12월 금리 인상 확률 76% 돌파 - 기독일보",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sLXVQZEJCdURheDk1SUtvQnVLbmlvc1ktTkJ5SVpfMlFxaFE0ODFjdkg3RVc2ZndQOUx1MmFWa1c4YXlNSFg2cXpIUlppZEhUU0dvb0gzNNIBXEFVX3lxTE5nZDlQekRYa0RySTVzaGNCSjRRT1owcjNoVUZpeDNfR0ZpV3hhT1B0ZTByeDRvLXlpSUw4a3k0SElQTjF3MWp1aWZ1MXFlRUM5aDl3aXhMZVAzTDhS?oc=5",
-          "published_at": "2026-11-07T01:18:03+00:00"
-        },
-        {
-          "title": "[외환] 美 '깜짝고용'에 다시 1,360원대…12월 금리 인상론 부각 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZF9vOEZVWG1WeGVhRmYtN01fUFktVTF6YmFaLXlfWkFhWlNwWjQzQjYwbGgzYVhRWkZ5a2h4RzcwaUp0OFQxZ2FkQlBJSE1XOWNQRFAxbGhRV0hWWnh0bUh0X0ZMRGdGOWo1Ym5hQ2s?oc=5",
-          "published_at": "2026-11-07T00:18:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "우리",
-      "score": 49.5,
-      "articles": [
-        {
-          "title": "李대통령 \"17년 협상 끝에 단감 중국 수출…우리 농가 새 기회\" - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DcWRCemxMZmJtbU1oMmNKUlZFTXNoLXQxVTBpb05QdHZZbExZSkxXWmlmYVZaVnhuTUREY1hfbThkTGh3ZlRtSWtRb0JYa2NIMHVxbWZLNTg1XzdIZTd4Zk5tNUlUMmVoOTdTT3pwM2k?oc=5",
-          "published_at": "2026-11-07T08:30:59+00:00"
-        },
-        {
-          "title": "K-단감, 中 첫 수출길…李대통령 “우리 농가 새 기회” - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UXpBX2p6WDFEVkNyRmptc21PU1VhNUV5N1lpMXFMclZSWGhKbWVEUzJLbHhCVjZRenQ1d1RJM3VsS2s3WjJjeGhlM3drN1dBTTVPWTAyQmpLMGc?oc=5",
-          "published_at": "2026-11-07T08:19:38+00:00"
-        },
-        {
-          "title": "李대통령, 국산 단감 첫 中수출에 \"우리 농가에 새로운 기회\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yQ1RHNW0tX3l5LVhWZ3VseU5TYk5PYTg0VEJTXzBlU2t1eXJNakcxb3Z5MEFZZGlwazdITGl3cWNjXzVhNnFDTVIwci1GclJxVXc?oc=5",
-          "published_at": "2026-11-07T07:53:54+00:00"
-        },
-        {
-          "title": "李 대통령 \"우리 단감, 중국 첫 수출…새 시장 개척 적극 뒷받침할 것\" - 남도일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JYmZoS3dEYm83cmFkTUp1R0lvdUJyM3dDTUFOVmp6U0hSYTF0WnBzVmY3aGczZWNqYjE3SVllN2dScG1UdEt3TTF5em5oMWlacko4bEZ3eVhReEduZ2YwZC1zN0F0bXV3WXJqadIBcEFVX3lxTE8wUkY2VGNyNEV5ZXpoY0d0czZsNm1ibkV6QmFqZFI3QnItVEhYdzVhMDBYeEc0SnVUWkZ3aDJHcmQ0T2RxVGlvQWI3SDhRdjdEdTQ5c3BaYlhYM2tGcHAtWHVVWUpLY1BPNVZubTlENVM?oc=5",
-          "published_at": "2026-11-07T07:47:28+00:00"
-        },
-        {
-          "title": "李대통령 \"단감 17년 만 中 첫 수출…우리 농가에 새 기회\" - 대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GNHAydlpBeWtXTXRDOGVsd08xSHBSSUZaM3BDYW9rWDNtWkQtTTlwd0Z1SGk3TlRDUFJFLWFlMENDWjRxOHVpVEVVVnVKSXRNaG9rcXdHbmJGZlIwSUg4TlB6ZjBzb2p0b29nUHNCRQ?oc=5",
-          "published_at": "2026-11-07T07:34:00+00:00"
         }
       ]
     }
