@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-11-14T09:46:01.963939+00:00",
+  "generated_at": "2026-11-15T10:19:48.632622+00:00",
   "source_count": 4,
-  "article_count": 391,
+  "article_count": 384,
   "top_keywords": [
     {
       "keyword": "수출",
-      "score": 151.02
-    },
-    {
-      "keyword": "엔비디아",
-      "score": 87.91
-    },
-    {
-      "keyword": "금리",
-      "score": 81.73
-    },
-    {
-      "keyword": "트럼프",
-      "score": 61.65
-    },
-    {
-      "keyword": "10월",
-      "score": 55.2
+      "score": 266.38
     },
     {
       "keyword": "한국경제",
-      "score": 55.06
+      "score": 139.15
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 52.68
+      "keyword": "반도체",
+      "score": 129.06
+    },
+    {
+      "keyword": "물가",
+      "score": 115.68
+    },
+    {
+      "keyword": "ICT",
+      "score": 105.19
+    },
+    {
+      "keyword": "10월",
+      "score": 89.73
+    },
+    {
+      "keyword": "만에",
+      "score": 65.3
+    },
+    {
+      "keyword": "금리",
+      "score": 64.26
+    },
+    {
+      "keyword": "지역경제",
+      "score": 53.42
+    },
+    {
+      "keyword": "상승",
+      "score": 51.17
     },
     {
       "keyword": "연준",
-      "score": 52.45
+      "score": 47.47
     },
     {
       "keyword": "CPI",
-      "score": 50.72
-    },
-    {
-      "keyword": "1위",
-      "score": 48.25
-    },
-    {
-      "keyword": "수입시장",
-      "score": 47.68
-    },
-    {
-      "keyword": "중국",
-      "score": 47.41
+      "score": 47.17
     }
   ],
   "hot_topics": [
     {
       "keyword": "수출",
-      "score": 151.02,
+      "score": 266.38,
       "articles": [
         {
-          "title": "경북 상주쌀 ‘미소진품’ 호주 수출 확대…누적 수출액 1억2200만 원 - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Bd05rYzVMazMya0dNTVVXTHhxMlNOYzF3dUNUX1NRYWtwSGJ4d3RROTB3U191bmdYaGJPbjEtc1pvNi1DdFphVEY0LW5SRHh1T0VGQTFscVJYR1djY0E?oc=5",
-          "published_at": "2026-11-14T09:36:00+00:00"
+          "title": "AI 특수에 반도체 수출 259% 폭증…ICT 수출 두 달째 700억달러 돌파 - www.sisaworld.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KQzhONUR6M2lrM0lHSnZ2RTNDSlM0WW5iM05pVmppOXUwUjR4OWt4ZHVOZEIzakNHM3lUMHZ6WDFORGJ1a0JMdlRhQjRVOTBVdll3UjVUM3hEc29CSEVRV1BLdjVXOWFGTlE?oc=5",
+          "published_at": "2026-11-15T10:12:01+00:00"
         },
         {
-          "title": "트럼프, AI 수출통제 풀기 전 엔비디아 주식 매입 논란 - 대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNC1sV3NhT2l1ejN0dEx1UTA4OG4yZUtkTk04SzNOZFNQdTRXQXJtRUhWR1F6dWNpTEtTWGdlM1FIMGZKLUFfb1hkUkM3ZXpiUG4ya3JIdjJJZTZnYVdQeTMyNEN6TmpPUGdZaDlhQdIBc0FVX3lxTE5SMExKdEFna2JiQV9ndjBKcmdhbXNLc0hIMVFUV2hyb0tuUTBtbi1GTUxCRnMtVlZjWUVpOXEzS280T0NqZXhONW80YWU0Zy1PQmdYV2ZXT0d6S3h0U3p1QnBRdXJQcUdoM2Y5QWtvVG1hYkU?oc=5",
-          "published_at": "2026-11-14T09:18:39+00:00"
+          "title": "한국 수출 신기록, 중국 시장 1위 자리 6개월째 굳건 유지 - 공감신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxZmQteVN0dUh0dTlWcFYzNzAtVHZLM0dWTXRrem1aczVsSmVGcHBrQk5RZ21KUlFXbVR2ZkQ2UzhLWDQ2Rjl0d1FKVVE5TXBUMjA2bkhoTEVFOGxmMjM4ckYya3RFanRM?oc=5",
+          "published_at": "2026-11-15T10:00:32+00:00"
         },
         {
-          "title": "트럼프, AI칩 수출통제 풀기 직전 엔비디아 주식 대규모 매수...이해충돌 논란 확산 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbTdkR1IyX1VmbkhjQkJqUGJIMFBxYVNJcWc2WThhMlM2NTVqT1VSUWpjRFJOVG0yMThaNTd6bElsOU1WTS1McGp4VlBoLThQekNEWk1zLTVERmxTNXJSUVMwV1ljUVdyQS1QYkdhYnlzMGM4ZEFpaHlnUk5SUjBNd3BYVm52RWxt?oc=5",
-          "published_at": "2026-11-14T09:17:19+00:00"
+          "title": "배추·무값 폭락에 수출로 돌파구…정부, 연말 김치 수출 총력전 - 식약일보",
+          "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9GWElab0pMYUhVUDBLaVZkWXVkT1k4YVJFZHQxQVF0cjhRVGRWUEUxdHZfR3JUcF8zUll3?oc=5",
+          "published_at": "2026-11-15T09:51:00+00:00"
         },
         {
-          "title": "[N위크] 韓 수출 사상 첫 ‘1조달러’ 달성 유력...차기 은행연합회장 최종 확정 - 조세금융신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJYlpPSkFRUnppa3d4OEtOaGxKaGVoSlRNWnkwbnF1eWJsWHhTNWxRX2R2bEF5SzBuZUgxbWRQUnRic2x6VU1aRkpWSTZpeE5SZkxkUEhQeGoyZ2E2X0JRSg?oc=5",
-          "published_at": "2026-11-14T09:11:42+00:00"
+          "title": "ICT산업 수출 700억달러 돌파… 반도체 훈풍 견인 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUFRrT25DNnVIMDdzc2lpcDZXcXpxZGJ1WExsYWZoSFlGTlU4ZDg1anBQMlpkcGZCMnNORXRvanROQmZUUmthamFQbmVHWmRaeE4xeERmUE9MQQ?oc=5",
+          "published_at": "2026-11-15T09:20:20+00:00"
         },
         {
-          "title": "트럼프, AI칩 中 수출규제 풀기 직전 엔비디아 ‘풀매수’ - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZDhfM015VjBGS2t2Q3ZfLXRNMFNWbWNYVmVnT1JRamZ1QkVxMkFSQ3BVa0FnbTRPUm8yNzNveDFyblFvaDFWcjlfTVZWb21DSnhNVWRGa0I3Nnd4MlZxbkU2cmFVSURPOHhwRl9NUGxsYU3SAWZBVV95cUxOODJJaVRFd1hfSVdNRFhGYjdPMUxtS2t6QUVzWURXWVM0YWZwSnA0MXZ3bUxnQXUyNDRfbms1VU1naFNxVF9oMm5fN214MURncEFFUkdwYm1nbGo4N3NKNERsWHVaNVE?oc=5",
-          "published_at": "2026-11-14T09:11:14+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "엔비디아",
-      "score": 87.91,
-      "articles": [
-        {
-          "title": "트럼프, AI 수출통제 풀기 전 엔비디아 주식 매입 논란 - 대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNC1sV3NhT2l1ejN0dEx1UTA4OG4yZUtkTk04SzNOZFNQdTRXQXJtRUhWR1F6dWNpTEtTWGdlM1FIMGZKLUFfb1hkUkM3ZXpiUG4ya3JIdjJJZTZnYVdQeTMyNEN6TmpPUGdZaDlhQdIBc0FVX3lxTE5SMExKdEFna2JiQV9ndjBKcmdhbXNLc0hIMVFUV2hyb0tuUTBtbi1GTUxCRnMtVlZjWUVpOXEzS280T0NqZXhONW80YWU0Zy1PQmdYV2ZXT0d6S3h0U3p1QnBRdXJQcUdoM2Y5QWtvVG1hYkU?oc=5",
-          "published_at": "2026-11-14T09:18:39+00:00"
-        },
-        {
-          "title": "트럼프, AI칩 수출통제 풀기 직전 엔비디아 주식 대규모 매수...이해충돌 논란 확산 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbTdkR1IyX1VmbkhjQkJqUGJIMFBxYVNJcWc2WThhMlM2NTVqT1VSUWpjRFJOVG0yMThaNTd6bElsOU1WTS1McGp4VlBoLThQekNEWk1zLTVERmxTNXJSUVMwV1ljUVdyQS1QYkdhYnlzMGM4ZEFpaHlnUk5SUjBNd3BYVm52RWxt?oc=5",
-          "published_at": "2026-11-14T09:17:19+00:00"
-        },
-        {
-          "title": "트럼프, AI칩 中 수출규제 풀기 직전 엔비디아 ‘풀매수’ - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZDhfM015VjBGS2t2Q3ZfLXRNMFNWbWNYVmVnT1JRamZ1QkVxMkFSQ3BVa0FnbTRPUm8yNzNveDFyblFvaDFWcjlfTVZWb21DSnhNVWRGa0I3Nnd4MlZxbkU2cmFVSURPOHhwRl9NUGxsYU3SAWZBVV95cUxOODJJaVRFd1hfSVdNRFhGYjdPMUxtS2t6QUVzWURXWVM0YWZwSnA0MXZ3bUxnQXUyNDRfbms1VU1naFNxVF9oMm5fN214MURncEFFUkdwYm1nbGo4N3NKNERsWHVaNVE?oc=5",
-          "published_at": "2026-11-14T09:11:14+00:00"
-        },
-        {
-          "title": "“AI칩 수출통제 폐기 직전 주식 샀다”…트럼프, 엔비디아 투자 도마에 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PU0xUMVNrcVNkOERqbFBtWVhMNC0tbjY1eVI3QzNQb01Yd1gxNHFwLWd5X01IU0ZDdG1tdERENXJMeXljajZsMGg1NElQemtFRzFJYlNR?oc=5",
-          "published_at": "2026-11-14T08:59:47+00:00"
-        },
-        {
-          "title": "[속보] “트럼프, AI 반도체 규제 완화 전 엔비디아 주식 매입” - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWNwanFHb01KZVJ1TnkxaUdOemJRRkdsT3JibjVwalhNYmdKc3ZkUjQzSmJKdjc4NkJlTkp3NjlyNTgxTDVWWkpPek1DaTQ0RHZJbHJIYnc4MF9PeW93TU44cEFubkFFOEdEYzFIQXRkODJ4YzVVMl9QYXZLekJBRWtVd3VZVW05TWVJ?oc=5",
-          "published_at": "2026-11-14T08:56:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "금리",
-      "score": 81.73,
-      "articles": [
-        {
-          "title": "[만평]연말 금리인상땐... 부동산 지옥문 열리나?! - 매일산업뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oM3dPZE1Cb0xDVDJsODN4VHlRTEkwNDQ1ODcyTzAtNGZTajZETTRPODI3UVNmLVlqcTJ4VjY1bFdFaTNXeXRCSDFwVXhyQW1iYk9GTkd1NUxwd3RzTm5PMVlLWQ?oc=5",
-          "published_at": "2026-11-14T08:34:53+00:00"
-        },
-        {
-          "title": "영란은행, 2027년까지 추가 금리 인상 가능성 시사 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McVlQclA0RFVtZ1I3ZEpQME03SEpCTWJ3Tkd5ekhJanlGZXBTUFlvMzNQeUo3VmZiNDI5TmI4Ry1LVkhST3ZXM1c4cEprZEx1X2FZYXBqTWdDZ2RmeVpPLXA5RzAxQ3RWLTIwOHNLZGU?oc=5",
-          "published_at": "2026-11-14T08:24:00+00:00"
-        },
-        {
-          "title": "페루, 계엄이 아니라 엘니뇨로 비상사태 선포...…중앙은행, 4년 만에 금리 인상 - SBS Biz",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uR3pYUmdWZ0FNOExESUJ1T2ZpQ0xyOGs5aW5TMFdSQU9Da0poS0htbkZNdUUzQkZPU2VRM29mcWJiSG12SFkxZ3gtVVZkRzdGUUlJ0gFYQVVfeXFMTXl6a0phaFdkSDUzWFFreTN4QXpucGhPcC00M1l0Wm5lSmZDdUJlYW0tT01VeW5QZ08xQUNpdXdYM0JxQ0tXRXotc0VlNG9BdHBnQ0RnOF9oeQ?oc=5",
-          "published_at": "2026-11-14T08:22:00+00:00"
-        },
-        {
-          "title": "美 금리 상승 압력에 국채 금리 반등 가능성…회사채 시장 단기 영향은 제한적 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcGlNMWFQOF9hVkVoN0tCcVNib0ZTS1hoaXhZcy1Hd3ZScUxHZEVFSlVfS3lZNmRHVGF0NjdXSUlNNVVyRjI4WVd6Wlg3Y0xkbDRmQ0pBUjZmblU?oc=5",
-          "published_at": "2026-11-14T06:00:00+00:00"
-        },
-        {
-          "title": "[심층] 미 중간선거 민주당 압승에도 관세 그대로···대구·경북 수출 '금리·환율 비상' - 대구MBC",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcWhzb3BMeUp1dVpMS05lU1Y2WkhocUJJTEZoLVFaekVqdmhoY1cyQjZCR1FkckV4dndlc0JMZS1ld3NHb1N4MGtkcEQ?oc=5",
-          "published_at": "2026-11-14T05:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "트럼프",
-      "score": 61.65,
-      "articles": [
-        {
-          "title": "트럼프, AI 수출통제 풀기 전 엔비디아 주식 매입 논란 - 대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNC1sV3NhT2l1ejN0dEx1UTA4OG4yZUtkTk04SzNOZFNQdTRXQXJtRUhWR1F6dWNpTEtTWGdlM1FIMGZKLUFfb1hkUkM3ZXpiUG4ya3JIdjJJZTZnYVdQeTMyNEN6TmpPUGdZaDlhQdIBc0FVX3lxTE5SMExKdEFna2JiQV9ndjBKcmdhbXNLc0hIMVFUV2hyb0tuUTBtbi1GTUxCRnMtVlZjWUVpOXEzS280T0NqZXhONW80YWU0Zy1PQmdYV2ZXT0d6S3h0U3p1QnBRdXJQcUdoM2Y5QWtvVG1hYkU?oc=5",
-          "published_at": "2026-11-14T09:18:39+00:00"
-        },
-        {
-          "title": "트럼프, AI칩 수출통제 풀기 직전 엔비디아 주식 대규모 매수...이해충돌 논란 확산 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbTdkR1IyX1VmbkhjQkJqUGJIMFBxYVNJcWc2WThhMlM2NTVqT1VSUWpjRFJOVG0yMThaNTd6bElsOU1WTS1McGp4VlBoLThQekNEWk1zLTVERmxTNXJSUVMwV1ljUVdyQS1QYkdhYnlzMGM4ZEFpaHlnUk5SUjBNd3BYVm52RWxt?oc=5",
-          "published_at": "2026-11-14T09:17:19+00:00"
-        },
-        {
-          "title": "트럼프, AI칩 中 수출규제 풀기 직전 엔비디아 ‘풀매수’ - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZDhfM015VjBGS2t2Q3ZfLXRNMFNWbWNYVmVnT1JRamZ1QkVxMkFSQ3BVa0FnbTRPUm8yNzNveDFyblFvaDFWcjlfTVZWb21DSnhNVWRGa0I3Nnd4MlZxbkU2cmFVSURPOHhwRl9NUGxsYU3SAWZBVV95cUxOODJJaVRFd1hfSVdNRFhGYjdPMUxtS2t6QUVzWURXWVM0YWZwSnA0MXZ3bUxnQXUyNDRfbms1VU1naFNxVF9oMm5fN214MURncEFFUkdwYm1nbGo4N3NKNERsWHVaNVE?oc=5",
-          "published_at": "2026-11-14T09:11:14+00:00"
-        },
-        {
-          "title": "“트럼프, 시진핑 회담서 젠슨 황 ‘스파이 연루 의혹’ 거론 안 할듯” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDgxd1hwUEhBRnhwdDFuRE85Yk1uYlN0a0w5OVl4eGVXR1MzVEVSUmExRER3NGlQT1FrbmtMRHhjOFFSY21tNUY2TFY3MkdjTTFCZnhnVTFKUE0yQTVGT1hfSHM5S24yeGttdDdkcThqd0ZhODNBdHFtOGVqd1NXTzlR?oc=5",
-          "published_at": "2026-11-14T09:00:00+00:00"
-        },
-        {
-          "title": "“AI칩 수출통제 폐기 직전 주식 샀다”…트럼프, 엔비디아 투자 도마에 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PU0xUMVNrcVNkOERqbFBtWVhMNC0tbjY1eVI3QzNQb01Yd1gxNHFwLWd5X01IU0ZDdG1tdERENXJMeXljajZsMGg1NElQemtFRzFJYlNR?oc=5",
-          "published_at": "2026-11-14T08:59:47+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "10월",
-      "score": 55.2,
-      "articles": [
-        {
-          "title": "[데이터] 2026년 10월 가공식품 물가, 참기름 1년 새 7.2% 상승 - 시사매거진",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wMWtPWnJnRGJkVUpFVlBydDVidDlEMnJxS0ZyNmU3aDZad2N2ai1FS1RkZ2xLMXd0V2VsaVNScmpmMXlmdXlVQzZWOHFEQWtGQzNCOWNXN0ZkT00yN2dmV3VB?oc=5",
-          "published_at": "2026-11-14T02:06:35+00:00"
-        },
-        {
-          "title": "미 10월 도매물가 전년 대비 6.5% 상승…4년 만에 최고 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RSTFzRFBzb2t3bWxlN0dzelFEOWpEVlIxU1VoS0VXeTJiUWx0WVluY25lNERuZVlpREhpLVAzOXk3OW1zeW5NT2JuLWpFY2NEZk42VUJ5UnYwcHhPNUFSUDZZcEI4cDQ?oc=5",
-          "published_at": "2026-11-14T01:55:00+00:00"
-        },
-        {
-          "title": "미국 10월 도매 물가 전년보다 6.5%↑...4년 만에 최고 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkNWpGTnhvMVZ4NjhEMGtJbGw0M0x2RmVWVl9BY3c0YVlYVURkc0lOWWhMeUFhUkhQWklBbUJKNkprd19qLVFSSTIteGlUQmRHc0gzb1hkcjkxUlk1Unc?oc=5",
-          "published_at": "2026-11-13T16:17:00+00:00"
-        },
-        {
-          "title": "미 10월 도매물가 전년 대비 6.5% 상승…4년만에 최고 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xb2VzTDBDUnBKOVZ6b0xlMnNLVnY3bDU5dUVuTVpKQjUwcUg0Ym1nNTZqN1BnN1NOcWpubzFTUTNvYWE1Z3dwMmNqeFE0ekZFVC0yUi1KLXpOWUJhdTI3MFZ6MEZWajQ?oc=5",
-          "published_at": "2026-11-13T16:01:00+00:00"
-        },
-        {
-          "title": "美 10월 생산자물가 상승률 4년 만에 최고…시장 예상은 하회(종합) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ReUxxZ2F1MEJRblBmYmFZUFljSF9XYVYyRUxnY1E5RkxFR0NKT01obnJaY1FmVEcwMFgyUGRYRWdIY2lSRmRZUGpLWGlNdTBNUkdscDF0ZGNidmwxZTZSRTY4dHFlR1o3YXpiNkYwdnc?oc=5",
-          "published_at": "2026-11-13T15:54:49+00:00"
+          "title": "한국산 석유제품 호주 수출 증대 - 호주 톱뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vSHpnN3NUX0Y3OTNNZGNMcGhwWGQwSFVoY19ic3RrNzJJa0hSREtrakhwaU9tM1J0dVZZeXNTQXNKQVFjTmduVG1WWEpOSnJVa044RXE4TjhNZmZqdXRvdmU5UkFuX0FZakNFTUI3Q3U?oc=5",
+          "published_at": "2026-11-15T08:59:54+00:00"
         }
       ]
     },
     {
       "keyword": "한국경제",
-      "score": 55.06,
+      "score": 139.15,
       "articles": [
         {
-          "title": "트럼프 방중 앞두고…美 \"엔비디아 문제 회담서 다루지 않을 듯\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRS1MWXNaVGpsZFZ2ZFY1eVI2WUdZYm84QXU5WWZidHZaT1Y2R3o0UE40TmRyWGVwTHlaX2hhU1FCWEVYZGhVRXVuRWthaUxHX2VSNk9jRmMxdw?oc=5",
-          "published_at": "2026-11-14T06:18:03+00:00"
+          "title": "\"미래대응기금, 기존사업 간판만 바꿨다\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16dUZlMEsxdzlFUHpySFYwNEI4dUtsbUVWUWh5YnpDN0hWX2dNYUxPOVNkTHRZWjFZMG1ZTk0teE56MjNUUHlPZzRBOWFjc094ekJtUGJOdTBBZw?oc=5",
+          "published_at": "2026-11-15T09:28:56+00:00"
         },
         {
-          "title": "대구가톨릭대·대구한의대, 1.6t 김장김치 나눔 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kTGpGekNIaWYxYUc0UFFobnZSUGJJVE13dm1Mc2o1MVZvalhwTE5NX3hqbkYwR3hDRURYSUcybEdhQU1lUFF6endhOFNOWkhzTXV5RE9RbUJodw?oc=5",
-          "published_at": "2026-11-14T06:09:57+00:00"
+          "title": "시멘트 수요 향후 3년간 부진…건설 불황 장기화 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxZDVFUU1veUg2OC1KZGhNcnRQTTdjdG9MRDh5UHNQUy1WMnFqVVl0UERFeXBLUTVfRGUxSDc5LVQ4WGJydEJpdlhTc1p2RXJmd3VVWFlYd3ltUQ?oc=5",
+          "published_at": "2026-11-15T09:25:08+00:00"
         },
         {
-          "title": "젠슨 황 여파에 美 '칩 규제' 칼바람…중국 \"희토류 맞불\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PZUFzSXJ4cmY1cVdnbk15aUx4cno3VUhlcWsxTERjeXhQTkRhZXNPX2RBLUVvN0UtZWJxWUtCeGxTTWF0a0lLbGVlcU9nVE41aUhrYTdWc2Jvdw?oc=5",
-          "published_at": "2026-11-14T05:07:16+00:00"
+          "title": "김태억 크로스포인트 대표 \"RNA 신약으로 난치암 공략\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xb21jcVV0d3Q3N1RwS1JGQ0huVkZHTjlCVTNxc0Ntb01sOHFETmdDYnNIQXJGdDliSE5PWjlGTzFuRzdZa1k4OWFNb3E1SjQwWG9nTFM4bGc3QQ?oc=5",
+          "published_at": "2026-11-15T09:24:46+00:00"
         },
         {
-          "title": "몸쓸이야기 - 한국경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWW5OdnlTeG43ZTZuN3dQZG5GUzFUUWQ0M2FUeF9EY3JyR2V6a0wyNmhGMEJ0VHd5Wm5aQ0N5S0NUaXZKQUVrcWJ4Y1lmYTZkWjJickJWSGZTNVV1MG1fUVc3Rlc3RzFHQ21FMU1TUng0Y0FQX1hHbWEzQ1JRanNieUZUS3hEVVRmZVFid1NDMXV1ZXg2Vl84dWR1LVNRTU1lNWVF?oc=5",
-          "published_at": "2026-11-14T04:56:31+00:00"
+          "title": "회원가입도 불가…'유명무실' 모바일 신분증 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ENEo0alFuVmloME5UZ21iTlZkc3BWbXFOQ1FJaGVCVDh2cnhSZGtpeWVHTmpJTlJrM1RXMDVtRE5SMDRlcnF6RGtPN0QtVnpkRnVQM1VnaEoxZw?oc=5",
+          "published_at": "2026-11-15T09:13:31+00:00"
         },
         {
-          "title": "'미중러' 정상회담 열린다…\"트럼프-김정은 회담예정 없어\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xWjhreGZjUWRfYTJVMUk0Q1Y0NFhqRk5TOFJsN0xYMkNYYUpPWWJfMVFjcmJXWmpGX2xmQ1VsT0hKZXVuV3JEZ3VUMXlzX0xCbDNLLWlmcFNpQQ?oc=5",
-          "published_at": "2026-11-14T03:21:05+00:00"
+          "title": "\"K뮤지컬 창작 첫 단추부터 함께 꿰겠다\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaVUx5dlhocHd0RWU5RU4wa0xHclFZZS1Zd0F5UUVycnFSZGFucWhUZWprWDUzSDBqVDUtelJtR241T1pqeEE5aDIyUmdIQUFpdk1QWTRPZnFndw?oc=5",
+          "published_at": "2026-11-15T09:09:27+00:00"
         }
       ]
     },
     {
-      "keyword": "연합인포맥스",
-      "score": 52.68,
+      "keyword": "반도체",
+      "score": 129.06,
       "articles": [
         {
-          "title": "[뉴욕마켓워치] 美 물가 경계 속 엔비디아 후폭풍…주식·채권 혼조·달러↑ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ekFnSXZzbzI5ZGdIRGZhemw2MG5ldzFDNll2NURaT2VKdnM0M1N5dzhBclh0aEF6WlcwMnRHSGh4QVVOa09KVThGRDJZWU1nVTZPc2NScW53clhjUGRnWkZIVnRXN1JRZ3g1SW5sODI?oc=5",
-          "published_at": "2026-11-14T00:07:07+00:00"
+          "title": "AI 특수에 반도체 수출 259% 폭증…ICT 수출 두 달째 700억달러 돌파 - www.sisaworld.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KQzhONUR6M2lrM0lHSnZ2RTNDSlM0WW5iM05pVmppOXUwUjR4OWt4ZHVOZEIzakNHM3lUMHZ6WDFORGJ1a0JMdlRhQjRVOTBVdll3UjVUM3hEc29CSEVRV1BLdjVXOWFGTlE?oc=5",
+          "published_at": "2026-11-15T10:12:01+00:00"
         },
         {
-          "title": "[뉴욕환시] 달러 나흘째↑…끈적한 美 도매물가에 인플레 우려 지속 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CeWJmY2paajd0WlJ5RUJOVDZJQk5PX0lYdFFlck9LRXNlLUI0QjFYLVFaR1NDbzVxdXRCd1BWY0dJalc3RXUxOVpIbjlOcWdZXzREZzlaTEdsRjZZWThsc1hrRVFDeDRqTnZYQ2ozdWk?oc=5",
-          "published_at": "2026-11-13T23:20:57+00:00"
+          "title": "ICT산업 수출 700억달러 돌파… 반도체 훈풍 견인 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUFRrT25DNnVIMDdzc2lpcDZXcXpxZGJ1WExsYWZoSFlGTlU4ZDg1anBQMlpkcGZCMnNORXRvanROQmZUUmthamFQbmVHWmRaeE4xeERmUE9MQQ?oc=5",
+          "published_at": "2026-11-15T09:20:20+00:00"
         },
         {
-          "title": "\"국고채 금리, 연내 저점 찍고 반등…추격 매수 신중해야\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSGNja2FhMWwzQ0REaHQ0a0Fqb1pTaU5LRVFnYXRKU0RtekxoN0Yxc2locHNuMlpxTEtaX0pxTnBKQVA5c3dSaDZ2X29aYlhraDVZcU0ydmtaeHdCUzZlbnV6ckpORmlrSmtPOVhHaG3SAXRBVV95cUxOU0pyaFZ3TEFqX3RZejU1enlMLTNFOFFvUXAwU3pTQ1U3V0dzd3VrcTh3dUI4Tl9XbVNrVzc2TURNdjB4UDhrU1E1UkhDMmhvazE4cEhzTVpSeVgwekdiUzFwekRabng4LWJYYkxDcEp6WEZ3OA?oc=5",
-          "published_at": "2026-11-13T22:20:05+00:00"
+          "title": "[APEC 정상회의] 관세 완화·유가 안정은 기회…반도체 규제·LNG 수급은 불안 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zWDVDSUI5U3piRVlYQjJoOFhxMkIwVXJMOFA3UlF6cGtrbFBCN0tnUjRYYWFwRk9nT0N6cWhtWTFtbk5mRnRiVE5mT2wxYWJNWnplS3JwXzh0UdIBWEFVX3lxTE5uTFNrd1RrYXJXZUpZRTB2N0JSTHZWb0NWeThXbXBtbU14c2Z3VTh5X185Mk44OVBUaHdaNDlmek13YzBBQ2RhdC1wS01FcEloM29VWHNTRGw?oc=5",
+          "published_at": "2026-11-15T09:00:00+00:00"
         },
         {
-          "title": "[뉴욕유가] IEA '공급과잉 복귀' 전망 속 혼조…WTI 0.20%↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNMVJOSkhWdGdvdjM1aGRFMnI2WjlHbzE0SjFTaDlvRlNxRWpGQ3pMM2swYjE2ck9ZTzNjRFM1bU9jU2g1dTVLcEZZZThBc1pLZEI2ZURSWUNHZUo3Q09WY3hIeEtyWFpuWms5MTgxbVE?oc=5",
-          "published_at": "2026-11-13T22:07:23+00:00"
+          "title": "반도체 패권 전쟁…한국의 길 찾는다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rZEtBcFpUWkJjdUljYmdKLUU5RXpTMnNJUmZ1UV9fQ2ZrSmI2anpKVFBqbE9CeXlVREZtcXBSQkFXbmYyQU9RNEVvNmNLT0dkRXJxaGhsZFdvdw?oc=5",
+          "published_at": "2026-11-15T08:52:26+00:00"
         },
         {
-          "title": "분데스방크 총재 \"ECB, 추가 금리인상 필요성 매우 커\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xYmUyNVk3clI2TXFzMFRFbHFGMFloSDRSU0oxalM4eGZZQ2IyVFpWZnpSUTVlc1VROElhQk1id2s5aDZ0OTJUdnpYNURqNU1mbDdiNmI2eC1CTmFlYldSV1k5MmRDYmwtdHQ1T0hpMUk?oc=5",
-          "published_at": "2026-11-13T19:38:25+00:00"
+          "title": "'오락가락 美반도체 규제' 뒤엔 젠슨 황 그녀? - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QZ20tak1GUkRLbG1ZZHcxeU9rZlB0bkFLcFNGNGF4OGs0aXNjem5leEJERFVVa0Y4QUY1VjcwejBpOVZzb2x2WHR2UWVGNElPY3FfSDhHeGV0Zw?oc=5",
+          "published_at": "2026-11-15T08:51:35+00:00"
         }
       ]
     },
     {
-      "keyword": "연준",
-      "score": 52.45,
+      "keyword": "물가",
+      "score": 115.68,
       "articles": [
         {
-          "title": "시장은 12월에 연준 금리 인상을 예상 - IDNFinancials",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSW9GZmdrMy1uRDFUaTFZRkZfanM3c2lUTTYwNTdDUEx4ZVhBblkzaHE1NUdoeXE1VmZzT0h6M2lHMlV3cTF4ZkR0c19GTGJEcDZZQ2xMdjBGRk1YWTNfaGdvcGEyWWhrWTkwTjN6cVZFUFlSWHpOeTNkM3VlaW5OYndWc3QyTUdLYXRaNEdULXZCT2lLNGtwbDc3NllrV2lrOFp2dEpqc0g0RThtOFRHMERKNVozQTM4Q2doR1Vza2YwR1NRVW9laGZUanR6RUpmcXJ2NXI5SVVfenlvMDVoREptNDNMYXgzTXBxVjlUTTNXUTczbkNKVnZrcmlsUHNlNVNuXzVYRWY?oc=5",
-          "published_at": "2026-11-14T05:00:00+00:00"
+          "title": "이형일, 경제현안간담회 개최…물가 관리방안 조율 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTWh0UlhmX2l3cExwN2Q4bWFKVkJaYzR4UW51TUU0S195YUdqUHUzdGdEdlY4eUl3cUhpZ3ZiYkVWMGllSGI5aTJfOGtLUUJoVUY0WXNneVAwOXQ5OWpvU9IBeEFVX3lxTE5nQmt4SEhELXRSQVdldU1ETmdYTlBBb0U0WTZ1NTBxY1FadXFUSjJDWDBPX0tmaDdQSmJXbWpHLXRSd3FGSXNzYmZFa1NZUHFRU2ctMGxHMFBuQ1pIeVAyZEN6R1l4RFd1dVZlZjZxVU1JcU0zQUVEZg?oc=5",
+          "published_at": "2026-11-15T10:09:21+00:00"
         },
         {
-          "title": "美 연준 '빅스텝' 공포에 상업용부동산 시장도 긴장…\"거래 깨질라\" - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByc1lvUDIxZmlKZlhla1JKLW9ZczVLSDhlNTY5TnhlcjdSaGhLZUhXdFZ1ZG8yTHdoSEhnV0JsTmR1UEpwUUdiMjZqYTJZOXctRENQU244VTBYeldmUHZ1bk1JamR0UkZ5eTJzS1ZYU2NVWXc?oc=5",
-          "published_at": "2026-11-14T03:06:04+00:00"
+          "title": "이형일, 경제현안간담회 주재 물가 관리 방안 논의 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KNENlbmZ0YVNsVHZhSW9HeVhVOTNsOGxYbmVmTlNSNXdtTmJlR25DUE1ON2VYbW1fT2JZS0ZCUEc2cXpRM04wVTF4WHAyVmJ0cE51OHc3U0d4cmpMMDZ6WQ?oc=5",
+          "published_at": "2026-11-15T10:03:37+00:00"
         },
         {
-          "title": "연준 '매파 합창'…12월 넘어 내년까지 금리 올리나 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kU255UTNZUjVTMzVEcGs5ekpsQ085dmNURGkxcHFIb1hfMG1CVUJtYmJ6Ml9xMTFMUUZnMjBTVkE4TXM3Rm9MV0Y1NnBSRFlD?oc=5",
-          "published_at": "2026-11-14T01:25:01+00:00"
+          "title": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUUnZMY2FMWGg0SEdscUV3UzZCMURlQ19HTjZzZ2VURWdDcVV6d3ZsN2Ffbk1tcXNqYVZNSzdwRk1xdnNnUjVVSDNKQm9JYnBOLWc?oc=5",
+          "published_at": "2026-11-15T09:58:23+00:00"
         },
         {
-          "title": "美 생산자물가 6.5% 급등, 4년 만에 최고…연준 12월 금리인상 ’무게’ By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEMFVQaVFUbzExMF94VjBLalJPRjdqUXFPVGd3VmMwSFZqc1lvT1ltTmVYel9DZmVsNUJfeFkwNmJLN2NTcG80dTJ1ekNfQjZYZjJzR295N3VtUUg4SHlpRl9KMnpMc1NueDZFbUxZVTU?oc=5",
-          "published_at": "2026-11-13T23:55:00+00:00"
+          "title": "이형일, 경제현안간담회…관계부처와 물가 관리방안 논의 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bFlvdmx3bEtDd3Z2Z0tiZ2pPd1VHRWVUbmVXc2tiSHNpOHVrWVJ2TzZDelNON2lGQXpsa0VfcXlHcU5Hc2d4aFNqeEdPeGVHMFdwdw?oc=5",
+          "published_at": "2026-11-15T09:58:03+00:00"
         },
         {
-          "title": "연준 ‘12월 금리 인상’ 베팅에…달러 가치, 지난해 5월 이후 최고｜Global Money Club - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SRjB3NlVrS0d3WklvbU12ZF9xU2RBTWhyR1FjV3ZlUUhOUkk5TVg3ajR1R1B3TWVWc0tmdHQ3c1VPYVNxOTVQSGVneE0zY3Rrb0Z2RGFrNVF5SmM?oc=5",
-          "published_at": "2026-11-13T17:28:55+00:00"
+          "title": "휴일에 머리 맞댄 경제팀…\"물가 관리방안 논의\" - m.edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1RONDhsdm9qd2U0cFhzUVQxZ2U1WlZFeVJnLUhlTG9yUU1tQTVuVXZIVVhXR0x5TDlCVm8xUFJCRExveVBFTjNPV0pKZ0RnejVEeVZXUXc5WGMwd2hQTFJBal9YaW5nbjY4N3AzLXJpb1d6dGhodTJHc3dXOU9GQw?oc=5",
+          "published_at": "2026-11-15T09:50:46+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "ICT",
+      "score": 105.19,
+      "articles": [
+        {
+          "title": "AI 특수에 반도체 수출 259% 폭증…ICT 수출 두 달째 700억달러 돌파 - www.sisaworld.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KQzhONUR6M2lrM0lHSnZ2RTNDSlM0WW5iM05pVmppOXUwUjR4OWt4ZHVOZEIzakNHM3lUMHZ6WDFORGJ1a0JMdlRhQjRVOTBVdll3UjVUM3hEc29CSEVRV1BLdjVXOWFGTlE?oc=5",
+          "published_at": "2026-11-15T10:12:01+00:00"
+        },
+        {
+          "title": "ICT산업 수출 700억달러 돌파… 반도체 훈풍 견인 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUFRrT25DNnVIMDdzc2lpcDZXcXpxZGJ1WExsYWZoSFlGTlU4ZDg1anBQMlpkcGZCMnNORXRvanROQmZUUmthamFQbmVHWmRaeE4xeERmUE9MQQ?oc=5",
+          "published_at": "2026-11-15T09:20:20+00:00"
+        },
+        {
+          "title": "한국 수출 10달러 중 6달러가 ICT···반도체 의존도 더 커졌다 - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uc2ExOFp6UkZuT2pCYlQ1NFg0Sk04OHJadG1MbDJRSVlyUVZRUnJjRnJuMThRTk0zbWplN2RVV3JuU0VlSGdJM3dDd2gxdWxETFRlNHJoS29KZ0I1R2lWdFZ5cEZES0ZVMUE?oc=5",
+          "published_at": "2026-11-15T08:00:00+00:00"
+        },
+        {
+          "title": "AI 특수에 ICT 수출 703억달러…증가율 202% '역대 최고' 기록 - 경북신문",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NdXlPSklBdi01amlwdXA0SHFnWkxsU1A3MW9ZRFRnVG1LNFVFcU4xM3AwSW9YczU3ZWxzSFh5cE54MVFpZFVrc3JnNG1VRmZUYVhqXzFqSWg?oc=5",
+          "published_at": "2026-11-15T06:41:36+00:00"
+        },
+        {
+          "title": "AI 산업 성장에 ICT 수출 703억달러…사상 첫 200% 증가율 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwY2lYR1RCaFlBOTB4S2lCVHBBeXBTZ0NOa3Q0OGJRYmUxc3VsTTZORHdrS1VWaW5XY1dZQVFwWjl1ZUQ0VHdzeWhyQ2R3YmJQdHNVb0FPQU9kUdIBWEFVX3lxTE92WkJZUjROcWk2X1VaSGxyS2d0UE9lVTNQN1FrZUNtRDdqamp1VEg1NUQwN2tqM04tMVY3SEZjTmNhd1FITnpFVWtONkcyd2IwRlBJWWNVUmQ?oc=5",
+          "published_at": "2026-11-15T06:24:32+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "10월",
+      "score": 89.73,
+      "articles": [
+        {
+          "title": "10월 전월세 물가 1.4% 상승, 3년10개월 만에 가장 크게 올라 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xQTNmU2djVnJsZjVwNGNRcnZDclBVSEZWX3lQektvRmdENHpFZGxUN1VQcC1IT1l1elNYLXRSWlBCLW9NaFBtXzFMdThMckFzUUR2SWlVZlNiWDlScTlDSHBoMVc4ZF9PZlNsektSY2RITGc?oc=5",
+          "published_at": "2026-11-15T07:03:51+00:00"
+        },
+        {
+          "title": "10월 ICT 수출, 3배 UP '역대 최대 증가율'…703억달러, 반도체 효과 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMGdmWHh0ODRJUDJrcVgxdU1GUUJhd1YzX2N3SWxtMmMyXzd5RmxYUHZVTklFaGg1RmFRNXY5bDRjZmhQTktJS0tTSlI4Q2JFYkFMUkFMRGQzVHlqdk4zZWtNUEp6UDU1WEdUbThKeFQ?oc=5",
+          "published_at": "2026-11-15T05:59:12+00:00"
+        },
+        {
+          "title": "반도체 수요 급증에 ICT 수출 200%↑...10월 기준 사상 최대 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3a3A5a1Z4M3BOU2E1V0VIendkWVcwbDY5aDhXaDdyWHpoaEI3VUVqeDdNelBSNVdnSHVkZVZKbEFHTUJfMUVKQ1pOZDR5SFg0RDVvZlkzVnluMFlWWndmdw?oc=5",
+          "published_at": "2026-11-15T05:33:55+00:00"
+        },
+        {
+          "title": "미 10월 CPI 0.4%↑·근원 0.3%↑…12월 FOMC 인상폭 쟁점, 10년물 5.15% - ISSUE ON (이슈온)",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjRXVMdXNlV2ZxMXdmSEFPbHRhZEt4Sk5QQ3V2clZEcllyU3VaSmo5emFqd0o0d1VqdEhHYVowcXAyaDNJWWxLa1NCcWI1YkVOY0R0LTkwNk1ZeFlBUy1oZWh4M1ZyeWViRk9n?oc=5",
+          "published_at": "2026-11-15T05:20:52+00:00"
+        },
+        {
+          "title": "10월 전·월세 물가 1.4% ↑… 4년 만에 최대 상승 폭 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkdpQmNVU0VBU2JTZXJWWEZ4NkU5bG5NREVUdnhNanlRRkhDVThXdHNQVmhNcDhnaWhmU1U3R3BnZkJtWlFvZ3QwNXVGdTk4ZTQwQzJpOVgxNnhpTW41SWlTajVteWRIRlRBSVF0a3VSQXhaaVZ1TzRsSE92T29yNXBocXc0Z9IBmgFBVV95cUxOaVFQdkxBcW9tQnpnSXVZR3dHZ19xZ2V5RGk5VzZvOUJOZkZGaW5pR3NNaDdIcUljT1UtRVpYWm9sVGdKM0kwOFdidE11WE15T3A4RUsya18tNFQwNnFBc3QtWUY3aFBpLXIzR1hRTGMwYUFiaTMycV9IWmN2X0s0MzVRVk0ySTNEZUM1NjBOc2xrR0huMlZTZzBR?oc=5",
+          "published_at": "2026-11-15T04:57:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "만에",
+      "score": 65.3,
+      "articles": [
+        {
+          "title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6a3hleTlpWnM1YXNZWklSY2xVc3JuMWZKZ3lpQXhfQ1BHMkdkeWxHTENwY2JMTEpzLVJ4Y3llZzh2MFU1ajZHeUtBa0FZU0hKWXJ5WVBWTXRrUQ?oc=5",
+          "published_at": "2026-11-15T08:50:51+00:00"
+        },
+        {
+          "title": "10월 전월세 물가 1.4% 상승, 3년10개월 만에 가장 크게 올라 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xQTNmU2djVnJsZjVwNGNRcnZDclBVSEZWX3lQektvRmdENHpFZGxUN1VQcC1IT1l1elNYLXRSWlBCLW9NaFBtXzFMdThMckFzUUR2SWlVZlNiWDlScTlDSHBoMVc4ZF9PZlNsektSY2RITGc?oc=5",
+          "published_at": "2026-11-15T07:03:51+00:00"
+        },
+        {
+          "title": "[속보]전월세 물가 4년 만에 최대 상승…월세 상승률 13년 만 `최고치` - 매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tU2xxZ010YXpjZG5VanFNUGhmeTNiWDlfN016cGlMVlJrelUtX3R3WjlnZ0dRakJnam5KRVhHZS1ud3Z1aG5YaEJLTkZsZnlSLVJPRURSWEd0MVZucVduMEx3?oc=5",
+          "published_at": "2026-11-15T06:15:36+00:00"
+        },
+        {
+          "title": "10월 전·월세 물가 1.4% ↑… 4년 만에 최대 상승 폭 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkdpQmNVU0VBU2JTZXJWWEZ4NkU5bG5NREVUdnhNanlRRkhDVThXdHNQVmhNcDhnaWhmU1U3R3BnZkJtWlFvZ3QwNXVGdTk4ZTQwQzJpOVgxNnhpTW41SWlTajVteWRIRlRBSVF0a3VSQXhaaVZ1TzRsSE92T29yNXBocXc0Z9IBmgFBVV95cUxOaVFQdkxBcW9tQnpnSXVZR3dHZ19xZ2V5RGk5VzZvOUJOZkZGaW5pR3NNaDdIcUljT1UtRVpYWm9sVGdKM0kwOFdidE11WE15T3A4RUsya18tNFQwNnFBc3QtWUY3aFBpLXIzR1hRTGMwYUFiaTMycV9IWmN2X0s0MzVRVk0ySTNEZUM1NjBOc2xrR0huMlZTZzBR?oc=5",
+          "published_at": "2026-11-15T04:57:00+00:00"
+        },
+        {
+          "title": "전월세 물가 3년10개월 만에 최대 상승 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NcFI3U05Hbm14QXotWk5MWE1HZnRCR2JfZ1pYelp0NklsX0FSTUo5ZXNrem1KekhGNER3aDlNQUNDNHBtdnQydkZvUk94MTFnblBfcWVIcXdXYXFjb09aMA?oc=5",
+          "published_at": "2026-11-15T04:04:36+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "금리",
+      "score": 64.26,
+      "articles": [
+        {
+          "title": "[글로벌 매크로 레이더] 남아공 1월 금리 동결 확률 67%…하루 새 28%p 급등 - 코인리더스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41MnRUSFczUDlTZV96R2syYzlvVFBkLXpSTnFBenpsazlZV2RmRTJQMWtheVZHaEw2TW92YUtucng4VExWV2VNSlpB?oc=5",
+          "published_at": "2026-11-15T10:04:30+00:00"
+        },
+        {
+          "title": "\"10년 고정금리 주담대 만들라\"… 은행들 압박 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCeGpJUXN1VTlvRHNtcHAyX2RvQnlvSDdVSGZlZ0lsYTJITVB5ckVRcFVhcEVBd2JTMXd4emNHTzIxVGRpWHNqNzlxY0EzQkNGaU5fcWItRlNwdw?oc=5",
+          "published_at": "2026-11-15T09:54:44+00:00"
+        },
+        {
+          "title": "\"고정기간 길면 금리 높아져… 10년짜리 주담대 누가 받겠나\" - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQUm5TY1dqd21jZnBZUXpyZ0hobTFJMW5nVm10UFQ5RWFjWGw3UVp4VndmUE5VUnFwdTdwYzZvT3VNTGNVWGVXbDFqSlZIaWVoc3BzUmRBZk1pdw?oc=5",
+          "published_at": "2026-11-15T09:51:24+00:00"
+        },
+        {
+          "title": "[다산칼럼] 글로벌 고금리와 그림자금융 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UkF5YVlqWEJHX3J1ZjZjcGtYdndBaFo0YWd4QnBWSXkzbWRkVFJOeHhqN0VhYnQ1c2hENFdqYUpqekJ3ZnZjRjk4aVRVNV9tdHgtb2F4dkNNUQ?oc=5",
+          "published_at": "2026-11-15T08:59:36+00:00"
+        },
+        {
+          "title": "구미 청년 120명, 금리단길서 골목상권과 상생 소통 - www.hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CWnRCTzNmVm9zeTdjdFVJZGFORDdGZ3BKYk45cHlDNHNmUDhBbFdCdnk0T1JoTHd1N3lkTEVibFFrNk1PSy1reldoNzZjMzVqV09lZWZMQTRxRUdINmtybl9XeW5NdDNyYlE?oc=5",
+          "published_at": "2026-11-15T08:54:58+00:00"
         }
       ]
     }
