@@ -1,303 +1,303 @@
 {
-  "generated_at": "2026-11-16T10:34:22.675037+00:00",
+  "generated_at": "2026-11-17T11:26:20.811825+00:00",
   "source_count": 4,
   "article_count": 388,
   "top_keywords": [
     {
       "keyword": "수출",
-      "score": 338.71
+      "score": 317.86
     },
     {
       "keyword": "금리",
-      "score": 167.97
+      "score": 154.3
     },
     {
       "keyword": "달러",
-      "score": 149.86
+      "score": 146.56
     },
     {
-      "keyword": "10월",
-      "score": 125.85
-    },
-    {
-      "keyword": "주담대",
-      "score": 92.2
-    },
-    {
-      "keyword": "머니투데이",
-      "score": 83.63
-    },
-    {
-      "keyword": "한국경제",
-      "score": 75.72
+      "keyword": "연합뉴스",
+      "score": 81.96
     },
     {
       "keyword": "환율",
-      "score": 73.6
+      "score": 69.1
     },
     {
-      "keyword": "코픽스",
-      "score": 71.83
+      "keyword": "연합인포맥스",
+      "score": 67.43
     },
     {
-      "keyword": "최고",
-      "score": 67.19
+      "keyword": "한국경제",
+      "score": 66.02
     },
     {
-      "keyword": "확대",
-      "score": 59.89
+      "keyword": "내년",
+      "score": 59.56
     },
     {
-      "keyword": "돌파",
-      "score": 55.51
+      "keyword": "1조달러",
+      "score": 59.1
+    },
+    {
+      "keyword": "인상",
+      "score": 54.74
+    },
+    {
+      "keyword": "논의",
+      "score": 48.72
+    },
+    {
+      "keyword": "10월",
+      "score": 46.2
     }
   ],
   "hot_topics": [
     {
       "keyword": "수출",
-      "score": 338.71,
+      "score": 317.86,
       "articles": [
         {
-          "title": "[데일리 경제 분석] (1월 16일) 반도체 호황이 키운 격차, 수출의 속도와 자본의 규칙을 다시 묻다 - 미디어피아",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02a09haG5SbzVPdEZwbDh2c1VEeklMdlU2TEszNkNqdm43RTRUOERVNkoxUlEwdTlGeWJIS0g0cWQ5U0ZBaXk1RmhpT05JZVViWHNieUdNUzdmNmdFallqM0V0UUtJR1lFS19PU3NR?oc=5",
-          "published_at": "2026-11-16T10:18:22+00:00"
+          "title": "경북 포도 수출, 10월까지 7294만 달러…전국의 80.5% 차지 - www.kyongbuk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aVWVZejFqbjdGVWtfc0ltZ2NmdHdORVFmS09HdGlRc0FGRlRnY0xha0RYdHJ1d2dDenJMcUVQVU1vbnkxUHA2anAyaUxIbFhOUGRqRUFLSXR5ZU9JeDVkY2Rlb3B2VlhPZDhoNHBMMA?oc=5",
+          "published_at": "2026-11-17T10:28:14+00:00"
         },
         {
-          "title": "경산 중소기업, 中·印서 8490만 달러 수출상담 - 경상매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CLTJfbE90M1kwT2ozMlNFc3dOMkNYaEExSVB1SzNtYVpwNmVCOW1CWWFTTXREbjlIQ0lYQ0FGejk5bVhIcVIzU0hTeXZSMVhmb2poY3JTYVNGVzNwY3ln?oc=5",
-          "published_at": "2026-11-16T10:12:46+00:00"
+          "title": "산업장관, 수출 1조달러 앞두고 인천신항 방문 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KV2x0cGI1Z25rbWZiOGl4VVZNLXpDQkRSSW5OTjQweGZmU2w4VXJiUzVjV2hBbFhlNjdYbm9PSGc3SlJBbDZVdVFpeUhiSnRTX1FoMkVlOEVzV0J1bF9KcV82RUs?oc=5",
+          "published_at": "2026-11-17T10:19:53+00:00"
         },
         {
-          "title": "포도 수출, 신선 농산물 사상 첫 1억 달러 돌파…FTA 피해품목이 역전됐다 - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45cWFJMUhacEx0WlhJaGxhbzdneTN1TWZDYlhhbUhoSXVSZHc4SjFwVDM5X3JQQ1NrVzlPYnhoYUtkb29pOTUyMXk1YXlCb19ZYXVFZ2RDY3hhV2lNekVLN1NxazJ1SWFKNHRScDZMdjU4b3ln?oc=5",
-          "published_at": "2026-11-16T10:09:39+00:00"
+          "title": "'수출 1조달러' 달성 앞두고 인천항 찾은 김정관 \"수출 관련 애로 적극 해소\" - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nWmtDNDVNOGVYYTZ5cUtlenp2bXJWTTBIQ0o2OEg1Ry16dUJQUGNESmxRZkpWV3Jyc0F6TllxNWlVUkZuRktNeDJuUXVmNXMyRzlvTThnNTBqeTN4akhXSw?oc=5",
+          "published_at": "2026-11-17T10:08:26+00:00"
         },
         {
-          "title": "경산시, 중국·인도서 8490만달러 수출 상담…중소기업 판로 개척 - www.kyongbuk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Qd0I3eWFNazRnd1JjZkJ6R1hkcUVHT2tyQ3U2YVh4X0hwSVc1ODhjSFJOZE52S1BGNWpKc3FQSm1NTzdRX0FVQW10U2R1WUVMbW9tNnpQOW0yTTZydGp6R1VPR2h2WW5YaW1oeXgxMA?oc=5",
-          "published_at": "2026-11-16T09:58:04+00:00"
+          "title": "산업장관 \"수출 1조달러 목전, 독·미·중 이어 네 번째 될 것\"(종합) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16aGRBenJYX3BNbnZFU2E5ajVBcEh1ZnNlT3lCMXlEWlF6UjhYam9yb2ZIdDl3QTJDalpLLXh0emllSTRicVFpUHJWQ1IzVnl0Z09MdV94WWx2TEEzbThHY2FsSlMtaTdmdzEwUDhlQ2w?oc=5",
+          "published_at": "2026-11-17T10:06:19+00:00"
         },
         {
-          "title": "전북 10월 수출 '고공행진'··· 전년 동월 대비 38.7% 급증 - 전라일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43am4xWEhXZlUxYS1fTDFuaWZhWVdXemxObDFzamV2a3hRcjJraGppd3pfSlctc2dCMGpLM1lPOU8yaFM3OG1JaW1TTk5aLVh3QWRoNlJSXzlyYzFFT2NTUy1QOFJ2aWtGeVlvTUdn0gFwQVVfeXFMT295bkhQOEd0T1ZxaHo2N3BIeG0xSTBPc29RS3h2UUN4bGw4YWRva3hGdU0xVWQ0V3hlSUJfdTVWbHh0M2ctMkRLbGhVWVBGNlEzYTNSeFR0dUgtLTA1QTBSZVBxX2o1TWVITzRRQTk0Sw?oc=5",
-          "published_at": "2026-11-16T09:44:09+00:00"
+          "title": "유럽 가스 선물 상승, 석유 수출 회복세가 선박 공격 우려 압도 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WcjRTdHhfM0cwOGJfTFVNT25LWFY5c0tqOWNBZDNXeUtqSy1ZcEVOdnowSDhVVGxRTG9ETXpqZF81Tk5yT08ydUhodTFTWjFhbHJUOVlkald2OWI3YmhzZzltbmZWblVFUXQ0aUxuVQ?oc=5",
+          "published_at": "2026-11-17T09:42:00+00:00"
         }
       ]
     },
     {
       "keyword": "금리",
-      "score": 167.97,
+      "score": 154.3,
       "articles": [
         {
-          "title": "주담대 변동금리 또 오른다...10월 코픽스 3.62% '2년8개월來 최고' - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNEVBUWcwU19FQ2o1em9zT0YtckE0bVk1OGVWQVFiQ09oS1J3SXRCWEQtbGdHUHhSWktnZWZHTzYzZm1KLTNOV0IyQmdqdVA2ejRLMVFIWmQ2ak44NWhQZ3lpWUltM2hSQXV4Nw?oc=5",
-          "published_at": "2026-11-16T10:03:21+00:00"
+          "title": "Citi, 코스피지수 하락에도 한국은행 두 차례 금리 인상 전망 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OcjdZSno4dS0tM3FwUTBkdDNnU2JCMFViTHpDQXljcnVnaGN1QWczWC04ak1QRkplSlNjOVg4TzFPbXM4THl6S3Bnamticl9xZnZScUE5WE5SUWFyWERmYmpjNl8tdm1nemM0dUFfemo?oc=5",
+          "published_at": "2026-11-17T10:57:00+00:00"
         },
         {
-          "title": "모건 스탠리, 2028년 ECB 금리 인하 전망…분트·길트 선호 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BWEdfVXRjcVY2eFVDaUZJbHhBV1p0NGlMWU1ILTNVZDM3WFNVanlfLWJva2paRDFoYmYxZVV5cTBjT0tXWW5jUTV6aFdKVTJzMzFiWXh6RUZlYkVHNFN3bVQzenZ0LW9xa1E?oc=5",
-          "published_at": "2026-11-16T08:56:00+00:00"
+          "title": "변동형 금리, 고정형 추월… 주담대 차주 셈법 ‘복잡’ - 세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBieDBaS0E1OWZHaHo5NXJKS0gzX0REc0RUZkk5UHF0ZHVOYnZKdEd4SHdnOG5uVjdXRThFUUVLMFpyb1BQNU5JQVVEaTNsaFRuSmVDVHpQMGXSAVRBVV95cUxQV1NMT3hsUHE2N0docUZ4aVdaZHJleHdmdUxlRXA3a2ZqNG41RWhpNWc0YzRnYllWeDVkMEd5cGthdThmS3dvSXBCSHpVUnFBekpFekw?oc=5",
+          "published_at": "2026-11-17T10:14:21+00:00"
         },
         {
-          "title": "[구민정의 크립토포커스] 비트코인, 7만달러 선 무너져…금리 공포 등 겹악재에 '흔들' - 매일경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQQWtLSjNkT0FJNVhVeEhVTnRUY0hkRXJPUm9tbkh1QV91Y05HazNQTWxJdjdlUVdZMVp0WVN4elc1c0liOUNaUXdHRE5nNU04RUlPNVJ6bnpTMTVTYXF2d3RrOXpoMEZT?oc=5",
-          "published_at": "2026-11-16T08:50:00+00:00"
+          "title": "美고금리에…금, 1년만에 최저치·비트코인, 최고가 반토막 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsNjRlT0NrQlFKeG1LMjNiQkVpVGNQejl2dnZKWDhtSVdzcTZoQU5kMHZ0VHZweHdNemVJTUJmcXRzczl4OXY5d3RfZG9FMkhMWkZhOFFrMzNudzJrT1hHQnJjMm1TMGZyUGs3YkloVzAyeWc?oc=5",
+          "published_at": "2026-11-17T10:07:50+00:00"
         },
         {
-          "title": "롯데손보, 3분기 순손실 937억…금리·환율변동 따른 투자손실 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3OThRcUtTOFY2bGlna0RyS1VSVi1sZ1kxaHRxa3BOMlAxOWZXb3ExbFhMd0JuajduMDhfbnJMYkVqeFdvVXRUeDR3WUR5MDF6Z01NM2ZaMEcwNVRCUmNDTw?oc=5",
-          "published_at": "2026-11-16T08:49:43+00:00"
+          "title": "[채권-마감] 금리 하락…코스피 4천선 후퇴에 안전자산 선호 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XNU9TdXloODFJdlFVVVkwMTdkVVdCVndKWEJmMzRBNWRNRThVNW1YTjVTaUpFWXJwOXlRc1ZGWHZKOE1nSG12NXBGQWpTbjZuY1F4dHN4Ry0wNWxOMzVPQlVaQUIyOGt0c2dsYkNMWjc?oc=5",
+          "published_at": "2026-11-17T09:58:05+00:00"
         },
         {
-          "title": "금리 뛰고 소비는 둔화…카드사 사실상 역성장 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uQjlra3d6N0hKTk9Xb1ZMaXIydlh2Tl9Ia3FyUW1Ea0ZEUlNpT2pJR2U5U3YxNm1yQnUwUTZ6ZEVHd19HUjdaQlNBTWtFTGN2UW9hcFRCSVkyQQ?oc=5",
-          "published_at": "2026-11-16T08:49:29+00:00"
+          "title": "기준금리는 누가, 어떻게 정할까: 금융통화위원회 한 장 정리 - 네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3FLSEJmTlgyM20yQVNSNzRvLUhMOGFFTEE4dEl2enh1WUVXc1dNNWhSUU5zckZHRnFNWFNuQmZaRGtHYk5sZkNnY2lXQzhVcG5FcnJRakdBRmxtYUdrQ1F0Y0xzZVR6eGlQRjQwbzVqUURiNHhBWmJOdTRGTUlUYXBfZlVDTkF4Qi1jTTFqSDRjV3hwV0tjcElOSQ?oc=5",
+          "published_at": "2026-11-17T09:25:39+00:00"
         }
       ]
     },
     {
       "keyword": "달러",
-      "score": 149.86,
+      "score": 146.56,
       "articles": [
         {
-          "title": "경산 중소기업, 中·印서 8490만 달러 수출상담 - 경상매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CLTJfbE90M1kwT2ozMlNFc3dOMkNYaEExSVB1SzNtYVpwNmVCOW1CWWFTTXREbjlIQ0lYQ0FGejk5bVhIcVIzU0hTeXZSMVhmb2poY3JTYVNGVzNwY3ln?oc=5",
-          "published_at": "2026-11-16T10:12:46+00:00"
+          "title": "경북 포도 수출, 10월까지 7294만 달러…전국의 80.5% 차지 - www.kyongbuk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aVWVZejFqbjdGVWtfc0ltZ2NmdHdORVFmS09HdGlRc0FGRlRnY0xha0RYdHJ1d2dDenJMcUVQVU1vbnkxUHA2anAyaUxIbFhOUGRqRUFLSXR5ZU9JeDVkY2Rlb3B2VlhPZDhoNHBMMA?oc=5",
+          "published_at": "2026-11-17T10:28:14+00:00"
         },
         {
-          "title": "포도 수출, 신선 농산물 사상 첫 1억 달러 돌파…FTA 피해품목이 역전됐다 - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45cWFJMUhacEx0WlhJaGxhbzdneTN1TWZDYlhhbUhoSXVSZHc4SjFwVDM5X3JQQ1NrVzlPYnhoYUtkb29pOTUyMXk1YXlCb19ZYXVFZ2RDY3hhV2lNekVLN1NxazJ1SWFKNHRScDZMdjU4b3ln?oc=5",
-          "published_at": "2026-11-16T10:09:39+00:00"
+          "title": "산업장관, 수출 1조달러 앞두고 인천신항 방문 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KV2x0cGI1Z25rbWZiOGl4VVZNLXpDQkRSSW5OTjQweGZmU2w4VXJiUzVjV2hBbFhlNjdYbm9PSGc3SlJBbDZVdVFpeUhiSnRTX1FoMkVlOEVzV0J1bF9KcV82RUs?oc=5",
+          "published_at": "2026-11-17T10:19:53+00:00"
         },
         {
-          "title": "경산시, 중국·인도서 8490만달러 수출 상담…중소기업 판로 개척 - www.kyongbuk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Qd0I3eWFNazRnd1JjZkJ6R1hkcUVHT2tyQ3U2YVh4X0hwSVc1ODhjSFJOZE52S1BGNWpKc3FQSm1NTzdRX0FVQW10U2R1WUVMbW9tNnpQOW0yTTZydGp6R1VPR2h2WW5YaW1oeXgxMA?oc=5",
-          "published_at": "2026-11-16T09:58:04+00:00"
+          "title": "'수출 1조달러' 달성 앞두고 인천항 찾은 김정관 \"수출 관련 애로 적극 해소\" - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nWmtDNDVNOGVYYTZ5cUtlenp2bXJWTTBIQ0o2OEg1Ry16dUJQUGNESmxRZkpWV3Jyc0F6TllxNWlVUkZuRktNeDJuUXVmNXMyRzlvTThnNTBqeTN4akhXSw?oc=5",
+          "published_at": "2026-11-17T10:08:26+00:00"
         },
         {
-          "title": "10월 자동차 수출 65억5000만달러...친환경차 40억달러 - 도농라이프타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rNDg3cmxHTE9PNGQxZHN4YXdWU3VKbUxVYThvRnF2cW9Ia2lQYWtSbDhCaml5YkhCdThCS0RJc3VGM01ra0lvNGVmcllyOWNQY1JsdHJWTG5XZVQyS1VQbHlXVkhfOFBScGFWTw?oc=5",
-          "published_at": "2026-11-16T09:26:29+00:00"
-        },
-        {
-          "title": "국산 포도 수출 1억달러 돌파…신선농산물 단일 품목 최초 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TdlpvY1FXYkx4alc2Ny1sNWNSd1VyQ1g1TkVMV1EwYlN2Ukh2aXd1TWlCeWlhN2ZndWFQTzk2UTgtTnltWE1NaHRtY0JOR0Z5S1ZkeHlLTExCeTRCUExlaXA3U0JsSTNOeVd30gFwQVVfeXFMTlBBc1Q3R19UWUVkbTlRMUNPNEFLX1FvTGN1TUt6azYyWUVDYjJCZngzV0ZDT3ZYbE04QWJxQzhDRHIyWEQ5c2NmQUJkMDd6eHZmN3lSVUxGdFlNd2IzNUpESmdEa29rN2MwVExfWHd2Yg?oc=5",
-          "published_at": "2026-11-16T09:18:29+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "10월",
-      "score": 125.85,
-      "articles": [
-        {
-          "title": "주담대 변동금리 또 오른다...10월 코픽스 3.62% '2년8개월來 최고' - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNEVBUWcwU19FQ2o1em9zT0YtckE0bVk1OGVWQVFiQ09oS1J3SXRCWEQtbGdHUHhSWktnZWZHTzYzZm1KLTNOV0IyQmdqdVA2ejRLMVFIWmQ2ak44NWhQZ3lpWUltM2hSQXV4Nw?oc=5",
-          "published_at": "2026-11-16T10:03:21+00:00"
-        },
-        {
-          "title": "전북 10월 수출 '고공행진'··· 전년 동월 대비 38.7% 급증 - 전라일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43am4xWEhXZlUxYS1fTDFuaWZhWVdXemxObDFzamV2a3hRcjJraGppd3pfSlctc2dCMGpLM1lPOU8yaFM3OG1JaW1TTk5aLVh3QWRoNlJSXzlyYzFFT2NTUy1QOFJ2aWtGeVlvTUdn0gFwQVVfeXFMT295bkhQOEd0T1ZxaHo2N3BIeG0xSTBPc29RS3h2UUN4bGw4YWRva3hGdU0xVWQ0V3hlSUJfdTVWbHh0M2ctMkRLbGhVWVBGNlEzYTNSeFR0dUgtLTA1QTBSZVBxX2o1TWVITzRRQTk0Sw?oc=5",
-          "published_at": "2026-11-16T09:44:09+00:00"
-        },
-        {
-          "title": "10월 수출 93.9% 급증…의류 수입, 수출의 7배 달해 - 한국섬유신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByS1BDZHhQODNLLU5tbzBIczVZdHZEbGlqRmxpaHMzSk1LUm03Vk1keWFkMTRQaGpJOFAzRG1UVjZNMHhreklZcERXSmdMdGw2dmt5UUlGSWtEdC1CcUtZT0hpUDV6Rnc?oc=5",
-          "published_at": "2026-11-16T09:36:37+00:00"
-        },
-        {
-          "title": "10월 자동차 수출 65억5000만달러...친환경차 40억달러 - 도농라이프타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rNDg3cmxHTE9PNGQxZHN4YXdWU3VKbUxVYThvRnF2cW9Ia2lQYWtSbDhCaml5YkhCdThCS0RJc3VGM01ra0lvNGVmcllyOWNQY1JsdHJWTG5XZVQyS1VQbHlXVkhfOFBScGFWTw?oc=5",
-          "published_at": "2026-11-16T09:26:29+00:00"
-        },
-        {
-          "title": "경남, 10월 무역수지 18억달러 흑자... 승용차·무기류 수출 증가 - 경남뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SY2dYalE3LVltWUcwNGxtR3BCQTUzeEVmSGprY3U4emJkSEU2ZndnZTQteXpDbmVWZTYtbDM5allMTk9NVUk2S3lsLXUxV1F2THhXS20wTEF3MVRPeVBsSzEtQ1MtVUlN?oc=5",
-          "published_at": "2026-11-16T08:45:40+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "주담대",
-      "score": 92.2,
-      "articles": [
-        {
-          "title": "주담대 변동금리 또 오른다...10월 코픽스 3.62% '2년8개월來 최고' - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNEVBUWcwU19FQ2o1em9zT0YtckE0bVk1OGVWQVFiQ09oS1J3SXRCWEQtbGdHUHhSWktnZWZHTzYzZm1KLTNOV0IyQmdqdVA2ejRLMVFIWmQ2ak44NWhQZ3lpWUltM2hSQXV4Nw?oc=5",
-          "published_at": "2026-11-16T10:03:21+00:00"
-        },
-        {
-          "title": "’주담대 변동금리 기준’ 코픽스, 2년 8개월 만에 최고 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnd1c1SlNqVGRGb1owdHdHTGxoWXphcmdlYXBLMG1makdUejMxQ1oyWU41YWpJZUN4VGlzMnJCSlJMdFZCU21hSC1UWEJ1Umk3OWRoTjhwZ1J4TkRvOWRfb1YxbmpNZlU?oc=5",
-          "published_at": "2026-11-16T08:13:00+00:00"
-        },
-        {
-          "title": "주담대 금리 또 오른다…코픽스 3.62%로 2년 8개월 만에 최고 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQUEpXd2NrbWI2OVFfTUlOUk5CTkxwUWJZMWMxSzFvaWI5eFQ2bk52YlM1Qk9zQVFidVJTYV9EX2tPQlh3TEJSTUFaSU95OW03WUd5OGRhcE9LYjBaN0trcnJGazBfMnNfRGxZc1ZPWUVscVJlWlHSAWZBVV95cUxPT3ZxYklSLS0wX0FkZWxyYUwwUFJ3RFh5UlJUUExIcll2MThFMHhzdmZGVVExVHdtZnZ6OHo5eUVlNlRoUk9sYUJaYnNGUkhCR1lPV0VreW1wdzZhX2sxRHNLNjROV3c?oc=5",
-          "published_at": "2026-11-16T07:48:00+00:00"
-        },
-        {
-          "title": "주담대 변동형, 고정형 추월한 '금리역전'에···차주 대출셈법 '복잡' - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXNVNmLV9mS1Z6Zms1WUdFa0NZc280LUJIeDVOSTlGalNCTWFjOXUyN01kY05YLVNnMXFUVG9XUmx6clpaUWcyNnRZdWdpajQxQ3NOQjRyUXVOWEZrRUQzZTFCSjFtM3NfNEE?oc=5",
-          "published_at": "2026-11-16T07:47:14+00:00"
-        },
-        {
-          "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51% - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrbERUVXRmYm9Pdl9HVko2dFhqZ2dlMkUtd1JHakdKS2FjNF95LTY3MFptbnBhbzlDQ29ibWF1d3p6VDk0aTZnc3RJLWlFeFhxTHJHMXYxTGpIZ9IBX0FVX3lxTE9rZWo0VXpQVTBYaTQ1V2ZqMDhnWE9EQlpuMm9lT25QSi11aWdaSjhmaTJNVkFrWko5ci1iWmpDTjlWTXJibC05ZUhZN2sxOGp1VmRPeldBS1VsUmVTRFRZ?oc=5",
-          "published_at": "2026-11-16T07:46:00+00:00"
-        }
-      ]
-    },
-    {
-      "keyword": "머니투데이",
-      "score": 83.63,
-      "articles": [
-        {
-          "title": "국산 포도 수출 1억달러 돌파…신선농산물 단일 품목 최초 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TdlpvY1FXYkx4alc2Ny1sNWNSd1VyQ1g1TkVMV1EwYlN2Ukh2aXd1TWlCeWlhN2ZndWFQTzk2UTgtTnltWE1NaHRtY0JOR0Z5S1ZkeHlLTExCeTRCUExlaXA3U0JsSTNOeVd30gFwQVVfeXFMTlBBc1Q3R19UWUVkbTlRMUNPNEFLX1FvTGN1TUt6azYyWUVDYjJCZngzV0ZDT3ZYbE04QWJxQzhDRHIyWEQ5c2NmQUJkMDd6eHZmN3lSVUxGdFlNd2IzNUpESmdEa29rN2MwVExfWHd2Yg?oc=5",
-          "published_at": "2026-11-16T09:18:29+00:00"
+          "title": "산업장관 \"수출 1조달러 목전, 독·미·중 이어 네 번째 될 것\"(종합) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16aGRBenJYX3BNbnZFU2E5ajVBcEh1ZnNlT3lCMXlEWlF6UjhYam9yb2ZIdDl3QTJDalpLLXh0emllSTRicVFpUHJWQ1IzVnl0Z09MdV94WWx2TEEzbThHY2FsSlMtaTdmdzEwUDhlQ2w?oc=5",
+          "published_at": "2026-11-17T10:06:19+00:00"
         },
         {
           "title": "코스피 하락·달러 강세에도…원/달러 환율 하락하는 이유 - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lNHV2OUt6QnJJeFVtZmhsUnJzRWNqVmRFbkQyQUVOWHQ5Nkp0NG5sZ04xUW84ZUZqeDkwMlJ2VHJwcmtxeTR4REExcGFsbGs0blh2WF84TTRONklXdnZsMmpiSFphNmhSNHY40gFwQVVfeXFMUDBBVmhRSzhjYUhJTDgxaDF5Zl9BOGZrQ05XZlZ5Y3ZjTmt4NlBnLW1EM1hQbEFpdjFydllCeC1lTWdxMDNzcVdCRW5mZGJoNFJJWl9uZ1Q1RThORUsxWmI0bjY5Tkt3TWg1MlZSdk82Tw?oc=5",
-          "published_at": "2026-11-16T08:35:39+00:00"
-        },
-        {
-          "title": "아세안과 '경제·안보' 협력 확대…FTA·AI·방산 협력 지평 넓힌다 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBka21Wdnhza0VRenpETlkxeGw2Ulp4bnM2ek5xOFk2RmRjeXZ0enZBRlpMRU95SGxvRHNLNldzRjlrUGpXUThsWEpyS0tsYm5oakFPX1YyYzFTSlFfWWRzNXV4NDhZZll5VENUc9IBckFVX3lxTFA4VmpxT0VaWi11UVRJQVhpQUJBenJWTVEyRFBYYnNOU3JOdk5JTVcyd29vQnl3R2VkcVRoSWxQdk9ISllPWFZkVUE2U2JSODRCVkVoV0U0Q0ZuMzh0eDRqZzliNi1WYzF2TTZNWkFIVnZFZw?oc=5",
-          "published_at": "2026-11-16T08:03:59+00:00"
-        },
-        {
-          "title": "\"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83d1ExSG5fMXd0Q3kwTXE1emVzcmFIcmpDSmZoUTU3cUlOZTA2VjNGX3UtaENQQ09Wc2xHOVRGdHI5VG9LRklkLWJob0pJTW1RU0RPbVhGZmp2Ny1uenBWRzJZV1RGQTFXWE9GM0ZiOXFKT09GTXFIZ9IBfkFVX3lxTE16c2U2OHVfYzl6WlVhdndrRkxhdmtGOEF5enVkeU1VSWRNbHhaLV9ZUG10bkotSlNqdVEyZEFLSGM3ZVR5dDB4eFVuS3VMdUhRV1FYTVJULVVHQzlIMC1jOXlQWDNlQ1Mza2NNSHB0cDlIemZnd3YwQi1kdVdzZw?oc=5",
-          "published_at": "2026-11-16T07:44:09+00:00"
-        },
-        {
-          "title": "이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90aF9iR3lvVjBiQjRPa2tMMEREV3FpNjJZZGJJOEFuN2ItR3ZaNHVhQXhjTWRiNGtIYzVwajV1UXg0VTRDUWhZYXdMSlI2alhrcjI4Yk0xTzJ2ODdtVzhpMWIwbnJrMWIyck1J0gFwQVVfeXFMT0ZqbEIyOGxTdjI5SHN3ck9zU1A4aWJUaENqSmZNTklDMlNOVDZWWU1ONlI5dGhCNUZqUElpT19pLXp2Tl9VeUtmQlFOQ2p6VTdISWNIV1Ztd1dLcnpZSVV3RlViNkcyS3pPdWx4NkNoTQ?oc=5",
-          "published_at": "2026-11-16T07:31:21+00:00"
+          "published_at": "2026-11-17T09:46:22+00:00"
         }
       ]
     },
     {
-      "keyword": "한국경제",
-      "score": 75.72,
+      "keyword": "연합뉴스",
+      "score": 81.96,
       "articles": [
         {
-          "title": "대기업·中企 모두 대출 연체율 '역대급' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vTXZZYnhGM0Q4cEJUbTJ5aExrNldyVUhTUjR2WUozaVRLYkNvTmI5bjlJbXRFNlBaemExTzJmSEd2T3J5QnlUbmU3NHVZRGpEaldVb1pkZkQ4UQ?oc=5",
-          "published_at": "2026-11-16T09:04:09+00:00"
+          "title": "아세안, 한일 등 정상과 중동전쟁발 위기대응·경제회복력 논의 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xSjhoclc2VDZmOVc4b0VHdG1XS0EyaHlNNDVIY0huU0JSaTktRUFVX29oeFp6dEdWTUlKcnFtZUVBelVtM29JZGhHT3J2T2RoSXotREFvY3dvRjDSAWBBVV95cUxNOGt5OWRhRFdTX0ZJS3hiSm01NEVqMVo5cnVHT19weklPTnZieEFBNENCMXVkeVNvZXB1Y0pOSEY4MlA4bENZZ3hrYWZGT3hid3otZ09oTGdvMnMtUVJ1YWo?oc=5",
+          "published_at": "2026-11-17T09:31:07+00:00"
         },
         {
-          "title": "김정남 대표, 사람 살리는 금융 캠페인 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yS3NndFJ4VDVfdkh0N1RxYlhNcHNEbXNpZ1ZpQTBtc1N5RTE4VnAwUnJtOTB3OUlfeU5wM0g2Tm10YjN4Z05iNnp6bFkxMzd1WkRpUmJUakJmUQ?oc=5",
-          "published_at": "2026-11-16T09:01:01+00:00"
+          "title": "울산 10월 수출 55.7%↑…석유제품·자동차 등 주요 품목 호조 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRUgwMUF2emRKTjRIYkFnVERwZFJJRG1tTVRscndFNld0OS1OMWdaOGZWTUdxRXVwRGVxbGp2RlNGTC1BVjljcHVzRHVyOGZENmgzaDhSZ1JUTkXSAWBBVV95cUxPVEU0LVNzNlAtV3Z6RUZmSWtNNENWOGN2UXJyWmVQMURZSmU5bHZaMHRhTmhpOW5RQVdBcnVBQ2xuMXAzWXJzMlY5M0xoVGN5MHRjMUN6TTZZbjZhOFJscXk?oc=5",
+          "published_at": "2026-11-17T09:11:12+00:00"
         },
         {
-          "title": "금리 뛰고 소비는 둔화…카드사 사실상 역성장 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uQjlra3d6N0hKTk9Xb1ZMaXIydlh2Tl9Ia3FyUW1Ea0ZEUlNpT2pJR2U5U3YxNm1yQnUwUTZ6ZEVHd19HUjdaQlNBTWtFTGN2UW9hcFRCSVkyQQ?oc=5",
-          "published_at": "2026-11-16T08:49:29+00:00"
+          "title": "수출 1조달러 돌파 전망 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iR3VzaFMtbDRGUmVwT2E1a3hPQmlEQTc0VTJJNHU4Q3BNRFdDaE56UXJYN2VCVXliVnZPbGxhZTc3clVlcGhCRHl5cXp2eWQyMWRrX3c4XzhlczRBNWxjRXhVcmlOWE9PMXd1SEdGRUZkNVU5?oc=5",
+          "published_at": "2026-11-17T08:06:06+00:00"
         },
         {
-          "title": "\"보험사 부실 막으려면 극단적 재난까지 가정해야\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54eThmYmE2cjZVNjZmQnI0TFNmUGJpNHloYWUwM3ZETjBrOUhnOWxrQTdEVnBDWXFkZUktSzhYZzNDUnExNzRGWHh0YnczT1dBc3FscjhZSmhZUQ?oc=5",
-          "published_at": "2026-11-16T08:48:00+00:00"
+          "title": "국고채 금리 혼조…5천피 내준 코스피 vs 외인 선물 매도(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Fa0tlSXpzem1fcGhrWDZRT1F5UzlBT3V5bWxETUg2RXNUWWVSQVN6TW5tTDM4b01iSGZ5UDN3WVJjSHV2a21UZUpVRXpScWY2X0FOMVh5eGlXX0U?oc=5",
+          "published_at": "2026-11-17T07:52:43+00:00"
         },
         {
-          "title": "[단독] GST \"차세대 냉각장비, 내년 빅테크에 공급\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wS2RPQnUydXQ3NTdCMDJ3YXRVcHc2akVGbTY5bWJ4dEREamlCTE1hWHZPRDlNSXBMSC1QRkVCY2RtSUxkakl1aDZyYWhKdnpMMlFjTGg2ZzFoZw?oc=5",
-          "published_at": "2026-11-16T08:44:38+00:00"
+          "title": "산업부 장관, 수출 1조달러 앞두고 인천신항 방문 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FelNNZWpCNHhIWGFSTEVHVHZmNHZzWEFkNWJPSjBPbGt2aGxveUdRa2hRb2R0cXBERTRjQnBnVmszNmJtZnpXelZQdHFzZVhfaHZEMlM2TXV6aEtlNklKb3hPYlhzbTFxS25qLTFhUFhWRENB?oc=5",
+          "published_at": "2026-11-17T07:37:23+00:00"
         }
       ]
     },
     {
       "keyword": "환율",
-      "score": 73.6,
+      "score": 69.1,
       "articles": [
         {
-          "title": "롯데손보, 3분기 순손실 937억…금리·환율변동 따른 투자손실 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3OThRcUtTOFY2bGlna0RyS1VSVi1sZ1kxaHRxa3BOMlAxOWZXb3ExbFhMd0JuajduMDhfbnJMYkVqeFdvVXRUeDR3WUR5MDF6Z01NM2ZaMEcwNVRCUmNDTw?oc=5",
-          "published_at": "2026-11-16T08:49:43+00:00"
-        },
-        {
-          "title": "롯데손보, 3분기 순손실 937억원…금리·환율변동에 투자손실 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aFhtTm5UMTN6ZnBPTlBIeWNPMFA1N2lHcWFvTG1qdk5qYjh2SWc1NjBvLUNxY0piZEs1QjdZdUxMNkpFWUZhNzdkR2dldU5kekN4ZnBhN3hhc0XSAWBBVV95cUxOT2N2ZjVfd1NqOUcxcDFkbWo4czdlQkIyWl9jTXp4U2xkMzU2ZXhYMy00Mng0UjkzdGtwVTRYc2lva1B1ZlZDMzRTcVVvck95NjNSRUxLY2w1Z0lpa1QwTkw?oc=5",
-          "published_at": "2026-11-16T08:41:15+00:00"
+          "title": "1300원대로 내려온 환율…유통업계 연말 전략 엇갈려 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9URGlDeDlrdGhVUWpKTlhqS0ZsQ0hNT3FidHhsTFo4MG5RbXh2UFNSSDFzOVFGaHh4MnFOVnNuSHdpaXhfR1c0RGNLa1dZbGl2YkwyV2JwWXZHdkFzdVNTZDFKRDhKZm5S?oc=5",
+          "published_at": "2026-11-17T10:19:00+00:00"
         },
         {
           "title": "코스피 하락·달러 강세에도…원/달러 환율 하락하는 이유 - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lNHV2OUt6QnJJeFVtZmhsUnJzRWNqVmRFbkQyQUVOWHQ5Nkp0NG5sZ04xUW84ZUZqeDkwMlJ2VHJwcmtxeTR4REExcGFsbGs0blh2WF84TTRONklXdnZsMmpiSFphNmhSNHY40gFwQVVfeXFMUDBBVmhRSzhjYUhJTDgxaDF5Zl9BOGZrQ05XZlZ5Y3ZjTmt4NlBnLW1EM1hQbEFpdjFydllCeC1lTWdxMDNzcVdCRW5mZGJoNFJJWl9uZ1Q1RThORUsxWmI0bjY5Tkt3TWg1MlZSdk82Tw?oc=5",
-          "published_at": "2026-11-16T08:35:39+00:00"
+          "published_at": "2026-11-17T09:46:22+00:00"
+        },
+        {
+          "title": "베트남 중앙환율 달러당 25,652동 사상 최고…5거래일 연속 상승 - 굿모닝베트남미디어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54ZDlOTDFyb29TMl9TSFlyWHhiX1AwVW5NOVJ1UkVEUHJMR1daRm5FZFVpTHE4cnBpZ2VFVWVkNnZMX1hmaElieHI5NzFvbVpkcnExVmZ6RUZBM3FBYnAxMDljcWpSU2hzSFBoVmRhNDM?oc=5",
+          "published_at": "2026-11-17T09:01:30+00:00"
         },
         {
           "title": "[표] 외국환율고시표 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhYm8yaEVaVi1UelhrNzItN3NoU00tcXhtcElYTjBralRoTWkxU3poSFVmMWtqNDFjVm1DQWRkWHoxVTl4U05ZVU13X1dnLWNRTkE?oc=5",
-          "published_at": "2026-11-16T08:21:03+00:00"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tR1A0d2VaenRITUUyNzBuUUFJWkhhTUtuY2hiaE1rcHNFak9lNWFuaW91NGZ4ckwyVkNPYXhkZ1c5NEJIUC1FSDZPTVpjZ0FvQVE?oc=5",
+          "published_at": "2026-11-17T08:43:42+00:00"
         },
         {
-          "title": "★국제금융시장의 이해와 달러/원 환율 동향 특강 (12/15, 선착순) - 한국무역협회-KITA.NET",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmlBYUVwY0VvV2tVOGdjS3dQX1ltSDY3cm5WaVo5aDVCSEFzQzBxaUkyLXpvLV9iaGxmV01Pa3FtZ1ZmR3dxZ0huU3hWYk5GSVltOVBUOFhqZTFnNXZJM0lRSmpRakNTeWplWFNiTGQ2ZmpLOVJnSjl0SFZmVEtqVXJGNTRyQjBLM3hCdk5tSFRBM1RkdFRjRnJVcHVEcWRaa215Z3hDS2dabEZjRDVhTnZBbUNIcmhUV3ZSOHg5dw?oc=5",
-          "published_at": "2026-11-16T08:15:00+00:00"
+          "title": "원·달러 환율 2.50원 오른 1338.2원 마감...외국인 1.6조원 투매에 '흔들' - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uNnc1dlkzS2lSRVVZVmdwVndzT0xoWlpEWS1MSEJFeEpYTmcyeWxXTzh4STJzTHpjdXJoaFdubWpVVHFiRmV3SGNWdlVUMjdyejAxMFFESTNjcWpEME40?oc=5",
+          "published_at": "2026-11-17T07:06:02+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "연합인포맥스",
+      "score": 67.43,
+      "articles": [
+        {
+          "title": "산업장관 \"수출 1조달러 목전, 독·미·중 이어 네 번째 될 것\"(종합) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16aGRBenJYX3BNbnZFU2E5ajVBcEh1ZnNlT3lCMXlEWlF6UjhYam9yb2ZIdDl3QTJDalpLLXh0emllSTRicVFpUHJWQ1IzVnl0Z09MdV94WWx2TEEzbThHY2FsSlMtaTdmdzEwUDhlQ2w?oc=5",
+          "published_at": "2026-11-17T10:06:19+00:00"
+        },
+        {
+          "title": "[채권-마감] 금리 하락…코스피 4천선 후퇴에 안전자산 선호 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XNU9TdXloODFJdlFVVVkwMTdkVVdCVndKWEJmMzRBNWRNRThVNW1YTjVTaUpFWXJwOXlRc1ZGWHZKOE1nSG12NXBGQWpTbjZuY1F4dHN4Ry0wNWxOMzVPQlVaQUIyOGt0c2dsYkNMWjc?oc=5",
+          "published_at": "2026-11-17T09:58:05+00:00"
+        },
+        {
+          "title": "[도쿄증시-마감] 엔비디아 실적 앞두고 美 반도체 수출 규제에 AI·반도체주 ↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlNDNtaFlLR2N1WW0tRkM5d0JMaW5aRWVWc0NNS0d6UVF0TmxIWXNtQjN6UXhHUEh4ckZaWWlncERIaFpuekhtLVkteEZ2Sk9nZ0txU2NFS29WYlNrWkc5OXVkcldOZkp4OXIxSVVaNWU?oc=5",
+          "published_at": "2026-11-17T08:52:04+00:00"
+        },
+        {
+          "title": "JP모건 \"美경제, 내년 1.6% 성장…물가 2.3%·고용 흐림\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6SE12SGozWUQzV1h6UzdUMXFRRGZVTlZ4clBoVUlJUnVwbU9xRWcyajZtU0dPQjN4c2JKTktsOElsLW5WN2ptYmtvSGlMeHJDcW5zZnBPNE90X2dPUVdkY1F4SFhwMldSWWIyX1NwVjE?oc=5",
+          "published_at": "2026-11-17T07:09:12+00:00"
+        },
+        {
+          "title": "KIEP \"내년 달러-원 환율, 현재 수준에서 크게 떨어지긴 어려울 것\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95NktvTkF5WHVGNkNlVE12Q2RPN1JkYXA2NHJzS25RYXNEZlp4T1hkZldBZTQtMzRRNmlHai1HMDlvMVhQSVNDeUxhNmR6Z2I3NlpabS1iMDd6QUxlSUJqS1NXdlI4Wk5odzcxTm96MUw?oc=5",
+          "published_at": "2026-11-17T06:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "한국경제",
+      "score": 66.02,
+      "articles": [
+        {
+          "title": "[속보] 트럼프 \"김정은, 만남 원할 것…어떻게 될지 지켜보자\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDdVZmZExlWTFSbUZVSkpacGpyUnMteWktNmJoWWhkdkNYekcyTHNYUTJfZTJUcWNlb2JsNHBFenJyRmdUSFIyQVBLYVl2SXMzeF9xOFJ4M29idw?oc=5",
+          "published_at": "2026-11-17T11:07:55+00:00"
+        },
+        {
+          "title": "국민연금 상임감사에 이종렬 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PZUIxUTBLNUx1WHoyck1vMko1N1JDMjNtbGV3TTc5Z19UVUcxNGZLRmNFRkg2RW8tY2R0WDB1clRMeF8ydjZiY1duREkzWW12N1VTbkF6czVWZw?oc=5",
+          "published_at": "2026-11-17T09:19:03+00:00"
+        },
+        {
+          "title": "[포토] 2026 대한민국 ESG 경영혁신대상 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUE1ZOGV1MjlfdGozNkVJMHhCRUtWOWkxa1p3ck5PbDMtcXR4eXBNdEUyX1pYODhXcWR1VWoybzRpdlJ2MC14WkRGVC1FbHNicHJUOWYwQmpOZw?oc=5",
+          "published_at": "2026-11-17T09:16:05+00:00"
+        },
+        {
+          "title": "가게 문 닫기까지 17개월…폐업도 어려운 소상공인 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DLUVwQWcyTWZSWGRGUTJQVTVTQ2FBQ3pCZXBmSzB4cDQxc0pwaGl0T2VHaVZwY3hiejI3d094TDFtX1NWZVB2Yk5VOFBJckxRQ2dnVmYwcl9fZw?oc=5",
+          "published_at": "2026-11-17T09:00:48+00:00"
+        },
+        {
+          "title": "[포토] 외국인 관광객 첫 2000만명 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LVmZHWnlYOW54TG91TS1naG5ydmtIVTZvQURpbTkzOGR2SXI4LV94MkdGUjd1em5rcUNfS0lTRkNSSzJZREd0V2kwNU5Da0hBcE0wOFpzX0tqUQ?oc=5",
+          "published_at": "2026-11-17T08:58:22+00:00"
+        }
+      ]
+    },
+    {
+      "keyword": "내년",
+      "score": 59.56,
+      "articles": [
+        {
+          "title": "KIEP, 내년 세계경제 3.2% 성장 전망…AI 부자 검증과 비용 부담 변수로 꼽아 - 산업일보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WYmFOcGdwR3dKcVd3OV8zd0NqZHdqLXBlWG5QUTl0Y3F2ZG5rNzg5Y0ZmSFJFWERpeWJMSkRpUHRKWWE0?oc=5",
+          "published_at": "2026-11-17T09:46:54+00:00"
+        },
+        {
+          "title": "하반기 급락장 '구세주'로 등판…\"내년에 더 좋다\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nLUhoeE1GMGYwcTV2UGlNWEVEWDNVVTRUTlktSjhLek1PWi1pSzczaWpoMmFvYVpRUkl1Wk9wakFjbkNpTGJteXNubFhPaXNhX25nVFU5VkFGQQ?oc=5",
+          "published_at": "2026-11-17T07:18:39+00:00"
+        },
+        {
+          "title": "KIEP \"내년 세계경제 3.2%\" … AI 버블·재정 부담·통상 갈등 '3대 복병' - 뉴데일리 경제",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RMGVEeWFxeHVhbElNZDVhMlZWcHZKQmZhMldQNTREYUpfM1pSd1BnYUNpRURzTDJDRmVoOXN6VEc5UmN2MjNrSWV5VVczODBCdHB6TWs2M2g4d19iTWRsZ1BfQXZyRmdhYXNGV3ZBb1BQWVdGQ0V2Qzk4b9IBgAFBVV95cUxPdFVuNHVjVUw4UENMYzB1WEJCU05sX2lTQmtIbjExOWtZbjRpcXo1N1BMZ0cwQjlEMl9RdHZDMGFzMWNvUkdtSXREOVFuWXo5ZXI1WDI0a2tJRUpNV3EtN3RyUHRFRmtVZFhmWTFCY1dCY1ZaV245ak1NYkRTeW5qNg?oc=5",
+          "published_at": "2026-11-17T07:15:00+00:00"
+        },
+        {
+          "title": "JP모건 \"美경제, 내년 1.6% 성장…물가 2.3%·고용 흐림\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6SE12SGozWUQzV1h6UzdUMXFRRGZVTlZ4clBoVUlJUnVwbU9xRWcyajZtU0dPQjN4c2JKTktsOElsLW5WN2ptYmtvSGlMeHJDcW5zZnBPNE90X2dPUVdkY1F4SFhwMldSWWIyX1NwVjE?oc=5",
+          "published_at": "2026-11-17T07:09:12+00:00"
+        },
+        {
+          "title": "KIEP \"내년 달러-원 환율, 현재 수준에서 크게 떨어지긴 어려울 것\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95NktvTkF5WHVGNkNlVE12Q2RPN1JkYXA2NHJzS25RYXNEZlp4T1hkZldBZTQtMzRRNmlHai1HMDlvMVhQSVNDeUxhNmR6Z2I3NlpabS1iMDd6QUxlSUJqS1NXdlI4Wk5odzcxTm96MUw?oc=5",
+          "published_at": "2026-11-17T06:35:00+00:00"
         }
       ]
     }
